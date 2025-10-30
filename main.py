@@ -9,6 +9,7 @@ from typing import List, Dict, Any, Optional
 from urllib.parse import urljoin, urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
+import unicodedata
 
 import yaml
 from firecrawl import FirecrawlApp
@@ -28,6 +29,12 @@ CRAWLED_CACHE = OUTPUT_DIR / "crawled_urls.txt"
 CHECKPOINT_FILE = OUTPUT_DIR / "checkpoint.json"
 FAILED_URLS_FILE = OUTPUT_DIR / "failed_urls.jsonl"
 STATS_FILE = OUTPUT_DIR / "crawl_stats.json"
+
+# Cache for numbered document URLs mapping
+NUMBERED_DOCS_CACHE = {}
+# In-memory cache mirroring the file-backed crawled URLs cache. This is
+# used to avoid re-processing URLs discovered/saved during the same run.
+CRAWLED_URLS_SET = set()
 
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
@@ -208,6 +215,54 @@ def wait_for_firecrawl(max_retries: int = 30, delay: int = 10) -> bool:
     
     return False
 
+def slugify_vietnamese(text: str) -> str:
+    """
+    Convert Vietnamese text with diacritics to lowercase ASCII with hyphens.
+    Example: "Quyết định về việc" -> "quyet-dinh-ve-viec"
+    """
+    # Vietnamese character mapping
+    vietnamese_map = {
+        'à': 'a', 'á': 'a', 'ả': 'a', 'ã': 'a', 'ạ': 'a',
+        'ă': 'a', 'ằ': 'a', 'ắ': 'a', 'ẳ': 'a', 'ẵ': 'a', 'ặ': 'a',
+        'â': 'a', 'ầ': 'a', 'ấ': 'a', 'ẩ': 'a', 'ẫ': 'a', 'ậ': 'a',
+        'đ': 'd',
+        'è': 'e', 'é': 'e', 'ẻ': 'e', 'ẽ': 'e', 'ẹ': 'e',
+        'ê': 'e', 'ề': 'e', 'ế': 'e', 'ể': 'e', 'ễ': 'e', 'ệ': 'e',
+        'ì': 'i', 'í': 'i', 'ỉ': 'i', 'ĩ': 'i', 'ị': 'i',
+        'ò': 'o', 'ó': 'o', 'ỏ': 'o', 'õ': 'o', 'ọ': 'o',
+        'ô': 'o', 'ồ': 'o', 'ố': 'o', 'ổ': 'o', 'ỗ': 'o', 'ộ': 'o',
+        'ơ': 'o', 'ờ': 'o', 'ớ': 'o', 'ở': 'o', 'ỡ': 'o', 'ợ': 'o',
+        'ù': 'u', 'ú': 'u', 'ủ': 'u', 'ũ': 'u', 'ụ': 'u',
+        'ư': 'u', 'ừ': 'u', 'ứ': 'u', 'ử': 'u', 'ữ': 'u', 'ự': 'u',
+        'ỳ': 'y', 'ý': 'y', 'ỷ': 'y', 'ỹ': 'y', 'ỵ': 'y',
+        'À': 'A', 'Á': 'A', 'Ả': 'A', 'Ã': 'A', 'Ạ': 'A',
+        'Ă': 'A', 'Ằ': 'A', 'Ắ': 'A', 'Ẳ': 'A', 'Ẵ': 'A', 'Ặ': 'A',
+        'Â': 'A', 'Ầ': 'A', 'Ấ': 'A', 'Ẩ': 'A', 'Ẫ': 'A', 'Ậ': 'A',
+        'Đ': 'D',
+        'È': 'E', 'É': 'E', 'Ẻ': 'E', 'Ẽ': 'E', 'Ẹ': 'E',
+        'Ê': 'E', 'Ề': 'E', 'Ế': 'E', 'Ể': 'E', 'Ễ': 'E', 'Ệ': 'E',
+        'Ì': 'I', 'Í': 'I', 'Ỉ': 'I', 'Ĩ': 'I', 'Ị': 'I',
+        'Ò': 'O', 'Ó': 'O', 'Ỏ': 'O', 'Õ': 'O', 'Ọ': 'O',
+        'Ô': 'O', 'Ồ': 'O', 'Ố': 'O', 'Ổ': 'O', 'Ỗ': 'O', 'Ộ': 'O',
+        'Ơ': 'O', 'Ờ': 'O', 'Ớ': 'O', 'Ở': 'O', 'Ỡ': 'O', 'Ợ': 'O',
+        'Ù': 'U', 'Ú': 'U', 'Ủ': 'U', 'Ũ': 'U', 'Ụ': 'U',
+        'Ư': 'U', 'Ừ': 'U', 'Ứ': 'U', 'Ử': 'U', 'Ữ': 'U', 'Ự': 'U',
+        'Ỳ': 'Y', 'Ý': 'Y', 'Ỷ': 'Y', 'Ỹ': 'Y', 'Ỵ': 'Y',
+    }
+    
+    # Replace Vietnamese characters
+    result = ''.join(vietnamese_map.get(c, c) for c in text)
+    
+    # Convert to lowercase
+    result = result.lower()
+    
+    # Replace spaces and special characters with hyphens
+    result = re.sub(r'[^\w\s-]', '', result)  # Remove special chars except space and hyphen
+    result = re.sub(r'[-\s]+', '-', result)   # Replace spaces and multiple hyphens with single hyphen
+    result = result.strip('-')                # Remove leading/trailing hyphens
+    
+    return result
+
 def load_config() -> Dict[str, Any]:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f)
@@ -236,8 +291,30 @@ def load_crawled_urls() -> set:
 
 def mark_url_crawled(url: str):
     """Mark URL as crawled in cache"""
-    with open(CRAWLED_CACHE, "a", encoding="utf-8") as f:
-        f.write(url + "\n")
+    try:
+        with open(CRAWLED_CACHE, "a", encoding="utf-8") as f:
+            f.write(url + "\n")
+    except Exception:
+        # Best effort write; don't crash the whole crawler if disk write fails
+        logger.warning(f"Failed to write crawled URL to cache file: {url}")
+
+    # Keep the in-memory set in sync so the running process doesn't
+    # re-process URLs that were just saved.
+    try:
+        CRAWLED_URLS_SET.add(url)
+    except Exception:
+        logger.debug(f"Failed to add URL to in-memory crawled set: {url}")
+
+def log_crawled_file(local_path: Path, source_url: str):
+    """
+    Log crawled file to crawled.txt with format:
+    <local_path> - url: <source_url>
+    """
+    crawled_log = OUTPUT_DIR / "crawled.txt"
+    relative_path = local_path.relative_to(OUTPUT_DIR)
+    
+    with open(crawled_log, "a", encoding="utf-8") as f:
+        f.write(f"{relative_path} - url: {source_url}\n")
 
 def should_recrawl(url: str, days_threshold: int = 7) -> bool:
     """Determine if URL should be recrawled (incremental crawling)"""
@@ -267,56 +344,72 @@ def should_recrawl(url: str, days_threshold: int = 7) -> bool:
 CURRENT_SEED_URL = None
 
 def get_content_folder(url: str, title: str = "") -> str:
+    """Map URL to folder structure based on new requirements"""
     text = (url + " " + title).lower()
     
-    if any(x in text for x in ["quy-trinh", "qui-trinh"]):
-        if any(x in text for x in ["giang-vien", "giang-day", "can-bo"]):
-            return "daa/quy-trinh/quy-trinh-cho-giang-vien"
-        elif any(x in text for x in ["sinh-vien", "sv"]):
-            return "daa/quy-trinh/quy-trinh-cho-sinh-vien"
-        else:
-            return "daa/quy-trinh/quy-trinh-chung"
+    # Giới thiệu
+    if any(x in text for x in ["cong-thong-tin-dao-tao", "content/cong-thong-tin"]):
+        return "daa/gioithieu/cong-thong-tin-dao-tao"
+    elif any(x in text for x in ["nganh-dao-tao", "tuyensinh.uit.edu.vn/nganh"]):
+        return "daa/gioithieu/nganh-dao-tao"
+    elif any(x in text for x in ["chuc-nang-nhiem-vu"]):
+        return "daa/gioithieu/chuc-nang-nhiem-vu"
     
-    elif any(x in text for x in ["quy-dinh", "qui-dinh", "quy-che", "qui-che"]):
-        if any(x in text for x in ["giang-vien", "giang-day", "can-bo"]):
-            return "daa/quy-dinh/quy-dinh-cho-giang-vien"
-        elif any(x in text for x in ["sinh-vien", "sv"]):
-            return "daa/quy-dinh/quy-dinh-cho-sinh-vien"
-        elif any(x in text for x in ["dhqg", "dai-hoc-quoc-gia"]):
-            return "daa/quy-dinh/quy-dinh-dhqg-hcm"
-        elif any(x in text for x in ["bo-gddt", "bo-giao-duc"]):
-            return "daa/quy-dinh/quy-dinh-bo-gddt"
-        else:
-            return "daa/quy-dinh/quy-dinh-chung"
+    # Quy định - Hướng dẫn (CHECK BEFORE "Thông báo" to avoid false positives from /thongbao/huong-dan-*)
+    elif any(x in text for x in ["qui-che-qui-dinh-qui-trinh", "quy-che-quy-dinh-quy-trinh"]):
+        return "daa/quydinh_huongdan/qui-che-qui-dinh-qui-trinh"
+    elif any(x in text for x in ["quy-che-quy-dinh-dao-tao-dai-hoc-cua-dhqg-hcm", "dhqg-hcm"]):
+        return "daa/quydinh_huongdan/quyche-dhqg-hcm"
+    elif any(x in text for x in ["quy-che-quy-dinh-dao-tao-dai-hoc-cua-bo-gddt", "bo-gddt"]):
+        return "daa/quydinh_huongdan/quyche-bogddt"
+    elif any(x in text for x in ["quy-dinh-giao-trinh", "53_qd_dhcntt"]):
+        return "daa/quydinh_huongdan/quy-dinh-giao-trinh"
+    elif any(x in text for x in ["quy-dinh-dao-tao-ngan-han", "dao-tao-ngan-han"]):
+        return "daa/quydinh_huongdan/quy-dinh-dao-tao-ngan-han"
+    elif any(x in text for x in ["quy-trinh-danh-cho-can-bo-giang-day", "can-bo-giang-day"]):
+        return "daa/quydinh_huongdan/quy-trinh-can-bo-giang-day"
+    elif any(x in text for x in ["quy-trinh-danh-cho-sinh-vien", "mot-so-quy-trinh-danh-cho-sinh-vien"]):
+        return "daa/quydinh_huongdan/quy-trinh-sinh-vien"
+    elif any(x in text for x in ["huong-dan-tra-cuu-va-xac-minh-van-bang", "tra-cuu-van-bang"]):
+        return "daa/quydinh_huongdan/huong-dan-tra-cuu-van-bang"
+    elif any(x in text for x in ["huong-dan-sinh-vien-dai-hoc-he-chinh-quy", "chuan-qua-trinh"]):
+        return "daa/quydinh_huongdan/huong-dan-chuan-qua-trinh"
+    elif any(x in text for x in ["huong-dan-trien-khai-day-va-hoc-qua-mang", "day-va-hoc-online", "covid"]):
+        return "daa/quydinh_huongdan/huong-dan-day-va-hoc-online"
     
-    elif any(x in text for x in ["thong-bao", "thongbao"]):
-        if any(x in text for x in ["chinh-quy", "chinhquy"]):
-            return "daa/thong-bao/thong-bao-chinh-quy"
-        elif any(x in text for x in ["tu-xa", "tuxa"]):
-            return "daa/thong-bao/thong-bao-tu-xa"
-        else:
-            return "daa/thong-bao/thong-bao-chung"
+    # Thông báo (checked AFTER hướng dẫn)
+    elif any(x in text for x in ["thongbaochinhquy", "thongbao-chinhquy"]):
+        return "daa/thongbao/thongbao-chinhquy"
+    elif any(x in text for x in ["thong-bao-vb2", "thongbao-vb2"]):
+        return "daa/thongbao/thongbao-vb2"
+    elif any(x in text for x in ["thongbaotuxa", "thongbao-tuxa"]):
+        return "daa/thongbao/thongbao-tuxa"
     
-    elif any(x in text for x in ["huong-dan", "huongdan"]):
-        if any(x in text for x in ["tra-cuu", "van-bang", "xac-minh"]):
-            return "daa/huong-dan/huong-dan-tra-cuu-van-bang"
-        elif any(x in text for x in ["online", "qua-mang", "hoc-online"]):
-            return "daa/huong-dan/huong-dan-hoc-online"
-        elif any(x in text for x in ["sinh-vien", "sv"]):
-            return "daa/huong-dan/huong-dan-cho-sinh-vien"
-        else:
-            return "daa/huong-dan/huong-dan-chung"
+    # Kế hoạch năm
+    elif any(x in text for x in ["kehoachnam", "ke-hoach-nam"]):
+        return "daa/kehoachnam"
     
-    elif any(x in text for x in ["ctdt", "chuong-trinh-dao-tao"]):
-        if any(x in text for x in ["chinh-quy", "cqui"]):
-            return "daa/chuong-trinh-dao-tao/ctdt-chinh-quy"
-        elif any(x in text for x in ["tu-xa"]):
-            return "daa/chuong-trinh-dao-tao/ctdt-tu-xa"
-        else:
-            return "daa/chuong-trinh-dao-tao/ctdt-khac"
+    # Chương trình đào tạo - Hệ chính quy
+    elif "/cqui/" in text or "ctdt-khoa-" in text and "chinh-quy" in text:
+        # Extract year from URL
+        for year in range(2012, 2026):
+            if f"khoa-{year}" in text:
+                return f"daa/chuongtrinh_daotao/he-chinhquy/khoa-{year}"
+        return "daa/chuongtrinh_daotao/he-chinhquy/khac"
+    elif any(x in text for x in ["chuong-trinh-dao-tao-cu", "ctdt-cu"]):
+        return "daa/chuongtrinh_daotao/he-chinhquy/ctdt-cu"
+    elif any(x in text for x in ["danh-muc-mon-hoc-dai-hoc", "danh-muc-mon-hoc"]):
+        return "daa/chuongtrinh_daotao/he-chinhquy/danh-muc-mon-hoc"
+    elif any(x in text for x in ["bang-tom-tat-mon-hoc", "tom-tat-mon-hoc"]):
+        return "daa/chuongtrinh_daotao/he-chinhquy/bang-tom-tat-mon-hoc"
     
-    elif any(x in text for x in ["dao-tao-ngan-han", "ngan-han"]):
-        return "daa/dao-tao/dao-tao-ngan-han"
+    # Chương trình đào tạo - Hệ từ xa
+    elif "/tu-xa/" in text or "tuxa" in text:
+        # Extract year from URL
+        for year in range(2008, 2025):
+            if f"khoa-{year}" in text:
+                return f"daa/chuongtrinh_daotao/he-tuxa/khoa-{year}"
+        return "daa/chuongtrinh_daotao/he-tuxa/khac"
     
     else:
         return "daa/khac/chua-phan-loai"
@@ -386,6 +479,9 @@ def download_file(url: str, output_dir: Path, category: str = "files") -> bool:
         size_mb = output_path.stat().st_size / (1024 * 1024)
         logger.info(f"Downloaded [{category}]: {filename} ({size_mb:.2f} MB)")
         
+        # Log to crawled.txt
+        log_crawled_file(output_path, url)
+        
         metadata = {
             "title": filename,
             "url": url,
@@ -404,24 +500,188 @@ def download_file(url: str, output_dir: Path, category: str = "files") -> bool:
         logger.warning(f"Failed to download {url}: {e}")
         return False
 
+def extract_numbered_title(title: str, content: str = "") -> Optional[tuple]:
+    """
+    Extract numbered document information from title or content.
+    Returns (number, full_title) or None.
+    
+    Example:
+        "01. Quyết định về việc ban hành..." -> ("01", "Quyết định về việc ban hành...")
+        "02. Quy định về đánh giá..." -> ("02", "Quy định về đánh giá...")
+    
+    Note: Keeps the full Vietnamese title with original formatting.
+    """
+    # Try to find pattern like "01.", "02.", etc. at the beginning
+    pattern = r'^(\d{1,3})[\.\)]\s*(.+?)(?:\s*$)'
+    
+    # Search in title first
+    match = re.search(pattern, title.strip(), re.MULTILINE)
+    if not match:
+        # Try to find in content (first few lines)
+        first_lines = content[:1000] if content else ""
+        match = re.search(pattern, first_lines, re.MULTILINE)
+    
+    if match:
+        number = match.group(1).zfill(2)  # Pad to 2 digits: "1" -> "01"
+        doc_title = match.group(2).strip()
+        
+        # Clean up excessive whitespace but keep Vietnamese characters
+        doc_title = re.sub(r'\s+', ' ', doc_title)
+        # Remove any trailing punctuation
+        doc_title = doc_title.rstrip('.,;:')
+        # Limit length
+        doc_title = doc_title[:200]
+        
+        return (number, doc_title)
+    
+    return None
+
+def get_nhom_lon(url: str, title: str) -> str:
+    """
+    Determine the main category group (nhom_lon) for quydinh_huongdan.
+    
+    Categories:
+    - qui-che-qui-dinh-qui-trinh: Official regulations and procedures
+    - huong-dan-sinh-vien: Student guidance documents
+    - bieumau-bangbieucuahang: Forms and templates
+    
+    Returns the category slug or default.
+    """
+    text = (url + " " + title).lower()
+    
+    # Check for forms/templates
+    if any(x in text for x in ["biểu mẫu", "bieu-mau", "bảng biểu", "bang-bieu", "mẫu đơn"]):
+        return "bieumau-bangbieucuahang"
+    
+    # Check for student guidance
+    if any(x in text for x in ["hướng dẫn sinh viên", "huong-dan-sinh-vien", 
+                                "đăng ký", "dang-ky", "tốt nghiệp", "tot-nghiep",
+                                "học vụ", "hoc-vu"]):
+        return "huong-dan-sinh-vien"
+    
+    # Default to qui-che-qui-dinh-qui-trinh (most common)
+    return "qui-che-qui-dinh-qui-trinh"
+
+def parse_numbered_list_from_html(html: str, base_url: str) -> List[str]:
+    """
+    Parse numbered document list from HTML content.
+    Returns list of detail URLs found in this listing page.
+    Also caches URL metadata in NUMBERED_DOCS_CACHE.
+    
+    Example HTML patterns:
+    <a href="/content/123">01. Quyết định về việc...</a>
+    <a href="/content/123">1) Quyết định về việc...</a>
+    """
+    global NUMBERED_DOCS_CACHE
+    
+    if not html:
+        return []
+    
+    # Pattern to find numbered links like "01. Title" or "1) Title"
+    # Match: <a href="...">01. Quyết định...</a>
+    # Also match with optional whitespace and newlines
+    pattern = r'<a[^>]+href=["\']([^"\']+)["\'][^>]*>\s*(\d{1,3})[\.\)]\s*([^<]+)</a>'
+    
+    matches = re.findall(pattern, html, re.IGNORECASE | re.DOTALL)
+    
+    if matches:
+        logger.info(f"Found {len(matches)} potential numbered items in {base_url}")
+    
+    found_urls = []
+    seen_urls = set()  # Avoid duplicates
+    
+    for href, number, title_text in matches:
+        # Build full URL
+        full_url = urljoin(base_url, href)
+        
+        # Skip if already processed in this page
+        if full_url in seen_urls:
+            continue
+        seen_urls.add(full_url)
+        
+        # Clean title - handle HTML entities and excessive whitespace
+        title_clean = title_text.strip()
+        title_clean = re.sub(r'\s+', ' ', title_clean)
+        title_clean = title_clean.rstrip('.,;:')[:200]
+        
+        # Skip if title is too short (likely garbage)
+        if len(title_clean) < 5:
+            continue
+        
+        # Pad number
+        number_padded = number.zfill(2)
+        
+        # Determine nhom_lon from base_url
+        nhom_lon = get_nhom_lon(base_url, title_text)
+        
+        # Store in cache
+        NUMBERED_DOCS_CACHE[full_url] = (number_padded, title_clean, nhom_lon)
+        found_urls.append(full_url)
+        logger.info(f"Cached numbered doc: {full_url} -> {number_padded}. {title_clean}")
+    
+    if found_urls:
+        logger.info(f"Successfully cached {len(found_urls)} numbered docs from {base_url}")
+    
+    return found_urls
+
 def save_content(url: str, data: Dict[str, Any]):
-    global CURRENT_SEED_URL
+    global CURRENT_SEED_URL, NUMBERED_DOCS_CACHE
     
     title = data.get("metadata", {}).get("title", "")
     content_folder = get_content_folder(url, title)
     
     mark_url_crawled(url)
     
-    content_dir = OUTPUT_DIR / content_folder
-    html_dir = content_dir / "html"
-    markdown_dir = content_dir / "markdown"
-    pdf_dir = content_dir / "pdf"
-    docx_dir = content_dir / "docx"
+    html_content = data.get("html", "")
     
-    html_dir.mkdir(parents=True, exist_ok=True)
-    markdown_dir.mkdir(parents=True, exist_ok=True)
-    pdf_dir.mkdir(parents=True, exist_ok=True)
-    docx_dir.mkdir(parents=True, exist_ok=True)
+    # Check if this URL is in the numbered docs cache (from listing page)
+    numbered_info = None
+    if url in NUMBERED_DOCS_CACHE:
+        number, doc_title, nhom_lon = NUMBERED_DOCS_CACHE[url]
+        # Use slugified title (no diacritics, with hyphens)
+        doc_title_slug = slugify_vietnamese(doc_title)
+        numbered_folder = f"{number}-{doc_title_slug}"
+        content_folder = f"daa/quydinh_huongdan/{nhom_lon}/{numbered_folder}"
+        numbered_info = (number, doc_title)
+        logger.info(f"Using cached numbered doc: {numbered_folder} in {nhom_lon}")
+    
+    # Otherwise, try to detect from current page content
+    elif "quydinh_huongdan" in content_folder:
+        markdown_content = data.get("markdown", "")
+        content_text = markdown_content or html_content
+        
+        numbered_info = extract_numbered_title(title, content_text)
+        if numbered_info:
+            number, doc_title = numbered_info
+            # Determine nhom_lon (main category group)
+            nhom_lon = get_nhom_lon(url, title)
+            # Use slugified title (no diacritics, with hyphens)
+            doc_title_slug = slugify_vietnamese(doc_title)
+            numbered_folder = f"{number}-{doc_title_slug}"
+            content_folder = f"daa/quydinh_huongdan/{nhom_lon}/{numbered_folder}"
+            logger.info(f"Detected numbered document: {numbered_folder} in {nhom_lon}")
+    
+    content_dir = OUTPUT_DIR / content_folder
+    
+    # For quydinh_huongdan with numbered docs, save directly in the folder (no html/pdf subfolders)
+    if numbered_info and "quydinh_huongdan" in content_folder:
+        # Files go directly in the numbered folder
+        content_dir.mkdir(parents=True, exist_ok=True)
+        html_dir = content_dir
+        markdown_dir = content_dir
+        pdf_dir = content_dir
+        docx_dir = content_dir
+    else:
+        # For other categories, use traditional structure with subfolders
+        html_dir = content_dir / "html"
+        markdown_dir = content_dir / "markdown"
+        pdf_dir = content_dir / "pdf"
+        docx_dir = content_dir / "docx"
+        
+        html_dir.mkdir(parents=True, exist_ok=True)
+        markdown_dir.mkdir(parents=True, exist_ok=True)
+        pdf_dir.mkdir(parents=True, exist_ok=True)
+        docx_dir.mkdir(parents=True, exist_ok=True)
     
     safe_name = url.replace("https://", "").replace("http://", "")
     safe_name = safe_name.replace("/", "_").replace(":", "_")[:200]
@@ -434,6 +694,7 @@ def save_content(url: str, data: Dict[str, Any]):
             f.write(data["html"])
         total_size += html_file.stat().st_size
         logger.info(f"Saved HTML [{content_folder}]: {html_file.name}")
+        # Don't log HTML to crawled.txt (only MD and PDF)
         
         download_links = find_download_links(data["html"], url)
         for link in download_links:
@@ -448,6 +709,7 @@ def save_content(url: str, data: Dict[str, Any]):
             f.write(data["markdown"])
         total_size += md_file.stat().st_size
         logger.info(f"Saved Markdown [{content_folder}]: {md_file.name}")
+        log_crawled_file(md_file, url)  # Log to crawled.txt
     
     # Update stats
     crawl_stats.add_page(CURRENT_SEED_URL, total_size, success=True)
@@ -465,6 +727,43 @@ def save_content(url: str, data: Dict[str, Any]):
         "date": datetime.now().isoformat(),
     }
     append_jsonl(metadata)
+
+def crawl_numbered_details(app: FirecrawlApp, detail_urls: List[str], cfg: Dict[str, Any], crawled_urls: set):
+    """Crawl detail pages for numbered documents"""
+    delay = int(os.environ.get("DELAY_BETWEEN_REQUESTS", "2"))
+    
+    for detail_url in detail_urls:
+        try:
+            logger.info(f"Crawling numbered detail: {detail_url}")
+            
+            # Use crawl_url with limit=1 and maxDepth=2 (some URLs have /thongbao/ in path)
+            crawl_params = {
+                "limit": 1,
+                "maxDepth": 2,
+                "scrapeOptions": {
+                    "formats": ["markdown", "html"],
+                    "waitFor": 1000,
+                    "timeout": 30000,
+                }
+            }
+            
+            crawl_result = app.crawl_url(detail_url, params=crawl_params, poll_interval=2)
+            
+            if crawl_result.get("success"):
+                data = crawl_result.get("data", [])
+                if data and len(data) > 0:
+                    page_data = data[0]  # Get first (and only) page
+                    save_content(detail_url, page_data)
+                    logger.info(f"✓ Saved numbered detail: {detail_url}")
+            else:
+                error_msg = crawl_result.get('error', 'Unknown error')
+                logger.error(f"Failed to crawl detail {detail_url}: {error_msg}")
+            
+            time.sleep(delay)
+            
+        except Exception as e:
+            logger.error(f"Error crawling detail {detail_url}: {e}")
+            time.sleep(delay)
 
 def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], crawled_urls: set) -> dict:
     """Crawl a single seed URL (for parallel execution)"""
@@ -502,14 +801,25 @@ def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], cra
                 
                 success_count = 0
                 skipped_count = 0
+                detail_urls_found = []  # Track new detail URLs from this seed
+                
                 for page in data:
                     try:
                         page_url = page.get("metadata", {}).get("sourceURL", seed_url)
-                        if page_url in crawled_urls:
+                        # Check both the local set and the global in-memory set so
+                        # URLs saved during this run are respected immediately.
+                        if page_url in crawled_urls or page_url in CRAWLED_URLS_SET:
                             skipped_count += 1
                             crawl_stats.add_skipped()
                             logger.debug(f"Skipped (cached): {page_url}")
                             continue
+                        
+                        # Before saving, check if this is a listing page with numbered docs
+                        html_content = page.get("html", "")
+                        if "quydinh_huongdan" in get_content_folder(page_url, page.get("metadata", {}).get("title", "")):
+                            new_detail_urls = parse_numbered_list_from_html(html_content, page_url)
+                            detail_urls_found.extend(new_detail_urls)
+                        
                         save_content(page_url, page)
                         success_count += 1
                     except Exception as e:
@@ -521,6 +831,15 @@ def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], cra
                 result["success"] = True
                 result["pages"] = success_count
                 logger.info(f"Saved {success_count}/{len(data)} pages, skipped {skipped_count} (cached) from {seed_url}")
+                
+                # After processing listing page, crawl detail URLs found in this seed
+                if detail_urls_found:
+                    # Filter out already crawled URLs
+                    detail_urls_to_crawl = [url for url in detail_urls_found if url not in crawled_urls and url not in CRAWLED_URLS_SET]
+                    if detail_urls_to_crawl:
+                        logger.info(f"Found {len(detail_urls_to_crawl)} new numbered detail pages to crawl from {seed_url}")
+                        crawl_numbered_details(app, detail_urls_to_crawl, cfg, crawled_urls)
+                
                 break
             else:
                 error_msg = crawl_result.get('error', 'Unknown error')
@@ -557,6 +876,13 @@ def crawl_with_firecrawl(app: FirecrawlApp, seed_urls: List[str], cfg: Dict[str,
     global CURRENT_SEED_URL
     
     crawled_urls = load_crawled_urls()
+    # Initialize the global in-memory cache so mark_url_crawled() can keep it
+    # up-to-date during the run. We still pass the local set to worker funcs
+    # for compatibility.
+    global CRAWLED_URLS_SET
+    # Use the same set object for both the local variable and the global so
+    # updates via mark_url_crawled() are immediately visible to worker code.
+    CRAWLED_URLS_SET = crawled_urls
     logger.info(f"Loaded {len(crawled_urls)} URLs from cache")
     
     checkpoint = load_checkpoint()

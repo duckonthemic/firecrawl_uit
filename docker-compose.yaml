@@ -53,9 +53,13 @@ services:
     build: apps/playwright-service-ts
     environment:
       PORT: 3000
+      # Pass proxy settings through so the Playwright service can use the configured proxy
       PROXY_SERVER: ${PROXY_SERVER}
       PROXY_USERNAME: ${PROXY_USERNAME}
       PROXY_PASSWORD: ${PROXY_PASSWORD}
+      # Also set standard proxy env vars (some libs respect HTTP(S)_PROXY)
+      HTTP_PROXY: ${PROXY_SERVER}
+      HTTPS_PROXY: ${PROXY_SERVER}
       BLOCK_MEDIA: ${BLOCK_MEDIA}
     networks:
       - backend

@@ -1,0 +1,17 @@
+# UIT DAA Crawler Configuration
+# This is a backup config - actual config from environment variables
+
+seed_urls:
+  - https://daa.uit.edu.vn
+
+include_patterns:
+  - /content
+  - /thongbao
+  - /quy-dinh
+  - /quy-trinh
+
+exclude_patterns:
+  - /tin-tuc
+  - /news
+
+max_depth: 10
