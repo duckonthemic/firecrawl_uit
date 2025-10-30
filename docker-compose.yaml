@@ -98,6 +98,31 @@ services:
     ports:
       - "5432:5432"
 
+  crawler:
+    build: .
+    container_name: firecrawl-uit-crawler
+    environment:
+      FIRECRAWL_URL: http://api:3002
+      SCHEDULE_HOURS: ${SCHEDULE_HOURS:-24}
+      RUN_ONCE: ${RUN_ONCE:-false}
+      MAX_WORKERS: ${MAX_WORKERS:-3}
+      OUTPUT_DIR: /data
+      LOG_PATH: /logs/crawler.log
+      CONFIG_PATH: /app/config.yaml
+      SEED_URLS: ${SEED_URLS}
+      INCLUDE_PATTERNS: ${INCLUDE_PATTERNS}
+      EXCLUDE_PATTERNS: ${EXCLUDE_PATTERNS}
+      MAX_DEPTH: ${MAX_DEPTH:-3}
+    volumes:
+      - ./data:/data
+      - ./logs:/logs
+      - ./config.yaml:/app/config.yaml:ro
+    depends_on:
+      - api
+    networks:
+      - backend
+    restart: unless-stopped
+
 networks:
   backend:
     driver: bridge
