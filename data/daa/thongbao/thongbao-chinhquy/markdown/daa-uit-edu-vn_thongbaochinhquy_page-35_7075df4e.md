@@ -1,0 +1,193 @@
+Đại Học Chính Quy
+=================
+
+**Các thông báo dành cho hệ đại học chính quy.**
+
+[Thông báo nghỉ lớp Đồ họa máy tính (CS105.Q22) ngày 16/03/2026](https://daa.uit.edu.vn/node/38576)
+
+----------------------------------------------------------------------------------------------------
+
+T2, 16/03/2026 - 09:17
+
+CBGD : **Cáp Phạm Đình Thăng**  
+Khoa/ Bộ môn : **KHMT**  
+Môn học : **Đồ họa máy tính (CS105)**  
+Lớp : **CS105.Q22**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **8**  
+Thứ : **2 , ngày 16/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Đồ họa máy tính (CS105.Q22) ngày 16/03/2026](https://daa.uit.edu.vn/node/38576 "Thông báo nghỉ lớp Đồ họa máy tính (CS105.Q22) ngày 16/03/2026")
+    
+
+[Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q21.1) ngày 17/03/2026](https://daa.uit.edu.vn/node/38575)
+
+-----------------------------------------------------------------------------------------------------------------
+
+T2, 16/03/2026 - 07:21
+
+CBGD : **Trần Quang Nguyên**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vật lý bán dẫn và ứng dụng (CE126)**  
+Lớp : **CE126.Q21.1**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **3 , ngày 17/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q21.1) ngày 17/03/2026](https://daa.uit.edu.vn/node/38575 "Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q21.1) ngày 17/03/2026")
+    
+
+[Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q22) ngày 18/03/2026](https://daa.uit.edu.vn/node/38574)
+
+---------------------------------------------------------------------------------------------------------------
+
+T2, 16/03/2026 - 07:20
+
+CBGD : **Trần Quang Nguyên**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vật lý bán dẫn và ứng dụng (CE126)**  
+Lớp : **CE126.Q22**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **4 , ngày 18/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q22) ngày 18/03/2026](https://daa.uit.edu.vn/node/38574 "Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q22) ngày 18/03/2026")
+    
+
+[Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q21) ngày 17/03/2026](https://daa.uit.edu.vn/node/38573)
+
+---------------------------------------------------------------------------------------------------------------
+
+T2, 16/03/2026 - 07:19
+
+CBGD : **Trần Quang Nguyên**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vật lý bán dẫn và ứng dụng (CE126)**  
+Lớp : **CE126.Q21**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **4**  
+Thứ : **3 , ngày 17/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q21) ngày 17/03/2026](https://daa.uit.edu.vn/node/38573 "Thông báo nghỉ lớp Vật lý bán dẫn và ứng dụng (CE126.Q21) ngày 17/03/2026")
+    
+
+[Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q24.1) ngày 17/03/2026](https://daa.uit.edu.vn/node/38572)
+
+---------------------------------------------------------------------------------------------------------------------
+
+CN, 15/03/2026 - 21:03
+
+CBGD : **Phạm Nguyễn Trường An**  
+Khoa/ Bộ môn : **KHMT**  
+Môn học : **Cấu trúc dữ liệu và giải thuật (IT003)**  
+Lớp : **IT003.Q24.1**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **5**  
+Thứ : **3 , ngày 17/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q24.1) ngày 17/03/2026](https://daa.uit.edu.vn/node/38572 "Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q24.1) ngày 17/03/2026")
+    
+
+[Thông báo nghỉ lớp Đồ họa máy tính (CS105.Q21) ngày 16/03/2026](https://daa.uit.edu.vn/node/38571)
+
+----------------------------------------------------------------------------------------------------
+
+CN, 15/03/2026 - 17:20
+
+CBGD : **Cáp Phạm Đình Thăng**  
+Khoa/ Bộ môn : **KHMT**  
+Môn học : **Đồ họa máy tính (CS105)**  
+Lớp : **CS105.Q21**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **3**  
+Thứ : **2 , ngày 16/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Đồ họa máy tính (CS105.Q21) ngày 16/03/2026](https://daa.uit.edu.vn/node/38571 "Thông báo nghỉ lớp Đồ họa máy tính (CS105.Q21) ngày 16/03/2026")
+    
+
+[Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q226) ngày 23/03/2026](https://daa.uit.edu.vn/node/38570)
+
+------------------------------------------------------------------------------------------------------
+
+T7, 14/03/2026 - 15:44
+
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q226**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **2 , ngày 23/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q226) ngày 23/03/2026](https://daa.uit.edu.vn/node/38570 "Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q226) ngày 23/03/2026")
+    
+
+[Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q216) ngày 19/03/2026](https://daa.uit.edu.vn/node/38569)
+
+------------------------------------------------------------------------------------------------------
+
+T7, 14/03/2026 - 15:25
+
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q216**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **5 , ngày 19/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q216) ngày 19/03/2026](https://daa.uit.edu.vn/node/38569 "Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q216) ngày 19/03/2026")
+    
+
+[Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q224) ngày 21/03/2026](https://daa.uit.edu.vn/node/38568)
+
+------------------------------------------------------------------------------------------------------
+
+T7, 14/03/2026 - 15:23
+
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q224**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **7 , ngày 21/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q224) ngày 21/03/2026](https://daa.uit.edu.vn/node/38568 "Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q224) ngày 21/03/2026")
+    
+
+[Thông báo nghỉ lớp Xác suất thống kê (MA005.Q29) ngày 18/03/2026](https://daa.uit.edu.vn/node/38567)
+
+------------------------------------------------------------------------------------------------------
+
+T7, 14/03/2026 - 15:21
+
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Xác suất thống kê (MA005)**  
+Lớp : **MA005.Q29**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **4**  
+Thứ : **4 , ngày 18/03/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Xác suất thống kê (MA005.Q29) ngày 18/03/2026](https://daa.uit.edu.vn/node/38567 "Thông báo nghỉ lớp Xác suất thống kê (MA005.Q29) ngày 18/03/2026")

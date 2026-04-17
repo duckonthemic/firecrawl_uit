@@ -3,10 +3,12 @@ import json
 import logging
 import time
 import re
+import threading
 from datetime import datetime
+from html import unescape
 from pathlib import Path
 from typing import List, Dict, Any, Optional
-from urllib.parse import urljoin, urlparse
+from urllib.parse import parse_qsl, unquote, urljoin, urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import hashlib
 import unicodedata
@@ -29,6 +31,48 @@ CRAWLED_CACHE = OUTPUT_DIR / "crawled_urls.txt"
 CHECKPOINT_FILE = OUTPUT_DIR / "checkpoint.json"
 FAILED_URLS_FILE = OUTPUT_DIR / "failed_urls.jsonl"
 STATS_FILE = OUTPUT_DIR / "crawl_stats.json"
+CRAWLED_LOG_FILE = OUTPUT_DIR / "crawled.txt"
+COMPLETED_SEEDS_FILE = OUTPUT_DIR / "completed_seeds.json"
+
+DIRECT_FILE_EXTENSIONS = {".pdf", ".doc", ".docx", ".xls", ".xlsx"}
+DEFAULT_SEED_POLICIES = {
+    "single_page_patterns": [
+        "/content/bang-tom-tat-mon-hoc",
+        "/content/chuc-nang-nhiem-vu-cua-phong-dao-tao-dai-hoc",
+        "/content/quy-dinh-dao-tao-ngan-han",
+        "/content/quy-trinh-danh-cho-can-bo-giang-day",
+        "/mot-so-quy-trinh-danh-cho-sinh-vien",
+        "/content/huong-dan-sinh-vien-dai-hoc-he-chinh-quy-thuc-hien-cac-quy-dinh-ve-chuan-qua-trinh-va-chuan",
+    ],
+    "listing_page_patterns": [
+        "/content/cong-thong-tin-dao-tao",
+        "tuyensinh.uit.edu.vn/nganh-dao-tao",
+        "/thongbaochinhquy",
+        "/thong-bao-vb2",
+        "/thongbaotuxa",
+        "/kehoachnam",
+        "/content/chuong-trinh-dao-tao-cu",
+    ],
+    "listing_with_detail_fanout_patterns": [
+        "/qui-che-qui-dinh-qui-trinh",
+        "/quy-che-quy-dinh-dao-tao-dai-hoc-cua-dhqg-hcm",
+        "/quy-che-quy-dinh-dao-tao-dai-hoc-cua-bo-gddt",
+        "/loai-bai-viet/de-mo-nganh",
+    ],
+    "ctdt_index_patterns": [
+        "/chuong-trinh-dao-tao/ctdt-khoa-",
+        "/tu-xa/ctdt-khoa-",
+        "/cqui/ctdt-khoa-",
+    ],
+    "slow_lane_patterns": [
+        "/danh-muc-mon-hoc-dai-hoc",
+    ],
+    "listing_page_limit": 60,
+    "listing_page_depth": 2,
+    "ctdt_program_limit": 4,
+    "ctdt_program_depth": 1,
+    "batch_scrape_detail_fanout": True,
+}
 
 # Cache for numbered document URLs mapping
 NUMBERED_DOCS_CACHE = {}
@@ -38,8 +82,6 @@ CRAWLED_URLS_SET = set()
 CONTENT_HASH_CACHE = {}
 # File to persist content hashes across runs
 CONTENT_HASH_FILE = OUTPUT_DIR / "content_hashes.json"
-# Current seed URL being crawled (for folder organization)
-CURRENT_SEED_URL = None
 
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
@@ -61,63 +103,121 @@ class CrawlStats:
         self.success_count = 0
         self.error_count = 0
         self.skipped_count = 0
+        self.download_count = 0
         self.total_size_bytes = 0
         self.start_time = datetime.now()
         self.seed_stats = {}
         self.error_categories = {}
-    
-    def add_page(self, seed_url: str, size_bytes: int = 0, success: bool = True):
-        """Record a page crawl"""
-        self.total_pages += 1
-        if success:
-            self.success_count += 1
-        else:
-            self.error_count += 1
-        
-        self.total_size_bytes += size_bytes
-        
+        self._lock = threading.Lock()
+
+    def ensure_seed(self, seed_url: str) -> Dict[str, Any]:
         if seed_url not in self.seed_stats:
             self.seed_stats[seed_url] = {
+                "strategy": "unknown",
                 "pages": 0,
                 "size_mb": 0,
-                "errors": 0
+                "errors": 0,
+                "skipped": 0,
+                "downloads": 0,
+                "download_size_mb": 0,
+                "status": "pending",
             }
-        
-        self.seed_stats[seed_url]["pages"] += 1
-        self.seed_stats[seed_url]["size_mb"] += size_bytes / (1024**2)
-        if not success:
-            self.seed_stats[seed_url]["errors"] += 1
-    
-    def add_skipped(self):
+        return self.seed_stats[seed_url]
+
+    def start_seed(self, seed_url: str, strategy: str):
+        with self._lock:
+            seed_stats = self.ensure_seed(seed_url)
+            seed_stats["strategy"] = strategy
+            seed_stats["status"] = "running"
+            seed_stats["_started_at"] = time.time()
+
+    def finish_seed(self, seed_url: str, success: bool) -> float:
+        with self._lock:
+            seed_stats = self.ensure_seed(seed_url)
+            started_at = seed_stats.pop("_started_at", None)
+            duration = round(time.time() - started_at, 2) if started_at else 0
+            seed_stats["duration_seconds"] = duration
+            seed_stats["status"] = "success" if success else "failed"
+            return duration
+
+    def add_page(self, seed_url: str, size_bytes: int = 0, success: bool = True):
+        """Record a page crawl"""
+        with self._lock:
+            self.total_pages += 1
+            if success:
+                self.success_count += 1
+            else:
+                self.error_count += 1
+
+            self.total_size_bytes += size_bytes
+            seed_stats = self.ensure_seed(seed_url)
+            seed_stats["pages"] += 1
+            seed_stats["size_mb"] += size_bytes / (1024**2)
+            if not success:
+                seed_stats["errors"] += 1
+
+    def add_download(self, seed_url: str, size_bytes: int = 0):
+        with self._lock:
+            self.download_count += 1
+            seed_stats = self.ensure_seed(seed_url)
+            seed_stats["downloads"] += 1
+            seed_stats["download_size_mb"] += size_bytes / (1024**2)
+
+    def add_skipped(self, seed_url: str = ""):
         """Record a skipped page (cached)"""
-        self.skipped_count += 1
-    
-    def add_error(self, category: str):
+        with self._lock:
+            self.skipped_count += 1
+            if seed_url:
+                seed_stats = self.ensure_seed(seed_url)
+                seed_stats["skipped"] += 1
+
+    def add_error(self, category: str, seed_url: str = ""):
         """Record an error by category"""
-        self.error_count += 1
-        self.error_categories[category] = self.error_categories.get(category, 0) + 1
+        with self._lock:
+            self.error_count += 1
+            self.error_categories[category] = self.error_categories.get(category, 0) + 1
+            if seed_url:
+                seed_stats = self.ensure_seed(seed_url)
+                seed_stats["errors"] += 1
     
     def get_report(self) -> dict:
         """Generate comprehensive statistics report"""
         duration = (datetime.now() - self.start_time).total_seconds()
-        
-        return {
-            "summary": {
+        with self._lock:
+            seeds_report = {}
+            for seed_url, stats in self.seed_stats.items():
+                cleaned_stats = {}
+                for key, value in stats.items():
+                    if key.startswith("_"):
+                        continue
+                    if isinstance(value, float):
+                        cleaned_stats[key] = round(value, 2)
+                    else:
+                        cleaned_stats[key] = value
+                seeds_report[seed_url] = cleaned_stats
+
+            errors_by_category = dict(self.error_categories)
+            summary = {
                 "total_pages": self.total_pages,
                 "success_count": self.success_count,
                 "error_count": self.error_count,
                 "skipped_count": self.skipped_count,
+                "download_count": self.download_count,
                 "success_rate": round(self.success_count / max(self.total_pages, 1) * 100, 2),
                 "total_size_mb": round(self.total_size_bytes / (1024**2), 2),
-            },
+            }
+        
+        return {
+            "summary": summary,
             "performance": {
                 "duration_seconds": round(duration, 2),
                 "duration_minutes": round(duration / 60, 2),
-                "pages_per_minute": round(self.total_pages / max(duration / 60, 1), 2),
+                "pages_per_minute": round(summary["total_pages"] / max(duration / 60, 1), 2),
+                "downloads_per_minute": round(summary["download_count"] / max(duration / 60, 1), 2),
                 "mb_per_minute": round((self.total_size_bytes / (1024**2)) / max(duration / 60, 1), 2),
             },
-            "seeds": self.seed_stats,
-            "errors_by_category": self.error_categories,
+            "seeds": seeds_report,
+            "errors_by_category": errors_by_category,
             "timestamp": datetime.now().isoformat()
         }
     
@@ -132,12 +232,14 @@ class CrawlStats:
 crawl_stats = CrawlStats()
 
 
-def save_checkpoint(seed_url: str, seed_index: int):
+def save_checkpoint(seed_url: str, seed_index: int, completed_count: int, total_seeds: int):
     """Save checkpoint for recovery"""
     checkpoint = {
         "seed_url": seed_url,
         "seed_index": seed_index,
         "timestamp": datetime.now().isoformat(),
+        "completed_count": completed_count,
+        "total_seeds": total_seeds,
         "stats": crawl_stats.get_report()
     }
     with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
@@ -160,6 +262,107 @@ def clear_checkpoint():
     if CHECKPOINT_FILE.exists():
         CHECKPOINT_FILE.unlink()
         logger.info("Checkpoint cleared")
+
+
+def load_completed_seeds() -> Dict[str, Dict[str, Any]]:
+    """Load successfully completed seeds for reliable resume across parallel workers."""
+    if not COMPLETED_SEEDS_FILE.exists():
+        return {}
+
+    try:
+        with open(COMPLETED_SEEDS_FILE, "r", encoding="utf-8") as f:
+            completed = json.load(f)
+            if isinstance(completed, dict):
+                return completed
+    except Exception as e:
+        logger.warning(f"Failed to load completed seeds: {e}")
+
+    return {}
+
+
+def save_completed_seed(seed_url: str, seed_index: int, result: Dict[str, Any]):
+    """Persist a successfully completed seed so resume never skips unfinished work."""
+    completed = load_completed_seeds()
+    completed[seed_url] = {
+        "seed_index": seed_index,
+        "timestamp": datetime.now().isoformat(),
+        "pages": result.get("pages", 0),
+        "errors": result.get("errors", 0),
+    }
+
+    with open(COMPLETED_SEEDS_FILE, "w", encoding="utf-8") as f:
+        json.dump(completed, f, ensure_ascii=False, indent=2)
+
+
+def clear_completed_seeds():
+    """Clear persisted seed-completion state after a fully successful crawl."""
+    if COMPLETED_SEEDS_FILE.exists():
+        COMPLETED_SEEDS_FILE.unlink()
+        logger.info("Completed seed state cleared")
+
+
+def resolve_crawl_mode() -> str:
+    """Resolve crawl mode from environment."""
+    crawl_mode = os.environ.get("CRAWL_MODE", "incremental").strip().lower()
+    valid_modes = {"incremental", "fresh", "resume_or_fresh"}
+
+    if crawl_mode not in valid_modes:
+        logger.warning(
+            f"Unknown CRAWL_MODE '{crawl_mode}', falling back to incremental"
+        )
+        return "incremental"
+
+    return crawl_mode
+
+
+def clear_fresh_crawl_state():
+    """Clear run-state files so the next crawl starts from a clean logical state."""
+    global CONTENT_HASH_CACHE, CRAWLED_URLS_SET, NUMBERED_DOCS_CACHE
+
+    for state_file in (
+        META_JSONL,
+        META_JSON,
+        CRAWLED_CACHE,
+        CHECKPOINT_FILE,
+        FAILED_URLS_FILE,
+        STATS_FILE,
+        CRAWLED_LOG_FILE,
+        CONTENT_HASH_FILE,
+        COMPLETED_SEEDS_FILE,
+    ):
+        if state_file.exists():
+            state_file.unlink()
+            logger.info(f"Cleared state file: {state_file}")
+
+    CONTENT_HASH_CACHE = {}
+    CRAWLED_URLS_SET = set()
+    NUMBERED_DOCS_CACHE = {}
+
+
+def prepare_crawl_state(crawl_mode: str):
+    """Prepare on-disk crawl state before a run starts."""
+    checkpoint = load_checkpoint()
+    completed_seeds = load_completed_seeds()
+
+    if crawl_mode == "fresh":
+        logger.info("CRAWL_MODE=fresh -> clearing prior crawl state")
+        clear_fresh_crawl_state()
+        return
+
+    if crawl_mode == "resume_or_fresh":
+        if checkpoint or completed_seeds:
+            logger.info(
+                "CRAWL_MODE=resume_or_fresh -> resuming existing crawl state "
+                f"(checkpoint={bool(checkpoint)}, completed_seeds={len(completed_seeds)})"
+            )
+        else:
+            logger.info(
+                "CRAWL_MODE=resume_or_fresh -> no resume state found, clearing caches for a fresh crawl"
+            )
+            clear_fresh_crawl_state()
+        return
+
+    logger.info("CRAWL_MODE=incremental -> keeping existing crawl caches")
 
 def mark_failed_url(url: str, error: str, seed_url: str, attempts: int = 3):
     """Record failed URL for later retry"""
@@ -268,9 +471,134 @@ def slugify_vietnamese(text: str) -> str:
     
     return result
 
+
+def dedupe_preserve_order(values: List[str]) -> List[str]:
+    seen = set()
+    ordered = []
+    for value in values:
+        if value and value not in seen:
+            seen.add(value)
+            ordered.append(value)
+    return ordered
+
+
+def merge_seed_policies(raw_policies: Any) -> Dict[str, Any]:
+    merged = dict(DEFAULT_SEED_POLICIES)
+    if not isinstance(raw_policies, dict):
+        return merged
+
+    for key, default_value in DEFAULT_SEED_POLICIES.items():
+        if key not in raw_policies:
+            continue
+
+        value = raw_policies[key]
+        if isinstance(default_value, list) and isinstance(value, list):
+            merged[key] = [str(item).strip().lower() for item in value if str(item).strip()]
+        elif isinstance(default_value, bool):
+            if isinstance(value, str):
+                merged[key] = value.strip().lower() == "true"
+            else:
+                merged[key] = bool(value)
+        elif isinstance(default_value, int):
+            merged[key] = int(value)
+        else:
+            merged[key] = value
+
+    return merged
+
+
+def safe_slug(text: str, max_length: int = 48, fallback: str = "item") -> str:
+    slug = slugify_vietnamese(text or "") or fallback
+    hash_suffix = hashlib.sha1((text or fallback).encode("utf-8")).hexdigest()[:8]
+    if len(slug) > max_length:
+        trim_length = max(max_length - len(hash_suffix) - 1, 8)
+        slug = f"{slug[:trim_length].rstrip('-')}-{hash_suffix}"
+    return slug or fallback
+
+
+def get_url_extension(url: str) -> str:
+    parsed = urlparse(url)
+    return Path(unquote(parsed.path)).suffix.lower()
+
+
+def get_url_path_depth(url: str) -> int:
+    parsed = urlparse(url)
+    return len([part for part in parsed.path.split("/") if part.strip()])
+
+
+def resolve_absolute_crawl_depth(url: str, relative_depth: int) -> int:
+    relative_depth = max(int(relative_depth), 0)
+    return max(relative_depth, get_url_path_depth(url) + relative_depth)
+
+
+def is_direct_file_url(url: str) -> bool:
+    return get_url_extension(url) in DIRECT_FILE_EXTENSIONS
+
+
+def sanitize_path_component(text: str, max_length: int = 80, fallback: str = "item") -> str:
+    normalized = unicodedata.normalize("NFKD", unescape(text or ""))
+    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
+    ascii_text = re.sub(r"[<>:\"/\\\\|?*\x00-\x1F]", " ", ascii_text)
+    ascii_text = re.sub(r"[^\w\s.-]", " ", ascii_text)
+    ascii_text = re.sub(r"[\s.-]+", "-", ascii_text).strip("-._")
+
+    if not ascii_text:
+        ascii_text = fallback
+
+    hash_suffix = hashlib.sha1((text or fallback).encode("utf-8")).hexdigest()[:8]
+    if len(ascii_text) > max_length:
+        trim_length = max(max_length - len(hash_suffix) - 1, 8)
+        ascii_text = f"{ascii_text[:trim_length].rstrip('-')}-{hash_suffix}"
+
+    return ascii_text or fallback
+
+
+def build_safe_url_basename(url: str, max_length: int = 100) -> str:
+    parsed = urlparse(url)
+    host = sanitize_path_component(parsed.netloc or "site", max_length=24, fallback="site")
+    path_parts = [
+        sanitize_path_component(unquote(part), max_length=24, fallback="part")
+        for part in parsed.path.split("/")
+        if part.strip()
+    ]
+
+    query_parts = []
+    for key, value in parse_qsl(parsed.query, keep_blank_values=True):
+        key_part = sanitize_path_component(key, max_length=12, fallback="key")
+        value_part = sanitize_path_component(value, max_length=16, fallback="value")
+        query_parts.append(f"{key_part}-{value_part}")
+
+    base_name = "_".join([host] + path_parts + query_parts) or host
+    hash_suffix = hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
+
+    if len(base_name) > max_length:
+        trim_length = max(max_length - len(hash_suffix) - 1, 16)
+        base_name = f"{base_name[:trim_length].rstrip('_-')}_{hash_suffix}"
+    elif query_parts:
+        base_name = f"{base_name}_{hash_suffix}"
+
+    return base_name
+
+
+def build_safe_download_name(url: str, max_length: int = 96) -> str:
+    parsed = urlparse(url)
+    original_name = Path(unquote(parsed.path)).name
+    suffix = Path(original_name).suffix.lower()
+    stem = Path(original_name).stem if original_name else ""
+    safe_stem = sanitize_path_component(stem or parsed.netloc or "file", max_length=max_length, fallback="file")
+    hash_suffix = hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
+
+    candidate = f"{safe_stem}-{hash_suffix}{suffix}"
+    if len(candidate) > max_length:
+        trim_length = max(max_length - len(hash_suffix) - len(suffix) - 1, 12)
+        safe_stem = safe_stem[:trim_length].rstrip("-")
+        candidate = f"{safe_stem}-{hash_suffix}{suffix}"
+
+    return candidate
+
 def load_config() -> Dict[str, Any]:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-        cfg = yaml.safe_load(f)
+        cfg = yaml.safe_load(f) or {}
     
     def env_list(name: str, default: List[str]) -> List[str]:
         raw = os.environ.get(name)
@@ -282,8 +610,299 @@ def load_config() -> Dict[str, Any]:
     cfg["include_patterns"] = env_list("INCLUDE_PATTERNS", cfg.get("include_patterns", []))
     cfg["exclude_patterns"] = env_list("EXCLUDE_PATTERNS", cfg.get("exclude_patterns", []))
     cfg["max_depth"] = int(os.environ.get("MAX_DEPTH", cfg.get("max_depth", 3)))
+    cfg["seed_policies"] = merge_seed_policies(cfg.get("seed_policies", {}))
+
+    batch_scrape_override = os.environ.get("BATCH_SCRAPE_DETAIL_FANOUT")
+    if batch_scrape_override is not None:
+        cfg["seed_policies"]["batch_scrape_detail_fanout"] = (
+            batch_scrape_override.strip().lower() == "true"
+        )
     
     return cfg
+
+
+def classify_seed_strategy(seed_url: str, cfg: Dict[str, Any]) -> str:
+    policies = cfg.get("seed_policies", DEFAULT_SEED_POLICIES)
+    normalized_url = unquote(seed_url or "").lower()
+
+    if is_direct_file_url(seed_url):
+        return "direct_file"
+
+    if any(pattern in normalized_url for pattern in policies.get("slow_lane_patterns", [])):
+        return "slow_lane"
+
+    if any(pattern in normalized_url for pattern in policies.get("ctdt_index_patterns", [])):
+        return "ctdt_index"
+
+    if any(pattern in normalized_url for pattern in policies.get("listing_with_detail_fanout_patterns", [])):
+        return "listing_with_detail_fanout"
+
+    if any(pattern in normalized_url for pattern in policies.get("single_page_patterns", [])):
+        return "single_page"
+
+    if any(pattern in normalized_url for pattern in policies.get("listing_page_patterns", [])):
+        return "listing_page"
+
+    return "listing_page"
+
+
+def build_request_headers() -> Dict[str, str]:
+    return {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+
+
+def build_scrape_options(strategy: str = "default", html_only: bool = False) -> Dict[str, Any]:
+    wait_for = 1500 if strategy == "slow_lane" else 1000
+    timeout = 90000 if strategy == "slow_lane" else 45000 if strategy == "single_page" else 30000
+    return {
+        "formats": ["html"] if html_only else ["markdown", "html"],
+        "waitFor": wait_for,
+        "timeout": timeout,
+        "headers": build_request_headers(),
+    }
+
+
+def build_crawl_params(cfg: Dict[str, Any], strategy: str) -> Dict[str, Any]:
+    policies = cfg.get("seed_policies", DEFAULT_SEED_POLICIES)
+
+    limit = 500
+    max_depth = cfg.get("max_depth", 3)
+
+    if strategy == "listing_page":
+        limit = int(policies.get("listing_page_limit", 60))
+        max_depth = int(policies.get("listing_page_depth", 2))
+    elif strategy == "ctdt_program":
+        limit = int(policies.get("ctdt_program_limit", 4))
+        max_depth = int(policies.get("ctdt_program_depth", 1))
+
+    crawl_params = {
+        "limit": limit,
+        "maxDepth": max_depth,
+        "scrapeOptions": build_scrape_options(strategy),
+    }
+
+    if cfg.get("include_patterns"):
+        crawl_params["includePaths"] = cfg["include_patterns"]
+    if cfg.get("exclude_patterns"):
+        crawl_params["excludePaths"] = cfg["exclude_patterns"]
+
+    return crawl_params
+
+
+def normalize_scraped_page(scrape_result: Dict[str, Any], fallback_url: str) -> Dict[str, Any]:
+    if not isinstance(scrape_result, dict):
+        raise ValueError(f"Unexpected scrape result type: {type(scrape_result).__name__}")
+
+    if "data" in scrape_result and isinstance(scrape_result["data"], dict):
+        page = dict(scrape_result["data"])
+    else:
+        page = dict(scrape_result)
+
+    metadata = dict(page.get("metadata", {}))
+    metadata.setdefault("sourceURL", fallback_url)
+    page["metadata"] = metadata
+    return page
+
+
+def extract_title_from_html(html: str, fallback: str = "") -> str:
+    match = re.search(r"<title[^>]*>(.*?)</title>", html, re.IGNORECASE | re.DOTALL)
+    if not match:
+        return fallback
+    title = re.sub(r"\s+", " ", unescape(match.group(1))).strip()
+    return title or fallback
+
+
+def html_to_basic_markdown(html: str) -> str:
+    if not html:
+        return ""
+
+    text = re.sub(
+        r"<(script|style|noscript)\b[^>]*>.*?</\1>",
+        "",
+        html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"</(p|div|section|article|li|tr|h[1-6]|table)>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = unescape(text)
+    text = re.sub(r"\r\n?", "\n", text)
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n\s*", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def fetch_seed_page_via_http(url: str, strategy: str) -> Dict[str, Any]:
+    timeout = 120 if strategy == "slow_lane" else 90
+    response = requests.get(
+        url,
+        timeout=timeout,
+        verify=False,
+        headers=build_request_headers(),
+    )
+    response.raise_for_status()
+
+    html = response.text or ""
+    title = extract_title_from_html(html, fallback=url)
+    return {
+        "html": html,
+        "markdown": html_to_basic_markdown(html),
+        "metadata": {
+            "title": title,
+            "sourceURL": url,
+            "statusCode": response.status_code,
+        },
+    }
+
+
+def load_seed_pages_with_fallback(
+    app: FirecrawlApp,
+    url: str,
+    strategy: str,
+    cfg: Dict[str, Any],
+) -> List[Dict[str, Any]]:
+    try:
+        return [scrape_seed_page(app, url, strategy)]
+    except Exception as scrape_error:
+        if categorize_error(scrape_error) != "timeout" or strategy not in {"single_page", "slow_lane"}:
+            raise
+
+        logger.warning(
+            f"Scrape timed out for {url}; falling back to direct HTTP fetch with a larger timeout"
+        )
+        try:
+            return [fetch_seed_page_via_http(url, strategy)]
+        except Exception as http_error:
+            logger.warning(
+                f"Direct HTTP fallback also failed for {url}; retrying with bounded crawl: {http_error}"
+            )
+            fallback_params = build_crawl_params(cfg, "listing_page")
+            fallback_params["limit"] = 1 if strategy == "single_page" else 3
+            fallback_params["maxDepth"] = resolve_absolute_crawl_depth(
+                url,
+                1 if strategy == "single_page" else 2,
+            )
+            pages = normalize_crawl_pages(
+                app.crawl_url(url, params=fallback_params, poll_interval=2)
+            )
+            if not pages:
+                raise RuntimeError(f"Timeout fallback returned 0 pages for {url}") from http_error
+            return pages
+
+
+def normalize_crawl_pages(crawl_result: Dict[str, Any]) -> List[Dict[str, Any]]:
+    if not isinstance(crawl_result, dict):
+        raise ValueError(f"Unexpected crawl result type: {type(crawl_result).__name__}")
+
+    if crawl_result.get("success") is False:
+        error_msg = crawl_result.get("error", "Unknown crawl error")
+        raise RuntimeError(error_msg)
+
+    pages = crawl_result.get("data", [])
+    if not isinstance(pages, list):
+        return []
+
+    normalized_pages = []
+    for page in pages:
+        if not isinstance(page, dict):
+            continue
+        normalized_pages.append(normalize_scraped_page(page, page.get("url", "")))
+
+    return normalized_pages
+
+
+def extract_detail_urls_from_page(
+    page_url: str,
+    page: Dict[str, Any],
+    seed_context_url: str,
+    strategy: str,
+) -> Dict[str, Any]:
+    detail_kind = None
+    detail_urls: List[str] = []
+
+    if strategy not in {"listing_with_detail_fanout", "ctdt_index"}:
+        return {"kind": detail_kind, "urls": detail_urls}
+
+    html_content = page.get("html", "")
+    page_title = page.get("metadata", {}).get("title", "")
+    content_folder = get_content_folder(
+        page_url,
+        page_title,
+        seed_context_url=seed_context_url,
+    )
+
+    if strategy == "ctdt_index":
+        detail_kind = "ctdt_program"
+        detail_urls = parse_ctdt_program_links_from_html(html_content, page_url)
+    elif "dean" in content_folder:
+        detail_kind = "detail_page"
+        detail_urls = parse_de_mo_nganh_list_from_html(html_content, page_url)
+    elif "quydinh_huongdan" in content_folder:
+        detail_kind = "detail_page"
+        detail_urls = parse_numbered_list_from_html(html_content, page_url)
+
+    return {"kind": detail_kind, "urls": dedupe_preserve_order(detail_urls)}
+
+
+def try_batch_scrape_pages(
+    app: FirecrawlApp,
+    urls: List[str],
+    cfg: Dict[str, Any],
+) -> List[Dict[str, Any]]:
+    policies = cfg.get("seed_policies", DEFAULT_SEED_POLICIES)
+    if not policies.get("batch_scrape_detail_fanout"):
+        return []
+
+    scrape_options = build_scrape_options("detail_page")
+    for method_name in ("batch_scrape_urls", "batch_scrape"):
+        batch_method = getattr(app, method_name, None)
+        if not callable(batch_method):
+            continue
+
+        attempts = [
+            lambda: batch_method(urls=urls, params=scrape_options),
+            lambda: batch_method(urls=urls, params={"formats": scrape_options["formats"]}),
+            lambda: batch_method(urls=urls, scrape_options=scrape_options),
+            lambda: batch_method(urls=urls, options=scrape_options),
+        ]
+
+        for attempt in attempts:
+            try:
+                raw_result = attempt()
+            except TypeError:
+                continue
+            except Exception as e:
+                logger.warning(f"{method_name} failed, falling back to sequential scrape: {e}")
+                return []
+
+            pages: List[Dict[str, Any]] = []
+            if isinstance(raw_result, dict):
+                if raw_result.get("success") is False:
+                    logger.warning(
+                        f"{method_name} returned an error, falling back to sequential scrape: "
+                        f"{raw_result.get('error', 'unknown')}"
+                    )
+                    return []
+                candidates = raw_result.get("data") or raw_result.get("results") or raw_result.get("pages") or []
+            elif isinstance(raw_result, list):
+                candidates = raw_result
+            else:
+                candidates = []
+
+            for index, item in enumerate(candidates):
+                if not isinstance(item, dict):
+                    continue
+                nested_page = item.get("data") if isinstance(item.get("data"), dict) else item
+                fallback_url = item.get("url") or urls[min(index, len(urls) - 1)]
+                pages.append(normalize_scraped_page(nested_page, fallback_url))
+
+            if pages:
+                logger.info(f"Using {method_name} for {len(pages)} detail pages")
+                return pages
+
+    return []
 
 def ensure_dirs():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -315,10 +934,9 @@ def log_crawled_file(local_path: Path, source_url: str):
     Log crawled file to crawled.txt with format:
     <local_path> - url: <source_url>
     """
-    crawled_log = OUTPUT_DIR / "crawled.txt"
     relative_path = local_path.relative_to(OUTPUT_DIR)
-    
-    with open(crawled_log, "a", encoding="utf-8") as f:
+
+    with open(CRAWLED_LOG_FILE, "a", encoding="utf-8") as f:
         f.write(f"{relative_path} - url: {source_url}\n")
 
 def should_recrawl(url: str, days_threshold: int = 7) -> bool:
@@ -346,9 +964,7 @@ def should_recrawl(url: str, days_threshold: int = 7) -> bool:
     
     return False
 
-CURRENT_SEED_URL = None
-
-def get_content_folder(url: str, title: str = "") -> str:
+def get_content_folder(url: str, title: str = "", seed_context_url: str = "") -> str:
     """Map URL to folder structure based on new requirements"""
     text = (url + " " + title).lower()
     
@@ -405,9 +1021,9 @@ def get_content_folder(url: str, title: str = "") -> str:
         # This ensures all programs from a seed go into same folder
         year_folder = "khac"
         
-        # Try to get year from CURRENT_SEED_URL first (seed being crawled)
-        if CURRENT_SEED_URL:
-            seed_year_match = re.search(r'ctdt-khoa-(\d{4})', CURRENT_SEED_URL)
+        # Try to get year from the seed currently being processed first.
+        if seed_context_url:
+            seed_year_match = re.search(r'ctdt-khoa-(\d{4})', seed_context_url)
             if seed_year_match:
                 seed_year = seed_year_match.group(1)
                 year_folder = f"khoa_{seed_year}"
@@ -520,9 +1136,9 @@ def get_content_folder(url: str, title: str = "") -> str:
         # For programs: use SEED year instead of URL year
         year_folder = "khac"
         
-        # Try to get year from CURRENT_SEED_URL first
-        if CURRENT_SEED_URL and "/tu-xa/" in CURRENT_SEED_URL:
-            seed_year_match = re.search(r'ctdt-khoa-(\d{4})', CURRENT_SEED_URL)
+        # Try to get year from the seed currently being processed first.
+        if seed_context_url and "/tu-xa/" in seed_context_url:
+            seed_year_match = re.search(r'ctdt-khoa-(\d{4})', seed_context_url)
             if seed_year_match:
                 seed_year = seed_year_match.group(1)
                 year_folder = f"khoa_{seed_year}"  # Changed to underscore for consistency
@@ -603,12 +1219,7 @@ def get_content_folder(url: str, title: str = "") -> str:
                 if prefix in major_title:
                     major_title = major_title.replace(prefix, "").strip()
             
-            # Convert to slug using unicodedata: "Trí tuệ nhân tạo" -> "tri-tue-nhan-tao"
-            major_slug = unicodedata.normalize('NFKD', major_title.lower())
-            major_slug = major_slug.encode('ascii', 'ignore').decode('ascii')
-            major_slug = re.sub(r'[^\w\s-]', '', major_slug)
-            major_slug = re.sub(r'[-\s]+', '-', major_slug)
-            major_slug = major_slug.strip('-')[:100]
+            major_slug = safe_slug(major_title, max_length=48, fallback=f"de-an-{doc_index}")
             
             if major_slug:
                 # Create folder: {index}-{major_slug} under he-chinhquy
@@ -661,51 +1272,67 @@ def find_download_links(html: str, base_url: str) -> List[str]:
     
     return links
 
-def download_file(url: str, output_dir: Path, category: str = "files") -> bool:
+def download_file(
+    url: str,
+    output_dir: Path,
+    category: str = "files",
+    seed_context_url: str = "",
+) -> Dict[str, Any]:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    result = {
+        "downloaded": False,
+        "skipped": False,
+        "size_bytes": 0,
+        "path": "",
+    }
+
     try:
-        parsed = urlparse(url)
-        filename = parsed.path.split('/')[-1]
-        if not filename or len(filename) > 200:
-            url_hash = hashlib.sha1(url.encode()).hexdigest()[:8]
-            ext = url.split('.')[-1].lower() if '.' in url else 'bin'
-            filename = f"{url_hash}.{ext}"
-        
+        filename = build_safe_download_name(url)
         output_path = output_dir / filename
-        
+
         if output_path.exists():
             logger.debug(f"File already exists: {filename}")
-            return True
-        
+            result["skipped"] = True
+            result["path"] = str(output_path)
+            return result
+
         response = requests.get(url, stream=True, timeout=30, verify=False)
         response.raise_for_status()
-        
+
         with open(output_path, 'wb') as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
-        
-        size_mb = output_path.stat().st_size / (1024 * 1024)
+
+        size_bytes = output_path.stat().st_size
+        size_mb = size_bytes / (1024 * 1024)
         logger.info(f"Downloaded [{category}]: {filename} ({size_mb:.2f} MB)")
-        
+
         # Log to crawled.txt
         log_crawled_file(output_path, url)
-        
+
+        if seed_context_url:
+            crawl_stats.add_download(seed_context_url, size_bytes=size_bytes)
+
         metadata = {
             "title": filename,
             "url": url,
             "type": "file",
-            "seed": CURRENT_SEED_URL if CURRENT_SEED_URL else "unknown",
+            "seed": seed_context_url if seed_context_url else "unknown",
             "seed_folder": category,
             "file_path": str(output_path),
             "size_mb": round(size_mb, 2),
             "date": datetime.now().isoformat(),
         }
         append_jsonl(metadata)
-        
-        return True
-    
+
+        result["downloaded"] = True
+        result["size_bytes"] = size_bytes
+        result["path"] = str(output_path)
+        return result
+
     except Exception as e:
         logger.warning(f"Failed to download {url}: {e}")
-        return False
+        return result
 
 def extract_numbered_title(title: str, content: str = "") -> Optional[tuple]:
     """
@@ -1100,7 +1727,12 @@ def trim_markdown_content(markdown: str) -> str:
     
     return result.strip()
 
-def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False):
+def save_content(
+    url: str,
+    data: Dict[str, Any],
+    skip_global_cache: bool = False,
+    seed_context_url: str = "",
+):
     """
     Save content to disk. 
     
@@ -1108,11 +1740,18 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
         url: URL of the content
         data: Page data from Firecrawl
         skip_global_cache: If True, don't add to global CRAWLED_URLS_SET (for CTDT programs that need re-crawl per year)
+        seed_context_url: Seed URL that owns this page for folder mapping and stats attribution
     """
-    global CURRENT_SEED_URL, NUMBERED_DOCS_CACHE
+    global NUMBERED_DOCS_CACHE
+    result = {
+        "saved": False,
+        "skipped": False,
+        "downloads": 0,
+        "size_bytes": 0,
+    }
     
     title = data.get("metadata", {}).get("title", "")
-    content_folder = get_content_folder(url, title)
+    content_folder = get_content_folder(url, title, seed_context_url=seed_context_url)
     
     if not skip_global_cache:
         mark_url_crawled(url)
@@ -1134,7 +1773,7 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
                 # This is quydinh_huongdan - override content_folder
                 number, doc_title, nhom_lon = cache_data
                 # Use slugified title (no diacritics, with hyphens)
-                doc_title_slug = slugify_vietnamese(doc_title)
+                doc_title_slug = safe_slug(doc_title, max_length=48, fallback=f"doc-{number}")
                 numbered_folder = f"{number}-{doc_title_slug}"
                 content_folder = f"daa/quydinh_huongdan/{nhom_lon}/{numbered_folder}"
                 numbered_info = (number, doc_title)
@@ -1151,7 +1790,7 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
             # Determine nhom_lon (main category group)
             nhom_lon = get_nhom_lon(url, title)
             # Use slugified title (no diacritics, with hyphens)
-            doc_title_slug = slugify_vietnamese(doc_title)
+            doc_title_slug = safe_slug(doc_title, max_length=48, fallback=f"doc-{number}")
             numbered_folder = f"{number}-{doc_title_slug}"
             content_folder = f"daa/quydinh_huongdan/{nhom_lon}/{numbered_folder}"
             logger.info(f"Detected numbered document: {numbered_folder} in {nhom_lon}")
@@ -1166,30 +1805,34 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
         markdown_dir = content_dir
         pdf_dir = content_dir
         docx_dir = content_dir
+        xlsx_dir = content_dir
     else:
         # For other categories, use traditional structure with subfolders
         html_dir = content_dir / "html"
         markdown_dir = content_dir / "markdown"
         pdf_dir = content_dir / "pdf"
         docx_dir = content_dir / "docx"
+        xlsx_dir = content_dir / "xlsx"
         
         html_dir.mkdir(parents=True, exist_ok=True)
         markdown_dir.mkdir(parents=True, exist_ok=True)
         pdf_dir.mkdir(parents=True, exist_ok=True)
         docx_dir.mkdir(parents=True, exist_ok=True)
+        xlsx_dir.mkdir(parents=True, exist_ok=True)
     
-    safe_name = url.replace("https://", "").replace("http://", "")
-    safe_name = safe_name.replace("/", "_").replace(":", "_")[:200]
+    safe_name = build_safe_url_basename(url)
     
     # Check for duplicate content BEFORE saving anything
     if data.get("markdown"):
         markdown_content = data["markdown"]
         if is_duplicate_content(markdown_content, url):
-            crawl_stats.add_skipped()
+            crawl_stats.add_skipped(seed_context_url)
             logger.info(f"Skipping all files (duplicate detected): {url}")
-            return  # Skip saving duplicate content (HTML, MD, PDFs)
+            result["skipped"] = True
+            return result  # Skip saving duplicate content (HTML, MD, PDFs)
     
     total_size = 0
+    download_count = 0
     
     if data.get("html"):
         html_file = html_dir / f"{safe_name}.html"
@@ -1202,9 +1845,16 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
         download_links = find_download_links(data["html"], url)
         for link in download_links:
             if link.lower().endswith('.pdf'):
-                download_file(link, pdf_dir, content_folder)
+                download_result = download_file(link, pdf_dir, content_folder, seed_context_url=seed_context_url)
             elif link.lower().endswith(('.doc', '.docx')):
-                download_file(link, docx_dir, content_folder)
+                download_result = download_file(link, docx_dir, content_folder, seed_context_url=seed_context_url)
+            elif link.lower().endswith(('.xls', '.xlsx')):
+                download_result = download_file(link, xlsx_dir, content_folder, seed_context_url=seed_context_url)
+            else:
+                download_result = {"downloaded": False}
+
+            if download_result.get("downloaded"):
+                download_count += 1
     
     if data.get("markdown"):
         md_file = markdown_dir / f"{safe_name}.md"
@@ -1219,14 +1869,14 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
         log_crawled_file(md_file, url)  # Log to crawled.txt
     
     # Update stats
-    if CURRENT_SEED_URL:
-        crawl_stats.add_page(CURRENT_SEED_URL, total_size, success=True)
+    if seed_context_url and total_size > 0:
+        crawl_stats.add_page(seed_context_url, total_size, success=True)
     
     metadata = {
         "title": data.get("metadata", {}).get("title", ""),
         "url": url,
         "type": "html",
-        "seed": CURRENT_SEED_URL if CURRENT_SEED_URL else "unknown",
+        "seed": seed_context_url if seed_context_url else "unknown",
         "content_folder": content_folder,
         "content": data.get("markdown", data.get("text", ""))[:10000],
         "source_url": data.get("metadata", {}).get("sourceURL", url),
@@ -1235,210 +1885,327 @@ def save_content(url: str, data: Dict[str, Any], skip_global_cache: bool = False
         "date": datetime.now().isoformat(),
     }
     append_jsonl(metadata)
+    result["saved"] = total_size > 0
+    result["downloads"] = download_count
+    result["size_bytes"] = total_size
+    return result
 
-def crawl_numbered_details(app: FirecrawlApp, detail_urls: List[str], cfg: Dict[str, Any], crawled_urls: set):
-    """Crawl detail pages for numbered documents"""
-    delay = int(os.environ.get("DELAY_BETWEEN_REQUESTS", "2"))
-    
-    for detail_url in detail_urls:
+def merge_execution_summary(target: Dict[str, Any], source: Dict[str, Any]):
+    for key in ("pages", "downloads", "skipped", "errors"):
+        target[key] = target.get(key, 0) + source.get(key, 0)
+
+
+def process_seed_pages(
+    pages: List[Dict[str, Any]],
+    seed_url: str,
+    crawled_urls: set,
+    strategy: str,
+    *,
+    skip_global_cache: bool = False,
+    allow_global_cache: bool = True,
+) -> Dict[str, Any]:
+    summary = {
+        "pages": 0,
+        "downloads": 0,
+        "skipped": 0,
+        "errors": 0,
+        "detail_kind": None,
+        "detail_urls": [],
+    }
+    seen_detail_urls = set()
+    seen_page_urls = set()
+
+    for raw_page in pages:
+        page_url = seed_url
+
         try:
-            logger.info(f"Crawling numbered detail: {detail_url}")
-            
-            # Use crawl_url with limit=1 and maxDepth=2 (some URLs have /thongbao/ in path)
-            crawl_params = {
-                "limit": 1,
-                "maxDepth": 2,
-                "scrapeOptions": {
-                    "formats": ["markdown", "html"],
-                    "waitFor": 1000,
-                    "timeout": 30000,
-                }
-            }
-            
-            crawl_result = app.crawl_url(detail_url, params=crawl_params, poll_interval=2)
-            
-            if crawl_result.get("success"):
-                data = crawl_result.get("data", [])
-                if data and len(data) > 0:
-                    page_data = data[0]  # Get first (and only) page
-                    save_content(detail_url, page_data)
-                    logger.info(f"✓ Saved numbered detail: {detail_url}")
-            else:
-                error_msg = crawl_result.get('error', 'Unknown error')
-                logger.error(f"Failed to crawl detail {detail_url}: {error_msg}")
-            
-            time.sleep(delay)
-            
+            if isinstance(raw_page, dict):
+                page_url = raw_page.get("metadata", {}).get("sourceURL") or raw_page.get("url") or seed_url
+
+            page = normalize_scraped_page(raw_page, seed_url)
+            page_url = page.get("metadata", {}).get("sourceURL", seed_url) or seed_url
+
+            if page_url in seen_page_urls:
+                continue
+            seen_page_urls.add(page_url)
+
+            detail_info = extract_detail_urls_from_page(page_url, page, seed_url, strategy)
+            if detail_info["kind"] and not summary["detail_kind"]:
+                summary["detail_kind"] = detail_info["kind"]
+            for detail_url in detail_info["urls"]:
+                if detail_url not in seen_detail_urls:
+                    seen_detail_urls.add(detail_url)
+                    summary["detail_urls"].append(detail_url)
+
+            if allow_global_cache and (page_url in crawled_urls or page_url in CRAWLED_URLS_SET):
+                summary["skipped"] += 1
+                crawl_stats.add_skipped(seed_url)
+                logger.debug(f"Skipped (cached): {page_url}")
+                continue
+
+            save_result = save_content(
+                page_url,
+                page,
+                skip_global_cache=skip_global_cache,
+                seed_context_url=seed_url,
+            )
+            if save_result.get("saved"):
+                summary["pages"] += 1
+            if save_result.get("skipped"):
+                summary["skipped"] += 1
+            summary["downloads"] += save_result.get("downloads", 0)
         except Exception as e:
-            logger.error(f"Error crawling detail {detail_url}: {e}")
-            time.sleep(delay)
+            error_cat = categorize_error(e)
+            crawl_stats.add_error(error_cat, seed_url)
+            summary["errors"] += 1
+            logger.error(f"[{error_cat}] Failed to process page {page_url} in seed {seed_url}: {e}")
+            continue
+
+    return summary
+
+
+def scrape_seed_page(app: FirecrawlApp, url: str, strategy: str) -> Dict[str, Any]:
+    scrape_result = app.scrape_url(url, params=build_scrape_options(strategy))
+    if isinstance(scrape_result, dict) and scrape_result.get("success") is False:
+        raise RuntimeError(scrape_result.get("error", f"Scrape failed for {url}"))
+    return normalize_scraped_page(scrape_result, url)
+
+
+def process_direct_file_seed(seed_url: str) -> Dict[str, Any]:
+    content_folder = get_content_folder(seed_url, seed_context_url=seed_url)
+    content_dir = OUTPUT_DIR / content_folder
+    file_ext = get_url_extension(seed_url)
+    subfolder = "pdf"
+    if file_ext in {".doc", ".docx"}:
+        subfolder = "docx"
+    elif file_ext in {".xls", ".xlsx"}:
+        subfolder = "xlsx"
+
+    output_dir = content_dir / subfolder
+    download_result = download_file(seed_url, output_dir, content_folder, seed_context_url=seed_url)
+
+    result = {
+        "success": download_result.get("downloaded") or download_result.get("skipped"),
+        "pages": 0,
+        "downloads": 1 if download_result.get("downloaded") else 0,
+        "skipped": 0,
+        "errors": 0,
+    }
+
+    if download_result.get("skipped"):
+        crawl_stats.add_skipped(seed_url)
+        result["skipped"] = 1
+
+    if result["success"]:
+        mark_url_crawled(seed_url)
+
+    return result
+
+
+def crawl_numbered_details(
+    app: FirecrawlApp,
+    detail_urls: List[str],
+    cfg: Dict[str, Any],
+    crawled_urls: set,
+    seed_context_url: str,
+) -> Dict[str, Any]:
+    """Scrape detail pages for numbered documents and de-mo-nganh fanout."""
+    delay = int(os.environ.get("DELAY_BETWEEN_REQUESTS", "2"))
+    summary = {"pages": 0, "downloads": 0, "skipped": 0, "errors": 0}
+    detail_urls = dedupe_preserve_order(detail_urls)
+
+    batch_pages = try_batch_scrape_pages(app, detail_urls, cfg)
+    batch_urls = {
+        page.get("metadata", {}).get("sourceURL", "")
+        for page in batch_pages
+        if isinstance(page, dict)
+    }
+    if batch_pages:
+        batch_summary = process_seed_pages(batch_pages, seed_context_url, crawled_urls, "detail_page")
+        merge_execution_summary(summary, batch_summary)
+
+    remaining_urls = [detail_url for detail_url in detail_urls if detail_url not in batch_urls]
+
+    for detail_url in remaining_urls:
+        try:
+            logger.info(f"Scraping numbered detail: {detail_url}")
+            page = scrape_seed_page(app, detail_url, "detail_page")
+            detail_summary = process_seed_pages([page], seed_context_url, crawled_urls, "detail_page")
+            merge_execution_summary(summary, detail_summary)
+            logger.info(f"✓ Processed numbered detail: {detail_url}")
+        except Exception as e:
+            error_cat = categorize_error(e)
+            crawl_stats.add_error(error_cat, seed_context_url)
+            summary["errors"] += 1
+            logger.error(f"[{error_cat}] Error scraping detail {detail_url}: {e}")
+
+        time.sleep(delay)
+
+    return summary
+
+
+def crawl_ctdt_program_details(
+    app: FirecrawlApp,
+    detail_urls: List[str],
+    cfg: Dict[str, Any],
+    crawled_urls: set,
+    seed_context_url: str,
+) -> Dict[str, Any]:
+    """Crawl explicit CTDT program URLs with a much smaller recursive budget."""
+    delay = int(os.environ.get("DELAY_BETWEEN_REQUESTS", "2"))
+    summary = {"pages": 0, "downloads": 0, "skipped": 0, "errors": 0}
+
+    for program_url in dedupe_preserve_order(detail_urls):
+        try:
+            logger.info(f"Crawling CTDT program (bounded): {program_url}")
+            crawl_params = build_crawl_params(cfg, "ctdt_program")
+            crawl_params["maxDepth"] = resolve_absolute_crawl_depth(
+                program_url,
+                crawl_params.get("maxDepth", 1),
+            )
+            crawl_result = app.crawl_url(
+                program_url,
+                params=crawl_params,
+                poll_interval=2,
+            )
+            program_pages = normalize_crawl_pages(crawl_result)
+            program_summary = process_seed_pages(
+                program_pages,
+                seed_context_url,
+                crawled_urls,
+                "ctdt_program",
+                skip_global_cache=True,
+                allow_global_cache=False,
+            )
+            merge_execution_summary(summary, program_summary)
+            logger.info(f"✓ Saved {program_summary['pages']} pages from CTDT program: {program_url}")
+        except Exception as e:
+            error_cat = categorize_error(e)
+            crawl_stats.add_error(error_cat, seed_context_url)
+            summary["errors"] += 1
+            logger.error(f"[{error_cat}] Error crawling CTDT program {program_url}: {e}")
+
+        time.sleep(delay)
+
+    return summary
+
 
 def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], crawled_urls: set) -> dict:
-    """Crawl a single seed URL (for parallel execution)"""
-    global CURRENT_SEED_URL
-    CURRENT_SEED_URL = seed_url
-    
-    max_retries = 5  # Increased from 3 to handle rate limiting better
-    retry_delay = 10  # Increased from 5 to give server more time
-    result = {"seed_url": seed_url, "success": False, "pages": 0, "errors": 0}
-    
+    """Crawl a single seed URL using the reviewed seed-aware routing strategy."""
+    max_retries = 5
+    retry_delay = 10
+    strategy = classify_seed_strategy(seed_url, cfg)
+    result = {
+        "seed_url": seed_url,
+        "strategy": strategy,
+        "success": False,
+        "pages": 0,
+        "downloads": 0,
+        "skipped": 0,
+        "errors": 0,
+    }
+
+    crawl_stats.start_seed(seed_url, strategy)
+
     for attempt in range(max_retries):
         try:
-            logger.info(f"Starting crawl for: {seed_url} (attempt {attempt + 1}/{max_retries})")
-            
-            crawl_params = {
-                "limit": 500,
-                "maxDepth": cfg.get("max_depth", 3),
-                "scrapeOptions": {
-                    "formats": ["markdown", "html"],
-                    "waitFor": 1000,
-                    "timeout": 30000,
-                    "headers": {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-                    }
-                }
-            }
-            
-            if cfg.get("include_patterns"):
-                crawl_params["includePaths"] = cfg["include_patterns"]
-            if cfg.get("exclude_patterns"):
-                crawl_params["excludePaths"] = cfg["exclude_patterns"]
-            
-            crawl_result = app.crawl_url(seed_url, params=crawl_params, poll_interval=5)
-            
-            if crawl_result.get("success"):
-                data = crawl_result.get("data", [])
-                logger.info(f"Crawled {len(data)} pages from {seed_url}")
-                
-                success_count = 0
-                skipped_count = 0
-                detail_urls_found = []  # Track new detail URLs from this seed
-                
-                for page in data:
-                    try:
-                        page_url = page.get("metadata", {}).get("sourceURL", seed_url)
-                        # Check both the local set and the global in-memory set so
-                        # URLs saved during this run are respected immediately.
-                        if page_url in crawled_urls or page_url in CRAWLED_URLS_SET:
-                            skipped_count += 1
-                            crawl_stats.add_skipped()
-                            logger.debug(f"Skipped (cached): {page_url}")
-                            continue
-                        
-                        # Before saving, check if this is a listing page with numbered docs
-                        html_content = page.get("html", "")
-                        page_title = page.get("metadata", {}).get("title", "")
-                        content_folder_check = get_content_folder(page_url, page_title)
-                        logger.debug(f"Checking page: {page_url} → folder: {content_folder_check}")
-                        
-                        if "quydinh_huongdan" in content_folder_check:
-                            new_detail_urls = parse_numbered_list_from_html(html_content, page_url)
-                            detail_urls_found.extend(new_detail_urls)
-                        elif "dean" in content_folder_check:
-                            # For "đề án" pages, extract detail links (similar to numbered docs)
-                            new_detail_urls = parse_de_mo_nganh_list_from_html(html_content, page_url)
-                            detail_urls_found.extend(new_detail_urls)
-                        elif "chuongtrinh_daotao/he-chinhquy" in content_folder_check:
-                            # For CTDT index pages (ctdt-khoa-YYYY), extract program links
-                            new_detail_urls = parse_ctdt_program_links_from_html(html_content, page_url)
-                            detail_urls_found.extend(new_detail_urls)
-                            logger.info(f"Extracted {len(new_detail_urls)} program URLs from index page")
-                        elif "chuongtrinh_daotao/he-tuxa" in content_folder_check:
-                            # For TU XA index pages, extract program links (same function works)
-                            new_detail_urls = parse_ctdt_program_links_from_html(html_content, page_url)
-                            detail_urls_found.extend(new_detail_urls)
-                            logger.info(f"Extracted {len(new_detail_urls)} tu-xa program URLs from index page")
-                        
-                        save_content(page_url, page)
-                        success_count += 1
-                    except Exception as e:
-                        error_cat = categorize_error(e)
-                        crawl_stats.add_error(error_cat)
-                        logger.error(f"[{error_cat}] Failed to save page: {e}")
-                        result["errors"] += 1
-                
-                result["success"] = True
-                result["pages"] = success_count
-                logger.info(f"Saved {success_count}/{len(data)} pages, skipped {skipped_count} (cached) from {seed_url}")
-                
-                # After processing listing page, crawl detail URLs found in this seed
-                if detail_urls_found:
-                    # For CTDT programs, DON'T filter by URL - we need to crawl them for each year's folder structure
-                    sample_url = detail_urls_found[0]
-                    is_ctdt_program = "/content/" in sample_url and ("cu-nhan-" in sample_url or "chuong-trinh-" in sample_url or "ky-su-" in sample_url)
-                    
-                    if is_ctdt_program:
-                        # CTDT programs must be crawled for each year to create proper folder structure
-                        detail_urls_to_crawl = detail_urls_found
-                        logger.info(f"Found {len(detail_urls_to_crawl)} CTDT program pages to crawl from {seed_url}")
-                    else:
-                        # For other types (like numbered docs), filter out already crawled URLs
-                        detail_urls_to_crawl = [url for url in detail_urls_found if url not in crawled_urls and url not in CRAWLED_URLS_SET]
-                    
-                    if detail_urls_to_crawl:
-                        if is_ctdt_program:
-                            # These are CTDT program detail pages - crawl each as a mini seed with proper depth
-                            for program_url in detail_urls_to_crawl:
-                                try:
-                                    logger.info(f"Crawling CTDT program: {program_url}")
-                                    
-                                    # Crawl program page with depth 2 (program page + any subpages like curriculum details)
-                                    program_crawl_params = {
-                                        "limit": 10,  # Some programs may have subpages
-                                        "maxDepth": 2,
-                                        "scrapeOptions": {
-                                            "formats": ["markdown", "html"],
-                                            "waitFor": 1000,
-                                            "timeout": 30000,
-                                        }
-                                    }
-                                    
-                                    program_result = app.crawl_url(program_url, params=program_crawl_params, poll_interval=2)
-                                    
-                                    if program_result.get("success"):
-                                        program_data = program_result.get("data", [])
-                                        program_saved = 0
-                                        for program_page in program_data:
-                                            program_page_url = program_page.get("metadata", {}).get("sourceURL", program_url)
-                                            # Always save CTDT program pages - different years need different folder structures
-                                            # Check against per-seed crawled_urls only to avoid duplicates within same seed
-                                            if program_page_url not in crawled_urls:
-                                                save_content(program_page_url, program_page, skip_global_cache=True)
-                                                program_saved += 1
-                                        logger.info(f"✓ Saved {program_saved} pages from CTDT program: {program_url}")
-                                    else:
-                                        error_msg = program_result.get('error', 'Unknown error')
-                                        logger.error(f"Failed to crawl CTDT program {program_url}: {error_msg}")
-                                    
-                                    time.sleep(int(os.environ.get("DELAY_BETWEEN_REQUESTS", "2")))
-                                    
-                                except Exception as e:
-                                    logger.error(f"Error crawling CTDT program {program_url}: {e}")
-                        else:
-                            # These are numbered docs or de-mo-nganh docs - use the existing function
-                            logger.info(f"Found {len(detail_urls_to_crawl)} numbered detail pages to crawl from {seed_url}")
-                            crawl_numbered_details(app, detail_urls_to_crawl, cfg, crawled_urls)
-                
-                break
-            else:
-                error_msg = crawl_result.get('error', 'Unknown error')
-                error_cat = categorize_error(Exception(error_msg))
-                crawl_stats.add_error(error_cat)
-                logger.error(f"[{error_cat}] Crawl failed for {seed_url}: {error_msg}")
-                
+            logger.info(
+                f"Starting {strategy} crawl for: {seed_url} "
+                f"(attempt {attempt + 1}/{max_retries})"
+            )
+
+            if strategy == "direct_file":
+                direct_result = process_direct_file_seed(seed_url)
+                if direct_result["success"]:
+                    merge_execution_summary(result, direct_result)
+                    result["success"] = True
+                    break
+
+                crawl_stats.add_error("unknown", seed_url)
+                result["errors"] += 1
+                logger.warning(f"Direct file crawl failed for {seed_url}")
+
                 if attempt < max_retries - 1:
                     logger.info(f"Retrying in {retry_delay} seconds...")
                     time.sleep(retry_delay)
                     retry_delay *= 2
-                else:
-                    logger.error(f"Max retries reached for {seed_url}")
-                    mark_failed_url(seed_url, error_msg, seed_url, max_retries)
-        
+                    continue
+
+                logger.error(f"Max retries reached for direct file seed {seed_url}")
+                mark_failed_url(seed_url, "Direct file download failed", seed_url, max_retries)
+                continue
+
+            if strategy in {"single_page", "slow_lane", "listing_with_detail_fanout", "ctdt_index"}:
+                seed_pages = load_seed_pages_with_fallback(app, seed_url, strategy, cfg)
+                page_summary = process_seed_pages(seed_pages, seed_url, crawled_urls, strategy)
+                merge_execution_summary(result, page_summary)
+                fanout_complete = page_summary["errors"] == 0
+
+                if strategy == "listing_with_detail_fanout" and page_summary["detail_urls"]:
+                    logger.info(
+                        f"Found {len(page_summary['detail_urls'])} detail pages to scrape from {seed_url}"
+                    )
+                    detail_summary = crawl_numbered_details(
+                        app,
+                        page_summary["detail_urls"],
+                        cfg,
+                        crawled_urls,
+                        seed_url,
+                    )
+                    merge_execution_summary(result, detail_summary)
+                    fanout_complete = fanout_complete and detail_summary["errors"] == 0
+                elif strategy == "ctdt_index" and page_summary["detail_urls"]:
+                    logger.info(
+                        f"Found {len(page_summary['detail_urls'])} CTDT program pages to crawl from {seed_url}"
+                    )
+                    detail_summary = crawl_ctdt_program_details(
+                        app,
+                        page_summary["detail_urls"],
+                        cfg,
+                        crawled_urls,
+                        seed_url,
+                    )
+                    merge_execution_summary(result, detail_summary)
+                    fanout_complete = fanout_complete and detail_summary["errors"] == 0
+
+                if strategy in {"listing_with_detail_fanout", "ctdt_index"} and not fanout_complete:
+                    raise RuntimeError(
+                        f"Fanout incomplete for {seed_url} "
+                        f"(page_errors={page_summary['errors']}, total_errors={result['errors']})"
+                    )
+
+                if strategy in {"single_page", "slow_lane"} and page_summary["errors"] > 0:
+                    raise RuntimeError(
+                        f"Seed page processing incomplete for {seed_url} "
+                        f"(page_errors={page_summary['errors']})"
+                    )
+
+                result["success"] = True
+                break
+
+            crawl_result = app.crawl_url(
+                seed_url,
+                params=build_crawl_params(cfg, strategy),
+                poll_interval=5,
+            )
+            pages = normalize_crawl_pages(crawl_result)
+            logger.info(f"Crawled {len(pages)} pages from {seed_url}")
+
+            page_summary = process_seed_pages(pages, seed_url, crawled_urls, strategy)
+            merge_execution_summary(result, page_summary)
+            result["success"] = True
+            logger.info(
+                f"Saved {page_summary['pages']}/{len(pages)} pages, "
+                f"skipped {page_summary['skipped']} from {seed_url}"
+            )
+            break
+
         except Exception as e:
             error_cat = categorize_error(e)
-            crawl_stats.add_error(error_cat)
+            crawl_stats.add_error(error_cat, seed_url)
+            result["errors"] += 1
             logger.error(f"[{error_cat}] Error crawling {seed_url}: {e}")
-            
+
             if attempt < max_retries - 1:
                 logger.info(f"Retrying in {retry_delay} seconds...")
                 time.sleep(retry_delay)
@@ -1446,14 +2213,17 @@ def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], cra
             else:
                 logger.error(f"Max retries reached for {seed_url}")
                 mark_failed_url(seed_url, str(e), seed_url, max_retries)
-                result["errors"] += 1
-    
+
+    result["duration_seconds"] = crawl_stats.finish_seed(seed_url, result["success"])
     return result
 
-def crawl_with_firecrawl(app: FirecrawlApp, seed_urls: List[str], cfg: Dict[str, Any]):
+def crawl_with_firecrawl(
+    app: FirecrawlApp,
+    seed_urls: List[str],
+    cfg: Dict[str, Any],
+    crawl_mode: str = "incremental",
+):
     """Crawl multiple seeds with parallel execution and checkpoint support"""
-    global CURRENT_SEED_URL
-    
     crawled_urls = load_crawled_urls()
     # Initialize the global in-memory cache so mark_url_crawled() can keep it
     # up-to-date during the run. We still pass the local set to worker funcs
@@ -1465,19 +2235,30 @@ def crawl_with_firecrawl(app: FirecrawlApp, seed_urls: List[str], cfg: Dict[str,
     logger.info(f"Loaded {len(crawled_urls)} URLs from cache")
     
     checkpoint = load_checkpoint()
-    start_index = 0
-    
+    completed_seeds = load_completed_seeds()
+    completed_seed_urls = set(completed_seeds.keys())
+
     if checkpoint:
-        try:
-            checkpoint_url = checkpoint.get("seed_url")
-            if checkpoint_url in seed_urls:
-                start_index = seed_urls.index(checkpoint_url)
-                logger.info(f"Resuming from checkpoint: {checkpoint_url} (index {start_index})")
-        except (ValueError, KeyError) as e:
-            logger.warning(f"Could not resume from checkpoint: {e}")
-    
-    seeds_to_crawl = seed_urls[start_index:]
-    logger.info(f"Crawling {len(seeds_to_crawl)} seeds (starting from index {start_index})")
+        logger.info(
+            "Checkpoint metadata loaded: "
+            f"{checkpoint.get('seed_url')} "
+            f"({checkpoint.get('completed_count', len(completed_seed_urls))}/{checkpoint.get('total_seeds', len(seed_urls))})"
+        )
+
+    if completed_seed_urls:
+        logger.info(f"Loaded {len(completed_seed_urls)} completed seeds from resume state")
+
+    seeds_to_crawl = [seed_url for seed_url in seed_urls if seed_url not in completed_seed_urls]
+    logger.info(
+        f"Crawling {len(seeds_to_crawl)} remaining seeds "
+        f"({len(completed_seed_urls)} already complete, mode={crawl_mode})"
+    )
+
+    if not seeds_to_crawl:
+        clear_checkpoint()
+        clear_completed_seeds()
+        logger.info("No remaining seeds to crawl")
+        return
     
     max_workers = int(os.environ.get("MAX_WORKERS", "3"))
     logger.info(f"Using {max_workers} parallel workers")
@@ -1485,8 +2266,8 @@ def crawl_with_firecrawl(app: FirecrawlApp, seed_urls: List[str], cfg: Dict[str,
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         # Submit all tasks
         future_to_seed = {
-            executor.submit(crawl_single_seed, app, seed_url, cfg, crawled_urls): (i + start_index, seed_url)
-            for i, seed_url in enumerate(seeds_to_crawl)
+            executor.submit(crawl_single_seed, app, seed_url, cfg, crawled_urls): (seed_urls.index(seed_url), seed_url)
+            for seed_url in seeds_to_crawl
         }
         
         # Process completed tasks
@@ -1495,10 +2276,19 @@ def crawl_with_firecrawl(app: FirecrawlApp, seed_urls: List[str], cfg: Dict[str,
             
             try:
                 result = future.result()
-                save_checkpoint(seed_url, seed_index)
-                logger.info(f"Progress: {seed_index + 1}/{len(seed_urls)} seeds completed")
+                if result.get("success"):
+                    save_completed_seed(seed_url, seed_index, result)
+                    completed_seed_urls.add(seed_url)
+
+                save_checkpoint(
+                    seed_url,
+                    seed_index,
+                    len(completed_seed_urls),
+                    len(seed_urls),
+                )
+                logger.info(f"Progress: {len(completed_seed_urls)}/{len(seed_urls)} seeds completed")
                 
-                if (seed_index + 1) % 5 == 0:
+                if len(completed_seed_urls) % 5 == 0:
                     crawl_stats.save_report()
                 
             except Exception as e:
@@ -1509,6 +2299,7 @@ def crawl_with_firecrawl(app: FirecrawlApp, seed_urls: List[str], cfg: Dict[str,
             time.sleep(1)
     
     clear_checkpoint()
+    clear_completed_seeds()
     logger.info("All seeds crawled successfully")
 
 def scrape_with_firecrawl(app: FirecrawlApp, urls: List[str]):
@@ -1534,6 +2325,7 @@ def crawl_once():
     """Execute one crawl cycle with improved error handling and stats"""
     cfg = load_config()
     ensure_dirs()
+    crawl_mode = resolve_crawl_mode()
     
     if not wait_for_firecrawl():
         logger.error("Firecrawl services not available, aborting")
@@ -1548,14 +2340,17 @@ def crawl_once():
             return
         
         logger.info(f"Starting crawl with {len(seed_urls)} seed URLs")
+        logger.info(f"Using crawl mode: {crawl_mode}")
         
         global crawl_stats
         crawl_stats = CrawlStats()
+
+        prepare_crawl_state(crawl_mode)
         
         # Load content deduplication cache
         load_content_hash_cache()
         
-        crawl_with_firecrawl(app, seed_urls, cfg)
+        crawl_with_firecrawl(app, seed_urls, cfg, crawl_mode=crawl_mode)
         
         rebuild_metadata_json()
         logger.info(f"Rebuilt {META_JSON}")
@@ -1570,6 +2365,7 @@ def crawl_once():
         logger.info(f"Success: {report['summary']['success_count']} ({report['summary']['success_rate']}%)")
         logger.info(f"Errors: {report['summary']['error_count']}")
         logger.info(f"Skipped (cached): {report['summary']['skipped_count']}")
+        logger.info(f"Downloads: {report['summary']['download_count']}")
         logger.info(f"Total Size: {report['summary']['total_size_mb']} MB")
         logger.info(f"Duration: {report['performance']['duration_minutes']} minutes")
         logger.info(f"Speed: {report['performance']['pages_per_minute']} pages/min")

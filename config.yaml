@@ -15,3 +15,36 @@ exclude_patterns:
   - /news
 
 max_depth: 10
+
+seed_policies:
+  single_page_patterns:
+    - /content/bang-tom-tat-mon-hoc
+    - /content/chuc-nang-nhiem-vu-cua-phong-dao-tao-dai-hoc
+    - /content/quy-dinh-dao-tao-ngan-han
+    - /content/quy-trinh-danh-cho-can-bo-giang-day
+    - /mot-so-quy-trinh-danh-cho-sinh-vien
+    - /content/huong-dan-sinh-vien-dai-hoc-he-chinh-quy-thuc-hien-cac-quy-dinh-ve-chuan-qua-trinh-va-chuan
+  listing_page_patterns:
+    - /content/cong-thong-tin-dao-tao
+    - tuyensinh.uit.edu.vn/nganh-dao-tao
+    - /thongbaochinhquy
+    - /thong-bao-vb2
+    - /thongbaotuxa
+    - /kehoachnam
+    - /content/chuong-trinh-dao-tao-cu
+  listing_with_detail_fanout_patterns:
+    - /qui-che-qui-dinh-qui-trinh
+    - /quy-che-quy-dinh-dao-tao-dai-hoc-cua-dhqg-hcm
+    - /quy-che-quy-dinh-dao-tao-dai-hoc-cua-bo-gddt
+    - /loai-bai-viet/de-mo-nganh
+  ctdt_index_patterns:
+    - /chuong-trinh-dao-tao/ctdt-khoa-
+    - /tu-xa/ctdt-khoa-
+    - /cqui/ctdt-khoa-
+  slow_lane_patterns:
+    - /danh-muc-mon-hoc-dai-hoc
+  listing_page_limit: 60
+  listing_page_depth: 2
+  ctdt_program_limit: 4
+  ctdt_program_depth: 1
+  batch_scrape_detail_fanout: true
