@@ -27,6 +27,7 @@ RUN_ONCE = os.environ.get("RUN_ONCE", "false").lower() == "true"
 
 META_JSONL = OUTPUT_DIR / "metadata.jsonl"
 META_JSON = OUTPUT_DIR / "metadata.json"
+PAGE_ARTIFACTS_JSONL = OUTPUT_DIR / "page_artifacts.jsonl"
 CRAWLED_CACHE = OUTPUT_DIR / "crawled_urls.txt"
 CHECKPOINT_FILE = OUTPUT_DIR / "checkpoint.json"
 FAILED_URLS_FILE = OUTPUT_DIR / "failed_urls.jsonl"
@@ -78,6 +79,7 @@ DEFAULT_SEED_POLICIES = {
 NUMBERED_DOCS_CACHE = {}
  
 CRAWLED_URLS_SET = set()
+JOB_STRATEGY_OVERRIDES = {}
 # Content deduplication cache: maps MD5 hash to first URL that had this content
 CONTENT_HASH_CACHE = {}
 # File to persist content hashes across runs
@@ -596,6 +598,37 @@ def build_safe_download_name(url: str, max_length: int = 96) -> str:
 
     return candidate
 
+def load_seed_urls_from_jobs(path: Path, limit: int = 0) -> List[str]:
+    if not path.exists():
+        logger.warning(f"CRAWL_JOBS_PATH does not exist: {path}")
+        return []
+
+    JOB_STRATEGY_OVERRIDES.clear()
+    seed_urls = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                job = json.loads(line)
+            except Exception as e:
+                logger.warning(f"Failed to parse crawl job line: {e}")
+                continue
+            if str(job.get("status") or "scheduled") != "scheduled":
+                continue
+            url = str(job.get("url") or "").strip()
+            if not url:
+                continue
+            strategy = str(job.get("strategy") or "").strip()
+            if strategy:
+                JOB_STRATEGY_OVERRIDES[url] = strategy
+            if url not in seed_urls:
+                seed_urls.append(url)
+            if limit and len(seed_urls) >= limit:
+                break
+    return seed_urls
+
 def load_config() -> Dict[str, Any]:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f) or {}
@@ -607,6 +640,13 @@ def load_config() -> Dict[str, Any]:
         return [x.strip() for x in raw.split(",") if x.strip()]
     
     cfg["seed_urls"] = env_list("SEED_URLS", cfg.get("seed_urls", []))
+    crawl_jobs_path = os.environ.get("CRAWL_JOBS_PATH", "").strip()
+    if crawl_jobs_path:
+        job_limit = int(os.environ.get("CRAWL_JOB_LIMIT", "0"))
+        job_seed_urls = load_seed_urls_from_jobs(Path(crawl_jobs_path), limit=job_limit)
+        if job_seed_urls:
+            cfg["seed_urls"] = job_seed_urls
+            logger.info(f"Loaded {len(job_seed_urls)} seed URL(s) from CRAWL_JOBS_PATH={crawl_jobs_path}")
     cfg["include_patterns"] = env_list("INCLUDE_PATTERNS", cfg.get("include_patterns", []))
     cfg["exclude_patterns"] = env_list("EXCLUDE_PATTERNS", cfg.get("exclude_patterns", []))
     cfg["max_depth"] = int(os.environ.get("MAX_DEPTH", cfg.get("max_depth", 3)))
@@ -624,6 +664,9 @@ def load_config() -> Dict[str, Any]:
 def classify_seed_strategy(seed_url: str, cfg: Dict[str, Any]) -> str:
     policies = cfg.get("seed_policies", DEFAULT_SEED_POLICIES)
     normalized_url = unquote(seed_url or "").lower()
+    job_strategy = JOB_STRATEGY_OVERRIDES.get(seed_url)
+    if job_strategy:
+        return job_strategy
 
     if is_direct_file_url(seed_url):
         return "direct_file"
@@ -967,6 +1010,22 @@ def should_recrawl(url: str, days_threshold: int = 7) -> bool:
 def get_content_folder(url: str, title: str = "", seed_context_url: str = "") -> str:
     """Map URL to folder structure based on new requirements"""
     text = (url + " " + title).lower()
+    source_hint = (url + " " + seed_context_url).lower()
+
+    if "ctsv.uit.edu.vn" in source_hint:
+        if "/van-ban/thong-bao" in source_hint:
+            return "ctsv/van-ban/thong-bao"
+        if "/van-ban/ke-hoach" in source_hint:
+            return "ctsv/van-ban/ke-hoach"
+        if "/van-ban" in source_hint:
+            return "ctsv/van-ban"
+        if "/quy-trinh" in source_hint:
+            return "ctsv/quy-trinh"
+        if "/bai-viet" in source_hint:
+            return "ctsv/bai-viet"
+        if is_direct_file_url(url):
+            return "ctsv/files"
+        return "ctsv/khac/chua-phan-loai"
     
     # Giới thiệu
     if any(x in text for x in ["cong-thong-tin-dao-tao", "content/cong-thong-tin"]):
@@ -1236,6 +1295,10 @@ def append_jsonl(obj: Dict[str, Any]):
     with open(META_JSONL, "a", encoding="utf-8") as f:
         f.write(json.dumps(obj, ensure_ascii=False) + "\n")
 
+def append_page_artifact_jsonl(obj: Dict[str, Any]):
+    with open(PAGE_ARTIFACTS_JSONL, "a", encoding="utf-8") as f:
+        f.write(json.dumps(obj, ensure_ascii=False) + "\n")
+
 def rebuild_metadata_json():
     items = []
     if META_JSONL.exists():
@@ -1252,22 +1315,32 @@ def rebuild_metadata_json():
     with open(META_JSON, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
 
+def extract_direct_file_url(raw_url: str, base_url: str) -> str:
+    full_url = urljoin(base_url, unescape(raw_url or ""))
+    parsed = urlparse(full_url)
+    if Path(parsed.path).suffix.lower() in DIRECT_FILE_EXTENSIONS:
+        return full_url
+    for key, value in parse_qsl(parsed.query, keep_blank_values=True):
+        if key.lower() not in {"file", "url", "src", "download"}:
+            continue
+        candidate = urljoin(full_url, unescape(value))
+        if Path(urlparse(candidate).path).suffix.lower() in DIRECT_FILE_EXTENSIONS:
+            return candidate
+    return ""
+
+
 def find_download_links(html: str, base_url: str) -> List[str]:
     if not html:
         return []
     
     links = []
-    patterns = [
-        r'href=["\']([^"\']*\.pdf[^"\']*)["\']',
-        r'href=["\']([^"\']*\.docx?[^"\']*)["\']',
-        r'href=["\']([^"\']*\.xlsx?[^"\']*)["\']',
-    ]
+    patterns = [r'(?:href|src|data)=["\']([^"\']+)["\']']
     
     for pattern in patterns:
         matches = re.findall(pattern, html, re.IGNORECASE)
         for match in matches:
-            full_url = urljoin(base_url, match)
-            if full_url not in links:
+            full_url = extract_direct_file_url(match, base_url)
+            if full_url and full_url not in links:
                 links.append(full_url)
     
     return links
@@ -1277,13 +1350,16 @@ def download_file(
     output_dir: Path,
     category: str = "files",
     seed_context_url: str = "",
+    parent_page_url: str = "",
 ) -> Dict[str, Any]:
     output_dir.mkdir(parents=True, exist_ok=True)
     result = {
+        "url": url,
         "downloaded": False,
         "skipped": False,
         "size_bytes": 0,
         "path": "",
+        "error": "",
     }
 
     try:
@@ -1294,6 +1370,20 @@ def download_file(
             logger.debug(f"File already exists: {filename}")
             result["skipped"] = True
             result["path"] = str(output_path)
+            result["size_bytes"] = output_path.stat().st_size
+            metadata = {
+                "title": filename,
+                "url": url,
+                "type": "file",
+                "seed": seed_context_url if seed_context_url else "unknown",
+                "seed_folder": category,
+                "parent_page_url": parent_page_url,
+                "file_path": str(output_path),
+                "size_mb": round(result["size_bytes"] / (1024 * 1024), 2),
+                "status": "skipped",
+                "date": datetime.now().isoformat(),
+            }
+            append_jsonl(metadata)
             return result
 
         response = requests.get(url, stream=True, timeout=30, verify=False)
@@ -1319,8 +1409,10 @@ def download_file(
             "type": "file",
             "seed": seed_context_url if seed_context_url else "unknown",
             "seed_folder": category,
+            "parent_page_url": parent_page_url,
             "file_path": str(output_path),
             "size_mb": round(size_mb, 2),
+            "status": "downloaded",
             "date": datetime.now().isoformat(),
         }
         append_jsonl(metadata)
@@ -1332,6 +1424,24 @@ def download_file(
 
     except Exception as e:
         logger.warning(f"Failed to download {url}: {e}")
+        result["error"] = str(e)
+        response = getattr(e, "response", None)
+        status_code = getattr(response, "status_code", "")
+        metadata = {
+            "title": build_safe_download_name(url),
+            "url": url,
+            "type": "file",
+            "seed": seed_context_url if seed_context_url else "unknown",
+            "seed_folder": category,
+            "parent_page_url": parent_page_url,
+            "file_path": "",
+            "size_mb": 0,
+            "status": "failed",
+            "status_code": status_code,
+            "error": str(e),
+            "date": datetime.now().isoformat(),
+        }
+        append_jsonl(metadata)
         return result
 
 def extract_numbered_title(title: str, content: str = "") -> Optional[tuple]:
@@ -1803,19 +1913,23 @@ def save_content(
         content_dir.mkdir(parents=True, exist_ok=True)
         html_dir = content_dir
         markdown_dir = content_dir
+        firecrawl_markdown_dir = content_dir / "firecrawl_markdown"
         pdf_dir = content_dir
         docx_dir = content_dir
         xlsx_dir = content_dir
+        firecrawl_markdown_dir.mkdir(parents=True, exist_ok=True)
     else:
         # For other categories, use traditional structure with subfolders
         html_dir = content_dir / "html"
         markdown_dir = content_dir / "markdown"
+        firecrawl_markdown_dir = content_dir / "firecrawl_markdown"
         pdf_dir = content_dir / "pdf"
         docx_dir = content_dir / "docx"
         xlsx_dir = content_dir / "xlsx"
         
         html_dir.mkdir(parents=True, exist_ok=True)
         markdown_dir.mkdir(parents=True, exist_ok=True)
+        firecrawl_markdown_dir.mkdir(parents=True, exist_ok=True)
         pdf_dir.mkdir(parents=True, exist_ok=True)
         docx_dir.mkdir(parents=True, exist_ok=True)
         xlsx_dir.mkdir(parents=True, exist_ok=True)
@@ -1833,6 +1947,11 @@ def save_content(
     
     total_size = 0
     download_count = 0
+    html_file = None
+    raw_markdown_file = None
+    normalized_markdown_file = None
+    normalized_markdown_content = ""
+    attachment_results = []
     
     if data.get("html"):
         html_file = html_dir / f"{safe_name}.html"
@@ -1845,26 +1964,64 @@ def save_content(
         download_links = find_download_links(data["html"], url)
         for link in download_links:
             if link.lower().endswith('.pdf'):
-                download_result = download_file(link, pdf_dir, content_folder, seed_context_url=seed_context_url)
+                download_result = download_file(
+                    link,
+                    pdf_dir,
+                    content_folder,
+                    seed_context_url=seed_context_url,
+                    parent_page_url=url,
+                )
             elif link.lower().endswith(('.doc', '.docx')):
-                download_result = download_file(link, docx_dir, content_folder, seed_context_url=seed_context_url)
+                download_result = download_file(
+                    link,
+                    docx_dir,
+                    content_folder,
+                    seed_context_url=seed_context_url,
+                    parent_page_url=url,
+                )
             elif link.lower().endswith(('.xls', '.xlsx')):
-                download_result = download_file(link, xlsx_dir, content_folder, seed_context_url=seed_context_url)
+                download_result = download_file(
+                    link,
+                    xlsx_dir,
+                    content_folder,
+                    seed_context_url=seed_context_url,
+                    parent_page_url=url,
+                )
             else:
-                download_result = {"downloaded": False}
+                download_result = {"url": link, "downloaded": False, "skipped": False, "path": "", "error": ""}
 
             if download_result.get("downloaded"):
                 download_count += 1
+            attachment_results.append({
+                "url": link,
+                "local_path": download_result.get("path", ""),
+                "status": (
+                    "downloaded"
+                    if download_result.get("downloaded")
+                    else "skipped"
+                    if download_result.get("skipped")
+                    else "failed"
+                ),
+                "size_bytes": download_result.get("size_bytes", 0),
+                "error": download_result.get("error", ""),
+            })
     
     if data.get("markdown"):
+        raw_markdown_file = firecrawl_markdown_dir / f"{safe_name}.md"
+        with open(raw_markdown_file, "w", encoding="utf-8") as f:
+            f.write(data["markdown"])
+        total_size += raw_markdown_file.stat().st_size
+        logger.info(f"Saved Firecrawl Markdown [{content_folder}]: {raw_markdown_file.name}")
+
         md_file = markdown_dir / f"{safe_name}.md"
         markdown_content = data["markdown"]
         
         # Trim markdown to main content only
-        markdown_content = trim_markdown_content(markdown_content)
+        normalized_markdown_content = trim_markdown_content(markdown_content)
         with open(md_file, "w", encoding="utf-8") as f:
-            f.write(markdown_content)
+            f.write(normalized_markdown_content)
         total_size += md_file.stat().st_size
+        normalized_markdown_file = md_file
         logger.info(f"Saved Markdown [{content_folder}]: {md_file.name}")
         log_crawled_file(md_file, url)  # Log to crawled.txt
     
@@ -1872,14 +2029,35 @@ def save_content(
     if seed_context_url and total_size > 0:
         crawl_stats.add_page(seed_context_url, total_size, success=True)
     
+    artifact_content = normalized_markdown_content or data.get("markdown", "") or html_content
+    artifact_hash = hashlib.md5(artifact_content.encode("utf-8")).hexdigest() if artifact_content else ""
+    page_artifact = {
+        "canonical_url": url,
+        "raw_html_path": str(html_file) if html_file else "",
+        "firecrawl_markdown_path": str(raw_markdown_file) if raw_markdown_file else "",
+        "normalized_markdown_path": str(normalized_markdown_file) if normalized_markdown_file else "",
+        "text_path": "",
+        "links_path": "",
+        "attachments": attachment_results,
+        "content_hash": artifact_hash,
+        "status_code": data.get("metadata", {}).get("statusCode", 200),
+        "crawl_at": datetime.now().isoformat(),
+    }
+    append_page_artifact_jsonl(page_artifact)
+
     metadata = {
         "title": data.get("metadata", {}).get("title", ""),
         "url": url,
         "type": "html",
         "seed": seed_context_url if seed_context_url else "unknown",
         "content_folder": content_folder,
-        "content": data.get("markdown", data.get("text", ""))[:10000],
+        "content": artifact_content[:10000],
         "source_url": data.get("metadata", {}).get("sourceURL", url),
+        "html_path": str(html_file) if html_file else "",
+        "firecrawl_markdown_path": str(raw_markdown_file) if raw_markdown_file else "",
+        "markdown_path": str(normalized_markdown_file) if normalized_markdown_file else "",
+        "content_hash": artifact_hash,
+        "attachments": attachment_results,
         "status_code": data.get("metadata", {}).get("statusCode", 200),
         "size_bytes": total_size,
         "date": datetime.now().isoformat(),

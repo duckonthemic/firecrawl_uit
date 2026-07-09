@@ -3,16 +3,26 @@
 
 seed_urls:
   - https://daa.uit.edu.vn
+  - https://ctsv.uit.edu.vn
 
 include_patterns:
   - /content
   - /thongbao
+  - /thong-bao
+  - /van-ban
   - /quy-dinh
   - /quy-trinh
+  - /kehoachnam
+  - /chuong-trinh-dao-tao
 
 exclude_patterns:
   - /tin-tuc
   - /news
+  - /admin
+  - /search
+  - /user/login
+  - /user/logout
+  - /user/register
 
 max_depth: 10
 
@@ -30,6 +40,10 @@ seed_policies:
     - /thongbaochinhquy
     - /thong-bao-vb2
     - /thongbaotuxa
+    - /van-ban
+    - /van-ban/thong-bao
+    - /van-ban/ke-hoach
+    - /quy-trinh
     - /kehoachnam
     - /content/chuong-trinh-dao-tao-cu
   listing_with_detail_fanout_patterns:

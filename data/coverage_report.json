@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-07-09T05:42:22.275954+00:00",
+  "expected_urls": 3357,
+  "crawled_pages": 3036,
+  "normalized_pages": 3324,
+  "downloaded_files": 4818,
+  "manifested_docs": 8142,
+  "indexed_docs": 0,
+  "missing_temporal_metadata": 0,
+  "skipped_external": 31,
+  "failed_terminal": 0,
+  "attachment_rows": 2503,
+  "terminal_attachment_failures": 8,
+  "attachment_missing_terminal_state": 0,
+  "terminal_coverage_ratio": 1.0,
+  "quality_issues": 0,
+  "missing_items": 0,
+  "by_site": {
+    "ctsv": 3150,
+    "daa": 176,
+    "external": 31
+  },
+  "by_category": {
+    "ctdt": 49,
+    "ke_hoach": 162,
+    "mon_hoc": 3,
+    "public_page": 2389,
+    "quy_dinh": 66,
+    "quy_trinh": 29,
+    "thong_bao": 640,
+    "van_ban": 19
+  },
+  "by_crawl_status": {
+    "200": 3038,
+    "403": 3,
+    "404": 285,
+    "skipped_external": 31
+  },
+  "qc_passed": true,
+  "gate_failures": []
+}

@@ -1,44 +1,187 @@
 {
   "summary": {
-    "total_pages": 2,
-    "success_count": 2,
+    "total_pages": 15,
+    "success_count": 15,
     "error_count": 0,
     "skipped_count": 0,
-    "download_count": 1,
+    "download_count": 35,
     "success_rate": 100.0,
-    "total_size_mb": 0.74
+    "total_size_mb": 0.18
   },
   "performance": {
-    "duration_seconds": 111.29,
-    "duration_minutes": 1.85,
-    "pages_per_minute": 1.08,
-    "downloads_per_minute": 0.54,
-    "mb_per_minute": 0.4
+    "duration_seconds": 46.75,
+    "duration_minutes": 0.78,
+    "pages_per_minute": 15.0,
+    "downloads_per_minute": 35.0,
+    "mb_per_minute": 0.18
   },
   "seeds": {
-    "https://daa.uit.edu.vn/danh-muc-mon-hoc-dai-hoc": {
-      "strategy": "slow_lane",
+    "https://daa.uit.edu.vn/15-qui-dinh-ve-giang-vien-giang-vien-va-tro-giang-mon-hoc": {
+      "strategy": "single_page",
       "pages": 1,
-      "size_mb": 0.45,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 2.74,
+      "status": "success",
+      "duration_seconds": 2.99
+    },
+    "https://daa.uit.edu.vn/30-huong-dan-chuyen-doi-he-thong-tin-chi-sang-he-thong-tich-luy-va-chuyen-doi-tin-chi-cua-chau-au": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 0.29,
+      "status": "success",
+      "duration_seconds": 2.7
+    },
+    "https://daa.uit.edu.vn/04-quyet-dinh-ve-viec-ban-hanh-quy-dinh-ve-he-tai-nang": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 2,
+      "download_size_mb": 3.43,
+      "status": "success",
+      "duration_seconds": 2.65
+    },
+    "https://daa.uit.edu.vn/05-quy-dinh-dao-tao-ngoai-ngu-doi-voi-he-dai-hoc-chinh-quy-cua-truong-dhcntt": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.02,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 13,
+      "download_size_mb": 7.76,
+      "status": "success",
+      "duration_seconds": 4.1
+    },
+    "https://daa.uit.edu.vn/06-quyet-dinh-ve-viec-ban-hanh-quy-dinh-ve-khoa-luan-tot-nghiep-cho-sv-he-cq": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 1.16,
+      "status": "success",
+      "duration_seconds": 3.22
+    },
+    "https://daa.uit.edu.vn/07-quyet-dinh-ve-viec-ban-hanh-quy-dinh-chuc-thi-tap-trung-cac-mon-hoc-he-dhcq": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 2,
+      "download_size_mb": 1.4,
+      "status": "success",
+      "duration_seconds": 2.56
+    },
+    "https://daa.uit.edu.vn/37-ban-hanh-quy-dinh-chuc-quan-ly-chuong-trinh-lien-ket-dao-tao-voi-nuoc-ngoai-trinh-do-dai-hoc-tai": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 8.09,
+      "status": "success",
+      "duration_seconds": 3.71
+    },
+    "https://daa.uit.edu.vn/39quy-dinh-ve-liem-chinh-hoc-thuat-tai-truong-dai-hoc-cong-nghe-thong-tin": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 6.45,
+      "status": "success",
+      "duration_seconds": 3.98
+    },
+    "https://daa.uit.edu.vn/32-quy-trinh-canh-bao-sinh-vien-he-dai-hoc-chinh-quy-ve-ket-qua-dang-ky-hoc-phan-va-ket-qua-hoc-tap": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 1.85,
+      "status": "success",
+      "duration_seconds": 2.41
+    },
+    "https://daa.uit.edu.vn/35-quy-trinh-cong-nhan-tin-chi-trong-dao-tao-dai-hoc-cua-truong-dai-hoc-cong-nghe-thong-tin": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.02,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 6,
+      "download_size_mb": 2.22,
+      "status": "success",
+      "duration_seconds": 4.14
+    },
+    "https://daa.uit.edu.vn/thongbao/02-quyet-dinh-ve-viec-ban-hanh-qui-dinh-ve-cong-tac-giao-trinh": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
       "errors": 0,
       "skipped": 0,
       "downloads": 1,
       "download_size_mb": 5.43,
       "status": "success",
-      "duration_seconds": 93.5
+      "duration_seconds": 3.27
     },
-    "https://daa.uit.edu.vn/content/bang-tom-tat-mon-hoc": {
+    "https://daa.uit.edu.vn/thongbao/10-quyet-dinh-ve-viec-ban-hanh-quy-trinh-danh-gia-cap-nhat-ctdt-trinh-do-dhsdh": {
       "strategy": "single_page",
       "pages": 1,
-      "size_mb": 0.28,
+      "size_mb": 0.01,
       "errors": 0,
       "skipped": 0,
-      "downloads": 0,
-      "download_size_mb": 0,
+      "downloads": 1,
+      "download_size_mb": 0.26,
       "status": "success",
-      "duration_seconds": 16.18
+      "duration_seconds": 2.2
+    },
+    "https://daa.uit.edu.vn/thongbao/18-quy-trinh-phan-cong-can-bo-coi-thi-cho-cac-dot-thi-tap-trung-he-dai-hoc-chinh-quy": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 2,
+      "download_size_mb": 0.92,
+      "status": "success",
+      "duration_seconds": 2.35
+    },
+    "https://daa.uit.edu.vn/thongbao/19-quy-trinh-nop-khoa-luan-tot-nghiep-sau-khi-bao-ve-truoc-hoi-dong-bao-ve-khoa-luan-tot": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 3.45,
+      "status": "success",
+      "duration_seconds": 2.55
+    },
+    "https://daa.uit.edu.vn/thongbao/21-huong-dan-thang-phan-loai-nhan-thuc-ky-nang-thai-do-su-dung-tai-truong-dai-hoc-cong-nghe": {
+      "strategy": "single_page",
+      "pages": 1,
+      "size_mb": 0.01,
+      "errors": 0,
+      "skipped": 0,
+      "downloads": 1,
+      "download_size_mb": 0.6,
+      "status": "success",
+      "duration_seconds": 2.21
     }
   },
   "errors_by_category": {},
-  "timestamp": "2026-04-17T04:23:53.165241"
+  "timestamp": "2026-07-09T05:35:50.394795"
 }
