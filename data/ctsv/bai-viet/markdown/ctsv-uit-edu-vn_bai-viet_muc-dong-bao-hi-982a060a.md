@@ -1,0 +1,23 @@
+Mức đóng bảo hiểm y tế từ ngày 01/7/2023
+========================================
+
+Wed, 12/07/2023 - 10:11
+
+Căn cứ Luật Bảo hiểm xã hội (BHXH) năm 2014; Luật Bảo hiểm y tế (BHYT) năm 2008; Luật sửa đổi, bổ sung một số điều Luật BHYT năm 2014; Luật Việc làm năm 2013; Luật An toàn Vệ sinh Lao động năm 2015; Luật Lao động năm 2019; Nghị định số 24/2023/NĐ-CP ngày 14/5/2023 của Chính phủ quy định mức lương tối thiểu đối với người lao động làm việc theo hợp đồng lao động, mức đóng BHYT (lương cơ sở: 1.800.000 đồng) kể từ ngày 01/7/2023 như sau:
+
+Mức đóng BHYT học sinh, sinh viên:
+
+Đơn vị tính: Việt Nam đồng
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Phương thức** | **HSSV đóng 70%** | **NSNN hỗ trợ 30%** | **Tổng mức đóng BHYT** |
+| 3 tháng | 170.100 | 72.900 | 243.000 |
+| 6 tháng | 340.200 | 145.800 | 486.000 |
+| 9 tháng | 510.300 | 218.700 | 729.000 |
+| 12 tháng | 680.400 | 291.600 | 972.000 |
+Nguồn - Cổng thông tin Bảo hiểm xã hội Thành phố Hồ Chí Minh.
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fmuc-dong-bao-hiem-y-te-tu-ngay-0172023&title=M%E1%BB%A9c%20%C4%91%C3%B3ng%20b%E1%BA%A3o%20hi%E1%BB%83m%20y%20t%E1%BA%BF%20t%E1%BB%AB%20ng%C3%A0y%2001%2F7%2F2023)

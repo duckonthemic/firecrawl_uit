@@ -1,0 +1,43 @@
+Thông báo nhắc về việc tham gia bầu cử đại biểu Quốc hội và đại biểu HĐND các cấp vào ngày 15/03/2026
+=====================================================================================================
+
+Tue, 10/03/2026 - 10:01
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202603/bau-17652531905412046738494.jpg)
+
+Nhằm khuyến khích sinh viên hoàn thành quyền và trách nhiệm của công dân trong việc tham gia bầu cử. Phòng Công tác Sinh viên thông báo nhắc sinh viên về việc tham gia bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân (HĐND) các cấp nhiệm kỳ 2026 - 2031
+
+**Thời gian: ngày 15/3/2026 (Chủ nhật)**
+
+**Địa điểm:** sinh viên tham gia bầu cử tại nơi thường trú hoặc nơi đăng ký tạm trú. 
+
+_**(\*) Sinh viên kiểm tra địa điểm bầu cử của mình tại VNeID, Mục Dịch vụ khác, Bầu cử**_
+
+Để chủ động trong hoạt động bầu cử sinh viên lưu ý:
+
+*   Chủ động tìm hiểu về danh sách ứng cử viên, chương trình hành động của các ứng cử viên để xem xét lựa chọn các ứng viên phù hợp, đóng góp tích cực cho sự phát triển của địa phương và đất nước.
+*   Chủ động kiểm tra danh sách cử tri, xác nhận địa điểm tham gia bầu cử thông qua VNeID. 
+*   Nhận thẻ cử tri. Lưu ý, thời gian phát thẻ cử tri tùy thuộc lịch của từng tổ bầu cử địa phương. Sinh viên có thể chủ động liên hệ phường/ khu phố hoặc tổ bầu cử tại địa phương để nắm. 
+
+Sinh viên tham khảo thêm các hướng dẫn về công tác bầu cử tại đây:
+
+[https://xaydungchinhsach.chinhphu.vn/huong-dan-chi-tiet-cach-ghi-phieu-b...](https://xaydungchinhsach.chinhphu.vn/huong-dan-chi-tiet-cach-ghi-phieu-bau-cu-119251231163624332.htm)
+
+Sau khi hoàn thành công tác bầu cử vào ngày 15/03/2026. Sinh viên chủ động hoàn thành ghi nhận công tác bầu cử vào form sau để Nhà trường ghi nhận hoạt động cho sinh viên
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202603/t6.jpg)
+
+Khi upload file minh chứng sinh viên lưu ý:
+
+*   Chụp lại thẻ cử tri có **đóng dấu xác nhận đã bỏ phiếu**
+*   Ảnh chụp thẳng thẻ cử tri, rõ chữ, xoay ngang ảnh và crop ảnh cho phù hợp.
+*   Đổi tên file thành <MSSV>.jpg
+*   Kích thước file ảnh không quá 10MB
+
+Form minh chứng: [https://link.uit.edu.vn/BauCu2026](https://link.uit.edu.vn/BauCu2026)
+
+Các thắc mắc sinh viên có thể trao đổi tại forum: [https://forum.uit.edu.vn/t/thong-bao-nhac-ve-viec-tham-gia-bau-cu-dai-bi...](https://forum.uit.edu.vn/t/thong-bao-nhac-ve-viec-tham-gia-bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hdnd-cac-cap-vao-ngay-15-03-2026/160419)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-nhac-ve-viec-tham-gia-bau-cu-dai-bieu-quoc-hoi-va-dai-bieu-hdnd-cac-cap-vao-ngay&title=Th%C3%B4ng%20b%C3%A1o%20nh%E1%BA%AFc%20v%E1%BB%81%20vi%E1%BB%87c%20tham%20gia%20b%E1%BA%A7u%20c%E1%BB%AD%20%C4%91%E1%BA%A1i%20bi%E1%BB%83u%20Qu%E1%BB%91c%20h%E1%BB%99i%20v%C3%A0%20%C4%91%E1%BA%A1i%20bi%E1%BB%83u%20H%C4%90ND%20c%C3%A1c%20c%E1%BA%A5p%20v%C3%A0o%20ng%C3%A0y%2015%2F03%2F2026)

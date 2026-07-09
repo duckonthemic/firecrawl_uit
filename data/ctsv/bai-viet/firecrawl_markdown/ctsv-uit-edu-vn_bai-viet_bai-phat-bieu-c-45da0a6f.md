@@ -1,0 +1,122 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016#main-nav)
+
+Bài phát biểu của Tân Kỹ sư Nguyễn Thanh Hoà trong Lễ Tốt nghiệp đợt 1 - 2016
+=============================================================================
+
+Mon, 13/06/2016 - 10:10
+
+Lời đầu tiên, cho phép em xin kính gửi đến quý thầy cô, cán bộ viên chức nhà trường, quý phụ huynh, các anh chị tân thạc sĩ, các bạn tân kỹ tư, cử nhân cùng các bạn sinh viên lời chúc sức khỏe và lời chào trân trọng nhất.
+
+Em là Nguyễn Thanh Hòa, sinh viên khóa 2011-2016 ngành Truyền thông và Mạng máy tính, là một trong hơn 300 bạn sinh viên có được vinh dự nhận bằng tốt nghiệp trong buổi lễ đầy trang trọng và đặc biệt này.
+
+**_Kính thưa quý phụ huynh_**
+
+Ngày hôm nay, tại ngôi trường đại học này – trường Đại học Công nghệ Thông tin, chúng con đã hoàn thành một chặng tiếp theo trong cuộc đời, chính thức trở thành những kỹ sư, cử nhân. Chúng con biết, đây cũng sẽ là niềm tự hào và niềm vinh dự lớn lao của các gia đình, sẽ là niềm vui của các đấng sinh thành sau bao ngày dưỡng dục. Lời cảm ơn đầu tiên, chúng con xin gửi đến cha mẹ và gia đình –  dù có như thế nào, đi đến đâu, làm gì thì gia đình vẫn luôn là nơi xuất phát và quay về của tất cả mọi người. Xin trân trọng tất cả những gì mà cha, mẹ, ông bà và gia đình đã dành cho chúng con, luôn âm thầm đứng sau ủng hộ và tạo điều kiện tốt nhất để chúng con có được ngày hôm nay.
+
+**_Kính thưa quý thầy cô, giảng viên, công nhân viên trường ĐH Công nghệ thông tin_**
+
+Cha mẹ là người đã sinh ra và nuôi dưỡng chúng em khôn lớn, nhưng thầy cô là người đã trang bị cho chúng em tri thức, chắp cánh cho chúng em bay cao, bay xa để thực hiện ước mơ, hoài bão tuổi trẻ của mình, để sau này trở thành người có ích cho xã hội.
+
+Trải qua gần 5 năm học tập tại trường ĐH Công nghệ thông tin – một ngôi trường thành viên còn khá non trẻ trong Đại học Quốc gia TP.HCM, lứa sinh viên hôm nay của chúng em đã chứng kiến được những sự thay da đổi thịt rất lớn trong quá trình phát triển của trường. Nhớ những ngày cuối năm 2011, khi mới bước vào trường. Tại đây, chỉ có một dãy tòa nhà duy nhất cùng màu sơn cũ đã qua nhiều năm tuổi phía sau những dãy cây cối rậm rạp, một nơi chỉ được mọi người quanh đây biết đến là Trung tâm giáo dục quốc phòng, lễ tốt nghiệp của các anh chị chỉ có thể tổ chức tại sảnh C – nơi đẹp nhất lúc ấy của nhà trường, đến bây giờ, năm 2016, lứa sinh viên chúng em có được lễ tốt nghiệp trang trọng tại hội trường này, trường ĐH Công nghệ thông tin đã hoàn toàn thay đổi diện mạo với cơ sở vật chất khang trang, hiện đại và chất lượng đào tạo ngày càng được khẳng định, hoàn thiện qua những thành tích, những giải thưởng danh tiếng cùng những phản hồi tích cực từ doanh nghiệp và cộng đồng xã hội..
+
+Để có được những sự thay đổi này, chúng em hiểu rằng đó là tâm huyết và sự cố gắng rất lớn của Đảng ủy – Ban giám hiệu, lãnh đạo và quý thầy cô, giảng viên nhà trường. Quý thầy cô luôn dành cho chúng em sự quan tâm sâu sắc, tạo cho chúng em nguồn cảm hứng và động lực trong học tập, tinh thần sáng tạo và đam mê nghiên cứu khoa học. Bên cạnh đó, không chỉ là những kiến thức trong học tập, các thầy cô còn chia sẻ cho chúng em những kinh nghiệm sống quý giá, những kỹ năng cho bản thân để có thể vững tin hơn cho tương lai nghề nghiệp của mình, để hôm nay tự tin cầm trên tay tấm bằng tốt nghiệp mang tên trường Đại học Công nghệ Thông tin và mạnh dạn bước ra xã hội.
+
+Em xin đại diện cho tất cả các học viên, sinh viên của trường đã tốt nghiệp trong buổi hôm nay kính gửi lời tri ân trân trọng nhất đến Đảng ủy – BGH nhà trường, quý thầy cô, giảng viên, cán bộ của trường, những những người lái đò đã đưa chúng em cập bến. Đồng thời, cũng xin gửi lời cám ơn đến các cô chú công nhân viên các phòng ban nhà trường, các cô chú lao công, bảo vệ những người luôn thầm lặng hy sinh để chúng em có môi trường học tập và rèn luyện tốt nhất.
+
+**_Các anh chị và các bạn tân kỹ sư, cử nhân thân mến,_**
+
+Thời sinh viên của chúng ta đã qua, chúng ta đã đi cùng nhau và chắc chắn sẽ có rất nhiều điều đọng lại sau những ngày tháng đó. Xin cảm ơn và xin các bạn hãy giữ cho mình những kỷ niệm, những ấn tượng và những thăng trầm chúng ta đã trải qua để làm hành trang những ngày tiếp theo. Những ngày sẽ không có những đêm trắng với đồ án, deadline, những môn học và kiến thức hoàn toàn mới lạ trên giảng đường mà mình phải tự tìm hiểu, phải sai để đúng. Những ngày sẽ không còn những lần hội họp, vui chơi cùng những người bạn tứ phương, những ngày bỡ ngỡ tự lập xa quê tại ký túc xá, những khu trọ hay những chuyến xe bus đường dài mỗi ngày để đến với ngôi trường này. Những ngày có thể sẽ không còn được tham gia những phong trào, hoạt động, những chiến dịch tình nguyện, những cuộc thi, những lần đấu trí, tranh luận nảy lửa, những chuyến đi xa và còn rất, rất nhiều điều mà chỉ sinh viên UIT mới hiểu. Xin cám ơn tất cả những người bạn tuyệt vời nhất đã đồng hành, cùng gắn bó cùng chúng ta.
+
+Lời cám ơn tiếp theo xin được gửi đến tổ chức Đoàn thanh niên – Hội sinh viên, nơi bắt nguồn của những phong trào, những hoạt động và là 2 người bạn đồng hành của sinh viên trong suốt thời gian vừa qua. Đoàn Hội UIT cũng đã trưởng thành và thay đổi rất nhiều trong suốt chặng đường của chúng ta. Đây cũng đã là nơi mà mình cùng rất nhiều bạn cảm nhận được giá trị thực sự của 2 chữ Sinh viên ngoài những kiến thức trên giảng đường Đại học, nơi tôi luyện ý chí, tích góp những kỹ năng, kinh nghiệm quý báu, những thứ đậm chất sinh viên và để có thể cứng cỏi hơn vượt qua những bỡ ngỡ, cám dỗ tại thành phố này để hòa mình vào nhịp sống hiện đại. Cám ơn những anh chị sinh viên khóa trên đã giúp đỡ, tạo điều kiện hỗ trợ, cho chúng em những lời khuyên, lời động viên hữu ích mọi khi cần thiết. Cám ơn các đàn em sinh viên khóa dưới đã luôn hỗ trợ các anh chị, giữ và tiếp nối truyền thống của các thế hệ sinh viên UIT, và cũng cám ơn các bạn cũng đã góp một phần không nhỏ trong buổi lễ tốt nghiệp ngày hôm nay.
+
+**_Nhắn gửi đến các bạn, các thế hệ sinh viên tiếp theo tại UIT_**
+
+Hình ảnh, thương hiệu của nhà trường đang được khẳng định và hoàn thiện từng ngày đối với xã hội bằng những tâm huyết, kỳ vọng của các thầy cô và còn một yếu tố quan trọng đó chính là ở các thế hệ sinh viên chúng ta. Đã, đang hoặc sẽ là sinh viên UIT, chúng ta hãy luôn giữ cho mình niềm đam mê Công nghệ, tinh thần sáng tạo, ham học hỏi, sự năng động và nhiệt huyết đúng chất của những người trẻ tại một ngôi trường trẻ.
+
+Các thế hệ sinh viên tiếp theo, chúng tôi hôm nay luôn tin tưởng vào các bạn sẽ còn làm nên những điều đặc biệt hơn nữa cho UIT. Hãy cứ mạnh mẽ bước đi, cứ đi rồi sẽ đến.
+
+Các bạn tân kỹ sư, cử nhân thân mến, ngay bây giờ chúng ta hoàn toàn không còn gì phải tiếc nuối về thời sinh viên nữa. Chúng ta có thể tự hào về những gì đã học, đã trải nghiệm từ ngôi trường này, chúng ta đã không từ bỏ mọi cố gắng, những thăng trầm của những năm qua để ngày hôm nay được hội ngộ tại đây và chính thức gắn thêm cho mình chữ cựu – cựu sinh viên UIT. Sau ngày hôm nay, mỗi bạn tân kỹ sư, cử nhân tại đây sẽ có những con đường đi riêng, đời sinh viên sôi nổi, nhiều mơ mộng sẽ nhường chỗ cho thực tế đầy thử trách và trách nhiệm cao độ, đã đến lúc chúng ta phải mạnh mẽ và toàn tâm đưa những kiến thức mà có được đến với xã hội, tự nhủ phải trở thành những con người tử tế và sống có tâm.
+
+4 ngày nữa, UIT sẽ tròn 10 tuổi, 10 năm xây dựng và phát triển, một cột mốc đẹp trong chặng đường phát triển của nhà trường. Đã là những người UIT, chúng ta hãy cùng làm cho cột mốc này thêm ý nghĩa bằng sự nỗ lực không ngừng của mỗi người, bằng những giải thưởng, những đóng góp cho xã hội, những phản hồi tích cực từ doanh nghiệp và những lần đưa hình ảnh UIT đến với trường quốc tế, cùng góp phần thực hiện sứ mạng của nhà trường là một trung tâm nghiên cứu khoa học, chuyển giao công nghệ hàng đầu trong lĩnh vực CNTT-TT. Hãy cùng chung ước mơ về một ngày không xa, cái tên Đại học Công nghệ thông tin – UIT sẽ có mặt trên bảng xếp hạng những trường ĐH danh giá của thế giới về CNTT, là cái tên đầu tiên và lựa chọn hàng đầu cho sĩ tử yêu công nghệ thông tin của quốc gia và du học sinh quốc tế.
+
+Chúng em, những đại diện cho thương hiện UIT 10 năm, xin hứa sẽ đem hết tâm lực, trí lực và những kỹ năng đã đúc kết được cống hiến cho xã hội, đưa văn hóa, tinh thần UIT đi khắp mọi nẻo đường và để một lần nữa khẳng định với xã hội rằng: Sản phẩm nguồn nhân lực mà Trường Đại học Công nghệ thông tin - ĐHQG HCM cung cấp là những sản phẩm có chất lượng tốt: Tốt về nhân cách đạo đức – Tốt về kiến thức chuyên môn – Tốt về kỹ năng thực hành xã hội.
+
+**_Cuối lời, xin k_****_ính_** **_chúc_** **_quý thầy cô_****_, quý phụ huynh_****_, các anh chị_** **_thạc sĩ và các bạn tân kỹ sư, cử nhân, các bạn sinh viên_** **_dồi dào sức khỏe_****_, bình an và hạnh phúc_****_._**
+
+**_Xin gửi lời chào tạm biệt đối với thời sinh viên UIT và xin hẹn gặp lại tất cả ở tương lai!_**
+
+**_Xin trân trọng cảm ơn và kính chào._**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fbai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016&title=B%C3%A0i%20ph%C3%A1t%20bi%E1%BB%83u%20c%E1%BB%A7a%20T%C3%A2n%20K%E1%BB%B9%20s%C6%B0%20Nguy%E1%BB%85n%20Thanh%20Ho%C3%A0%20trong%20L%E1%BB%85%20T%E1%BB%91t%20nghi%E1%BB%87p%20%C4%91%E1%BB%A3t%201%20-%202016)
+    
+
+Bài viết liên quan
+------------------
+
+*   [Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026](https://ctsv.uit.edu.vn/bai-viet/muc-dong-bhyt-va-cac-chinh-sach-bao-hiem-y-te-co-hieu-luc-tu-0172026)
+     (07-07-2026)
+*   [\[An ninh sinh viên\] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-cao-diem-dau-tranh-phong-chong-toi-pham-ve-so-huu-tri-tue-sinh-vien-can-biet)
+     (24-06-2026)
+*   [\[An ninh Sinh viên\] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-toan-khong-gian-mang-canh-bao-lo-ma-so-sinh-vien-mssv-dung-de-du-lieu-ca)
+     (18-06-2026)
+*   [Hình ảnh Lễ tốt nghiệp đợt 1 năm 2026](https://ctsv.uit.edu.vn/bai-viet/hinh-anh-le-tot-nghiep-dot-1-nam-2026)
+     (15-06-2026)
+*   [Sinh viên UIT nỗ lực tranh tài ở các môn thi "Đầu tiên" tại Hội thao Sinh viên ĐHQG-HCM 2026](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-uit-no-luc-tranh-tai-o-cac-mon-thi-dau-tien-tai-hoi-thao-sinh-vien-dhqg-hcm-2026)
+     (01-06-2026)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016?page=34 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016#)
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016#)
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/bai-phat-bieu-cua-tan-ky-su-nguyen-thanh-hoa-trong-le-tot-nghiep-dot-1-2016#addtoany "Show all")

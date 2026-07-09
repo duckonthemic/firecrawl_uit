@@ -1,0 +1,43 @@
+Thông báo Xét khen thưởng Giấy khen Giám đốc ĐHQG-HCM năm học 2024-2025
+=======================================================================
+
+Tue, 22/07/2025 - 16:35
+
+Phòng Công tác Sinh viên thông tin đến các bạn về việc xét khen thưởng năm học 2024 - 2025.
+
+**Hình thức khen thưởng:** Giấy khen Giám đốc ĐHQG-HCM
+
+**Tiêu chuẩn khen thưởng:**
+
+1\. Tập thể hoặc cá nhân SV đạt một trong các tiêu chuẩn sau trở lên sẽ được xét khen thưởng:
+
+a) Đạt huy chương Vàng, Bạc, Đồng hoặc các giải thưởng tương đương tại Kỳ thi Olympic quốc tế các môn học, các cuộc thi học thuật cấp quốc tế gắn với chuyên môn, chuyên ngành.
+
+b) Đạt huy chương Vàng trong kỳ thi Olympic quốc gia các môn học.
+
+c) Đạt giải nhất trong Kỳ thi chọn học sinh giỏi quốc gia trung học phổ thông các môn học.
+
+d) Sinh viên đạt thành tích thủ khoa tuyển sinh đầu vào toàn trường theo các phương thức xét tuyển được đơn vị công nhận.
+
+đ) Thủ khoa tốt nghiệp đại học toàn trường, có điểm trung bình tích lũy toàn khóa đạt từ 8.0 trở lên và kết quả đánh giá rèn luyện toàn khóa đạt loại xuất sắc.
+
+e) Sinh viên tốt nghiệp đại học đạt loại xuất sắc, có điểm trung bình tích lũy toàn khóa đạt từ 9.0 trở lên và kết quả đánh giá rèn luyện toàn khóa đạt loại tốt trở lên.
+
+g) Có 03 năm liên tục hoặc 04 năm không liên tục đạt thành tích sinh viên xuất sắc trong học tập và rèn luyện do Thủ trưởng đơn vị khen tặng.
+
+h) Có công trình nghiên cứu khoa học đạt giải nhất thành phố trực thuộc trung ương, toàn quốc, cấp ĐHQG-HCM hoặc là tác giả đứng đầu/tác giả liên hệ, đồng tác giả của bài báo đăng trên các tạp chí quốc tế uy tín của ngành, được công nhận bởi ISI.
+
+i) Đạt giải nhất trong các cuộc thi về chính trị, tư tưởng, các cuộc thi học thuật gắn với chuyên môn, chuyên ngành cấp quốc gia hoặc cấp tỉnh/thành mà không tổ chức cấp quốc gia.
+
+k) Đạt giải nhất trong các cuộc thi văn hóa, văn nghệ, thể dục thể thao cấp tỉnh/thành phố trực thuộc trung ương hoặc đạt giải nhất, nhì, ba trong các cuộc thi văn hóa, văn nghệ, thể dục thể thao toàn quốc, quốc tế.
+
+l) Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an ninh tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội, thiên tai, dịch bệnh, hành động anh dũng giúp đỡ người khác trong tình thế hiểm nghèo, chống tiêu cực, tham nhũng, được cơ quan chức năng xác nhận.
+
+m) Sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM, có điểm trung bình năm học đạt từ 8.0 trở lên; sinh viên có 03 năm liên tục đạt danh hiệu Sinh viên 5 tốt cấp ĐHQG HCM. Đối với trường hợp Sinh viên 5 tốt tiêu biểu cấp ĐHQG-HCM, sinh viên chỉ được nhận Giấy khen của Giám đốc ĐHQG-HCM một lần trong hai năm học liền kề.
+
+n) Các trường hợp có đóng góp xuất sắc trong hoạt động rèn luyện, cần nhân rộng điển hình như: cá nhân 03 lần được bình chọn là đội trưởng xuất sắc hoặc 03 lần được bình chọn là Chiến sĩ giỏi trong các hoạt động tình nguyện; sinh viên tốt nghiệp đại học đạt loại giỏi và kết quả đánh giá rèn luyện toàn khóa đạt loại xuất sắc.
+
+2\. Trường hợp đặc biệt do Thường trực Hội đồng ĐHQG-HCM xem xét và đề xuất Giám đốc ĐHQG-HCM quyết định khen thưởng.
+
+Sinh viên phù hợp với tiêu chuẩn quy định tại điều khoản trên, thực hiện cung cấp các thông tin, minh chứng cần thiết và sinh viên đăng ký vào form [TẠI ĐÂY](https://link.uit.edu.vn/KhenthuongDHQG)
+​ trước ngày 15/8/2025 để Phòng CTSV thực hiện các thủ tục trình Hội đồng xem xét.

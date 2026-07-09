@@ -1,0 +1,25 @@
+Mời sinh viên tham gia Giải thưởng KH&CN dành cho SV trong các cơ sở GDĐH năm 2025 (gia hạn đến 8:00 ngày 16/6)
+===============================================================================================================
+
+Thu, 27/03/2025 - 10:24
+
+Chào các bạn sinh viên!
+
+Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM) nhận được Công văn số 614/BGDĐT-KHCNMT ngày 17/02/2025 của Bộ Giáo dục và Đào tạo về việc tổ chức Giải thưởng Khoa học và Công nghệ dành cho sinh viên trong các cơ sở giáo dục đại học năm 2025 (sau đây gọi là Giải thưởng), chi tiết như sau:
+
+**1\. Đối tượng tham gia Giải thưởng**: là sinh viên đang theo học ở các cơ sở giáo dục đại học tính đến thời điểm nộp hồ sơ tham gia Giải thưởng (trước ngày 30/06/2025)
+
+**2\. Lĩnh vực khoa học và công nghệ của Giải thưởng:** khoa học tự nhiên; khoa học kỹ thuật và công nghệ; khoa học y, dược; khoa học nông nghiệp; khoa học xã hội; khoa học nhân văn.
+
+**3\. Điều kiện đối với đề tài tham gia Giải thưởng:** đề tài tham gia xét giải thưởng của SV phải đáp ứng đầy đủ các điều kiện quy định tại Khoản 2,3,4 Điều 4 Thông tư 45/2020/TT-BGDĐT ngày 11/11/2020.
+
+**4\. Phương thức gửi hồ sơ tham gia Giải thưởng:** gửi đồng thời cả định dạng file word và file pdf về địa chỉ: [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+.
+
+**5\. Thời hạn:**  hồ sơ gửi về [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+ **trước** **8:00 ngày 2/6/2025 (gia hạn đến 8:00 ngày 16/6)**
+
+**6\. UIT sẽ xét chọn 3 đề tài để chuyển lên cấp trên và tài trợ kinh phi đánh giá và xét giải vòng sơ khảo 3.000.000 đồng/đề tài**  
+​Nếu có thắc mắc SV hỏi ở [https://forum.uit.edu.vn/node/577738](https://forum.uit.edu.vn/node/577738)
+
+**7\.** Các **mẫu hồ sơ** các bạn có thể xem ở thông tư 45/2020/TT-BGDĐT  [https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=201679](https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=201679)

@@ -1,0 +1,51 @@
+Thông báo Danh sách dự kiến nhận các loại học bổng HK2 2022-2023
+================================================================
+
+Wed, 17/05/2023 - 14:58
+
+Chào các bạn  
+Phòng Công tác sinh viên thông báo danh sách sự kiến nhận các loại học bổng theo từng nội dung đính kèm sau
+
+**1) Học bổng Tài năng HK2 2022-2023**
+
+\- Đối tượng: Sinh viên chính thức của các lớp tài năng.
+
+\- Mức học bổng: 1.000.000đ/tháng \* 5 tháng 
+
+Danh sách dự kiến nhận học bổng Tài năng
+
+*   Ngành An toàn Thông tin ( Khóa 2019,2020,2021,2022) : [https://link.uit.edu.vn/Tyb6b](https://link.uit.edu.vn/Tyb6b)
+    
+*   Ngành Khoa học Máy tính ( Khóa 2020, 2021, 2022): [https://link.uit.edu.vn/rzRig](https://link.uit.edu.vn/rzRig)
+    
+
+**2) Học bổng Tuyển sinh HK2 2022-2023**
+
+\- Đối tượng: Sinh viên đã có quyết định học bổng tuyển sinh đầu vào và thỏa điều kiện duy trì của học bổng
+
+\- Mức học bổng: theo suất học bổng tuyển sinh của từng năm.
+
+\- Nếu sinh viên đồng thời được nhận HB Tuyến sinh và HB Khuyến khích học tập sẽ được xét nhận một học bổng cao nhất.
+
+\- Danh sách dự kiến nhận học bổng: [https://link.uit.edu.vn/TS-HK1-22-23](https://link.uit.edu.vn/TS-HK1-22-23)
+
+\- Lưu ý: Các bạn Khóa 2019 nhận học bổng học kỳ này là đợt cuối cùng
+
+**3) Học bổng Khuyến khích Học tập, Học bổng CLC-CTTT HK1 2022-2023**
+
+\- Đối tượng: Sinh viên thỏađiều kiện nhận học bổng theo qui định [<< Xem tại đây>>](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien)
+
+\- Mức học bổng: theo học phí HK 1 2022-2023 ( Sau khi điều chỉnh)
+
+\- Nếu sinh viên đồng thời được nhận HB KKHT, HB CLC-CTTT sẽ được xét nhận một học bổng cao nhất.
+
+\- Danh sách dự kiến nhận HB KKHT, HB CLC-CTTT: [https://link.uit.edu.vn/KKHT1-22-23](https://link.uit.edu.vn/KKHT1-22-23)
+
+**Sinh viên kiếm tra và cập nhật số tài khoản ngân hàng trong lý lịch sinh viên để nhận học bổng**
+
+**Các vấn đề thắc mắc sinh viên trao đổi tại forum: [https://forum.uit.edu.vn/node/564190](https://forum.uit.edu.vn/node/564190)
+**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-danh-sach-du-kien-nhan-cac-loai-hoc-bong-hk2-2022-2023&title=Th%C3%B4ng%20b%C3%A1o%20Danh%20s%C3%A1ch%20d%E1%BB%B1%20ki%E1%BA%BFn%20nh%E1%BA%ADn%20c%C3%A1c%20lo%E1%BA%A1i%20h%E1%BB%8Dc%20b%E1%BB%95ng%20HK2%202022-2023)

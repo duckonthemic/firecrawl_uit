@@ -1,0 +1,95 @@
+Thông báo đăng ký xét cấp các loại học bổng Học kỳ 2 – Năm học 2021-2022
+========================================================================
+
+Mon, 18/04/2022 - 16:17
+
+THÔNG BÁO  
+**V/v đăng ký xét cấp các loại học bổng Học kỳ 2 – Năm học 2021-2022**
+
+Trường Đại học Công nghệ Thông tin thông báo sinh viên đăng ký nguyện vọng xét cấp học bổng  trong Học kỳ 2 Năm học 2021-2022. Các loại học bổng áp dụng trong thông báo này:
+
+*   Học bổng khuyến khích học tập (HB KKHT) học kỳ 1 năm học 2021-2022 ( Dựa trên điểm học tập và điểm rèn luyện của học kỳ 1 năm học 2021-2022).
+*   Học bổng của Sinh viên Chương trình Chất lượng cao (HB CLC), Chương trình Tiên tiến (HB CTTT) học kỳ 1 năm học 2021-2022 ( Dựa trên điểm học tập và điểm rèn luyện của học kỳ 1 năm học 2021-2022).
+*   Học bổng ngoài ngân sách (HB NNS) học kỳ 2 năm học 2021-2022 ( Áp dụng cho các học bổng triển khai từ 10/4/2022-10/10/2022).
+*   Đối với học bổng tuyển sinh (HB TS), sinh viên không bắt buộc phải đăng ký (Xem thêm mục 3).
+
+1\. Mục đích Học bổng Khuyến khích Học tập:
+
+Học bổng Khuyến khích học tập căn cứ theo tiêu chí học tập và rèn luyện đúng quy định Học bổng Khuyến khích học tập. Nhưng với tinh thần phụng sự theo triết lý giáo dục của Nhà trường, học bổng Khuyến khích học tập là gửi gắm sự khuyến khích những sinh viên có học lực tốt, có hoàn cảnh khó khăn cần được hỗ trợ vươn lên trong học tập và rèn luyện.
+
+Học bổng Khuyến khích học tập sẽ đạt đúng tinh thần và thông điệp nhân văn hơn khi tiếp sức thêm cho những sinh viên học tốt phấn đấu vượt qua sự khó khăn trong cuộc sống. Do đó, nhà trường khuyến khích các bạn sinh viên có học lực tốt, hoàn cảnh ổn định, chưa khó khăn, chưa bức thiết hãy khoan đăng ký để dành suất cho các bạn khó khăn và cần hỗ trợ hơn.
+
+2\. Đối tượng
+
+Tất cả sinh viên đang theo học hệ đại học hệ chính quy (văn bằng 1) tại Trường có nguyện vọng nhận học bổng.
+
+**3\. Xếp loại học bổng và mức học bổng KKHT**
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **STT** | **Xếp loại** | **Điểm học tập** | **Điểm rèn luyện** | **Mức HB KKHT** |
+| 1   | **Khá** | Khá | Khá, Tốt, Xuất sắc | **Khá (K)** |
+| Giỏi | Khá |
+| Xuất sắc | Khá |
+| 2   | **Giỏi** | Giỏi | Tốt, Xuấc sắc | **Giỏi (G)** |
+| Xuất sắc | Tốt |
+| 3   | **Xuất sắc** | Xuất sắc | Xuất sắc | **Xuất sắc (XS)** |
+Mức học bổng được tính theo công thức sau:
+
+K = C
+
+G = C x 110%
+
+XS = C x 120%
+
+Mức học bổng chuẩn ( C ) của từng khóa trong học kỳ 1 năm học 2021-2022 được xác định bằng mức học phí học kỳ của chương trình đại trà học kỳ 1 năm học 2021-2022 của khóa học tương ứng.
+
+4\. Nguyên tắc xét học bổng:
+
+Đối với khóa tuyển 2021, áp dụng qui định xét cấp học bổng khuyến khích học tập, học bổng chất lượng cao, học bổng chương trình tiên tiến giống như khóa tuyển 2020 trở về trước.
+
+Trong mỗi học kỳ một sinh viên được xét nhận 01 học bổng. Trừ các trường hợp đặc biệt khác do hội đồng xét học bổng quyết định.
+
+Đối với học bổng Tuyển sinh, Học bổng khuyến khích học tập, Học bổng chương trình chất lượng cao, Học bổng chương trình tiên tiến: nếu sinh viên có đăng ký nhu cầu nhận học bổng, đồng thời thỏa điều kiện nhận nhiều loại học bổng, sẽ được xét nhận 01 học bổng có giá trị cao nhất.
+
+Đối với sinh viên đủ điều kiện nhận học bổng tuyển sinh, không bắt buộc phải đăng ký HB KHT, HB CLC, HB CTTT. Trong trường hợp này sinh viên chỉ được nhận học bổng tuyển sinh.
+
+Sinh viên có quyền đăng ký nguyện vọng nhận cả 2 loại học bổng: HB KKHT- HB CLC – HB CTTT và HB NNS.
+
+5\. Cách thức đăng ký:
+
+Tất cả sinh viên có nguyện vọng xét  HB KKHT- HB CLC- HB CTTT  đăng ký tại:
+
+[https://daa.uit.edu.vn/sinhvien/dangky-hocbong-kkht](https://daa.uit.edu.vn/sinhvien/dangky-hocbong-kkht)
+
+Tất cả sinh viên có nguyện vọng xét  Học bổng ngoài ngân sách  đăng ký tại:
+
+[https://daa.uit.edu.vn/sinhvien/dangky-hocbong-nns](https://daa.uit.edu.vn/sinhvien/dangky-hocbong-nns)
+
+Thời gian đăng ký từ ngày ra thông báo đến hết ngày **30/04/2022**
+
+Thông báo danh sách sinh viên đã đăng ký xét học bổng: **04/05/2022**
+
+6\. Lưu ý:
+
+Chỉ xét học bổng đối với sinh viên đăng ký theo thông báo.
+
+Đây không phải học bổng vinh danh các bạn sinh viên học giỏi, xuất sắc mà là học bổng khuyến khích học tập, hỗ trợ sinh viên.
+
+Tài khoản ngân hàng sinh viên cung cấp phải là tài khoản của chính sinh viên. Trường có thể từ chối cấp học bổng nếu sinh viên cung cấp sai tài khoản.
+
+Không xét học bổng đối với các trường hợp:
+
+a.  Có học phần đạt điểm dưới 5.0 trong học kỳ tính.
+
+b.  Học quá thời gian thiết kế của chương trình đào tạo (tính cả thời gian SV xin bảo lưu, tạm hoãn).
+
+c.  Sinh viên không có phát sinh học phí học kỳ trong học kỳ hiện tại (không tính học phí gia hạn).
+
+d.  Sinh viên không tham gia Bảo hiểm Y tế.
+
+e.  Sinh viên bị kỷ luật từ mức khiển trách trở lên trong học kỳ có kết quả dùng để xét học bổng.
+
+\* Mọi thắc mắc sinh viên vui lòng liên hệ:
+
+\- Forum trường: [https://forum.uit.edu.vn/node/556605](https://forum.uit.edu.vn/node/556605)

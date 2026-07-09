@@ -1,0 +1,24 @@
+Tăng cường công tác phòng dịch bệnh Covid-19 và Bệnh Marburg
+============================================================
+
+Wed, 19/04/2023 - 14:27
+
+Trong tháng 03/2023, mỗi ngày thành phố ghi nhận từ 1-3 ca bệnh xác định. Từ ngày 12/4 đến ngày 16/04, trung bình mỗi ngày ghi nhận 7 ca, riêng ngày 15/4 hệ thống ghi nhận 12 ca bệnh xác định. Tổng số ca xác định ghi nhận từ đầu năm 2023 đến nay (01/01/2023 đến 16/04/2023) tại thành phố Hồ Chí Minh là 181 ca.
+
+Số ca mắc, nhập viên do COVID-19 tại TP.HCM đang có chiều hướng tăng nhẹ trong thời gian gần đây. Trong tuần 15, thành phố ghi nhận 33 ca xác định COVID-19, tăng hơn 6 lần so với trung bình bốn tuần trước đó. Cần tiếp tục phòng bệnh theo thông điệp V2K: khử khuẩn, khẩu trang và tiêm vắc xin đầy đủ đặc biệt là người thuộc nhóm nguy cơ.
+
+Căn cứ tình hình thực tế, Phòng Công tác Sinh viên ban hành thông báo Tăng cường công tác phòng dịch bệnh Covid-19 và bệnh Marburg.
+
+Khi có triệu chứng nghi ngờ như: Sốt cao, đau đầu, khó chịu và có thể xuất hiện thêm các triệu chứng như tiêu chảy, đau bụng, chuột rút, buồn nôn, nôn, xuất huyết ( trong thời gian học, làm việc tại Trường)…sinh viên, viên chức \- người lao động đến **Phòng Y tế của Trường (Phòng A.103)** để được khám và hướng dẫn./.
+
+Đề nghị sinh viên, viên chức \- người lao động chủ động, thường xuyên cập nhật các thông tin hướng dẫn về biện pháp phòng, chống dịch của cơ quan chuyên môn, các nội dung truyền thông về tình hình dịch bệnh trên các trang thông tin của Trường.
+
+Sinh viên xem thông báo chi tiết đính kèm.
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [50\_tb\_dhcntt19\_04\_2023\_scan.pdf](https://ctsv.uit.edu.vn/sites/default/files/202304/50_tb_dhcntt19_04_2023_scan.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Ftang-cuong-cong-tac-phong-dich-benh-covid-19-va-benh-marburg&title=T%C4%83ng%20c%C6%B0%E1%BB%9Dng%20c%C3%B4ng%20t%C3%A1c%20ph%C3%B2ng%20d%E1%BB%8Bch%20b%E1%BB%87nh%20Covid-19%20v%C3%A0%20B%E1%BB%87nh%20Marburg)

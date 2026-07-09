@@ -1,0 +1,39 @@
+Thông báo kết quả Bảo hiểm y tế 3 tháng cuối năm 2021
+=====================================================
+
+Fri, 08/10/2021 - 09:29
+
+Phòng Công tác Sinh viên thông báo kết quả Bảo hiểm y tế 3 tháng cuối năm 2021 như sau:
+
+Thẻ BHYT 3 tháng cuối năm 2021 của sinh viên đã có hiệu lực sử dụng từ ngày 01/10/2021. **Sinh viên kiểm tra thời hạn thẻ qua ứng dụng VssID.**
+
+**Riêng những trường hợp thẻ còn hạn sử dụng đến 31/10/2021, Phòng CTSV sẽ làm hồ sơ mua vào tháng 11/2021.**
+
+Từ ngày 01/10/2021, cơ quan BHXH sẽ không cấp phát thẻ BHYT giấy cho sinh viên.
+
+Sinh viên cài đặt và sử dụng ứng dụng VssID để Khám chữa bệnh ở các bệnh viện.
+
+Sinh viên nào chưa cài đặt ứng dụng xem hướng dẫn tại [https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-cai-dat-ung-dung-vssid-ch...](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-cai-dat-ung-dung-vssid-cho-doi-tuong-tham-gia-bhyt)
+
+Link hướng dẫn gặp sự cố khi cài đặt [https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid)
+
+Nếu có sai sót, sinh viên phản hồi tại [https://forum.uit.edu.vn/node/553442](https://forum.uit.edu.vn/node/553442)
+
+**CÁC TRƯỜNG HỢP CHƯA SỬ DỤNG ĐƯỢC BHYT DO CHƯA BỔ SUNG HỒ SƠ MUA HOẶC BỔ SUNG TRỄ.**
+
+  
+  
+  
+
+|     |     |     |     |
+| --- | --- | --- | --- |  
+| 17520320 | 21521833 | 21522194 | 21522499 |
+| 21520063 | 21521841 | 21522258 | 21522576 |
+| 21520812 | 21521891 | 21522293 | 21522682 |
+| 21521300 | 21521901 | 21522306 | 21522696 |
+| 21521315 | 21521982 | 21522336 | 21522755 |
+| 21521785 | 21522099 | 21522406 |     |
+| 21521792 | 21522111 | 21522431 |     |
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ket-qua-bao-hiem-y-te-3-thang-cuoi-nam-2021&title=Th%C3%B4ng%20b%C3%A1o%20k%E1%BA%BFt%20qu%E1%BA%A3%20B%E1%BA%A3o%20hi%E1%BB%83m%20y%20t%E1%BA%BF%203%20th%C3%A1ng%20cu%E1%BB%91i%20n%C4%83m%202021)

@@ -1,0 +1,29 @@
+THÔNG BÁO Kế hoạch Tổ chức Lễ tốt nghiệp đợt tháng 12 năm 2022 (cập nhật ngày 25/10)
+====================================================================================
+
+Mon, 24/10/2022 - 15:53
+
+Căn cứ kế hoạch năm học 2022-2023;
+
+Căn cứ kế hoạch xét tốt nghiệp đợt 4 năm 2022;
+
+Phòng Công tác Sinh viên thông báo Kế hoạch Tổ chức Lễ tốt nghiệp đợt tháng 12 năm 2022.
+
+|     |     |     |
+| --- | --- | --- |
+| STT | Ngày | Công việc |
+| 1   | 27/10/2022 – 8/11/2022 | Sinh viên đăng ký xét Tốt nghiệp tại [https://daa.uit.edu.vn/sinhvien/dangky-totnghiep](https://daa.uit.edu.vn/sinhvien/dangky-totnghiep) |
+| 2   | 18/11/2022-25/11/2022 | ~Sinh viên đăng ký tham dự Lễ tốt nghiệp (thông báo sẽ gửi qua email [mssv@gm.uit.edu](mailto:mssv@gm.uit.edu)<br>)~<br><br>Sinh viên xem kết quả xét Tốt nghiệp và phòng CTSV sẽ bố trí sinh viên trong danh sách Tốt nghiệp vào vị trí ngồi trong Lễ tốt nghiệp. Sinh viên không phải đăng ký. |
+| 3   | 27/11/2022-05/12/2022 | Công bố danh sách sinh viên tham dự lễ, sơ đồ chỗ ngồi (trên website ctsv.uit.edu.vn và gửi mail cho SV)<br><br>Thông báo thời gian nhận, trả Lễ phục tốt nghiệp (trên website ctsv.uit.edu.vn) |
+| 4   | ~16/12/2022~<br><br>**15/12/2022** | Tổ chức Lễ tốt nghiệp (dự kiến tập trung lúc 7h45) |
+**Lưu ý:  - Sinh viên phải hoàn thành Lệ phí xét tốt nghiệp mới được đăng ký xét tốt nghiệp. Đóng Lệ phí xét tốt nghiệp trực tiếp tại phòng KHTC (A.113) từ thứ 2 tới thứ 6 theo giờ hành chính.**
+
+            **\- Sinh viên theo dõi thường xuyên các kênh thông tin của nhà Trường để nắm bắt thông tin về Lễ tốt nghiệp.**
+
+           **\- Phòng CTSV không xử lý các trường hợp ngoại lệ nếu sinh viên không căn cứ theo đúng kế hoạch đã được thông báo.**
+
+Trân trọng
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ke-hoach-chuc-le-tot-nghiep-dot-thang-12-nam-2022-cap-nhat-ngay-2510&title=TH%C3%94NG%20B%C3%81O%20K%E1%BA%BF%20ho%E1%BA%A1ch%20T%E1%BB%95%20ch%E1%BB%A9c%20L%E1%BB%85%20t%E1%BB%91t%20nghi%E1%BB%87p%20%C4%91%E1%BB%A3t%20th%C3%A1ng%2012%20n%C4%83m%202022%20(c%E1%BA%ADp%20nh%E1%BA%ADt%20ng%C3%A0y%2025%2F10))

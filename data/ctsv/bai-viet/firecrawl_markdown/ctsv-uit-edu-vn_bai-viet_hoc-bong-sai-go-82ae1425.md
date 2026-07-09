@@ -1,0 +1,139 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015#main-nav)
+
+Học bổng Sài gòn Coop - Chắp cánh tương lai năm 2015
+====================================================
+
+Thu, 01/10/2015 - 16:47
+
+Phòng Công tác Sinh viên thông báo học bổng Sài gòn Coop - Chắp cánh tương lai năm 2015 như sau:
+
+Nhằm khuyến khích tinh thần vượt khó, có ý chí phấn đấu vươn lên học giỏi của những sinh viên có hoàn cảnh kinh tế khó khăn và tuyển chọn những sinh viên có thành tích học tập, đạo đức tốt, nhiệt huyết và mong muốn làm việc trong lĩnh vực bán lẻ, Liên hiệp Hợp tác xã Thương mại Thành phố (Saigon Co.op) triển khai chương trình học bổng “Saigon Co.op – Chắp cánh tương lai” năm 2015. Thông tin chi tiết như sau:
+
+**1\. Số lượng và giá trị** **học bổng**:
+
+*   Số lượng: 15 suất.
+*   Giá trị: 5.000.000 đ/suất (tiền mặt).
+
+**2\. Điều kiện xét tuyển**:
+
+*   Tân sinh viên trúng tuyển đại học chính quy năm 2015.
+*   Sinh viên năm thứ II trở đi có điểm trung bình tích lũy năm học 2014-2015 đạt từ 7.00 trở lên (không có môn nào thi lại).
+*   Xét chọn đối với các sinh viên thuộc các khối, chuyên ngành sau:
+*   Kinh tế: Quản trị Kinh doanh, Kế toán Tài chính, Kế toán Kiểm toán, Kinh tế Đối ngoại, Kinh tế Lao động và Quản lý nguồn nhân lực, Thương mại dịch vụ, Kế hoạch đầu tư, Quản lý dự án, Quản lý chuỗi cung ứng (Logistics), Marketing.
+*   Công nghệ Thông tin.
+*   Công nghệ Hóa học, Công nghệ thực phẩm.
+*   Kiến trúc, Xây dựng.
+
+*   Có hoàn cảnh kinh tế khó khăn, có ý chí phấn đấu vươn lên đạt thành tích cao trong học tập.
+*   Chưa nhận học bổng của bất kỳ tổ chức, doanh nghiệp nào trong năm học 2015 – 2016.
+*   Có tư cách đạo đức, sức khỏe tốt, năng động, nhiệt tình tham gia các hoạt động phong trào, đoàn thể (điểm rèn luyện từ 80 trở lên).
+*   Có nguyện vọng, yêu thích làm việc trong lĩnh vực kinh doanh bán lẻ.
+
+**3\. Quyền lợi của sinh viên được cấp học bổng:**
+
+*   Trở thành thành viên Câu lạc bộ sinh viên nhận học bổng Saigon Co.op, tham gia các hoạt động của CLB: gặp gỡ, giao lưu với ban lãnh đạo Saigon Co.op, tư vấn, chia sẻ kỹ năng, kinh nghiệm nghề nghiệp, được ưu tiên xem xét trao các loại hình học bổng của Saigon Co.op.
+*   Được ưu tiên bố trí làm việc bán thời gian, thời vụ (khi có nhu cầu).
+*   Được ưu tiên bố trí thực tập tốt nghiệp tại các đơn vị trong hệ thống Saigon Co.op.
+*   Được ưu tiên xét tuyển làm việc chính thức và ký hợp đồng lao động với đầy đủ mọi quyền lợi do Luật Lao động Việt Nam quy định.
+*   Được xem xét hỗ trợ học phí, giới thiệu tham gia các khóa học cao học trong và ngoài nước đối với sinh viên tốt nghiệp loại giỏi làm việc tại hệ thống Saigon Co.op trong 03 năm sau khi tốt nghiệp. **_Yêu cầu: Cam kết làm việc cho hệ thống Saigon Co.op 03 năm sau khi kết thúc chương trình cao học._**
+
+**_**4\. Hồ sơ gồm:**_**
+
+*   Đơn dự tuyển học bổng _(theo mẫu)._
+*   Bảng thông tin sinh viên (đính kèm - SV chỉ cần điền theo mẫu và gửi email về [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+     - Không cần in)
+*   Sơ yếu lý lịch của sinh viên (có chứng nhận của nhà trường hoặc chính quyền địa phương).
+*   Bảng điểm trung bình tích lũy năm học 2014 - 2015 (có xác nhận của Phòng Đào tạo) hoặc Bản sao y Giấy báo trúng tuyển Đại học (đối với tân sinh viên).
+*   Giấy xác nhận gia đình khó khăn hoặc hộ nghèo, gia đình chính sách, thương binh liệt sĩ (nếu có) có xác nhận của chính quyền địa phương.
+*   Kết quả điểm rèn luyện năm học 2014 - 2015.
+*   Giấy chứng nhận tham gia các hoạt động ngoại khóa, các kỹ năng mềm, ...
+
+**5\. Thời gian nộp hồ sơ**
+
+Sinh viên nộp hồ sơ về Phòng CTSV đến **11h30, ngày 06/10/2015**
+
+_Đính kèm:_
+
+ -Đơn dự tuyển
+
+\- Bảng thông tin sinh viên 
+
+File đính kèm: 
+
+ ![Microsoft Office document icon](https://ctsv.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [sgc\_don\_du\_tuyen\_2015.doc](https://ctsv.uit.edu.vn/sites/default/files/201510/sgc_don_du_tuyen_2015.doc)
+
+ ![Microsoft Office document icon](https://ctsv.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [sgc\_thong\_tin\_sv\_2015.doc](https://ctsv.uit.edu.vn/sites/default/files/201510/sgc_thong_tin_sv_2015_0.doc)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015&title=H%E1%BB%8Dc%20b%E1%BB%95ng%20S%C3%A0i%20g%C3%B2n%20Coop%20-%20Ch%E1%BA%AFp%20c%C3%A1nh%20t%C6%B0%C6%A1ng%20lai%20n%C4%83m%202015)
+    
+
+Bài viết liên quan
+------------------
+
+*   [Thông báo danh sách đăng ký Học bổng KKHT HK1 2025-2026 và Học bổng Ngoài ngân sách HK2 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-danh-sach-dang-ky-hoc-bong-kkht-hk1-2025-2026-va-hoc-bong-ngoai-ngan-sach-hk2)
+     (23-04-2026)
+*   [Thông báo đăng ký xét cấp các loại học bổng Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-dang-ky-xet-cap-cac-loai-hoc-bong-hoc-ky-2-nam-hoc-2025-2026)
+     (06-04-2026)
+*   [Chúc mừng sinh viên UIT đạt học bổng Jensen Huang của NVIDIA năm 2025](https://ctsv.uit.edu.vn/bai-viet/chuc-mung-sinh-vien-uit-dat-hoc-bong-jensen-huang-cua-nvidia-nam-2025)
+     (04-02-2026)
+*   [Thông báo đăng ký xét cấp các loại học bổng Học kỳ 1 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-dang-ky-xet-cap-cac-loai-hoc-bong-hoc-ky-1-nam-hoc-2025-2026)
+     (19-09-2025)
+*   [Học bổng Tiếp sức Tân sinh viên năm 2025](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-tiep-suc-tan-sinh-vien-nam-2025)
+     (29-08-2025)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015?page=13 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015#)
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015#)
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-sai-gon-coop-chap-canh-tuong-lai-nam-2015#addtoany "Show all")

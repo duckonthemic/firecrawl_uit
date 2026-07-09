@@ -1,0 +1,12 @@
+Trường ĐH Công nghệ Thông tin đã chi hàng trăm triệu đồng mua bảo hiểm tai nạn tặng cho sinh viên toàn trường
+=============================================================================================================
+
+Wed, 06/10/2021 - 08:58
+
+Theo truyền thống hằng năm, Trường ĐH Công nghệ Thông tin đã chi hàng trăm triệu đồng mua bảo hiểm tai nạn tặng cho sinh viên toàn trường trong năm học này.
+
+Trong năm học 2021 - 2022, Trường ĐH Công nghệ Thông tin sẽ mua bảo hiểm tai nạn cho tổng cộng 7.354 sinh viên hệ chính quy. Tổng số tiền trường chi cho hoạt động này gần 200 triệu đồng, được trích từ kinh phí của trường.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202110/hieu7547.jpeg)
+
+Theo TS Nguyễn Tấn Trần Minh Khang, Phó hiệu trưởng Nhà trường “Đây là hoạt động truyền thống của Trường dành cho sinh viên, năm nào Trường cũng mua cho các bạn. Theo quy định nhà nước, việc tham gia bảo hiểm đối với sinh viên được thực hiện trên cơ sở tự nguyện. Tuy nhiên, với đặc thù ngành nghề đào tạo kỹ thuật, và tính hiếu động của sinh viên, việc có bảo hiểm tai nạn là cần thiết nhằm hỗ trợ sinh viên trong những trường hợp rủi ro. Bên cạnh truyền thụ kiến thức, trường luôn quan tâm đến sự an toàn của sinh viên trong những môi trường đào tạo”.

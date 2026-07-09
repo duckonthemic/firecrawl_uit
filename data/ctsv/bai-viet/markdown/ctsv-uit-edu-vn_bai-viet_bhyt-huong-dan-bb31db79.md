@@ -1,0 +1,57 @@
+\[BHYT\] Hướng dẫn cách tra cứu Bảo hiểm y tế, mã số bảo hiểm xã hội
+====================================================================
+
+Tue, 03/12/2019 - 16:18
+
+**1\. Tra cứu BHXH, BHYT qua mạng**
+-----------------------------------
+
+Sinh viên nếu mất thẻ BHYT và quên mã the·có thể tra cứu trực tiếp trên Cổng thông tin điện tử của Bảo hiểm xã hội Việt Nam, cụ thể như sau:
+
+**Bước 1:** Truy cập vào trang của Cổng thông tin điện tử của Bảo hiểm xã hội Việt Nam [tại đây](https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-ho-gia-dinh.aspx)
+.
+
+**Bước 2:** Chọn nội dung muốn tra cứu trực tuyến.
+
+![](https://khoinghiep.thuvienphapluat.vn/uploads/images/2019/11/29/1.png)
+
+**Bước 3:** Nhập các trường thông tin tương ứng _(Tỉnh, thành; Số CMND, Số sổ BHXH, họ tên …)_ => Click vào ô “Tôi không phải là người máy” => Tra cứu.
+
+Lưu ý:
+
+\- Các trường có dấu sao màu đỏ (\*) là các trường bắt buộc phải điền.
+
+\- Cung cấp thông tin cá nhân càng chi tiết thì kết quả trả về chính xác hơn
+
+**_Ví dụ:_**
+
+_Để tra cứu mã số bảo hiểm xã hội, có thể thực hiện như sau:  
+Chọn Tỉnh/TP => Nhập ngày sinh => Nhập Họ tên => Click vào “Tôi không phải người máy”=> Tra cứu._
+
+_Lưu ý: Tỉnh/TP : Là Tỉnh/Thành phố thường trú (Quê quán đăng ký trong Hộ khẩu hoặc chứng minh nhân dân)_
+
+_![](https://khoinghiep.thuvienphapluat.vn/uploads/images/2019/11/29/2.png)_
+
+Mã số BHXH là 10 số cuối của mã thẻ BHYT theo hình đính kèm ở dãy Mã số thẻ BHYT (nếu sinh viên không mất thẻ BHYT).
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202106/bhxh_0.jpg)
+
+**2\. Tra cứu thông tin về thời hạn sử dụng thẻ BHYT (sinh viên mất thẻ BHYT có thể tra cứu hạn sử dụng thẻ BHYT theo hình ảnh minh họa).**
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+**Bước 1:** Truy cập vào trang của Cổng thông tin điện tử của Bảo hiểm xã hội Việt Nam [tại đây](https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-ho-gia-dinh.aspx)
+.
+
+**Bước 2:** Chọn **Tra cứu giá trị sử dụng thẻ BHYT**
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202106/195742442_475578373739212_950287008327775086_n.jpg)
+
+**Kết quả tra cứu Hạn sử dụng của thẻ BHYT là thông tin được khoanh tròn màu đỏ trong hình dưới đây (ngày 31/12/2021)**
+
+**Lưu ý: Thời điểm đủ 5 năm liên tục, là thời điểm mà sinh viên tham gia BHYT đủ 5 năm liên tiếp  KHÔNG PHẢI HẠN SỬ DỤNG CỦA THẺ BHYT.** 
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202107/hsd-bhyt.png)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fbhyt-huong-dan-cach-tra-cuu-bao-hiem-y-te-ma-so-bao-hiem-xa-hoi&title=%5BBHYT%5D%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20c%C3%A1ch%20tra%20c%E1%BB%A9u%20B%E1%BA%A3o%20hi%E1%BB%83m%20y%20t%E1%BA%BF%2C%20m%C3%A3%20s%E1%BB%91%20b%E1%BA%A3o%20hi%E1%BB%83m%20x%C3%A3%20h%E1%BB%99i)

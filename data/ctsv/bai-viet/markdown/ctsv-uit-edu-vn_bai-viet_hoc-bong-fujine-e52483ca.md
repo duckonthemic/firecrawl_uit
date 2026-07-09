@@ -1,0 +1,43 @@
+Học bổng Fujinet 2018 - Hạn chót 20/11/2018 - 5.000.000đ/suất
+=============================================================
+
+Fri, 16/11/2018 - 13:56
+
+Phòng CTSV thông báo chương trình học bổng cho các bạn SV năm 1, 2 như sau:
+
+**1\. Giới thiệu về công ty:**
+
+Công ty Cổ phần Fujinet Systems (Fujinet) là công ty phát triển phần mềm cho thị trường Nhật Bản hàng đầu tại Việt Nam, với hơn 850 kỹ sư đến từ nhiều trường Đại học chuyên đào tạo ngành công nghệ thông tin. Fujinet đã gặt hái nhiều thành công và ngày càng khẳng định thương hiệu được vị trí, thương hiệu của mình ở thị trường trong và nước ngoài bằng các giải thưởng uy tín: “TOP 10 IT Outsouring Enterprises”, “TOP 50 doanh nghiệp CNTT hàng đầu tại Việt Nam”, “TOP ICT 2018” và “Danh hiệu Sao Khuê 2018” ở lĩnh vực gia công xuất khẩu phần mềm, đứng thứ 5 về doanh thu trong lĩnh vực làm outsourcing phần mềm cho thị trường nước ngoài.  
+Hơn 95% khách hàng của Fujinet là các công ty lớn đến từ Nhật Bản. Để có thể nắm bắt yêu cầu khách hàng và thị trường phát triển phần mềm của Nhật Bản hơn nữa, Fujinet đang tập trung đào tạo, bồi dưỡng cho nhân viên các kỹ năng chuyên môn, kinh nghiệm thực tế thông qua các dự án tại Fujinet Japan. Đặc biệt, đào tiếng Nhật miễn phí cho toàn thể nhân viên từ các lớp sơ cấp đến cao cấp.
+
+**2\. Thông tin về học bổng:**
+
+*   Đơn vị tài trợ: Công ty CP Fujinet Systems
+*   Trao trong chương trình: Ngày hội Sinh viên và Doanh nghiệp năm 2018 – ĐH Công Nghệ Thông Tin (ngày 01.12.2018)
+*   Tổng giá trị: 25,000,000 vnd
+*   Tổng số suất: 5 suất
+*   Trị giá mỗi suất: 5,000,000 vnd
+
+**3.** **_Điều kiện nhận học bổng_**
+
+*   Đối tượng: sinh viên năm 1, 2 trường ĐH Công nghệ thông tin
+*   Hoàn cảnh gia đình khó khăn (có xác nhận của địa phương)
+*   Có học lực từ 7.0 trở lên, đối với sinh viên năm 1 là điểm trung bình 3 năm cấp 3
+*   Chưa nhận học bổng từ các doanh nghiệp khác Ngày hội sinh viên và Doanh nghiệp 2018 – Trường ĐH Công nghệ thông tin.
+
+**4\. Hồ sơ hợp lệ:**
+
+*   Đơn xin học bổng (đánh máy hoặc viết tay, sạch sẽ, rõ ràng) - (SV tự viết, không có mẫu)
+*   Bảng điểm quá trình học tập có xác nhận của phòng đào tạo, đối với sinh viên năm nhất nộp học bạ có công chứng.
+*   CV hoặc Sơ yếu lý lịch tóm tắt về bản thân, học tập, làm việc.(Thư tự giới thiệu ở đó các bạn trình bày vì sao các bạn chọn ngành CNTT để học, và lý do vì sao các bạn nộp học bổng này (cái này giống Cover Letter))
+*   Giấy xác nhận gia đình có hoàn cảnh khó khăn.
+
+**5\. Thời gian, địa điểm nhận hồ sơ**
+
+\- Sinh viên nộp hồ sơ online tại đây: **[https://goo.gl/forms/OwJPAmgLDEw6NGYw2](https://goo.gl/forms/OwJPAmgLDEw6NGYw2)**  
+\- Nếu SV được xét thì SV sẽ nộp hồ sơ giấy về P.CTSV (A101)  
+\- Thời gian: **Hết ngày 20.11.2018 (Thứ 3)** 
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-bong-fujinet-2018-han-chot-20112018-5000000dsuat&title=H%E1%BB%8Dc%20b%E1%BB%95ng%20Fujinet%202018%20-%20H%E1%BA%A1n%20ch%C3%B3t%2020%2F11%2F2018%20-%205.000.000%C4%91%2Fsu%E1%BA%A5t)

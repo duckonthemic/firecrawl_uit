@@ -1,0 +1,27 @@
+Workshop TỎA SÁNG Ở TRƯỜNG ĐẠI HỌC
+==================================
+
+Sun, 22/12/2019 - 05:22
+
+**HÃY TỎA SÁNG RỰC RỠ THEO CÁCH MÀ BẠN THÍCH NHẤT ![](https://forum.uit.edu.vn/core/images/smilies/wink.png "Wink") ![](https://forum.uit.edu.vn/core/images/smilies/wink.png "Wink") ![](https://forum.uit.edu.vn/core/images/smilies/wink.png "Wink")**   
+
+\*\*\*
+
+Hành trình đại học của bạn đã thật sự bắt đầu, bạn đã thiết kế được hành trình đại học của bản thân mình chưa? Làm thế nào để có thể vượt qua được những khó khăn, thử thách? Làm thế nào để có thể về đích một cách ngoạn mục nhất??? Tất cả sẽ được trao đổi, chia sẻ trong chương trình **TỎA SÁNG Ở TRƯỜNG ĐẠI HỌC.**
+
+Chương trình đã đến với sinh viên của gần 10 trường đại học trên địa bàn thành phố Hồ Chí Minh và lần đầu tiên có mặt tại UIT với sự xuất hiện của những vị khách mời gắn bó mật thiết với hành trình tỏa sáng của các bạn sinh viên:  
+**\- ThS. Nguyễn Thị Bích Ngọc - Tác giả quyển sách TỎA SÁNG Ở TRƯỜNG ĐẠI HỌC**  
+**\- Anh Lê Hồng Hải Nhân** - Giám đốc GEEK Up - Cựu SV UIT  
+**\- Ca sĩ Chí Thiện** - Công dân trẻ Tiêu biểu TP.HCM 2018  
+**\- Chị Đỗ Khoa Mai Lâm** - Thư kí Tòa soạn Tạp chí 2! Sinh Viên Việt Nam  
+\- MC Huỳnh Cẩm Tú
+
+Chương trình diễn ra lúc **09:15 ngày 25/12/2019** (thứ tư) tài **Giảng đường 1** (nhà A)
+
+Sinh viên có thể đăng ký tham dự bằng cách comment "**MSSV - đăng ký**" tại topic này [https://forum.uit.edu.vn/node/541538](https://forum.uit.edu.vn/node/541538)
+
+[![](https://live.staticflickr.com/65535/49251066841_91ae461577_h.jpg)](https://flic.kr/p/2i39AhR)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fworkshop-toa-sang-o-truong-dai-hoc&title=Workshop%20T%E1%BB%8EA%20S%C3%81NG%20%E1%BB%9E%20TR%C6%AF%E1%BB%9CNG%20%C4%90%E1%BA%A0I%20H%E1%BB%8CC)

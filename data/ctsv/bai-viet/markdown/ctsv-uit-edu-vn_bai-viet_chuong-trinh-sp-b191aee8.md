@@ -1,0 +1,48 @@
+Chương trình Special Audit Student (SAS) và Special Research Student (SRS)
+==========================================================================
+
+Tue, 19/09/2017 - 09:39
+
+Nhà trường có nhận được thông báo từ trường ĐH Hokkaido về các chương trình Special Audit Student (SAS) dành cho bậc đại học và sau đại học, Special Research Student (SRS) dành cho bậc sau đại học tại Nhật Bản với thông tin như sau:
+
+**1) Điều kiện tham gia:**
+
+\- Ứng viên phải có thành tích học tập xuất sắc tương ứng với ngành muốn học ở trường ĐH Hokkaido.
+
+\- Ứng viên có trình độ JLPT N2 hoặc cao hơn.
+
+\- Ứng viên phải đang là sinh viên hệ chính quy trong thời gian đi trao đổi.
+
+**2) Thời gian theo học:** 
+
+\- 1 học kì : 01/04/2018 – 30/9/2018
+
+\- 1 năm học: 01/4/2018 – 31/3/2019
+
+**3) Học bổng:** chương trình này không cấp học bổng
+
+**4) Nơi ở:** sẽ do Đại học Hokkaido chỉ định
+
+**5) Tín chỉ:** sinh viên sẽ được nhận tín chỉ và điểm sau mỗi học kì.
+
+**6) Hồ sơ cần nộp:**
+
+\- Giấy báo nhập học của trường đang theo học (có xác nhận của đơn vị).
+
+\- Thư giới thiệu của người giảng dạy trực tiếp.
+
+\- Bảng điểm: bản tiếng Việt (có xác nhận) và bản dịch tiếng Anh (có công chứng).
+
+\- Giấy chứng nhận trình độ Nhật ngữ (Certificate of JLPT).
+
+\- 3 ảnh kích thước 40x30 mm.
+
+\- Bản sao hộ chiếu (không cần công chứng).
+
+\* Đối với chương trình SRS, ứng viên cần phải liên hệ với Giáo sư của trường Đại học Hokkaido để được sự đồng ý hướng dẫn trước khi nộp hồ sơ.
+
+\- Thông tin chi tiết tham khảo thêm tại trang web: [https://www.global.hokudai.ac.jp/pro...ndergraduates/](https://www.global.hokudai.ac.jp/prospective-students/exchange-student-admissions/special-audit-student-for-undergraduates/)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fchuong-trinh-special-audit-student-sas-va-special-research-student-srs&title=Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20Special%20Audit%20Student%20(SAS)%20v%C3%A0%20Special%20Research%20Student%20(SRS))

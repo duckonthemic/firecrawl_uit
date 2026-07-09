@@ -1,0 +1,14 @@
+Quyết định số 780/2020 - Bổ nhiệm CVHT các lớp sinh viên Khóa 2020 (ATBC2020, KHBC2020, CNCL2020.1, CNCL2020.2)
+===============================================================================================================
+
+Wed, 18/11/2020 - 10:15
+
+Thông tin chi tiết vui lòng xem file đính kèm.
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [780\_qd\_dhcntt13\_11\_2020\_scan.pdf](https://ctsv.uit.edu.vn/sites/default/files/202011/780_qd_dhcntt13_11_2020_scan.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-so-7802020-bo-nhiem-cvht-cac-lop-sinh-vien-khoa-2020-atbc2020-khbc2020-cncl20201&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%20780%2F2020%20-%20B%E1%BB%95%20nhi%E1%BB%87m%20CVHT%20c%C3%A1c%20l%E1%BB%9Bp%20sinh%20vi%C3%AAn%20Kh%C3%B3a%202020%20(ATBC2020%2C%20KHBC2020%2C%20CNCL2020.1%2C%20CNCL2020.2))

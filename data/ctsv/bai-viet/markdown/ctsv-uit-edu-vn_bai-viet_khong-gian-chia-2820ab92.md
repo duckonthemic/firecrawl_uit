@@ -1,0 +1,27 @@
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 23
+==========================================================
+
+Wed, 23/09/2020 - 10:45
+
+Buông thả bản thân: Một biến chứng từ stress
+
+Khi stress đạt đến một mức độ nào đó, chúng sẽ dẫn ta đến sự buông thả, đầu tiên là ăn uống hời hợt, lạm dụng cà phê, và tàn phá giấc ngủ. Một chế độ ăn phổ biến của người trẻ đó là: bữa sáng không ăn gì (bỏ bữa sáng), bữa trưa ăn vội cơm hộp hoặc một món gì đó, chiều đói sẽ gọi quà vặt như trà sữa, bánh ngọt, thức ăn nhanh, tan học chiều tối là không muốn về nghỉ ngơi, ăn thì ít, chơi thì nhiều.
+
+Khi stress đạt đến một mức độ nào đó, chúng ta không còn tha thiết tìm kiếm sự quan tâm của mọi người, sự yêu thương từ những người xung quanh. Chúng ta chọn cách cuộn tròn mình với những suy nghĩ không đâu và không đâu, muốn nằm một góc phòng đọc onnline những điều tiêu cực đến cùng cực nhằm tìm kiếm sự đồng cảm để giải tỏa. 
+
+Việc luôn online smartphone như vậy khiến não bộ chúng ta tràn ngập trong thông tin. Những tin tức xấu sẽ tạo ra cảm xúc tiêu cực như lo lắng, tức giận, sợ hãi. Tất cả những điều đó dần tạo nên stress và cảm giác mệt mỏi. Kể cả khi bạn không muốn nghĩ đến những thứ đó nữa nhưng chúng vẫn sẽ tiếp tục đập vào mắt bạn. 
+
+Chúng ta coi đó là sự giải toả, để cơ thể nghỉ ngơi, nhưng chính những hành vi buông thả đó đang giết chết chúng ta từng ngày.
+
+Hãy tâm sự và tìm cho mình hướng đi đúng đắn với chủ đề WeTalk số 23 với chủ đề "Buông thả bàn thân: Một biến chứng từ stress" vào lúc
+
+09:00 - 11:00, Thứ 6 ngày 25/09/2020  
+15:30 - 16:30, Thứ 3 ngày 29/09/2020  
+Tại: Phòng A104 - Phòng Không gian chia sẻ   
+Link đăng ký tham gia: [https://forms.gle/LUxq2q6pJ8DS9zyMA](https://forms.gle/LUxq2q6pJ8DS9zyMA)
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202009/wetalk23.png)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkhong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-23&title=Kh%C3%B4ng%20gian%20chia%20s%E1%BA%BB%20-%20Bu%E1%BB%95i%20tr%C3%B2%20chuy%E1%BB%87n%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20s%E1%BB%91%2023)

@@ -1,0 +1,41 @@
+Thông báo về thời gian hoạt động của Không gian Chia sẻ UIT và cập nhật thông tin hotline hỗ trợ sinh viên (từ tháng 03/2026)
+=============================================================================================================================
+
+Fri, 13/03/2026 - 09:52
+
+**Thông báo về thời gian hoạt động của Không gian Chia sẻ UIT** **và cập nhật thông tin**
+
+**hotline hỗ trợ sinh viên** **(từ tháng 03/2026)**
+
+           Nhằm tiếp tục hỗ trợ sinh viên có một không gian an toàn và thân thiện để chia sẻ những khó khăn, áp lực trong học tập, cuộc sống cũng như các vấn đề cá nhân, Không gian Chia sẻ UIT tại Trường Đại học Công nghệ Thông tin, ĐHQG-HCM vẫn đang duy trì hoạt động tư vấn tâm lý dành cho sinh viên với sự đồng hành của Chuyên gia tâm lý - Cô Nguyễn Thanh Tính.
+
+           Để sinh viên thuận tiện hơn trong việc tiếp cận dịch vụ hỗ trợ, Phòng Công tác Sinh viên thông tin lại thời gian hoạt động của Không gian Chia sẻ UIT và cập nhật thêm số điện thoại hotline hỗ trợ sinh viên, cụ thể như sau:
+
+            **1. Thời gian hoạt động**
+
+             Không gian Chia sẻ UIT mở cửa định kỳ vào các khung giờ:
+
+             Từ 9g00 - 16g00 các ngày:
+
+*   Thứ Hai
+*   Thứ Ba
+*   Thứ Sáu
+
+             Sinh viên có nhu cầu có thể đến trực tiếp tại phòng A104 để trao đổi, chia sẻ và nhận sự tư vấn từ chuyên gia tâm lý.
+
+         **2. Hoạt động hỗ trợ và chuyên đề**
+
+         Bên cạnh hoạt động tư vấn trực tiếp, Không gian Chia sẻ UIT cũng tổ chức các buổi nói chuyện chuyên đề định kỳ nhằm hỗ trợ sinh viên nâng cao kỹ năng chăm sóc sức khỏe tinh thần, như:
+
+*   Quản lý cảm xúc và căng thẳng
+*   Cân bằng học tập - cuộc sống
+*   Kỹ năng vượt qua áp lực
+*   Phát triển bản thân và xây dựng lối sống tích cực
+
+       Thông tin chi tiết về các chương trình sẽ được cập nhật trên các kênh truyền thông của Phòng Công tác Sinh viên.
+
+         **3. Thông tin hỗ trợ sinh viên**
+
+          Ngoài khung giờ hoạt động của Không gian Chia sẻ UIT, khi cần hỗ trợ liên quan sức khỏe tinh thần, sinh viên có thể liên hệ:
+
+*   Hotline/Zalo: 0986 632 900

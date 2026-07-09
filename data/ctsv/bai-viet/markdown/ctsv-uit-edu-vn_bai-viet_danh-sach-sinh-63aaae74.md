@@ -1,0 +1,10722 @@
+--> 
+Danh sách sinh viên đăng ký HB KKHT học kỳ 2 năm học 2020-2021 | Phòng Công tác Sinh viên 
+Phòng Công tác Sinh viên 
+Đăng nhập | Sơ đồ website 
+trung tâm bảo hành oppo tại hà nội , sửa ipad tại hà nội , trung tâm bảo hành iphone , cho thuê xe 16 chỗ , thue xe du lich o ha noi 
+Search form
+Search 
+Navigation menu 
+Trang chủ 
+Giới thiệu Chức năng 
+Nhiệm vụ 
+Nhân sự 
+Hành chính Văn bản Quy chế - quy định 
+Quyết định 
+Thông báo 
+Kế hoạch 
+Quy trình 
+Biểu mẫu 
+Hỗ trợ sinh viên Sổ tay sinh viên 
+Hướng dẫn 
+Học bổng 
+Việc làm - thực tập 
+Kỹ năng 
+Sổ tay của TT hỗ trợ HSSV 
+Lịch trình chi tiết dành cho tân sinh viên - Khóa 2025 
+Nội dung Sinh hoạt Công dân sinh viên đầu khóa 2025 
+Cố vấn học tập 
+Cựu sinh viên Ban liên lạc cựu sinh viên 
+UIT Productions 
+Dành cho Doanh nghiệp 
+Sức khỏe - Tâm lý Sức khoẻ 
+Tâm lý 
+Bảo hiểm y tế 
+Thông báo mới
+Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM - 
+09/07/2026 
+Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027 - 
+08/07/2026 
+Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027 - 
+08/07/2026 
+Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026 - 
+07/07/2026 
+Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026 - 
+02/07/2026 
+WeTalk Số 04/2026 – “Chậm một nhịp có phải thất bại” - 
+18/06/2026 
+Quyết định số 666/2026 - Cấp học bổng học tập cho sinh viên chương trình tiên tiến HK1 - NH 2025-2026 - 
+15/06/2026 
+Xem tất cả 
+Danh sách sinh viên đăng ký HB KKHT học kỳ 2 năm học 2020-2021 
+Sun, 26/09/2021 - 21:48 
+Chào các bạn,
+Phòng CTSV thông tin đến các bạn danh sách sinh viên đăng ký học bổng Khuyến khích học tập học kỳ 2 năm học 2020- 2021
+Những bạn nào kiểm tra thấy phần ghi chú là "Chưa cung cấp STK trên hệ thống" vui lòng nhanh chóng cập nhật thông tin tài khoản trên hệ thống lí lịch sinh viên  (thời gian cập nhật từ 27/9/2021 đến hết ngày 30/9/2021). 
+Trường sẽ chỉ chấp nhận tài khoản chính chủ (mang tên sinh viên) tại 3 ngân hàng Vietcombank, BIDV, ACB (theo như thông báo sẽ từ chối cấp nếu sinh viên cung cấp sai hoặc không đúng thông tin tài khoản ngân hàng).
+DANH SÁCH SINH VIÊN ĐĂNG KÝ HỌC BỔNG KKHT HỌC KỲ 2 NĂM HỌC 2020-2021 
+STT 
+MSSV 
+Họ tên 
+Lớp hiện tại 
+Khoa 
+Lớp sinh viên ở học kỳ 2
+năm học
+2020-2021 
+Ghi chú 
+1 
+165206x6 
+Trần Minh Khoa 
+HTTT0001 
+HTTT 
+HTCL2016 
+2 
+165209x7 
+Nguyễn Thanh Pháp 
+MMTT0001 
+MMT&TT 
+MMTT2016 
+3 
+165218x0 
+Nguyễn Lê Duy Tấn 
+MMTT0001 
+MMT&TT 
+MMTT0001 
+4 
+175200x4 
+Trương Duy Nhất 
+ATTT2017 
+MMT&TT 
+ATTT2017 
+5 
+175200x7 
+Nguyễn Anh Đức 
+ATTN2017 
+MMT&TT 
+ATTN2017 
+6 
+175200x2 
+Lê Thị Phương Khanh 
+TMĐT2017 
+HTTT 
+TMDT2017 
+7 
+175200x7 
+Nguyễn Hồng Khoa 
+KTPM2017 
+CNPM 
+KTPM2017 
+8 
+175201x2 
+Phạm Quang Nhân 
+PMCL2017.1 
+CNPM 
+PMCL2017.1 
+9 
+175201x8 
+Nguyễn Thị Hồng Phúc 
+ATTN2017 
+MMT&TT 
+ANTN2017 
+10 
+175201x4 
+Lê Quốc Phương 
+KTPM2017 
+CNPM 
+KTPM2017 
+11 
+175201x6 
+Đào Hữu Duy Quân 
+PMCL2017.1 
+CNPM 
+PMCL2017.1 
+12 
+175201x3 
+Lê Bá Trực 
+ATTT2017 
+MMT&TT 
+ATTT2017 
+13 
+175201x4 
+Huỳnh Quốc Trung 
+KTPM2017 
+CNPM 
+KTPM2017 
+14 
+175202x7 
+Nguyễn Phi Ân 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+15 
+175202x7 
+Lê Tuấn Anh 
+KTMT2017 
+KTMT 
+KTMT2017 
+16 
+175202x1 
+Nguyễn Lan Anh 
+HTTT2017 
+HTTT 
+HTTT2017 
+17 
+175202x9 
+Nguyễn Văn Âu 
+CNTT2017 
+KTTT 
+CNTT2017 
+18 
+175202x0 
+Lý Hồng Bảo 
+CNTT2017 
+KTTT 
+CNTT2017 
+19 
+175202x0 
+Lê Ngọc Lan Chi 
+TMĐT2017 
+HTTT 
+TMĐT2017 
+Chưa cung cấp STK trên hệ thống 
+20 
+175202x6 
+Lê Tăng Có 
+HTTT2017 
+HTTT 
+HTTT2017 
+21 
+175202x9 
+Nguyễn Tiến Công 
+HTCL2017.2 
+HTTT 
+HTCL2017 
+22 
+175203x3 
+Nguyễn Tiến Công 
+ATTT2017 
+MMT&TT 
+ATTT2017 
+23 
+175203x4 
+Nguyễn Phong Đại 
+ATTN2017 
+MMT&TT 
+ATTN2017 
+24 
+175203x0 
+Hồ Trần Thiện Đạt 
+PMCL2017.1 
+CNPM 
+PMCL2017.1 
+25 
+175203x1 
+Huỳnh Công Đạt 
+HTTT2017 
+HTTT 
+HTTT2017 
+26 
+175203x8 
+Trần Minh Đức 
+KHMT2017 
+KHMT 
+KHMT2017 
+27 
+175203x3 
+Đoàn Xuân Dũng 
+TMĐT2017 
+HTTT 
+TMDT2017 
+28 
+175203x6 
+Nguyễn Tiến Dũng 
+KTPM2017 
+CNPM 
+KTPM2017 
+29 
+175203x8 
+Nguyễn Văn Dũng 
+MTCL2017.2 
+KTMT 
+MTCL2017.2 
+30 
+175203x8 
+Nguyễn Đình Duy 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+31 
+175204x0 
+Nguyễn Thị Mỹ Duyên 
+TMĐT2017 
+HTTT 
+TMDT2017 
+32 
+175204x2 
+Nguyễn Trường Giang 
+HTCL2017.2 
+HTTT 
+HTCL2017 
+Chưa cung cấp STK trên hệ thống 
+33 
+175204x7 
+Lê Thị Hà 
+PMCL2017.3 
+CNPM 
+PMCL2017.3 
+34 
+175204x4 
+Vũ Ngọc Anh Hà 
+KTMT2017 
+KTMT 
+KTMT2017 
+Chưa cung cấp STK trên hệ thống 
+35 
+175204x8 
+Tô Thúy Hằng 
+HTTT2017 
+HTTT 
+HTTT2017 
+36 
+175204x3 
+Phạm Huỳnh Mỹ Hạnh 
+HTTT2017 
+HTTT 
+HTTT2017 
+37 
+175204x2 
+Vũ Anh Hào 
+ATTT2017 
+MMT&TT 
+ATTT2017 
+38 
+175204x6 
+Võ Đức Hậu 
+HTCL2017.2 
+HTTT 
+HTCL2017 
+39 
+175204x7 
+Hồng Chấn Hiển 
+ATCL2017 
+MMT&TT 
+ATCL2017 
+40 
+175204x7 
+An Văn Hiếu 
+ATTN2017 
+MMT&TT 
+ATTN2017 
+41 
+175204x7 
+Võ Trung Hiếu 
+HTTT2017 
+HTTT 
+HTTT2017 
+42 
+175204x1 
+Lê Thị Trúc Hòa 
+HTCL2017.1 
+HTTT 
+HTCL2017 
+43 
+175205x1 
+Nguyễn Đức Hoan 
+KTMT2017 
+KTMT 
+KTMT2017 
+44 
+175205x9 
+Lê Văn Hoàng 
+KTPM2017 
+CNPM 
+KTPM2017 
+45 
+175205x2 
+Trần Minh Hưng 
+ATTT2017 
+MMT&TT 
+ATTT2017 
+Chưa cung cấp STK trên hệ thống 
+46 
+175205x1 
+Lê Minh Huy 
+MTCL2017.2 
+KTMT 
+MTCL2017.2 
+47 
+175205x7 
+Phạm Quốc Huy 
+MTCL2017.1 
+KTMT 
+MTCL2017.1 
+48 
+175205x9 
+Trầm Thanh Huy 
+MTCL2017.2 
+KTMT 
+MTCL2017.2 
+49 
+175206x3 
+Trần Trọng Khiêm 
+HTTT2017 
+HTTT 
+HTTT2017 
+50 
+175206x4 
+Trần Vĩnh Khiêm 
+CTTT2017 
+HTTT 
+CTTT2017 
+51 
+175206x5 
+Nguyễn Trần Duy Khương 
+CNTT2017 
+KTTT 
+CNTT2017 
+52 
+175206x6 
+Trần Minh Khương 
+KTMT2017 
+KTMT 
+KTMT2017 
+53 
+175206x9 
+Cao Bá Kiệt 
+ATTN2017 
+MMT&TT 
+ANTN2017 
+54 
+175206x9 
+Lê Si Lắc 
+PMCL2017.3 
+CNPM 
+PMCL2017.3 
+55 
+175206x1 
+Lê Bảo Lâm 
+CNTT2017 
+KTTT 
+CNTT2017 
+56 
+175206x8 
+Đinh Đức Liêm 
+MMCL2017 
+MMT&TT 
+MMCL2017 
+57 
+175206x1 
+Trương Diệu Linh 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+58 
+175207x7 
+K' Long 
+PMCL2017.1 
+CNPM 
+PMCL2017.1 
+59 
+175207x2 
+Nguyễn Việt Mỹ 
+PMCL2017.3 
+CNPM 
+PMCL2017.3 
+60 
+175207x9 
+Nguyễn Hồng Nam 
+MMCL2017 
+MMT&TT 
+MMCL2017 
+61 
+175207x2 
+Nguyễn Văn Nam 
+TMĐT2017 
+HTTT 
+TMĐT2017 
+62 
+175207x8 
+Lê Đình Trọng Nghĩa 
+PMCL2017.1 
+CNPM 
+PMCL2017.1 
+63 
+175208x0 
+Nguyễn Gia Hữu Nghĩa 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+64 
+175208x4 
+Bùi Xuân Nhã 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+65 
+175208x8 
+Lê Văn Nhật 
+TMĐT2017 
+HTTT 
+TMĐT2017 
+66 
+175208x1 
+Nguyễn Hoàng Nhật 
+CTTT2017 
+HTTT 
+CTTT2017 
+67 
+175208x7 
+Nguyễn Minh Nhựt 
+HTCL2017.1 
+HTTT 
+HTCL2017 
+68 
+175208x5 
+Bùi Nguyễn Phát 
+MTCL2017.1 
+KTMT 
+MTCL2017.1 
+69 
+175208x7 
+Đỗ Hữu Phi 
+TMĐT2017 
+HTTT 
+TMĐT2017 
+Chưa cung cấp STK trên hệ thống 
+70 
+175208x0 
+Nguyễn Phương Phi 
+CNTT2017 
+KTTT 
+CNTT2017 
+71 
+175209x1 
+Trầm Hữu Phúc 
+KHMT2017 
+KHMT 
+KHMT2017 
+72 
+175209x8 
+Phan Hoàng Phước 
+KHCL2017.2 
+KHMT 
+KHCL2017 
+73 
+175209x3 
+Lê Thuận Phương 
+ATCL2017 
+MMT&TT 
+ATCL2017 
+74 
+175209x7 
+Nguyễn Thị Kim Phương 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+75 
+175209x7 
+Nguyễn Hoàng Quân 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+76 
+175209x4 
+Đặng Hồng Quang 
+ATTN2017 
+MMT&TT 
+ATTN2017 
+77 
+175209x6 
+Nguyễn Như Quỳnh 
+ATCL2017 
+MMT&TT 
+ATCL2017 
+78 
+175209x1 
+Võ Huỳnh Hữu Sang 
+ATTN2017 
+MMT&TT 
+ATTN2017 
+79 
+175209x8 
+Nguyễn Hồng Sơn 
+ATCL2017 
+MMT&TT 
+ATCL2017 
+80 
+175209x9 
+Nguyễn Hồng Sơn 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+Chưa cung cấp STK trên hệ thống 
+81 
+175210x9 
+Huỳnh Minh Thái 
+ATCL2017 
+MMT&TT 
+ATCL2017 
+82 
+175210x1 
+Nguyễn Thanh Thái 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+83 
+175210x5 
+Lê Nguyễn Hoàng Thiện 
+MTCL2017.2 
+KTMT 
+MTCL2017 
+84 
+175211x4 
+Lê Thị Huyền Thư 
+ATTN2017 
+MMT&TT 
+ATTN2017 
+85 
+175211x8 
+Lê Như Toàn 
+MTCL2017.2 
+KTMT 
+MTCL2017.2 
+86 
+175211x5 
+Lê Thánh Tông 
+HTCL2017.1 
+HTTT 
+HTCL2017 
+87 
+175211x7 
+Nguyễn Bích Trâm 
+HTCL2017.1 
+HTTT 
+HTCL2017 
+88 
+175211x0 
+Nguyễn Hoàng Triều 
+PMCL2017.3 
+CNPM 
+PMCL2017.3 
+Chưa cung cấp STK trên hệ thống 
+89 
+175211x2 
+Hoàng Thụy Trinh 
+HTCL2017.1 
+HTTT 
+HTCL2017.1 
+90 
+175211x8 
+Nguyễn Thị Hồng Trúc 
+HTTT2017 
+HTTT 
+HTTT2017 
+91 
+175211x7 
+Nguyễn Quốc Trung 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+Chưa cung cấp STK trên hệ thống 
+92 
+175211x4 
+Nguyễn đang Trường 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+93 
+175212x9 
+Phạm Nhật Tuấn 
+MMCL2017 
+MMT&TT 
+MMCL2017 
+94 
+175212x6 
+Trần Quốc Tuấn 
+ATTT2017 
+MMT&TT 
+ATTT2017 
+95 
+175212x1 
+Thân Thế Tùng 
+KTMT2017 
+KTMT 
+KTMT2017 
+96 
+175212x0 
+Lê Nguyễn Hoàng Vũ 
+PMCL2017.2 
+CNPM 
+PMCL2017.2 
+97 
+175212x1 
+Mai Hoàng Vũ 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+98 
+175212x6 
+Hoàng Gia Vương 
+MMTT2017 
+MMT&TT 
+MMTT2017 
+99 
+175212x7 
+Trần Văn Như Ý 
+MMCL2017 
+MMT&TT 
+MMCL2017 
+100 
+175212x0 
+Phạm Đông Yên 
+KTMT2017 
+KTMT 
+KTMT2017 
+101 
+175212x4 
+Nguyễn Quốc Đại 
+CTTT2017 
+HTTT 
+CTTT2017 
+Chưa cung cấp STK trên hệ thống 
+102 
+175213x0 
+Trần Ngọc Sơn 
+PMCL2017.3 
+CNPM 
+PMCL2017 
+103 
+175213x1 
+Bạch Hồng Thái 
+CTTT2017 
+HTTT 
+CTTT2017 
+104 
+185200x4 
+Nguyễn Thị Quỳnh Anh 
+TMĐT2018 
+HTTT 
+TMDT2018 
+105 
+185200x7 
+Võ Thanh Bình 
+KTPM2018 
+CNPM 
+KTPM2018 
+106 
+185200x0 
+Tăng Khánh Chương 
+PMCL2018.1 
+CNPM 
+KTPM2018 
+107 
+185200x3 
+Trương Bá Cường 
+KTPM2018 
+CNPM 
+KTPM2018 
+108 
+185200x7 
+Lê Phước Đạt 
+KHMT2018 
+KHMT 
+KHMT2018 
+109 
+185200x9 
+Lê Thị Mỹ Diệu 
+HTTT2018 
+HTTT 
+HTTT2018 
+110 
+185200x2 
+Vi Hữu Đức 
+KTPM2018 
+CNPM 
+KTPM2018 
+111 
+185200x3 
+Hoàng Ngọc Phương Dung 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+112 
+185200x3 
+Hoàng Viễn Duy 
+KHMT2018 
+KHMT 
+KHMT2018 
+113 
+185200x5 
+Nguyễn Hoàng Khánh Duy 
+CNTT2018 
+KTTT 
+CNTT2018 
+114 
+185200x8 
+Trần Phương Duy 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+115 
+185200x2 
+Nguyễn Xuân Hà 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+116 
+185200x9 
+Lê Thị Minh Hiền 
+CNTT2018 
+KTTT 
+CNTT2018 
+117 
+185200x0 
+Lữ Thị Ngọc Hiền 
+HTTT2018 
+HTTT 
+HTTT2018 
+118 
+185200x1 
+Nguyễn Minh Hiển 
+ATTN2018 
+MMT&TT 
+ANTN2018 
+119 
+185200x0 
+Tạ Việt Hoàng 
+ATCL2018.1 
+MMT&TT 
+Atcl2018 
+Chưa cung cấp STK trên hệ thống 
+120 
+185200x1 
+Nguyễn Xuân Khang 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+121 
+185200x5 
+Trần Duy Khánh 
+KTPM2018 
+CNPM 
+KTPM2018 
+122 
+185200x3 
+Nguyễn Phương Lan 
+HTTT2018 
+HTTT 
+HTTT2018 
+123 
+185200x4 
+Nguyễn Trúc Thanh Lan 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+124 
+185200x5 
+Phùng Mỹ Liên 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+125 
+185200x7 
+Nguyễn Xuân Lộc 
+CNTT2018 
+KTTT 
+CNTT2018 
+126 
+185200x6 
+Nguyễn Văn Lương 
+KTPM2018 
+CNPM 
+KTPM2018 
+127 
+185200x8 
+Trần Xuân Thanh Mai 
+CNTT2018 
+KTTT 
+CNTT2018 
+128 
+185201x2 
+Phạm Nhật Minh 
+CNTT2018 
+KTTT 
+CNTT2018 
+129 
+185201x9 
+Nguyễn Đắc Thiên Ngân 
+PMCL2018.1 
+CNPM 
+PMCL2018 
+130 
+185201x3 
+Trần Như Ngọc 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+131 
+185201x8 
+Nguyễn Duy Nhật 
+KHMT2018 
+KHMT 
+KHMT2018 
+132 
+185201x0 
+Phạm Lê Quang Nhật 
+KHTN2018 
+KHMT 
+KHTN2018 
+133 
+185201x3 
+Trang Hoàng Nhựt 
+CNTT2018 
+KTTT 
+CNTT2018 
+134 
+185201x6 
+Đỗ Nguyễn Thuận Phong 
+KHMT2018 
+KHMT 
+KHMT2018 
+135 
+185201x2 
+Dương Mai Phương 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+136 
+185201x3 
+Nguyễn Dương Trúc Phương 
+KHMT2018 
+KHMT 
+KHMT2018 
+137 
+185201x5 
+Nguyễn Thị Phương 
+CNTT2018 
+KTTT 
+CNTT2018 
+138 
+185201x6 
+Huỳnh Bá Anh Quân 
+KTMT2018 
+KTMT 
+KTMT2018 
+139 
+185201x0 
+Huỳnh Phan Minh Quang 
+CNCL2018.1 
+KTTT 
+CNCL2018 
+140 
+185201x6 
+Phạm Liên Sanh 
+KTPM2018 
+CNPM 
+KTPM2018 
+141 
+185201x2 
+Nguyễn Quyết Thắng 
+KHMT2018 
+KHMT 
+KHMT2018 
+142 
+185201x5 
+Huỳnh Thị Kim Thảo 
+KTPM2018 
+CNPM 
+KTPM2018 
+143 
+185201x8 
+Phạm Xuân Thiên 
+KHMT2018 
+KHMT 
+KHMT2018 
+Chưa cung cấp STK trên hệ thống 
+144 
+185201x5 
+Nguyễn Công Tiến 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+145 
+185201x7 
+Phan Huy Tiến 
+KTPM2018 
+CNPM 
+KTPM2018 
+146 
+185201x1 
+Phạm Nguyễn Phúc Toàn 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+147 
+185201x9 
+Nguyễn Thành Trung 
+KTPM2018 
+CNPM 
+KTPM2018 
+Chưa cung cấp STK trên hệ thống 
+148 
+185201x6 
+Ngô Đức Tuấn 
+KHCL2018.2 
+KHMT 
+KHMT2018.2 
+Chưa cung cấp STK trên hệ thống 
+149 
+185201x0 
+Bùi Thúy Vi 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+150 
+185201x2 
+Trần Hoàng Việt 
+KHMT2018 
+KHMT 
+KHMT2018 
+151 
+185201x4 
+Trương Đức Vũ 
+KHTN2018 
+KHMT 
+KHTN2018 
+152 
+185201x6 
+Ngô Tường Vy 
+CNTT2018 
+KTTT 
+CNTT2018 
+153 
+185202x6 
+Nguyễn Quốc Cường 
+KHTN2018 
+KHMT 
+KHTN2018 
+154 
+185202x0 
+Nguyễn Minh Đức 
+KTPM2018 
+CNPM 
+KTPM2018 
+155 
+185202x1 
+Nguyễn Văn Dương 
+KTPM2018 
+CNPM 
+KTPM2018 
+156 
+185202x2 
+Nguyễn Xuân Dương 
+KHTN2018 
+KHMT 
+KHTN2018 
+157 
+185202x2 
+Phạm Long Nhật 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+158 
+185202x5 
+Trần Tuấn Vĩ 
+KHMT2018 
+KHMT 
+KHMT2018 
+Chưa cung cấp STK trên hệ thống 
+159 
+185202x4 
+Nguyễn Võ Bảo Huy 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+160 
+185202x7 
+Lê Ngọc Chính 
+PMCL2018.1 
+CNPM 
+PMCL2018 
+161 
+185202x2 
+Phù Hữu Đạt 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+162 
+185202x5 
+Lê Thị Hồng Diệu 
+KTPM2018 
+CNPM 
+KTPM2018 
+163 
+185202x6 
+Nguyễn Minh Đức 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+164 
+185202x7 
+Nguyễn Thái Minh Đức 
+CNTT2018 
+KTTT 
+CNTT2018 
+165 
+185202x4 
+Lê Thị Thu Hằng 
+CNCL2018.1 
+KTTT 
+CNCL2018 
+166 
+185202x2 
+Đinh Quang Hoàng 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+167 
+185202x6 
+Trần Xuân Hưng 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+168 
+185202x7 
+Phan Phát Huy 
+KHMT2018 
+KHMT 
+KHMT2018 
+169 
+185202x3 
+Trần Cao Viết Khoa 
+TMĐT2018 
+HTTT 
+TMĐT 2018 
+170 
+185202x8 
+Nguyễn Đoàn Kiều Liên 
+CNTT2018 
+KTTT 
+CNTT2018 
+171 
+185202x9 
+Lê Bá Lĩnh 
+KTPM2018 
+CNPM 
+KTPM2018 
+172 
+185203x4 
+Nguyễn Nhật Long 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+173 
+185203x1 
+Đặng Hoàng Minh 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+174 
+185203x2 
+Huỳnh Ngọc Khánh Minh 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+175 
+185203x4 
+Trần Tuấn Minh 
+KTPM2018 
+CNPM 
+KTPM2018 
+176 
+185203x7 
+Nguyễn Thị Thúy Nga 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+177 
+185203x6 
+Thái Hoàng Nhân 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+Chưa cung cấp STK trên hệ thống 
+178 
+185203x8 
+Trần Ngọc Yến Nhi 
+CNTT2018 
+KTTT 
+CNTT2018 
+179 
+185203x2 
+Trần Quốc Phong 
+HTTT2018 
+HTTT 
+HTTT2018 
+180 
+185203x5 
+Đinh Ngọc Uyên Phương 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+181 
+185203x3 
+Nguyễn Phú Quốc 
+KHTN2018 
+KHMT 
+KHTN2018 
+182 
+185203x8 
+Huỳnh Khải Siếu 
+KHDL2018 
+KTTT 
+KHDL2018 
+183 
+185203x0 
+Lê Hoàng Minh Sơn 
+KTPM2018 
+CNPM 
+KTPM2018 
+184 
+185203x5 
+Lê Văn Thắng 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+185 
+185203x6 
+Lê Việt Thắng 
+KHDL2018 
+KTTT 
+KHDL2018 
+186 
+185203x0 
+Nguyễn Chí Thành 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+187 
+185203x3 
+Lê Khắc Nguyên Thiên 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+188 
+185203x5 
+Trần Chí Thiện 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+189 
+185203x7 
+Nguyễn Vương Thịnh 
+KHTN2018 
+KHMT 
+KHTN2018 
+190 
+185203x8 
+Phạm Ngọc Thịnh 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+Chưa cung cấp STK trên hệ thống 
+191 
+185203x9 
+Mai Nguyễn Đức Thọ 
+CNTT2018 
+KTTT 
+CNTT2018 
+192 
+185203x8 
+Nguyễn Thị Thủy Tiên 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+193 
+185204x1 
+Trần Anh Vũ 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+194 
+185204x5 
+Tô Hoài Quỳnh Vy 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+195 
+185204x0 
+Nguyễn Ngọc Quí 
+CNTT2018 
+KTTT 
+CNTT2018 
+196 
+185204x2 
+Đỗ Trường An 
+ATCL2018.1 
+MMT&TT 
+ATCL2018 
+197 
+185204x9 
+Ngô Tấn An 
+MMCL2018.1 
+MMT&TT 
+MMCL2018 
+198 
+185204x0 
+Nguyễn Hoàng An 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+199 
+185204x1 
+Nguyễn Hoàng Quốc Ấn 
+ATCL2018.1 
+MMT&TT 
+ATCL2018 
+Chưa cung cấp STK trên hệ thống 
+200 
+185204x3 
+Nguyễn Thiện An 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+201 
+185204x4 
+Nguyễn Trọng Ân 
+KHDL2018 
+KTTT 
+KHDL2018 
+202 
+185204x6 
+Phạm Văn An 
+ATCL2018.1 
+MMT&TT 
+ATCL2018 
+Chưa cung cấp STK trên hệ thống 
+203 
+185204x8 
+Phan Quốc An 
+KTPM2018 
+CNPM 
+KTPM2018 
+204 
+185204x0 
+Võ Quốc An 
+KHTN2018 
+KHMT 
+KHTN2018 
+205 
+185204x1 
+Bùi Quang Anh 
+CTTT2018 
+HTTT 
+HTTT2018 
+206 
+185204x7 
+Hoàng Tuấn Anh 
+HTCL2018.1 
+HTTT 
+HTCL2018.1 
+207 
+185204x6 
+Nguyễn Huỳnh Anh 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+208 
+185204x8 
+Nguyễn Lê Nam Anh 
+ATCL2018.1 
+MMT&TT 
+ATCL.1 2018 
+209 
+185204x9 
+Nguyễn Ngọc Duy Anh 
+CNTT2018 
+KTTT 
+CNTT2018 
+210 
+185204x0 
+Nguyễn Phạm Thế Anh 
+MTCL2018.1 
+KTMT 
+MTCL2018 
+211 
+185204x1 
+Nguyễn Thị Lan Anh 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+212 
+185204x2 
+Nguyễn Thị Ngọc Anh 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+213 
+185204x5 
+Nguyễn Tuấn Anh 
+CTTT2018 
+HTTT 
+CTTT2018 
+214 
+185204x1 
+Tô Viết Anh 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+215 
+185204x3 
+Trần Trung Anh 
+KHTN2018 
+KHMT 
+KHTN2018 
+216 
+185204x4 
+Trần Tuấn Anh 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+217 
+185204x6 
+Võ Thị Vân Anh 
+HTTT2018 
+HTTT 
+HTTT2018 
+218 
+185204x8 
+Tô Thị Mỹ Âu 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+219 
+185204x0 
+Nguyễn Lê Bách 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+220 
+185204x1 
+Nguyễn Giao Ban 
+HTTT2018 
+HTTT 
+HTTT2018 
+221 
+185204x2 
+Đỗ Gia Bảo 
+CNCL2018.1 
+KTTT 
+CNCL2018.1 
+222 
+185204x6 
+Nguyễn Đình Thiên Bảo 
+MMCL2018.1 
+MMT&TT 
+MMCL2018 
+223 
+185204x2 
+Nguyễn Tiến Bảo 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+224 
+185204x6 
+Phù Hoài Bão 
+TMĐT2018 
+HTTT 
+TMDT2018 
+225 
+185204x8 
+Trần Gia Bảo 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+226 
+185205x2 
+Võ Gia Bảo 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+227 
+185205x3 
+Võ Linh Bảo 
+KHTN2018 
+KHMT 
+KHTN2018 
+228 
+185205x4 
+Vũ Gia Bảo 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+Chưa cung cấp STK trên hệ thống 
+229 
+185205x9 
+Nguyễn Thị Như Bình 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+230 
+185205x0 
+Tạ Thị Kim Bình 
+CTTT2018 
+HTTT 
+CTTT2018 
+231 
+185205x9 
+Nguyễn Minh Châu 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+232 
+185205x6 
+Cao Quyết Chiến 
+CTTT2018 
+HTTT 
+CTTT2018 
+233 
+185205x2 
+Trần Trọng Chiến 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+Chưa cung cấp STK trên hệ thống 
+234 
+185205x3 
+Nguyễn Đức Chính 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+235 
+185205x2 
+Đỗ Ngọc Cường 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+236 
+185205x0 
+Nguyễn Xuân Đà 
+MMCL2018.1 
+MMT&TT 
+MMCL2018 
+237 
+185205x2 
+Nguyễn Bá Đắc 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+Chưa cung cấp STK trên hệ thống 
+238 
+185205x4 
+Vũ Duy Di Đan 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+239 
+185205x7 
+Nguyễn Ngọc Đăng 
+KTPM2018 
+CNPM 
+KTPM2018 
+240 
+185205x0 
+Lê Kim Danh 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+241 
+185205x6 
+Hoàng Tiến Đạt 
+CNTT2018 
+KTTT 
+CNTT2018 
+242 
+185205x7 
+Huỳnh Long Thành Đạt 
+HTTT2018 
+HTTT 
+HTTT2018 
+243 
+185205x0 
+Lê Phan Thành Đạt 
+KHDL2018 
+KTTT 
+KHDL2018 
+Chưa cung cấp STK trên hệ thống 
+244 
+185205x0 
+Nguyễn Thành Đạt 
+CNTT2018 
+KTTT 
+CNTT2018 
+245 
+185205x1 
+Nguyễn Thiên Đạt 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+246 
+185205x5 
+Phạm Trần Tiến Đạt 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+247 
+185205x1 
+Trần Tiến Đạt 
+KTMT2018 
+KTMT 
+KTMT2018 
+248 
+185205x7 
+Nguyễn Thị Ngọc Diễm 
+KTMT2018 
+KTMT 
+KTMT2018 
+249 
+185206x0 
+Nguyễn Thanh Điền 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+250 
+185206x1 
+Trần Văn Điệp 
+HTTT2018 
+HTTT 
+HTTT2018 
+251 
+185206x5 
+Nguyễn Văn Đô 
+KTMT2018 
+KTMT 
+ktmt2018 
+Chưa cung cấp STK trên hệ thống 
+252 
+185206x6 
+Nguyễn Hữu Doanh 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+253 
+185206x8 
+Võ Minh Đôn 
+KTPM2018 
+CNPM 
+KTPM2018 
+254 
+185206x9 
+Trần Ngọc Duẩn 
+ATTN2018 
+MMT&TT 
+ANTN2018 
+255 
+185206x4 
+Nguyễn Phan Hoàng Đức 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+256 
+185206x9 
+Phạm Thanh Đức 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+257 
+185206x6 
+Trương Hữu Minh Đức 
+KTPM2018 
+CNPM 
+KTPM2018 
+258 
+185206x2 
+Hoàng Văn Dũng 
+KHMT2018 
+KHMT 
+KHMT2018 
+259 
+185206x3 
+Lê Đăng Dũng 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+260 
+185206x5 
+Nguyễn Chí Dũng 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+261 
+185206x0 
+Triệu Thị Thùy Dung 
+TMĐT2018 
+HTTT 
+TMDT2018 
+262 
+185206x1 
+Võ Thành Trung Dũng 
+KHDL2018 
+KTTT 
+KHDL2018 
+263 
+185206x7 
+Nguyễn Thái Dương 
+ATCL2018.1 
+MMT&TT 
+ATCL2018 
+264 
+185206x8 
+Nguyễn Thị Thùy Dương 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+265 
+185206x6 
+Đặng Ngọc Khánh Duy 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+266 
+185206x8 
+Đinh Duyên Bảo Duy 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+267 
+185206x9 
+Hà Thanh Duy 
+CNTT2018 
+KTTT 
+CNTT2018 
+268 
+185206x5 
+Nguyễn Hoàng Duy 
+ATCL2018.1 
+MMT&TT 
+ATCL2018 
+269 
+185206x9 
+Phạm Khắc Duy 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+270 
+185206x2 
+Phạm Tiến Duy 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+271 
+185206x4 
+Trần Lê Duy 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+272 
+185206x5 
+Trần Văn Duy 
+KTMT2018 
+KTMT 
+KTMT2018 
+273 
+185206x2 
+Trần Huỳnh Cẩm Duyên 
+TMĐT2018 
+HTTT 
+TMDT2018 
+274 
+185206x3 
+Trần Thị Thùy Duyên 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+275 
+185206x5 
+Nguyễn Nữ Châu Giang 
+CNCL2018.1 
+KTTT 
+CNCL2018.1 
+276 
+185206x1 
+Nguyễn Thị Hà 
+KHMT2018 
+KHMT 
+KHMT2018 
+277 
+185206x2 
+Nguyễn Thị Khánh Hà 
+CTTT2018 
+HTTT 
+CTT2018 
+278 
+185206x3 
+Phạm Ngọc Hà 
+CNTT2018 
+KTTT 
+CNTT2018 
+279 
+185206x4 
+Trần Miên Khánh Hạ 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+280 
+185206x9 
+Lâm Sơn Hải 
+KTPM2018 
+CNPM 
+KTPM2018 
+Chưa cung cấp STK trên hệ thống 
+281 
+185207x0 
+Lê Chí Hải 
+HTCL2018.1 
+HTTT 
+HTCL2018 
+282 
+185207x3 
+Phạm Quang Hải 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+283 
+185207x5 
+Phan Thanh Hải 
+KHMT2018 
+KHMT 
+KHMT2018 
+284 
+185207x6 
+Trần Long Hải 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+Chưa cung cấp STK trên hệ thống 
+285 
+185207x1 
+Dương Thị Hồng Hạnh 
+KHDL2018 
+KTTT 
+KHDL2018 
+286 
+185207x5 
+Ngô Nguyễn Linh Hảo 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+287 
+185207x2 
+Nguyễn Thanh Hiển 
+HTTT2018 
+HTTT 
+HTTT2018 
+288 
+185207x6 
+Đỗ Hoàng Hiệp 
+CTTT2018 
+HTTT 
+CTTT2018 
+Chưa cung cấp STK trên hệ thống 
+289 
+185207x0 
+Bạch Văn Hiếu 
+KHCL2018.1 
+KHMT 
+HKMT2018.1 
+290 
+185207x2 
+Bùi Minh Hiếu 
+CNTT2018 
+KTTT 
+CNTT2018 
+291 
+185207x4 
+Đoàn Thị Thanh Hiếu 
+PMCL2018.2 
+CNPM 
+PMCL2018.2 
+Chưa cung cấp STK trên hệ thống 
+292 
+185207x1 
+Ngô Trung Hiếu 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+293 
+185207x6 
+Nguyễn Duy Hiệu 
+HTTT2018 
+HTTT 
+HTTT2018 
+294 
+185207x4 
+Trần Trung Hiếu 
+KHDL2018 
+KTTT 
+KHDL2018 
+295 
+185207x0 
+Hồ Đặng Thanh Hồ 
+KHMT2018 
+KHMT 
+KHMT2018 
+296 
+185207x5 
+Phạm Trung Hoà 
+MTCL2018.1 
+KTMT 
+MTCL2018.1 
+297 
+185207x7 
+Võ Kiều Hoa 
+KHDL2018 
+KTTT 
+KHDL2018 
+298 
+185207x1 
+Đinh Thị Mỹ Hoàn 
+CTTT2018 
+HTTT 
+CTTT2018 
+299 
+185207x8 
+Huỳnh Minh Hoàng 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+300 
+185207x9 
+Lê Huy Hoàng 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+Chưa cung cấp STK trên hệ thống 
+301 
+185207x2 
+Nguyễn Đức Hoàng 
+TMĐT2018 
+HTTT 
+TMDT2018 
+302 
+185207x4 
+Trần Đức Hoàng 
+HTTT2018 
+HTTT 
+HTTT2018 
+303 
+185207x5 
+Trần Việt Hoàng 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+304 
+185207x0 
+Đặng Quang Hưng 
+CTTT2018 
+HTTT 
+CTTT2018 
+305 
+185207x1 
+Đinh Xuân Hùng 
+CTTT2018 
+HTTT 
+CTTT2018 
+306 
+185207x2 
+Dương Ngọc Hùng 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+307 
+185207x4 
+Hoàng Văn Hùng 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+308 
+185207x7 
+Lê Quang Hưng 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+309 
+185208x1 
+Nguyễn Minh Hưng 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+310 
+185208x9 
+Quách Bảo Hưng 
+CTTT2018 
+HTTT 
+HTTT2018 
+311 
+185208x3 
+Lê Thị Thúy Hường 
+HTTT2018 
+HTTT 
+HTTT2018 
+312 
+185208x4 
+Nguyễn Thị Diễm Hương 
+TMĐT2018 
+HTTT 
+TMDT2018 
+313 
+185208x9 
+Chế Quang Huy 
+KTMT2018 
+KTMT 
+KTMT2018 
+314 
+185208x0 
+Đặng Nhật Huy 
+CNCL2018.1 
+KTTT 
+CNCL2018.1 
+Chưa cung cấp STK trên hệ thống 
+315 
+185208x8 
+Huỳnh Gia Huy 
+HTCL2018.1 
+HTTT 
+HTCL2018 
+316 
+185208x3 
+Lê Bảo Huy 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+317 
+185208x4 
+Lê Quốc Huy 
+CNTT2018 
+KTTT 
+CNTT2018 
+318 
+185208x5 
+Lê Văn Huy 
+HTTT2018 
+HTTT 
+HTTT2018 
+319 
+185208x6 
+Lưu Quốc Huy 
+HTCL2018.1 
+HTTT 
+HTCL2018.1 
+320 
+185208x4 
+Thái Minh Huy 
+MMCL2018.1 
+MMT&TT 
+MMCL2018 
+321 
+185208x0 
+Trương Minh Huy 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+322 
+185208x3 
+Nguyễn Thị Thu Huyền 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+323 
+185208x4 
+Nguyễn Thu Huyền 
+HTCL2018.1 
+HTTT 
+HTCL2018.1 
+324 
+185208x7 
+Lê Phạm Trúc Huỳnh 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+325 
+185208x8 
+Nguyễn Thị Thúy Huỳnh 
+CNTT2018 
+KTTT 
+CNTT2018 
+Chưa cung cấp STK trên hệ thống 
+326 
+185208x9 
+Huỳnh Tông Hy 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+327 
+185208x1 
+Phạm Minh Hy 
+HTTT2018 
+HTTT 
+HTTT2018 
+328 
+185208x2 
+Lê Võ Đình Kha 
+HTCL2018.1 
+HTTT 
+HTCL2018.1 
+329 
+185208x5 
+Trần Quang Kha 
+ATCL2018.1 
+MMT&TT 
+ATCL2018 
+330 
+185208x8 
+Trương Quang Khải 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+331 
+185208x2 
+Dương Lê Tường Khang 
+KHMT2018 
+KHMT 
+KHMT2018 
+332 
+185208x5 
+Lâm Lê Đình Khang 
+CTTT2018 
+HTTT 
+CTTT2018 
+333 
+185208x9 
+Lê Phúc Khang 
+HTCL2018.1 
+HTTT 
+HTCL2018 
+334 
+185208x6 
+Trần Đình Khang 
+KHTN2018 
+KHMT 
+KHTN2018 
+335 
+185209x1 
+Nguyễn Ngọc Khánh 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+336 
+185209x8 
+Trần Quốc Khánh 
+KHDL2018 
+KTTT 
+KHDL2018 
+337 
+185209x0 
+Bùi Công Nguyên Khoa 
+ATCL2018.1 
+MMT&TT 
+ATCL2018.1 
+338 
+185209x1 
+Đặng Quốc Khoa 
+CTTT2018 
+HTTT 
+CTTT2018 
+339 
+185209x3 
+Nguyễn Anh Khoa 
+KHMT2018 
+KHMT 
+KHMT2018 
+340 
+185209x5 
+Nguyễn Lê Khoa 
+CTTT2018 
+HTTT 
+CTTT2018 
+Chưa cung cấp STK trên hệ thống 
+341 
+185209x8 
+Nguyễn Tuấn Khoa 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+342 
+185209x4 
+Phan Thị Kim Khoa 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+343 
+185209x5 
+Phan Vĩnh Khoa 
+HTCL2018.1 
+HTTT 
+HTCL2018.1 
+344 
+185209x6 
+Trần Đăng Khoa 
+KHDL2018 
+KTTT 
+KHDL2018 
+345 
+185209x8 
+Trần Nguyễn Anh Khoa 
+KHDL2018 
+KTTT 
+KHDL2018 
+346 
+185209x0 
+Trần Văn Khoa 
+KTMT2018 
+KTMT 
+KTMT2018 
+Chưa cung cấp STK trên hệ thống 
+347 
+185209x7 
+Trần Minh Khôi 
+PMCL2018.2 
+CNPM 
+PMCL2018 
+Chưa cung cấp STK trên hệ thống 
+348 
+185209x0 
+Nguyễn Ngọc Minh Khuê 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+349 
+185209x9 
+Bùi Nguyễn Tuấn Kiệt 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+350 
+185209x3 
+Nguyễn Thị Thanh Kim 
+KHDL2018 
+KTTT 
+KHDL2018 
+351 
+185209x6 
+Nguyễn Hồng Lạc 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+352 
+185209x0 
+Nguyễn Trường Lâm 
+CNCL2018.1 
+KTTT 
+CNCL2018.1 
+353 
+185209x2 
+Phạm Tấn Lâm 
+HTTT2018 
+HTTT 
+HTTT2018 
+354 
+185209x8 
+Trương Thị Ý Lan 
+CNTT2018 
+KTTT 
+CNTT2018 
+355 
+185209x2 
+Huỳnh Thanh Liêm 
+CNTT2018 
+KTTT 
+CNTT2018 
+356 
+185209x2 
+Phạm Ngọc Linh 
+CNTT2018 
+KTTT 
+CNTT2018 
+357 
+185209x3 
+Phan Quốc Linh 
+KTMT2018 
+KTMT 
+KTMT2018 
+358 
+185209x7 
+Trần Quang Linh 
+KHDL2018 
+KTTT 
+KHDL2018 
+359 
+185210x0 
+Trương Thị Ngọc Linh 
+CTTT2018 
+HTTT 
+CTTT2018 
+360 
+185210x2 
+Bùi Tấn Lộc 
+CTTT2018 
+HTTT 
+CTTT2018 
+361 
+185210x6 
+Bạch Thanh Long 
+HTTT2018 
+HTTT 
+HTTT2018 
+362 
+185210x1 
+Đinh Phạm Thiên Long 
+KTMT2018 
+KTMT 
+KTMT2018 
+363 
+185210x4 
+Hồ Vương Khánh Long 
+CNCL2018.1 
+KTTT 
+CNCL2018.1 
+Chưa cung cấp STK trên hệ thống 
+364 
+185210x7 
+Lê Hoàng Long 
+KHCL2018.2 
+KHMT 
+KHCL2018 
+Chưa cung cấp STK trên hệ thống 
+365 
+185210x4 
+Nguyễn Đức Huy Long 
+CNCL2018.1 
+KTTT 
+CNCL2018.1 
+366 
+185210x7 
+Nguyễn Hoàng Long 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+367 
+185210x6 
+Thái Hoàng Long 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+368 
+185210x7 
+Trần Đắc Long 
+HTCL2018.1 
+HTTT 
+HTCL2018 
+369 
+185210x0 
+Trịnh Hưng Long 
+KHMT2018 
+KHMT 
+KHMT2018 
+370 
+185210x3 
+Lâm Minh Luân 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+Chưa cung cấp STK trên hệ thống 
+371 
+185210x5 
+Nguyễn Tiến Luận 
+KTMT2018 
+KTMT 
+KTMT2018 
+372 
+185210x6 
+Nguyễn Xuân Luân 
+KTPM2018 
+CNPM 
+KTPM2018 
+373 
+185210x7 
+Vũ Minh Luân 
+KHMT2018 
+KHMT 
+KHMT2018 
+374 
+185210x8 
+Trần Bình Luật 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+375 
+185210x1 
+Dương Minh Lượng 
+CNCL2018.2 
+KTTT 
+CNCL2018 
+376 
+185210x3 
+Phan Lực Lượng 
+KHDL2018 
+KTTT 
+KHDL2018 
+377 
+185210x8 
+Nguyễn Ngọc Trúc Ly 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+378 
+185210x9 
+Nguyễn Thị Khánh Ly 
+KTPM2018 
+CNPM 
+KTPM2018 
+379 
+185210x2 
+Nguyễn Minh Mẫn 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+380 
+185210x6 
+Hồ Đắc Thanh Minh 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+381 
+185210x7 
+Hoàng Đức Minh 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+382 
+185210x9 
+Lê Công Minh 
+KHMT2018 
+KHMT 
+KHMT2018 
+383 
+185211x0 
+Lê Công Minh 
+HTCL2018.1 
+HTTT 
+HTCL2018 
+384 
+185211x1 
+Lê Đoàn Nhật Minh 
+KHMT2018 
+KHMT 
+KHMT2018 
+385 
+185211x2 
+Lê Duy Minh 
+HTTT2018 
+HTTT 
+HTTT2018 
+386 
+185211x3 
+Lê Hải Minh 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+387 
+185211x4 
+Lê Ngọc Minh 
+HTCL2018.2 
+HTTT 
+HTCL2018.2 
+Chưa cung cấp STK trên hệ thống 
+388 
+185211x6 
+Nguyễn Lê Minh 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+389 
+185211x9 
+Trần Doãn Minh 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+390 
+185211x7 
+Đào Duy Nam 
+KTPM2018 
+CNPM 
+KTPM2018 
+Chưa cung cấp STK trên hệ thống 
+391 
+185211x1 
+Lê Hoài Nam 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+Chưa cung cấp STK trên hệ thống 
+392 
+185211x2 
+Lê Phước Nhật Nam 
+KTMT2018 
+KTMT 
+KTMT2018 
+393 
+185211x8 
+Nguyễn Thanh Nam 
+MMCL2018.1 
+MMT&TT 
+MMCL2018.1 
+394 
+185211x9 
+Nguyễn Văn Hoài Nam 
+PMCL2018.2 
+CNPM 
+PMCL2018 
+Chưa cung cấp STK trên hệ thống 
+395 
+185211x0 
+Phan Hoàng Nam 
+CTTT2018 
+HTTT 
+CTTT2018 
+396 
+185211x2 
+Trần Nhật Nam 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+397 
+185211x6 
+Nguyễn Hoàng Kim Ngân 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+398 
+185211x8 
+Cao Trọng Nghĩa 
+ATCL2018.2 
+MMT&TT 
+ATCL2018 
+399 
+185211x9 
+Đoàn Văn Nghĩa 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+400 
+185211x1 
+Hoàng Minh Nghĩa 
+KTMT2018 
+KTMT 
+KTMT2018 
+401 
+185211x3 
+Nguyễn Hoàng Nghĩa 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+402 
+185211x4 
+Nguyễn Hữu Nghĩa 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+403 
+185211x6 
+Nguyễn Huỳnh Trọng Nghĩa 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+404 
+185211x9 
+Phan Võ Hiếu Nghĩa 
+HTCL2018.2 
+HTTT 
+HTCL2018 
+405 
+185211x0 
+Tô Trọng Nghĩa 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+406 
+185211x5 
+Lê Thị Hồng Ngọc 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+407 
+185211x6 
+Đào Trung Nguyên 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+408 
+185211x7 
+Lê Trần Phúc Nguyên 
+KHMT2018 
+KHMT 
+KHMT2018 
+409 
+185211x9 
+Ngô Phan Phúc Nguyên 
+CTTT2018 
+HTTT 
+CTTT2018 
+410 
+185211x2 
+Phạm Duy Giác Nguyên 
+KHCL2018.2 
+KHMT 
+KHCL2018.2 
+411 
+185211x3 
+Phan Hoàng Nguyên 
+KHMT2018 
+KHMT 
+KHMT2018 
+412 
+185211x4 
+Tạ Công Nguyên 
+CNTT2018 
+KTTT 
+CNTT2018 
+413 
+185211x5 
+Tô Quốc Nguyễn 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+414 
+185211x9 
+Phan Thị Nguyệt 
+HTTT2018 
+HTTT 
+HTTT2018 
+415 
+185211x1 
+Đàm Hữu Nhân 
+HTTT2018 
+HTTT 
+HTTT2018 
+416 
+185211x2 
+Đặng Văn Nhân 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+417 
+185211x5 
+Ngô Thanh Nhân 
+KTMT2018 
+KTMT 
+KTMT2018 
+418 
+185211x7 
+Nguyễn Minh Nhân 
+MTCL2018.2 
+KTMT 
+MTCL2018.2 
+419 
+185211x8 
+Nguyễn Thành Nhân 
+KTMT2018 
+KTMT 
+KTMT2018 
+420 
+185211x7 
+Phạm Tân Nhật 
+KTMT2018 
+KTMT 
+KTMT2018 
+421 
+185211x9 
+Đặng Thị Thùy Nhi 
+HTTT2018 
+HTTT 
+HTTT2018 
+422 
+185212x0 
+Hồ Thị Yến Nhi 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+423 
+185212x2 
+Lê Thị Phượng Nhi 
+HTTT2018 
+HTTT 
+HTTT2018 
+424 
+185212x3 
+Lê Thị Thanh Nhi 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+425 
+185212x7 
+Phan Ngọc Phương Nhi 
+HTCL2018.1 
+HTTT 
+HTCL2018 
+426 
+185212x8 
+Trần Như Uyển Nhi 
+CNTT2018 
+KTTT 
+CNTT2018 
+427 
+185212x4 
+Nguyễn Thị Huỳnh Như 
+TMĐT2018 
+HTTT 
+TMDT2018 
+428 
+185212x8 
+Nguyễn Thị Hồng Nhung 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+429 
+185212x7 
+Trịnh Ngọc Pháp 
+KHDL2018 
+KTTT 
+KHDL2018 
+430 
+185212x0 
+Nguyễn Hữu Phát 
+CNTT2018 
+KTTT 
+CNTT2018 
+431 
+185212x1 
+Nguyễn Văn Phát 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+432 
+185212x4 
+Trần Công Phát 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+433 
+185212x5 
+Hoàng Văn Mỹ Phi 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+434 
+185212x6 
+Dương Hoài Phong 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+435 
+185212x3 
+Ngô Minh Phú 
+CNCL2018.2 
+KTTT 
+KH&KTTT2018 
+Chưa cung cấp STK trên hệ thống 
+436 
+185212x6 
+Nguyễn Trí Phú 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+Chưa cung cấp STK trên hệ thống 
+437 
+185212x0 
+Trần Hoàng Thiên Phú 
+KTMT2018 
+KTMT 
+KTMT2018 
+438 
+185212x0 
+Phạm Huỳnh Phúc 
+KHDL2018 
+KTTT 
+KHDL2018 
+439 
+185212x2 
+Lê Minh Phước 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+440 
+185212x3 
+Nguyễn Văn Phước 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+441 
+185212x4 
+Trần Hoàng Phước 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+442 
+185212x6 
+Đoàn Đức Phương 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+Chưa cung cấp STK trên hệ thống 
+443 
+185212x7 
+Đoàn Thanh Phương 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+444 
+185212x1 
+Hỷ Hoa Phương 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+445 
+185212x2 
+Lê Ngọc Thái Phương 
+CTTT2018 
+HTTT 
+CTTT2018 
+446 
+185212x4 
+Lỡ Đình Phương 
+KHMT2018 
+KHMT 
+KHMT2018 
+447 
+185212x5 
+Lương Kim Phượng 
+PMCL2018.2 
+CNPM 
+PMCL2018.2 
+448 
+185212x6 
+Nguyễn Duy Phương 
+CTTT2018 
+HTTT 
+CTTT2018 
+449 
+185212x3 
+Đỗ Mạnh Quân 
+KHCL2018.3 
+KHMT 
+KHCL.3 2018 
+450 
+185212x4 
+Huỳnh Ngọc Quân 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+451 
+185212x5 
+Nguyễn Minh Quân 
+CNCL2018.2 
+KTTT 
+CNCL2018 
+452 
+185212x7 
+Phạm Trường Quân 
+HTTT2018 
+HTTT 
+HTTT2018 
+453 
+185212x1 
+Đặng Ngọc Quang 
+CNTT2018 
+KTTT 
+CNTT2018 
+454 
+185212x4 
+Hoàng Đình Quang 
+KHDL2018 
+KTTT 
+KHDL2018 
+455 
+185213x8 
+Hà Vương Quốc 
+TMĐT2018 
+HTTT 
+TMDT2018 
+456 
+185213x0 
+Nguyễn Kim Quốc 
+KTMT2018 
+KTMT 
+KTMT2018 
+457 
+185213x2 
+Tống Đình Quốc 
+CNTT2018 
+KTTT 
+CNTT2018 
+458 
+185213x7 
+Vũ Thị Quý 
+CTTT2018 
+HTTT 
+CTTT2018 
+459 
+185213x9 
+Đỗ Thanh Quyền 
+HTCL2018.2 
+HTTT 
+HTCL2018.2 
+460 
+185213x0 
+Đoàn Thục Quyên 
+HTCL2018.2 
+HTTT 
+HTCL2018 
+461 
+185213x1 
+Nguyễn Hữu Quyền 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+462 
+185213x5 
+Đỗ Thị Thảo Quỳnh 
+HTTT2018 
+HTTT 
+HTTT2018 
+463 
+185213x9 
+Hồ Ngọc Đông Sinh 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+464 
+185213x0 
+Thái Công Sinh 
+MMCL2018.2 
+MMT&TT 
+MMCL2018.2 
+465 
+185213x0 
+Nguyễn Ngọc Sơn 
+PMCL2018.2 
+CNPM 
+PMCL2018.2 
+466 
+185213x5 
+Trần Thị Ánh Sương 
+HTCL2018.2 
+HTTT 
+HTCL2018 
+467 
+185213x7 
+Cao Tài 
+KTMT2018 
+KTMT 
+KTMT2018 
+468 
+185213x9 
+Lê Minh Tài 
+CNCL2018.2 
+KTTT 
+CNCL2018.2 
+469 
+185213x1 
+Nguyễn Hữu Tài 
+HTCL2018.2 
+HTTT 
+HTTT2018.2 
+Chưa cung cấp STK trên hệ thống 
+470 
+185213x6 
+Đoàn Văn Minh Tâm 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+Chưa cung cấp STK trên hệ thống 
+471 
+185213x7 
+Dương Minh Tâm 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+Chưa cung cấp STK trên hệ thống 
+472 
+185213x8 
+Nguyễn Hoàn Tâm 
+KTMT2018 
+KTMT 
+KTMT2018 
+473 
+185213x1 
+Phạm Ngọc Tâm 
+ATTN2018 
+MMT&TT 
+ANTN2018 
+474 
+185213x7 
+Phan Quang Tấn 
+KHMT2018 
+KHMT 
+KHMT2018 
+475 
+185213x9 
+Bùi Xuân Thái 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+476 
+185213x1 
+Lữ Ngọc Vĩnh Thái 
+PMCL2018.2 
+CNPM 
+PMCL2018.2 
+477 
+185213x7 
+Chu Văn Thắng 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+478 
+185213x0 
+Hồ Hữu Thắng 
+HTCL2018.2 
+HTTT 
+HTCL2018.2 
+479 
+185213x3 
+Nguyễn Đức Thắng 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+480 
+185213x5 
+Nguyễn Hữu Thắng 
+ATCL2018.2 
+MMT&TT 
+ATCL2018 
+481 
+185214x1 
+Hà Minh Thành 
+KTPM2018 
+CNPM 
+KTPM2018 
+482 
+185214x8 
+Nguyễn Duy Thanh 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+483 
+185214x2 
+Nguyễn Thị Thành 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+484 
+185214x4 
+Trần Quốc Thành 
+CNTT2018 
+KTTT 
+CNTT2018 
+485 
+185214x2 
+Trần Thị Phương Thảo 
+KHTN2018 
+KHMT 
+KHTN2018 
+486 
+185214x3 
+Vũ Đức Thế 
+KTMT2018 
+KTMT 
+KTMT2018 
+487 
+185214x8 
+Nguyễn Trần Minh Thiện 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+488 
+185214x9 
+Nguyễn Truyền Thuận Thiên 
+ATCL2018.2 
+MMT&TT 
+ATCL2019 
+489 
+185214x6 
+Cao Quốc Thịnh 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+490 
+185214x8 
+Lê Trường Thịnh 
+MTCL2018.3 
+KTMT 
+MTCL.3 
+Chưa cung cấp STK trên hệ thống 
+491 
+185214x1 
+Nguyễn Đức Thịnh 
+HTTT2018 
+HTTT 
+HTTT2018 
+492 
+185214x3 
+Nguyễn Duy Thịnh 
+MTCL2018.3 
+KTMT 
+MTCL.2018 
+493 
+185214x7 
+Nguyễn Trường Thịnh 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+Chưa cung cấp STK trên hệ thống 
+494 
+185214x9 
+Phạm Công Thịnh 
+KTMT2018 
+KTMT 
+KTMT2018 
+495 
+185214x0 
+Trần Đức Thịnh 
+CTTT2018 
+HTTT 
+CTTT2018 
+496 
+185214x3 
+Hoàng Sơn Thọ 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+497 
+185214x6 
+Lê Minh Thông 
+HTTT2018 
+HTTT 
+HTTT2018 
+498 
+185214x7 
+Lê Minh Thông 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+499 
+185214x2 
+Võ Hoàng Thông 
+KHDL2018 
+KTTT 
+KHDL2018 
+500 
+185214x7 
+Đào Huỳnh Minh Thuận 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+501 
+185214x9 
+Hồ Hải Công Thuận 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+502 
+185214x0 
+Nguyễn Quang Thuận 
+KHDL2018 
+KTTT 
+KHDL2018 
+503 
+185214x7 
+Nguyễn Thị Thúy 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+504 
+185214x9 
+Trần Doãn Thuyên 
+KHMT2018 
+KHMT 
+KHMT2018 
+505 
+185214x9 
+Nguyễn Văn Tiến 
+KHTN2018 
+KHMT 
+KHTN2018 
+506 
+185214x2 
+Trần Minh Tiến 
+KHCL2018.1 
+KHMT 
+KHCL2018.1 
+507 
+185214x6 
+Cam Chí Tín 
+ATCL2018.2 
+MMT&TT 
+ATCL2018 
+508 
+185215x0 
+Tạ Nguyễn Chung Tín 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+509 
+185215x4 
+Đinh Thanh Toàn 
+KHMT2018 
+KHMT 
+KHMT2018 
+510 
+185215x9 
+Nguyễn Khánh Toàn 
+KHTN2018 
+KHMT 
+KHTN2018 
+511 
+185215x0 
+Nguyễn Lương Toàn 
+CNTT2018 
+KTTT 
+CNTT2018 
+Chưa cung cấp STK trên hệ thống 
+512 
+185215x1 
+Phạm Đức Toàn 
+CNTT2018 
+KTTT 
+CNTT2018 
+513 
+185215x3 
+Nguyễn Tấn Tới 
+KTMT2018 
+KTMT 
+KTMT2018 
+514 
+185215x5 
+Đỗ Thị Kim Tồn 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+515 
+185215x8 
+Đặng Lê Ngọc Trâm 
+MTCL2018.3 
+KTMT 
+KTMT2018 
+516 
+185215x0 
+Nguyễn Trần Thị Bích Trâm 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+517 
+185215x2 
+Hà Kiều Trang 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+518 
+185215x3 
+Hình Thanh Thiên Trang 
+HTCL2018.2 
+HTTT 
+HTCL2018.2 
+519 
+185215x6 
+Lương Văn Trí 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+520 
+185215x0 
+Phạm Xuân Trí 
+KHTN2018 
+KHMT 
+KHTN2018 
+Chưa cung cấp STK trên hệ thống 
+521 
+185215x1 
+Võ Hữu Trí 
+CNTT2018 
+KTTT 
+CNTT2018 
+522 
+185215x4 
+Trần Nguyễn Minh Triết 
+MTCL2018.3 
+KTMT 
+MTCL2018.3 
+Chưa cung cấp STK trên hệ thống 
+523 
+185215x5 
+Đào Thị Ngân Triều 
+HTTT2018 
+HTTT 
+HTTT2018 
+524 
+185215x6 
+Lê Anh Triều 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+525 
+185215x2 
+Trần Duy Trọng 
+PMCL2018.1 
+CNPM 
+PMCL2018.1 
+526 
+185215x4 
+Bùi Chí Trung 
+ATTT2018 
+MMT&TT 
+ATTT2018 
+527 
+185215x0 
+Lê Hoàng Trung 
+ATTN2018 
+MMT&TT 
+ATTN2018 
+528 
+185215x6 
+Nguyễn Trương Hoàng Trung 
+KTMT2018 
+KTMT 
+KTMT2018 
+529 
+185215x8 
+Phạm Tiến Trung 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+530 
+185215x8 
+Nguyễn Quốc Trưởng 
+KTMT2018 
+KTMT 
+KTMT2018 
+531 
+185215x2 
+Trần Nguyễn Quang Trường 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+532 
+185215x0 
+Hồ Văn Anh Tú 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+533 
+185215x1 
+Mai Xuân Tú 
+CNTT2018 
+KTTT 
+CNTT2018 
+534 
+185215x2 
+Nguyễn Anh Tú 
+HTTT2018 
+HTTT 
+HTTT2018 
+535 
+185215x5 
+Nguyễn Xuân Tú 
+KTPM2018 
+CNPM 
+KTPM2018 
+536 
+185215x7 
+Phạm Thạch Tú 
+ATCL2018.2 
+MMT&TT 
+ATCL2018 
+Chưa cung cấp STK trên hệ thống 
+537 
+185215x8 
+Trần Thị Bình Tú 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+538 
+185215x9 
+Võ Đình Tứ 
+KHDL2018 
+KTTT 
+KHDL2018 
+539 
+185215x8 
+Lê Tử Tuấn 
+HTCL2018.2 
+HTTT 
+HTTT2018.2 
+540 
+185216x3 
+Nguyễn Nhật Tuấn 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+541 
+185216x4 
+Nguyễn Thanh Tuấn 
+KTPM2018 
+CNPM 
+KTPM2018 
+542 
+185216x8 
+Trần Minh Tuấn 
+KTMT2018 
+KTMT 
+KTMT2018 
+543 
+185216x9 
+Vương Thanh Tuấn 
+MMCL2018.2 
+MMT&TT 
+MMCL2018.2 
+544 
+185216x1 
+Hồ Đăng Tuệ 
+KHMT2018 
+KHMT 
+KHMT2018 
+545 
+185216x3 
+Dương Thanh Tùng 
+KTMT2018 
+KTMT 
+KTMT2018 
+546 
+185216x6 
+Lê Xuân Tùng 
+KTPM2018 
+CNPM 
+KTPM2018 
+547 
+185216x8 
+Đinh Thị Khánh Tường 
+TMĐT2018 
+HTTT 
+TMDT2018 
+548 
+185216x6 
+Lê Phạm Hoài Uyên 
+MMCL2018.2 
+MMT&TT 
+MMCL2018 
+549 
+185216x0 
+Dương Trọng Văn 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+550 
+185216x4 
+Nguyễn Thanh Vân 
+HTTT2018 
+HTTT 
+HTTT2018 
+551 
+185216x3 
+Nguyễn Quốc Việt 
+MMTT2018 
+MMT&TT 
+MMTT2018 
+552 
+185216x4 
+Trần Quốc Việt 
+KTMT2018 
+KTMT 
+KTMT2018 
+553 
+185216x5 
+Đỗ Quốc Vinh 
+CNTT2018 
+KTTT 
+CNTT2018 
+554 
+185216x6 
+Dư Cẩm Vinh 
+KTMT2018 
+KTMT 
+KTMT2018 
+555 
+185216x7 
+La Khánh Vĩnh 
+ATCL2018.2 
+MMT&TT 
+ATCL2018.2 
+556 
+185216x9 
+Lê Thị Kim Vinh 
+TMĐT2018 
+HTTT 
+TMĐT2018 
+557 
+185216x3 
+Nguyễn Kiều Vinh 
+KHCL2018.3 
+KHMT 
+KHMT2018 
+558 
+185216x0 
+Trịnh Ngọc Vĩnh 
+HTTT2018 
+HTTT 
+HTTT2018 
+559 
+185216x2 
+Đinh Xuân Vũ 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+560 
+185216x4 
+Hà Phi Vũ 
+HTCL2018.1 
+HTTT 
+HTCL2018.1 
+561 
+185216x5 
+Huỳnh Đỗ Anh Vũ 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+562 
+185216x6 
+Lê Đình Vũ 
+MMCL2018.2 
+MMT&TT 
+MMCL2018.2 
+563 
+185216x9 
+Nguyễn Anh Vũ 
+MMCL2018.2 
+MMT&TT 
+MMCL2018 
+564 
+185216x1 
+Nguyễn Chí Vỹ 
+KHCL2018.3 
+KHMT 
+KHCL2018.3 
+565 
+185216x2 
+Nguyễn Ngọc Thúy Vy 
+CNTT2018 
+KTTT 
+CNTT2018 
+566 
+185216x8 
+Trần Thị Như Ý 
+HTCL2018.2 
+HTTT 
+HTCL2018.2 
+567 
+185216x1 
+Phạm Thị Hải Yến 
+MMCL2018.2 
+MMT&TT 
+MMCL2018 
+568 
+195200x7 
+Võ Khánh An 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+569 
+195200x7 
+Dương Tuấn Bảo 
+ATCL2019.1 
+MMT&TT 
+ATCL 2019.1 
+570 
+195200x3 
+Nguyễn Ngọc Minh Châu 
+CNTT2019 
+KTTT 
+CNTT2019 
+571 
+195200x5 
+Đỗ Đông Chiến 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+572 
+195200x8 
+Nguyễn Minh Cường 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+573 
+195200x2 
+Trần Minh Cường 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+574 
+195200x3 
+Đoàn Anh Dũng 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+575 
+195200x6 
+Võ Nguyễn Phương Dung 
+TMĐT2019 
+HTTT 
+TMDT2019 
+576 
+195200x0 
+Huỳnh Nhựt Anh Duy 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+577 
+195200x7 
+Nguyễn Bảo Hà 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+578 
+195200x7 
+Phan Trọng Hậu 
+KHMT2019 
+KHMT 
+KHMT2019 
+579 
+195200x0 
+Trần Thanh Hiền 
+PMCL2019.1 
+CNPM 
+PMCL2019 
+580 
+195200x7 
+Lê Khải Hoàn 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+581 
+195200x0 
+Đặng Việt Hoàng 
+TMĐT2019 
+HTTT 
+TMDT2019 
+582 
+195200x4 
+Lâm Văn Hồng 
+KTPM2019 
+CNPM 
+KTPM2019 
+583 
+195200x7 
+Hà Minh Hùng 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+584 
+195201x2 
+Phó Khánh Hưng 
+CNTT2019 
+KTTT 
+CNTT2019 
+585 
+195201x6 
+Hà Thúc Huy 
+CNTT2019 
+KTTT 
+CNTT2019 
+586 
+195201x0 
+Nguyễn Minh Huy 
+CNCL2019.1 
+KTTT 
+CNCL2019.1 
+Chưa cung cấp STK trên hệ thống 
+587 
+195201x2 
+Nguyễn Nhật Huy 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+588 
+195201x3 
+Tạ Quang Huy 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+589 
+195201x2 
+Phạm Minh Khang 
+KHDL2019 
+KTTT 
+ATTT2019 
+590 
+195201x5 
+Ngô Hữu Mạnh Khanh 
+KHTN2019 
+KHMT 
+KHTN2019 
+Chưa cung cấp STK trên hệ thống 
+591 
+195201x6 
+Nguyễn Nhật Linh 
+TMĐT2019 
+HTTT 
+TMDT2019 
+592 
+195201x7 
+Nguyễn Thùy Linh 
+ATTT2019 
+MMT&TT 
+Nguyễn Thuỳ Linh 
+593 
+195201x2 
+Nguyễn Trần Hoàng Lợi 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+594 
+195201x4 
+Phạm Thành Luân 
+KHMT2019 
+KHMT 
+KHMT2019 
+595 
+195201x8 
+Lê Hoàng Minh 
+KTMT2019 
+KTMT 
+KTMT2019 
+596 
+195201x5 
+Nguyễn Ngọc Minh 
+KTMT2019 
+KTMT 
+KTMT2019 
+597 
+195201x6 
+Phan Nhật Minh 
+KHTN2019 
+KHMT 
+KHTN2019 
+598 
+195201x4 
+Nguyễn Thị Hằng Nga 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+599 
+195201x7 
+Văn Kim Ngân 
+KHDL2019 
+KTTT 
+KHDL2019 
+600 
+195201x8 
+Nguyễn Hiếu Nghĩa 
+KHDL2019 
+KTTT 
+KHDL2019 
+601 
+195201x2 
+Lê Hoàng Nguyên 
+CNTT2019 
+KTTT 
+CNTT2019 
+602 
+195201x3 
+Ngô Thảo Nguyên 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+603 
+195201x8 
+Thái Trần Khánh Nguyên 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+Chưa cung cấp STK trên hệ thống 
+604 
+195201x7 
+Lê Đoàn Thiện Nhân 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+605 
+195202x5 
+Nguyễn Yến Nhi 
+KTPM2019 
+CNPM 
+KTPM2019 
+606 
+195202x7 
+Nguyễn Hữu An Nhiên 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+607 
+195202x8 
+Huỳnh Phương Như 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+608 
+195202x9 
+Nguyễn Khánh Như 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+609 
+195202x4 
+Cao Hưng Phú 
+KHMT2019 
+KHMT 
+KHMT2019 
+610 
+195202x5 
+Hoàng Gia Phú 
+KHDL2019 
+KTTT 
+KHDL2019 
+611 
+195202x6 
+Lê Hoàng Phú 
+KTPM2019 
+CNPM 
+KTPM2019 
+612 
+195202x8 
+Nguyễn Minh Phú 
+KHTN2019 
+KHMT 
+KHTN2019 
+613 
+195202x0 
+Hồ Thị Ngọc Phúc 
+ATTN2019 
+MMT&TT 
+ATTN2019 
+614 
+195202x2 
+Lê Hoàng Phúc 
+KTPM2019 
+CNPM 
+KTPM2019 
+Chưa cung cấp STK trên hệ thống 
+615 
+195202x7 
+Nguyễn Ngọc Lan Phương 
+KHMT2019 
+KHMT 
+KHMT2019 
+616 
+195202x0 
+Văn Đình Quốc 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+617 
+195202x4 
+Tôn Nữ Khánh Quỳnh 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+618 
+195202x0 
+Nguyễn Văn Tài 
+ATTN2019 
+MMT&TT 
+ATTN2019 
+619 
+195202x4 
+Lê Thành Tâm 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+620 
+195202x1 
+Phạm Minh Tân 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+621 
+195202x6 
+Vũ Ngọc Thạch 
+KTPM2019 
+CNPM 
+KTPM2019 
+622 
+195202x0 
+Nguyễn Thị Phương Thảo 
+KTPM2019 
+CNPM 
+KTPM2019 
+623 
+195202x4 
+Phùng Thế Thiên 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+624 
+195202x5 
+Lê Hoàng Thịnh 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+625 
+195202x9 
+Hồ Quốc Thư 
+KHTN2019 
+KHMT 
+KHTN2019 
+626 
+195202x4 
+Nguyễn Thị Cẩm Thùy 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+627 
+195203x5 
+Cao Đức Trí 
+KHMT2019 
+KHMT 
+KHMT2019 
+628 
+195203x7 
+Huỳnh Quang Trung 
+KTPM2019 
+CNPM 
+KTPM2019 
+629 
+195203x1 
+Phan Thành Trung 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+630 
+195203x5 
+Đặng Anh Tú 
+KTPM2019 
+CNPM 
+KTPM2019 
+631 
+195203x1 
+Lê Anh Tuấn 
+CNTT2019 
+KTTT 
+CNTT2019 
+632 
+195203x5 
+Đặng Vũ Phương Uyên 
+HTTT2019 
+HTTT 
+HTTT2019 
+633 
+195203x4 
+Ngô Quang Vinh 
+KHTN2019 
+KHMT 
+KHTN2019 
+634 
+195203x5 
+Nguyễn Lê Vinh 
+CNTT2019 
+KTTT 
+CNTT2019 
+635 
+195203x4 
+Đỗ Ngọc Ẩn 
+KHDL2019 
+KTTT 
+KHDL2019 
+636 
+195203x5 
+Đỗ Thị Thanh An 
+HTTT2019 
+HTTT 
+HTTT2019 
+637 
+195203x8 
+Nguyễn Khánh An 
+MMCL2019.1 
+MMT&TT 
+MMCL2019.1 
+638 
+195203x9 
+Nguyễn Lê Hoài Ân 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+639 
+195203x0 
+Nguyễn Phúc Khang An 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+640 
+195203x8 
+Bao Gia Bảo 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+641 
+195204x2 
+Nguyễn Đình Quốc Bảo 
+KHDL2019 
+KTTT 
+KHDL2019 
+642 
+195204x8 
+Cao Thanh Bình 
+MTCL2019.1 
+KTMT 
+MTCL2019 
+643 
+195204x5 
+Phạm Thanh Bình 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+Chưa cung cấp STK trên hệ thống 
+644 
+195204x6 
+Phạm Thị Thanh Bình 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+645 
+195204x7 
+Võ Quốc Bình 
+CTTT2019.1 
+HTTT 
+CTTT 2019 
+646 
+195204x9 
+Nguyễn Phúc Chương 
+ATTN2019 
+MMT&TT 
+ATTN2019 
+647 
+195204x0 
+Tô Đoàn Cao Chương 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+648 
+195204x0 
+Võ Nhật Cường 
+CNCL2019.1 
+KTTT 
+CNCL2019.1 
+649 
+195204x7 
+Võ Quốc Đăng 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+Chưa cung cấp STK trên hệ thống 
+650 
+195204x8 
+Vũ Quốc Minh Đăng 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+651 
+195204x7 
+Phan Tấn Đạt 
+HTTT2019 
+HTTT 
+HTTT2019 
+652 
+195204x4 
+Trương Chí Diễn 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+653 
+195204x7 
+Đào Minh Đức 
+CNTT2019 
+KTTT 
+CNTT2019 
+654 
+195204x0 
+Nguyễn Công Đức 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+655 
+195204x5 
+Lê Phan Thùy Dung 
+TMĐT2019 
+HTTT 
+TMDT2019 
+656 
+195204x8 
+Tống Đức Dũng 
+KTPM2019 
+CNPM 
+KTPM2019 
+657 
+195204x3 
+Võ Trần Đông Dương 
+KHDL2019 
+KTTT 
+KHDL2019 
+658 
+195204x0 
+Nguyễn Ngọc Khương Duy 
+CNTT2019 
+KTTT 
+CNTT2019 
+659 
+195204x6 
+Vũ Đặng Khương Duy 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+660 
+195204x9 
+Lê Thị Hương Giang 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+661 
+195205x8 
+Lai Thiên Hải 
+MMCL2019.1 
+MMT&TT 
+MMCL2019.1 
+662 
+195205x5 
+Phan Hồng Gia Hân 
+HTCL2019.1 
+HTTT 
+HTCL2019 
+663 
+195205x1 
+Huỳnh Hữu Hào 
+CNCL2019.1 
+KTTT 
+CNCL219.1 
+664 
+195205x4 
+Phan Vỹ Hào 
+KHDL2019 
+KTTT 
+KHDL2019 
+665 
+195205x7 
+Đặng Thanh Hậu 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+666 
+195205x6 
+Nguyễn Hoàng Hiệp 
+CNTT2019 
+KTTT 
+CNTT2019 
+667 
+195205x8 
+Dương Minh Hiếu 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+668 
+195205x9 
+Lê Minh Đức Hiếu 
+KTMT2019 
+KTMT 
+KTMT2019 
+669 
+195205x4 
+Nguyễn Văn Minh Hoàng 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+670 
+195205x3 
+Đặng Phi Hùng 
+MTCL2019.1 
+KTMT 
+MTCL2019 
+671 
+195205x8 
+Bùi Quốc Huy 
+ATCL2019.1 
+MMT&TT 
+ATCL2019 
+672 
+195205x9 
+Đinh Gia Huy 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+673 
+195205x2 
+Dương Huỳnh Huy 
+KHCL2019.1 
+KHMT 
+KHCL2019 
+674 
+195206x0 
+Nguyễn Quang Huy 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+675 
+195206x4 
+Trần Nguyễn Đức Huy 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+676 
+195206x8 
+Bùi Dương Duy Khang 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+677 
+195206x4 
+Hồ Chung Đức Khánh 
+KHTN2019 
+KHMT 
+KHTN2019 
+678 
+195206x8 
+Trương Minh Khiết 
+CTTT2019.1 
+HTTT 
+CTTT2019 
+Chưa cung cấp STK trên hệ thống 
+679 
+195206x9 
+Đặng Trần Anh Khoa 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+680 
+195206x9 
+Bùi Anh Khôi 
+KHDL2019 
+KTTT 
+KHDL2019 
+681 
+195206x5 
+Nguyễn Anh Khôi 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+682 
+195206x8 
+Phạm Minh Khôi 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+683 
+195206x6 
+Nguyễn Anh Kiệt 
+PMCL2019.1 
+CNPM 
+PMCL2019 
+684 
+195206x3 
+Phạm Thanh Lâm 
+KTMT2019 
+KTMT 
+KTMT2019 
+685 
+195206x5 
+Lê Trần Bảo Lộc 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+686 
+195206x7 
+Nguyễn Phú Lộc 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+687 
+195207x1 
+Nguyễn Nhật Minh 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+688 
+195207x0 
+Huỳnh Nhật Nam 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+689 
+195207x8 
+Trần Đình Nam 
+KHDL2019 
+KTTT 
+KHDL2019 
+690 
+195207x7 
+Dương Bảo Ngọc 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+691 
+195207x1 
+Võ Thị Bích Ngọc 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+692 
+195207x4 
+Cao Chí Nhân 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+693 
+195207x9 
+Lê Trần Thành Nhân 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+694 
+195208x0 
+Ngô Hữu Nhân 
+CNTT2019 
+KTTT 
+CNTT2019 
+695 
+195208x4 
+Ngô Văn Phóng 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+696 
+195208x5 
+Nguyễn Lưu Phong 
+CNCL2019.1 
+KTTT 
+cncl2019.1 
+697 
+195208x3 
+Trần Xuân Phú 
+KHDL2019 
+KTTT 
+KHDL2019 
+698 
+195208x3 
+Nhâm Hồng Phúc 
+HTTT2019 
+HTTT 
+HTTT2019 
+699 
+195208x4 
+Phạm Hoàng Phúc 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+700 
+195208x9 
+Nguyễn Hoàng Phước 
+KTMT2019 
+KTMT 
+KTMT2019 
+701 
+195208x7 
+Đặng Minh Quân 
+HTTT2019 
+HTTT 
+HTTT2019 
+702 
+195208x3 
+Trần Mẫn Quân 
+HTCL2019.1 
+HTTT 
+HTCL2019 
+703 
+195208x5 
+Hồ Quang 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+704 
+195208x2 
+Phạm Thanh Quang 
+CNCL2019.1 
+KTTT 
+CNCL2019.1 
+705 
+195208x7 
+Phạm Trung Quốc 
+KTMT2019 
+KTMT 
+KTMT2019 
+706 
+195208x1 
+Hoàng Ngọc Thảo Quyên 
+HTTT2019 
+HTTT 
+HTTT2019 
+707 
+195209x1 
+Nguyễn Hữu Tân 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+708 
+195209x3 
+Nguyễn Nhựt Tân 
+PMCL2019.1 
+CNPM 
+KTPM2019.1 
+709 
+195209x5 
+Phạm Ngọc Tân 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+710 
+195209x6 
+Nguyễn Quốc Thái 
+CNCL2019.1 
+KTTT 
+CNCL.1 2019 
+711 
+195209x2 
+Đặng Lê Thiên Thanh 
+KHDL2019 
+KTTT 
+KHDL2019 
+712 
+195209x4 
+Lê Thị Thanh Thanh 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+713 
+195209x8 
+Phạm Ngọc Thành 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+714 
+195209x3 
+Nguyễn Ngọc Thao 
+KTMT2019 
+KTMT 
+KTMT2019 
+715 
+195209x2 
+Nguyễn Ngọc Thiện 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+716 
+195209x3 
+Nguyễn Thế Thiện 
+CNTT2019 
+KTTT 
+CNTT2019 
+Chưa cung cấp STK trên hệ thống 
+717 
+195209x6 
+Đặng Hải Thịnh 
+KTPM2019 
+CNPM 
+KTPM2019 
+718 
+195209x1 
+Ngô Phước Thịnh 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+719 
+195209x3 
+Nguyễn Gia Thống 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+720 
+195210x1 
+Bùi Anh Thuận 
+KHDL2019 
+KTTT 
+KHDL2019 
+721 
+195210x8 
+Nguyễn Trung Thực 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+722 
+195210x0 
+Nguyễn Thị Hoài Thương 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+723 
+195210x2 
+Nguyễn Văn Tín 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+724 
+195210x7 
+Lương Thị Thùy Trang 
+CTTT2019.1 
+HTTT 
+CTTT2019.1 
+725 
+195210x4 
+Ngô Đức Trí 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+726 
+195210x6 
+Dương Bình Trọng 
+KTPM2019 
+CNPM 
+KTPM2019 
+727 
+195210x9 
+Trịnh Thị Thanh Trúc 
+HTTT2019 
+HTTT 
+HTTT2019 
+728 
+195210x5 
+Trần Thanh Trung 
+HTCL2019.1 
+HTTT 
+HTCL2019 
+729 
+195210x7 
+Cao Hoàng Tú 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+730 
+195210x1 
+Phan Thế Tuấn 
+HTTT2019 
+HTTT 
+HTTT2019 
+731 
+195210x7 
+Nguyễn Duy Tùng 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+732 
+195210x7 
+Lục Tú Văn 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+733 
+195211x0 
+Ngô Thị Tường Vi 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+734 
+195211x0 
+Dương Công Vũ 
+PMCL2019.1 
+CNPM 
+PMCL2019 
+735 
+195211x5 
+Võ Đăng Nhật Vỹ 
+KTMT2019 
+KTMT 
+KTMT2019 
+736 
+195211x1 
+Đặng Nguyễn Phước An 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+737 
+195211x5 
+Lâm Ngọc Ẩn 
+MMCL2019.1 
+MMT&TT 
+MMCL2019.1 
+738 
+195211x8 
+Nguyễn Đình Bình An 
+KHTN2019 
+KHMT 
+KHTN2019 
+739 
+195211x9 
+Nguyễn Duy An 
+CNTT2019 
+KTTT 
+CNTT2019 
+740 
+195211x4 
+Nguyễn Thị Trường An 
+ATCL2019.1 
+MMT&TT 
+ATCL2019.1 
+741 
+195211x5 
+Nguyễn Văn An 
+CNTT2019 
+KTTT 
+CNTT2019 
+742 
+195211x7 
+Phạm Quốc Ấn 
+CNTT2019 
+KTTT 
+CNTT2019 
+743 
+195211x0 
+Bùi Đức Anh 
+ATCL2019.1 
+MMT&TT 
+ATCL2019 
+744 
+195211x2 
+Đỗ Tuấn Anh 
+CNTT2019 
+KTTT 
+CNTT2019 
+745 
+195211x3 
+Hoàng Ngọc Anh 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+746 
+195211x6 
+Lê Thị Minh Ánh 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+747 
+195212x3 
+Nguyễn Thị Ánh 
+CNTT2019 
+KTTT 
+CNTT 2019 
+748 
+195212x5 
+Nông Minh Anh 
+CNCL2019.1 
+KTTT 
+CNCL2019 
+749 
+195212x6 
+Phạm Hồng Anh 
+CNCL2019.1 
+KTTT 
+CNCL2019.1 
+750 
+195212x9 
+Phan Mai Kiều Anh 
+TMĐT2019 
+HTTT 
+TMDT2019 
+751 
+195212x3 
+Trần Đặng Hoàng Anh 
+KTPM2019 
+CNPM 
+KTPM2019 
+752 
+195212x6 
+Trần Huỳnh Kỳ Anh 
+KHMT2019 
+KHMT 
+KHMT2019 
+753 
+195212x8 
+Trần Nhật Anh 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+754 
+195212x1 
+Trần Thị Ngọc Anh 
+ATCL2019.1 
+MMT&TT 
+ATCL2019 
+755 
+195212x4 
+Trương Hồng Phương Anh 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+756 
+195212x8 
+Đỗ Văn Bảo 
+KTPM2019 
+CNPM 
+KTPM2019 
+757 
+195212x1 
+Huỳnh Lê Anh Bảo 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+758 
+195212x2 
+Lương Phạm Bảo 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+759 
+195212x6 
+Nguyễn Gia Bảo 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+760 
+195212x0 
+Nguyễn Mỹ Báo 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+761 
+195212x6 
+Thái Chí Bảo 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+762 
+195212x0 
+Trịnh Ngọc Bảo 
+MMCL2019.1 
+MMT&TT 
+MMCL2019.1 
+763 
+195212x6 
+Nguyễn Thanh Bình 
+CNTT2019 
+KTTT 
+CNTT2019 
+764 
+195212x7 
+Phạm Nguyễn Thanh Bình 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+765 
+195212x9 
+Phan Tấn Bình 
+CNCL2019.1 
+KTTT 
+CNCL2019.1 
+766 
+195212x0 
+Trương Quốc Bình 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+767 
+195212x4 
+Phạm Văn Chánh 
+PMCL2019.1 
+CNPM 
+PMCL2019.1 
+768 
+195212x5 
+Bùi Thị Diễn Châu 
+CNTT2019 
+KTTT 
+CNTT2019 
+769 
+195212x9 
+Trần Hữu Châu 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+770 
+195212x1 
+Trương Minh Châu 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+771 
+195212x3 
+Lê Thị Kim Chi 
+CTTT2019.1 
+HTTT 
+CTTT2019.1 
+772 
+195212x6 
+Phạm Kim Chiến 
+CNTT2019 
+KTTT 
+CNTT2019 
+773 
+195212x7 
+Nguyễn Văn Chính 
+KHTN2019 
+KHMT 
+KHTN2019 
+774 
+195212x2 
+Trần Bình Chương 
+CNTT2019 
+KTTT 
+CNTT2019 
+775 
+195212x3 
+Đinh Văn Cơ 
+KHDL2019 
+KTTT 
+KHDL2019 
+776 
+195212x4 
+Nguyễn Thành Công 
+KHMT2019 
+KHMT 
+KHMT2019 
+777 
+195212x5 
+Lê Thị Hồng Cúc 
+HTCL2019.1 
+HTTT 
+HTCL2019 
+778 
+195213x0 
+Nguyễn Đỗ Mạnh Cường 
+KHTN2019 
+KHMT 
+KHTN2019 
+779 
+195213x2 
+Trần Quốc Cường 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+780 
+195213x5 
+Trần Linh Đa 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+781 
+195213x6 
+Nguyễn Quang Đại 
+KHDL2019 
+KTTT 
+KHDL2019 
+782 
+195213x6 
+Nguyễn Hải Đăng 
+KHTN2019 
+KHMT 
+KHTN2019 
+783 
+195213x2 
+Huỳnh Ngọc Công Danh 
+KHMT2019 
+KHMT 
+KHMT2019 
+Chưa cung cấp STK trên hệ thống 
+784 
+195213x5 
+Trần Quốc Danh 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+785 
+195213x3 
+Ngô Mẫn Đạt 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+786 
+195213x6 
+Nguyễn Lê Quốc Đạt 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+787 
+195213x8 
+Nguyễn Quốc Đạt 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+788 
+195213x2 
+Nguyễn Tiến Đạt 
+KTMT2019 
+KTMT 
+KTMT2019 
+789 
+195213x9 
+Phạm Quốc Đạt 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+790 
+195213x5 
+Trần Thành Đạt 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 
+791 
+195213x1 
+Nguyễn Thị Nguyên Diệu 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+792 
+195213x4 
+Nguyễn Đăng Đô 
+HTTT2019 
+HTTT 
+HTTT2019 
+793 
+195213x5 
+Võ Thành Đô 
+HTTT2019 
+HTTT 
+KTMT2019 
+794 
+195213x6 
+Bùi Cao Doanh 
+KHMT2019 
+KHMT 
+KHMT2019 
+795 
+195213x9 
+Cao Ngọc Đông 
+KTMT2019 
+KTMT 
+KTMT2019 
+796 
+195213x1 
+Châu Minh Đức 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+797 
+195213x7 
+Nguyễn Huy Đức 
+PMCL2019.2 
+CNPM 
+PMCL2019. 2 
+798 
+195213x6 
+Bùi Trí Dũng 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+799 
+195213x7 
+Cao Phan Tiến Dũng 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+800 
+195213x8 
+Hoàng Tiến Dũng 
+KHMT2019 
+KHMT 
+KHMT2019 
+801 
+195213x3 
+Mai Trọng Dũng 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+802 
+195213x7 
+Nguyễn Thanh Dũng 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+803 
+195214x5 
+Trương Thị Thùy Dương 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+804 
+195214x7 
+Bùi Hữu Duy 
+MMCL2019.1 
+MMT&TT 
+MMCL2019.1 
+805 
+195214x4 
+Trần Hoàn Đức Duy 
+KHCL2019.1 
+KHMT 
+KHCL2019.1 
+806 
+195214x6 
+Triệu Anh Duy 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+807 
+195214x8 
+Huỳnh Thị Mỹ Duyên 
+KHMT2019 
+KHMT 
+KHMT2019 
+808 
+195214x6 
+Lê Minh Giang 
+KTMT2019 
+KTMT 
+KTMT2019 
+809 
+195214x1 
+Trần Ngọc Giao 
+CNTT2019 
+KTTT 
+CNTT2019 
+810 
+195214x3 
+Lê Huỳnh Lan Hạ 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+811 
+195214x5 
+Lưu Thị Ngọc Hà 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 
+812 
+195214x6 
+Nguyễn Thị Thu Hà 
+KHDL2019 
+KTTT 
+KHDL2019 
+813 
+195214x9 
+Đặng Ngô Hồng Hải 
+CNTT2019 
+KTTT 
+CNTT2019 
+814 
+195214x0 
+Đỗ Hải 
+KHMT2019 
+KHMT 
+KHMT2019 
+815 
+195214x1 
+Hồ Hắc Hải 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 khoa KTTT 
+816 
+195214x4 
+Nguyễn Dương Hải 
+KHCL2019.2 
+KHMT 
+KHMT2019.2 
+817 
+195214x0 
+Hồ Mỹ Hạnh 
+KHMT2019 
+KHMT 
+KHMT2019 
+818 
+195214x6 
+Lê Nhật Hào 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+819 
+195214x7 
+Nguyễn Anh Hào 
+MTCL2019.1 
+KTMT 
+MTCL2019.1 
+820 
+195214x2 
+Trần Vĩ Hào 
+KHCL2019.2 
+KHMT 
+KHMT2019.2 
+821 
+195214x7 
+Kha Di Hiền 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+822 
+195214x9 
+Phan Nguyễn Thảo Hiền 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 
+823 
+195214x5 
+Đặng Nguyễn Đức Hiếu 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+824 
+195215x3 
+Nguyễn Hoàng Hiệu 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+825 
+195215x4 
+Nguyễn Phú Hiếu 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+826 
+195215x9 
+Nguyễn Văn Hiếu 
+CNTT2019 
+KTTT 
+CNTT2019 
+827 
+195215x0 
+Nguyễn Văn Hiếu 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+828 
+195215x5 
+Võ Đức Trung Hiếu 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+829 
+195215x8 
+Nguyễn Duy Hoà 
+CNTT2019 
+KTTT 
+CNTT2019 
+830 
+195215x0 
+Phan Phạm Quỳnh Hoa 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+831 
+195215x1 
+Trần Tuy Hòa 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+832 
+195215x8 
+Đào Huy Hoàng 
+HTCL2019.1 
+HTTT 
+HTCL2019.1 
+Chưa cung cấp STK trên hệ thống 
+833 
+195215x9 
+Đậu Trọng Hoàng 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+834 
+195215x6 
+Nguyễn Đạt Huy Hoàng 
+KHMT2019 
+KHMT 
+KHMT2019 
+835 
+195215x7 
+Nguyễn Duy Hoàng 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+836 
+195215x2 
+Phạm Đức Hoàng 
+KTPM2019 
+CNPM 
+KTPM2019 
+837 
+195215x9 
+Trần Bửu Hội 
+MTCL2019.2 
+KTMT 
+MTCL2019.2 
+838 
+195215x0 
+Nguyễn Thị Hồng 
+HTTT2019 
+HTTT 
+HTTT2019 
+839 
+195215x1 
+Nông Thanh Hồng 
+KHMT2019 
+KHMT 
+KHMT2019 
+840 
+195215x3 
+Lê Bùi Quang Hợp 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+841 
+195215x5 
+Nguyễn Ngọc Họp 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+842 
+195215x0 
+Đặng Đỗ Đăng Hưng 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+843 
+195215x4 
+Huỳnh Văn Hùng 
+KHMT2019 
+KHMT 
+KHMT2019 
+844 
+195215x0 
+Nguyễn Đức Hưng 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+845 
+195215x2 
+Nguyễn Minh Hưng 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+846 
+195215x6 
+Nguyễn Việt Hưng 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+847 
+195215x3 
+Tăng Quốc Hưng 
+CTTT2019.1 
+HTTT 
+CTTT2019.1 
+Chưa cung cấp STK trên hệ thống 
+848 
+195215x7 
+Trần Tiến Hưng 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+849 
+195215x2 
+Nguyễn Đức Hướng 
+KTPM2019 
+CNPM 
+KTPM2019 
+850 
+195215x4 
+Nguyễn Thị Cẩm Hướng 
+MTCL2019.2 
+KTMT 
+MTCL2019.2 
+851 
+195215x5 
+Nguyễn Thị Viết Hương 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+852 
+195215x7 
+Bùi Minh Huy 
+KTPM2019 
+CNPM 
+KTPM2019 
+853 
+195215x9 
+Châu Ngọc Huy 
+KHTN2019 
+KHMT 
+KHTN2019 
+854 
+195216x1 
+Đào Thanh Huy 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+855 
+195216x3 
+Đỗ Nguyễn Hoàng Huy 
+KHMT2019 
+KHMT 
+KHMT2019 
+Chưa cung cấp STK trên hệ thống 
+856 
+195216x6 
+Hồ Nhật Huy 
+MMCL2019.1 
+MMT&TT 
+MMCL2019 
+857 
+195216x1 
+Lạc Quốc Huy 
+MTCL2019.2 
+KTMT 
+MTCL2019.2 
+858 
+195216x5 
+Lê Hữu Huy 
+TMCL2019.1 
+HTTT 
+TMCL2019 
+859 
+195216x1 
+Nguyễn Huỳnh Minh Huy 
+TMCL2019.1 
+HTTT 
+TMCL2019 
+860 
+195216x4 
+Tạ Huỳnh Đức Huy 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+Chưa cung cấp STK trên hệ thống 
+861 
+195216x5 
+Thiều Quang Huy 
+MMCL2019.1 
+MMT&TT 
+MMCL2019.1 
+862 
+195216x8 
+Trương Hưng Huy 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+863 
+195216x0 
+Võ Quang Huy 
+HTTT2019 
+HTTT 
+HTTT2019 
+Chưa cung cấp STK trên hệ thống 
+864 
+195216x1 
+Võ Sỹ Huy 
+CNTT2019 
+KTTT 
+CNTT2019 
+865 
+195216x4 
+Nguyễn Hữu Huyến 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+866 
+195216x5 
+Nguyễn Ngọc Huyền 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+867 
+195216x6 
+Phùng Ngọc Huyến 
+ATCL2019.2 
+MMT&TT 
+ATCL2019 
+868 
+195216x2 
+Vòng Minh Huỳnh 
+KTPM2019 
+CNPM 
+KTPM2019 
+Chưa cung cấp STK trên hệ thống 
+869 
+195216x6 
+Lê Quang Khải 
+HTTT2019 
+HTTT 
+HTTT2019 
+870 
+195216x8 
+Nguyễn Đức Khải 
+CTTT2019.1 
+HTTT 
+CTTT2019.1 
+871 
+195216x2 
+Lê Trần Nguyên Khang 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 
+872 
+195216x4 
+Nguyễn Hà Duy Khang 
+CNCL2019.2 
+KTTT 
+CNTT2019 
+873 
+195216x6 
+Nguyễn Lê Nguyên Khang 
+HTTT2019 
+HTTT 
+HTTT2019 
+874 
+195216x9 
+Phạm Nguyễn Minh Khang 
+MTCL2019.2 
+KTMT 
+MTCL2019.2 
+875 
+195216x1 
+Trần Hoàng Khang 
+ATTN2019 
+MMT&TT 
+ANTN2019 
+Chưa cung cấp STK trên hệ thống 
+876 
+195216x6 
+Đỗ Trọng Khánh 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+877 
+195216x0 
+Lê Quốc Khanh 
+PMCL2019.2 
+CNPM 
+PMCL2019 
+878 
+195216x7 
+Trần Tuấn Khanh 
+KTMT2019 
+KTMT 
+KTMT2019 
+879 
+195216x1 
+Đỗ Lê Đăng Khoa 
+CNCL2019.2 
+KTTT 
+CNTT.2 2019 
+880 
+195216x6 
+Nguyễn Hoàng Anh Khoa 
+MMCL2019.2 
+MMT&TT 
+MMCL2019.2 
+Chưa cung cấp STK trên hệ thống 
+881 
+195216x9 
+Phạm Anh Khoa 
+TMCL2019.2 
+HTTT 
+KHCL2019.2 
+882 
+195217x2 
+Nguyễn Khuê 
+CNTT2019 
+KTTT 
+CNTT2019 
+883 
+195217x5 
+Trịnh Duy Khương 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+884 
+195217x2 
+Vũ Trung Kiên 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+885 
+195217x5 
+Ngô Gia Kiệt 
+KHMT2019 
+KHMT 
+KHMT2019 
+Chưa cung cấp STK trên hệ thống 
+886 
+195217x8 
+Võ Tuấn Kiệt 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+887 
+195217x4 
+Bùi Đức Lâm 
+TMCL2019.1 
+HTTT 
+TMCL2019 
+888 
+195217x0 
+Nguyễn Thị Chí Lâm 
+CTTT2019.1 
+HTTT 
+CTTT2019 
+889 
+195217x3 
+Trương Kim Lâm 
+KTPM2019 
+CNPM 
+KTPM2019 
+890 
+195217x5 
+Nguyễn Phương Lan 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+891 
+195217x1 
+Hoàng Diệu Linh 
+TMĐT2019 
+HTTT 
+TMDT2019 
+892 
+195217x4 
+Nguyễn Lộc Linh 
+KHMT2019 
+KHMT 
+KHMT2019 
+893 
+195217x7 
+Nguyễn Thị Ái Linh 
+HTTT2019 
+HTTT 
+HTTT2019 
+894 
+195217x8 
+Nguyễn Thùy Linh 
+HTCL2019.2 
+HTTT 
+HTCL2019.2 
+895 
+195217x9 
+Trương Xuân Linh 
+KHMT2019 
+KHMT 
+KHMT2019 
+896 
+195217x0 
+Vũ Tiến Linh 
+KTMT2019 
+KTMT 
+KTMT2019 
+897 
+195217x1 
+Vũ Mai Quỳnh Loan 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+898 
+195217x3 
+Nguyễn Thanh Lộc 
+CTTT2019.1 
+HTTT 
+CTTT2019.1 
+899 
+195217x0 
+Ngô Đắc Lợi 
+CTTT2019.1 
+HTTT 
+CTTT2019.1 
+900 
+195217x3 
+Trần Văn Lợi 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+901 
+195217x9 
+Dương Hoàng Long 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+902 
+195217x7 
+Nguyễn Hoàng Long 
+CTTT2019.1 
+HTTT 
+CTTT2019 
+Chưa cung cấp STK trên hệ thống 
+903 
+195217x8 
+Nguyễn Hoàng Long 
+HTCL2019.2 
+HTTT 
+HTCL2019 
+Chưa cung cấp STK trên hệ thống 
+904 
+195217x7 
+Phạm Minh Long 
+KHCL2019.2 
+KHMT 
+KHMT2019.2 
+905 
+195217x8 
+Phạm Như Long 
+HTTT2019 
+HTTT 
+HTTT2019 
+906 
+195218x6 
+Đoàn Ngọc Luân 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+907 
+195218x7 
+Hồ Sĩ Luân 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 
+908 
+195218x9 
+Nguyễn Thành Luân 
+KHMT2019 
+KHMT 
+KHMT2019 
+909 
+195218x0 
+Trần Thành Luân 
+KHDL2019 
+KTTT 
+KHDL2019 
+Chưa cung cấp STK trên hệ thống 
+910 
+195218x1 
+Nguyễn Văn Lực 
+HTTT2019 
+HTTT 
+HTTT2019 
+911 
+195218x2 
+Võ Đắc Lực 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+912 
+195218x5 
+Trần Đức Lương 
+ATTN2019 
+MMT&TT 
+ANTN2019 
+Chưa cung cấp STK trên hệ thống 
+913 
+195218x7 
+Hoàng Phạm Như Lý 
+CNTT2019 
+KTTT 
+CNTT2019 
+914 
+195218x0 
+Đặng Xuân Mai 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+915 
+195218x5 
+Huỳnh Công Mạnh 
+HTCL2019.2 
+HTTT 
+HTCL2019 
+916 
+195218x7 
+Nguyễn Đức Mạnh 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+917 
+195218x2 
+Đặng Văn Minh 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+918 
+195218x6 
+Lê Quang Minh 
+KHMT2019 
+KHMT 
+KHMT2019 
+919 
+195218x7 
+Nguyễn Trí Minh 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+920 
+195218x3 
+Sơn Ngọc Minh 
+PMCL2019.2 
+CNPM 
+PMCL2019.2 
+921 
+195218x4 
+Tăng Quốc Minh 
+CTTT2019.2 
+HTTT 
+CTTT2019 
+922 
+195218x6 
+Trần Quang Minh 
+CTTT2019.2 
+HTTT 
+CTTT2019 
+923 
+195218x1 
+Lê Thị Trà My 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+924 
+195218x2 
+Nguyễn Hoàng My 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+925 
+195218x3 
+Phạm Đỗ Hoàng My 
+KHTN2019 
+KHMT 
+KHTN2019 
+926 
+195218x4 
+Lê Hoàng Thùy Na 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+927 
+195218x0 
+Nguyễn Đỗ Trung Nam 
+TMCL2019.1 
+HTTT 
+TMCL2019.1 
+928 
+195218x1 
+Trần Nguyên Tiến Nam 
+KTPM2019 
+CNPM 
+KTPM2019 
+929 
+195218x7 
+Võ Khoa Nam 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+930 
+195218x0 
+Nguyễn Thanh Nga 
+PMCL2019.2 
+CNPM 
+PMCL2019 
+931 
+195218x2 
+Chu Hà Thảo Ngân 
+KHDL2019 
+KTTT 
+KHDL2019 
+932 
+195218x4 
+Lâm Thanh Ngân 
+ATTN2019 
+MMT&TT 
+ATTN2019 
+933 
+195218x5 
+Mai Thị Hà Ngân 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+934 
+195218x0 
+Trần Kim Ngân 
+HTTT2019 
+HTTT 
+HTTT2019 
+935 
+195218x3 
+Võ Hồng Nghi 
+TMCL2019.2 
+HTTT 
+TMCL2019 
+936 
+195218x5 
+Lê Trung Nghĩa 
+CNCL2019.2 
+KTTT 
+CNCL2019.2 
+937 
+195218x8 
+Nguyễn Hiếu Nghĩa 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+938 
+195218x9 
+Nguyễn Thành Nghĩa 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+939 
+195219x0 
+Nguyễn Văn Hữu Nghĩa 
+KHDL2019 
+KTTT 
+KHDL2019  
+Chưa cung cấp STK trên hệ thống 
+940 
+195219x1 
+Trần Gia Nghĩa 
+KHMT2019 
+KHMT 
+KHMT2019 
+941 
+195219x7 
+Nguyễn Phương Bảo Ngọc 
+KHTN2019 
+KHMT 
+KHTN2019 
+942 
+195219x7 
+Nguyễn Ngọc Thái Nguyên 
+KHMT2019 
+KHMT 
+KHMT2019 
+943 
+195219x4 
+Trương Bảo Nguyên 
+KTMT2019 
+KTMT 
+KTMT2019 
+944 
+195219x5 
+Bùi Thành Nhân 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+945 
+195219x9 
+Đoàn Thị Thanh Nhàn 
+ATCL2019.2 
+MMT&TT 
+ATCL2019 
+946 
+195219x9 
+Nguyễn Thị Nhân 
+HTTT2019 
+HTTT 
+HTTT2019 
+947 
+195219x3 
+Phan Nguyễn Thành Nhân 
+KHCL2019.2 
+KHMT 
+KHCL2019.2 
+948 
+195219x2 
+Huỳnh Minh Nhật 
+PMCL2019.2 
+CNPM 
+PMCL.2 
+949 
+195219x0 
+Võ Hoàng Nhật 
+HTCL2019.2 
+HTTT 
+MTCL2019.2 
+950 
+195219x2 
+Huỳnh Thị Yến Nhi 
+TMĐT2019 
+HTTT 
+TMDT2019 
+951 
+195219x8 
+Phạm Nguyễn Quỳnh Nhi 
+CNTT2019 
+KTTT 
+CNTT2019 
+952 
+195219x9 
+Nguyễn Đào Trúc Như 
+TMCL2019.2 
+HTTT 
+TMCL2019.2 
+953 
+195219x2 
+Võ Đoàn Kim Như 
+CNTT2019 
+KTTT 
+CNTT2019 
+954 
+195219x7 
+Trần Nhựt 
+CNTT2019 
+KTTT 
+CNTT2019 
+955 
+195219x8 
+Hồ Xuân Ninh 
+ATTN2019 
+MMT&TT 
+ANTN2019 
+956 
+195219x9 
+Nguyễn Thành Nội 
+HTTT2019 
+HTTT 
+HTTT2019 
+957 
+195219x1 
+Bùi Xuân Hoàng Oanh 
+MMCL2019.2 
+MMT&TT 
+MMCL2019.2 
+Chưa cung cấp STK trên hệ thống 
+958 
+195219x6 
+Nguyễn Ngọc Châu Pha 
+HTTT2019 
+HTTT 
+HTTT2019 
+959 
+195219x9 
+Bùi Ngọc Phát 
+MTCL2019.2 
+KTMT 
+MTCL2019.2 
+960 
+195219x4 
+Ngô Thành Phát 
+KHCL2019.3 
+KHMT 
+KHCL.3 
+961 
+195219x5 
+Nguyễn Đức Thành Phát 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+962 
+195220x3 
+Võ Thành Phát 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+963 
+195220x8 
+Bùi Quân Phong 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+964 
+195220x9 
+Đặng Hoàng Phong 
+CNTT2019 
+KTTT 
+CNTT2019 
+965 
+195220x1 
+Nguyễn Huy Phong 
+CNCL2019.2 
+KTTT 
+CNCL2019 
+966 
+195220x8 
+Bùi Thanh Phú 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+967 
+195220x1 
+Nguyễn Công Phú 
+CNTT2019 
+KTTT 
+CNTT2019 
+968 
+195220x3 
+Nguyễn Đức Phú 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+969 
+195220x6 
+Đặng Hải Trang Phúc 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+970 
+195220x0 
+Huỳnh Trọng Phục 
+KTPM2019 
+CNPM 
+KTPM2019 
+971 
+195220x8 
+Nguyễn Duy Phúc 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+972 
+195220x0 
+Nguyễn Thành Phúc 
+KHDL2019 
+KTTT 
+KHDL2019 
+973 
+195220x1 
+Nguyễn Trọng Phúc 
+KTPM2019 
+CNPM 
+KTPM2019 
+974 
+195220x1 
+Bùi Nguyên Phước 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+975 
+195220x2 
+Bùi Như Phước 
+KTPM2019 
+CNPM 
+KTPM2019 
+976 
+195220x3 
+Huỳnh Lê Hữu Phước 
+ATCL2019.2 
+MMT&TT 
+ATCL2019 
+977 
+195220x5 
+Lương Thiện Phước 
+KTPM2019 
+CNPM 
+KTPM2019 
+978 
+195220x8 
+Cao Thị Bích Phượng 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+979 
+195220x5 
+Nguyễn Thị Minh Phương 
+KHTN2019 
+KHMT 
+KHTN2019 
+980 
+195220x6 
+Nguyễn Thị Thu Phương 
+HTTT2019 
+HTTT 
+HTTT2019 
+981 
+195220x8 
+Thị Kim Phương 
+CNTT2019 
+KTTT 
+CNTT2019 
+982 
+195220x1 
+Vũ Ngọc Mỹ Phương 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+983 
+195220x3 
+Bùi Hồng Quân 
+KHMT2019 
+KHMT 
+KHMT2019 
+984 
+195220x8 
+Lê Ngọc Anh Quân 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+985 
+195220x1 
+Nguyễn Lê Anh Quân 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+986 
+195220x7 
+Tô Minh Quân 
+CNCL2019.3 
+KTTT 
+CNCL2019.3 
+987 
+195220x2 
+Hoàng Dận Quang 
+KTPM2019 
+CNPM 
+KTPM2019 
+988 
+195221x3 
+Từ Văn Quang 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+989 
+195221x4 
+Vũ Văn Quang 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+990 
+195221x1 
+Đồng Quang Quyền 
+KTMT2019 
+KTMT 
+KTMT2019 
+991 
+195221x5 
+Phạm Ngọc Quyên 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+992 
+195221x2 
+Nguyễn Quang Sang 
+CNCL2019.3 
+KTTT 
+CNCL2019 
+993 
+195221x3 
+Nguyễn Thanh Sang 
+HTCL2019.2 
+HTTT 
+HTCL2019 
+994 
+195221x0 
+Chu Xuân Sơn 
+HTCL2019.2 
+HTTT 
+HTCL2019.2 
+995 
+195221x8 
+Nguyễn Thanh Sơn 
+TMCL2019.2 
+HTTT 
+TMCL2019 
+996 
+195221x2 
+Trần Quốc Sơn 
+KTMT2019 
+KTMT 
+KTMT2019 
+997 
+195221x4 
+Nguyễn Thiện Sua 
+PMCL2019.3 
+CNPM 
+PMCL2019 
+998 
+195221x5 
+Đinh Thị Diễm Sương 
+CNCL2019.3 
+KTTT 
+CNCL2019.3 
+999 
+195221x7 
+Cát Văn Tài 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1000 
+195221x8 
+Đào Văn Tài 
+KHMT2019 
+KHMT 
+KHMT2019 
+1001 
+195221x9 
+Đỗ Tài 
+CNCL2019.3 
+KTTT 
+CNCL2019.3 
+1002 
+195221x9 
+Hoàng Trí Tâm 
+HTTT2019 
+HTTT 
+HTTT2019 
+1003 
+195221x3 
+Nguyễn Ngọc Tâm 
+TMCL2019.2 
+HTTT 
+TMCL2019 
+1004 
+195221x5 
+Thượng Hiếu Tâm 
+KTMT2019 
+KTMT 
+KTMT2019 
+1005 
+195221x7 
+Trương Xuân Tâm 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1006 
+195221x8 
+Đào Công Nhật Tân 
+KTMT2019 
+KTMT 
+KTMT2019 
+1007 
+195221x4 
+Nguyễn Ngọc Tân 
+KHCL2019.3 
+KHMT 
+KHMT2019 
+1008 
+195221x5 
+Nguyễn Trương Duy Tân 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+1009 
+195221x9 
+Trịnh Nhật Tân 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1010 
+195221x0 
+Trương Thế Tấn 
+KHMT2019 
+KHMT 
+KHMT2019 
+1011 
+195221x1 
+Nguyễn Tân Tạng 
+MMCL2019.2 
+MMT&TT 
+MMCL2019.2 
+1012 
+195221x7 
+Ngô Gia Thái 
+CNTT2019 
+KTTT 
+CNTT2019 
+Chưa cung cấp STK trên hệ thống 
+1013 
+195221x8 
+Nguyễn Đức Thông Thái 
+CTTT2019.2 
+HTTT 
+CTTT2019 
+1014 
+195221x9 
+Nguyễn Quang Thái 
+CNTT2019 
+KTTT 
+CNTT2019 
+1015 
+195221x0 
+Nguyễn Quang Thái 
+TMCL2019.2 
+HTTT 
+TMCL2019 
+1016 
+195221x3 
+Phạm Văn Thái 
+CNCL2019.3 
+KTTT 
+CNCL2019.3 
+1017 
+195221x5 
+Dương Đình Thắng 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1018 
+195222x0 
+Lê Hữu Thắng 
+HTTT2019 
+HTTT 
+HTTT2019 
+1019 
+195222x3 
+Nguyễn Võ Đức Thắng 
+PMCL2019.3 
+CNPM 
+PMCL2019 
+1020 
+195222x4 
+Ông Duy Thắng 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+1021 
+195222x4 
+Hà Văn Thanh 
+KHMT2019 
+KHMT 
+KHMT2019 
+1022 
+195222x6 
+Hoàng Kim Thành 
+CNTT2019 
+KTTT 
+CNTT2019 
+1023 
+195222x7 
+Huỳnh Đỗ Tấn Thành 
+KHMT2019 
+KHMT 
+KHMT2019 
+1024 
+195222x0 
+Lê Sỹ Thanh 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+1025 
+195222x1 
+Lê Thị Phương Thanh 
+CNCL2019.3 
+KTTT 
+CNCL2019 
+1026 
+195222x2 
+Mai Long Thành 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1027 
+195222x8 
+Nguyễn Lê Thanh 
+CNCL2019.3 
+KTTT 
+CNCL2019 
+1028 
+195222x2 
+Nguyễn Văn Thanh 
+MMCL2019.2 
+MMT&TT 
+MMCL2019.2 
+Chưa cung cấp STK trên hệ thống 
+1029 
+195222x7 
+Vũ Phú Thành 
+TMCL2019.2 
+HTTT 
+TMCL2019.2 
+Chưa cung cấp STK trên hệ thống 
+1030 
+195222x8 
+Đào Phương Thảo 
+CNTT2019 
+KTTT 
+CNTT2019 
+1031 
+195222x2 
+Dương Hiển Thế 
+KTPM2019 
+CNPM 
+KTPM2019 
+1032 
+195222x3 
+Phạm Đức Thể 
+KHDL2019 
+KTTT 
+KHDL2019 
+1033 
+195222x7 
+Nguyễn Minh Thi 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1034 
+195222x3 
+Nguyễn Ngọc Thiện 
+ATTN2019 
+MMT&TT 
+ATTN2019 
+1035 
+195222x4 
+Nguyễn Ngọc Thiện 
+HTTT2019 
+HTTT 
+HTTT2019 
+1036 
+195222x7 
+Phạm Võ Di Thiên 
+KTPM2019 
+CNPM 
+KTPM2019 
+1037 
+195222x0 
+Bùi Minh Thịnh 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1038 
+195222x2 
+Đoàn Gia Thịnh 
+MMCL2019.1 
+MMT&TT 
+ATCL2019 
+1039 
+195222x3 
+Nguyễn Ngọc Thịnh 
+KTPM2019 
+CNPM 
+KTPM2019 
+1040 
+195222x9 
+Võ Phú Thịnh 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+1041 
+195222x6 
+Vũ Phương Thoa 
+TMCL2019.2 
+HTTT 
+TMCL2019 
+1042 
+195222x8 
+Nguyễn Trọng Thoại 
+KHMT2019 
+KHMT 
+KHMT2019 
+Chưa cung cấp STK trên hệ thống 
+1043 
+195223x2 
+Lê Minh Thông 
+MTCL2019.3 
+KTMT 
+MTCL2019.3 
+1044 
+195223x4 
+Huỳnh Minh Thư 
+HTCL2019.2 
+HTTT 
+HTCL2019 
+1045 
+195223x6 
+Ngô Anh Thư 
+TMĐT2019 
+HTTT 
+TMDT2019 
+1046 
+195223x7 
+Nguyễn Thị Thu 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+1047 
+195223x8 
+Nguyễn Thị Minh Thư 
+CNTT2019 
+KTTT 
+CNTT2019 
+1048 
+195223x9 
+Nguyễn Việt Thư 
+KHCL2019.3 
+KHMT 
+KHMT2019 
+1049 
+195223x0 
+Phạm Hoàng Thư 
+CNCL2019.3 
+KTTT 
+CNCL2019.3 
+1050 
+195223x8 
+Nhan Hữu Thuận 
+KTPM2019 
+CNPM 
+KTPM2019 
+1051 
+195223x1 
+Trần Trí Thức 
+KTPM2019 
+CNPM 
+KTPM2019 
+1052 
+195223x3 
+Hồ Hải Thủy 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1053 
+195223x5 
+Lê Trịnh Thanh Thúy 
+HTCL2019.2 
+HTTT 
+MTCL2019.3 
+1054 
+195223x7 
+Nguyễn Khả Tiến 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1055 
+195223x8 
+Nguyễn Quang Tiến 
+MTCL2019.3 
+KTMT 
+MTCL2019.3 
+1056 
+195223x0 
+Nguyễn Thị Cẩm Tiên 
+CNCL2019.3 
+KTTT 
+CNCL2019 
+1057 
+195223x3 
+Trần Ngọc Mỹ Tiên 
+CNTT2019 
+KTTT 
+CNTT2019 
+1058 
+195223x5 
+Vũ Thủy Tiên 
+KTMT2019 
+KTMT 
+KTMT2019 
+1059 
+195223x7 
+Phan Văn Tiệp 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+1060 
+195223x8 
+Lê Đức Tín 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+1061 
+195223x0 
+Nguyễn Đức Tín 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+Chưa cung cấp STK trên hệ thống 
+1062 
+195223x2 
+Võ Hoàng Nguyên Tín 
+MTCL2019.3 
+KTMT 
+MTCL2019.3 
+1063 
+195223x3 
+Võ Trung Tín 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1064 
+195223x4 
+Bùi Văn Tình 
+CNTT2019 
+KTTT 
+CNTT2019 
+1065 
+195223x6 
+Trần Công Toại 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+1066 
+195223x7 
+Đặng Phúc Toàn 
+HTTT2019 
+HTTT 
+HTTT2019 
+1067 
+195223x1 
+Nguyễn Chí Toàn 
+ATCL2019.2 
+MMT&TT 
+ATCL2019 
+Chưa cung cấp STK trên hệ thống 
+1068 
+195223x2 
+Nguyễn Đức Toàn 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+1069 
+195223x5 
+Ngô Hồ Bích Trâm 
+CNCL2019.3 
+KTTT 
+CNCL2019 
+1070 
+195223x6 
+Quách Ngọc Trâm 
+KTMT2019 
+KTMT 
+KTMT2019 
+1071 
+195223x7 
+Trần Gia Trân 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+1072 
+195223x2 
+Lê Thị Thu Trang 
+TMĐT2019 
+HTTT 
+TMĐT2019 
+1073 
+195223x4 
+Tần Thùy Trang 
+HTTT2019 
+HTTT 
+HTTT2019 
+1074 
+195223x9 
+Nguyễn Minh Trí 
+KHMT2019 
+KHMT 
+KHMT2019 
+1075 
+195223x1 
+Phạm Minh Trí 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+1076 
+195223x3 
+Trần Nguyễn Anh Trí 
+TMCL2019.2 
+HTTT 
+TMCL2019 
+1077 
+195223x6 
+Võ Minh Trí 
+KHDL2019 
+KTTT 
+KHDL2019 
+1078 
+195223x7 
+Thái Minh Triết 
+KHDL2019 
+KTTT 
+KHDL2019 
+1079 
+195224x5 
+Nguyễn Thị Mai Trinh 
+CNTT2019 
+KTTT 
+CNTT2019 
+1080 
+195224x0 
+Nguyễn Thành Trọng 
+KHMT2019 
+KHMT 
+KHMT2019 
+1081 
+195224x7 
+Nguyễn Thanh Trúc 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+Chưa cung cấp STK trên hệ thống 
+1082 
+195224x8 
+Trần Thanh Trúc 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+1083 
+195224x9 
+Đặng Quốc Trung 
+HTTT2019 
+HTTT 
+HTTT2019 
+1084 
+195224x2 
+Lê Đức Trung 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1085 
+195224x4 
+Lê Hữu Trung 
+KHTN2019 
+KHMT 
+KHTN2019 
+1086 
+195224x5 
+Lê Nam Trung 
+CNTT2019 
+KTTT 
+CNTT2019 
+1087 
+195224x7 
+Trịnh Trấn Trung 
+KTMT2019 
+KTMT 
+KTMT2019 
+1088 
+195224x0 
+Nguyễn Ngọc Trưởng 
+ATTN2019 
+MMT&TT 
+ATTN2019 
+1089 
+195224x1 
+Nguyễn Phạm Nhật Trường 
+CNCL2019.3 
+KTTT 
+CNCL2019 
+1090 
+195224x5 
+Trần Bùi Nhật Trường 
+ATTT2019 
+MMT&TT 
+ATTT2019 
+1091 
+195224x6 
+Trương Quốc Trường 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1092 
+195224x8 
+Trần Văn Truyền 
+KHCL2019.1 
+KHMT 
+ATCL2019 
+1093 
+195224x3 
+Nguyễn Hữu Tứ 
+KTMT2019 
+KTMT 
+KTMT2019 
+1094 
+195224x4 
+Hồ Đình Tuấn 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+1095 
+195224x7 
+Lê Thanh Tuấn 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1096 
+195224x8 
+Mai Chấn Tuấn 
+MMTT2019 
+MMT&TT 
+MMTT2019 
+1097 
+195224x4 
+Nguyễn Quang Tuấn 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1098 
+195224x5 
+Trương Minh Tuấn 
+KHMT2019 
+KHMT 
+KHMT2019 
+1099 
+195224x0 
+Chế Nguyễn Minh Tùng 
+CTTT2019.2 
+HTTT 
+CTTT2019.2 
+Chưa cung cấp STK trên hệ thống 
+1100 
+195224x1 
+Đỗ Thanh Tùng 
+KTMT2019 
+KTMT 
+KTMT2019 
+1101 
+195224x2 
+Huỳnh Thiện Tùng 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1102 
+195224x4 
+Nguyễn Dương Tùng 
+PMCL2019.3 
+CNPM 
+PMCL2019.3 
+1103 
+195224x5 
+Phan Tung 
+KHMT2019 
+KHMT 
+KHMT2019 
+1104 
+195224x9 
+Phạm Quang Tường 
+KHDL2019 
+KTTT 
+KHDL2019 
+1105 
+195225x1 
+Đoàn Thị Tuyền 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+1106 
+195225x2 
+Trần Thị Kim Tuyến 
+MMCL2019.2 
+MMT&TT 
+MMCL2019.2 
+1107 
+195225x7 
+Hồ Thị Thanh Vân 
+TMĐT2019 
+HTTT 
+TMDT2019 
+1108 
+195225x1 
+Nguyễn Hồng Vi 
+MMCL2019.2 
+MMT&TT 
+MMCL2019 
+1109 
+195225x7 
+Nguyễn Hoàng Việt 
+CNCL2019.3 
+KTTT 
+CNCL2019.3 
+1110 
+195225x1 
+Lê Tiến Vinh 
+HTCL2019.2 
+HTTT 
+HTCL2019 
+1111 
+195225x6 
+Phạm Quang Vinh 
+KHMT2019 
+KHMT 
+KHMT2019 
+1112 
+195225x8 
+Trương Đức Vinh 
+ATCL2019.2 
+MMT&TT 
+ATCL2019.2 
+1113 
+195225x1 
+Hoàng Xuân Vũ 
+KHMT2019 
+KHMT 
+KHMT2019 
+1114 
+195225x7 
+Trần Quang Vũ 
+MTCL2019.3 
+KTMT 
+MTCL2019 
+1115 
+195225x8 
+Trần Thanh Vũ 
+HTTT2019 
+HTTT 
+HTTT2019 
+Chưa cung cấp STK trên hệ thống 
+1116 
+195225x9 
+Trần Triệu Vũ 
+KHDL2019 
+KTTT 
+KHDL2019 
+1117 
+195225x2 
+Nguyễn Thành Vương 
+KHCL2019.3 
+KHMT 
+KHCL2019.3 
+1118 
+195225x5 
+Ngô Tường Vy 
+HTTT2019 
+HTTT 
+HTTT2019 
+1119 
+195225x5 
+Nguyễn Thị Như Ý 
+KHMT2019 
+KHMT 
+KHMT2019 
+1120 
+195225x6 
+Phạm Thị Như Ý 
+TMCL2019.2 
+HTTT 
+TMCL2019.2 
+1121 
+195225x8 
+Dương Ngọc Yến 
+HTCL2019.2 
+HTTT 
+HTCL2019 
+1122 
+195225x3 
+Nguyễn Cảnh Huy 
+KHBC2019 
+KHMT 
+KHBC2019 
+1123 
+195225x5 
+Đỗ Văn Trường 
+KHBC2019 
+KHMT 
+CSBU-2019 
+1124 
+195226x7 
+Huỳnh Tuấn Kiệt 
+TMCL2020 
+HTTT 
+TMCL2020 
+1125 
+205200x1 
+Nguyễn Quốc Huy Hoàng 
+KHTN2020 
+KHMT 
+KHTN2020 
+1126 
+205200x5 
+Nguyễn Vĩnh Hưng 
+KHTN2020 
+KHMT 
+KHTN2020 
+1127 
+205200x6 
+Lê Nhật Huy 
+KHTN2020 
+KHMT 
+KHTN2020 
+1128 
+205200x6 
+Mai Trung Kiên 
+KHTN2020 
+KHMT 
+KHTN2020 
+1129 
+205200x8 
+Nguyễn Hoàng Kiệt 
+KTPM2020 
+CNPM 
+KTPM2020 
+1130 
+205200x0 
+Lê Nhật Minh 
+KHTN2020 
+KHMT 
+KHTN2020 
+1131 
+205200x3 
+Lê Nguyễn Khánh Nam 
+KHTN2020 
+KHMT 
+KHTN2020 
+1132 
+205200x5 
+Nguyễn Hoài Nam 
+KHNT2020 
+KHMT 
+KHNT2020 
+1133 
+205200x9 
+Nguyễn Tư Thành Nhân 
+KHTN2020 
+KHMT 
+KHTN2020 
+1134 
+205200x4 
+Lương Triều Vỹ 
+KHTN2020 
+KHMT 
+KHTN2020 
+Chưa cung cấp STK trên hệ thống 
+1135 
+205201x4 
+Nguyễn Thị Hoàng Anh 
+KHDL2020 
+KTTT 
+KHDL2020 
+1136 
+205201x1 
+Lê Hà Gia Bảo 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1137 
+205201x3 
+Nguyễn Phước Bình 
+KTPM2020 
+CNPM 
+KTPM2020 
+1138 
+205201x5 
+Hoàng Ngọc Cư 
+CNTT2020 
+KTTT 
+CNTT2020 
+1139 
+205201x6 
+Lê Tuấn Cường 
+MTIO2020 
+KTMT 
+MTIO2020 
+1140 
+205201x4 
+Nguyễn Thành Đạt 
+KHMT2020 
+KHMT 
+KHMT2020 
+1141 
+205201x5 
+Phạm Văn Đạt 
+CNCL2020.1 
+KTTT 
+CNCL2020 
+1142 
+205201x2 
+Phạm Phúc Đức 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1143 
+205201x3 
+Vũ Minh Đức 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1144 
+205201x5 
+Nguyễn Hà Dung 
+KHDL2020 
+KTTT 
+KHDL2020 
+Chưa cung cấp STK trên hệ thống 
+1145 
+205201x8 
+Phan Nguyễn Văn Duy 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1146 
+205201x1 
+Nguyễn Nam Hải 
+MTCL2020.1 
+KTMT 
+MTCL2020.1 
+1147 
+205201x3 
+Bùi Tấn Hải Đăng 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1148 
+205201x4 
+Lê Nguyễn Bảo Hân 
+KHNT2020 
+KHMT 
+KHNT2020 
+1149 
+205201x8 
+Lê Trọng Hảo 
+KHMT2020 
+KHMT 
+KHMT2020 
+1150 
+205201x9 
+Nguyễn Văn Hên 
+KTPM2020 
+CNPM 
+KTPM2020 
+1151 
+205201x3 
+Nguyễn Minh Hiếu 
+KTPM2020 
+CNPM 
+KTPM2020 
+1152 
+205201x1 
+Trương Thị Hoàng Hảo 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1153 
+205201x2 
+Nguyễn Thị Thảo Hồng 
+HTTT2020 
+HTTT 
+HTTT2020 
+1154 
+205201x3 
+Cao Văn Hùng 
+KHMT2020 
+KHMT 
+KHMT2020 
+1155 
+205201x4 
+Đặng Quốc Hùng 
+PMCL2020.1 
+CNPM 
+PMCL2020 
+1156 
+205202x1 
+Lê Thị Thanh Hương 
+ATTN2020 
+MMT&TT 
+ANTN2020 
+1157 
+205202x3 
+Nguyễn Gia Huy 
+CNTT2020 
+KTTT 
+CNTT2020 
+1158 
+205202x6 
+Phan Trường Huy 
+KTPM2020 
+CNPM 
+KTPM2020 
+1159 
+205202x8 
+Lê Nhật Kha 
+KHNT2020 
+KHMT 
+KHNT2020 
+1160 
+205202x1 
+Trương Hữu Khang 
+KTMT2020 
+KTMT 
+KTMT2020 
+1161 
+205202x5 
+Vũ Lê Khánh 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1162 
+205202x4 
+Trần Đình Khôi 
+KTPM2020 
+CNPM 
+KTPM2020 
+1163 
+205202x5 
+Nguyễn Đỗ Nhã Khuyên 
+CNTT2020 
+KTTT 
+CNTT2020 
+1164 
+205202x5 
+Lê Tấn Lộc 
+CNTT2020 
+KTTT 
+CNTT2020 
+1165 
+205202x6 
+Trần Đình Lộc 
+KTPM2020 
+CNPM 
+KTPM2020 
+1166 
+205202x7 
+Trần Tấn Lộc 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1167 
+205202x8 
+Châu Nhựt Long 
+CNTT2020 
+KTTT 
+CNTT2020 
+1168 
+205202x3 
+Lê Đoàn Phúc Minh 
+KHTN2020 
+KHMT 
+KHTN2020 
+1169 
+205202x5 
+Lê Quang Minh 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1170 
+205202x8 
+Võ Quang Minh 
+ATTN2020 
+MMT&TT 
+ATTN2020 
+1171 
+205202x5 
+Nguyễn Như Nguyên Ngọc 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1172 
+205202x6 
+Nguyễn Đăng Nguyên 
+ATTN2020 
+MMT&TT 
+ATTN2020 
+1173 
+205202x8 
+Phan Thành Nhân 
+CNTT2020 
+KTTT 
+CNTT2020 
+1174 
+205202x9 
+Trần Thành Nhân 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1175 
+205202x3 
+Lương Ngọc Phương Nhi 
+CNCL2020.1 
+KTTT 
+CNCL2021 
+1176 
+205202x7 
+Trần Thị Mỹ Nhung 
+HTTT2020 
+HTTT 
+HTTT2020 
+1177 
+205202x9 
+Đoàn Tấn Phát 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1178 
+205202x0 
+Nguyễn Thành Phát 
+HTTT2020 
+HTTT 
+HTTT2020 
+1179 
+205202x2 
+Phạm Thanh Phong 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1180 
+205202x3 
+Bùi Quang Phú 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1181 
+205202x6 
+Nguyễn Đức Anh Phúc 
+KHMT2020 
+KHMT 
+KHMT2020 
+1182 
+205202x8 
+Phạm Hoàng Phúc 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1183 
+205202x0 
+Võ Trần Thiên Phúc 
+CNTT2020 
+KTTT 
+CNTT2020 
+1184 
+205202x2 
+Nguyễn Ngọc Đông Phương 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1185 
+205202x5 
+Đỗ Thảo Quyên 
+HTTT2020 
+HTTT 
+HTTT2020 
+1186 
+205202x9 
+Nguyễn Duy Tài 
+HTTT2020 
+HTTT 
+HTTT2020 
+1187 
+205203x4 
+Nguyễn Quốc Thái 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1188 
+205203x9 
+Lại Chí Thiện 
+KHMT2020 
+KHMT 
+KHMT2020 
+1189 
+205203x1 
+Huỳnh Tiến Thịnh 
+KTPM2020 
+CNPM 
+KTPM2020 
+1190 
+205203x4 
+Võ Đăng Thuận 
+PMCL2020.1 
+CNPM 
+PMCL2020 
+1191 
+205203x2 
+Nguyễn Thị Mỹ Trân 
+HTCL2020 
+HTTT 
+HTCL2020 
+1192 
+205203x3 
+Lê Trần Thùy Trang 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1193 
+205203x6 
+Tạ Điền Minh Trí 
+MTIO2020 
+KTMT 
+MTIO2020 
+1194 
+205203x7 
+Trần Hữu Trí 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1195 
+205203x8 
+Trần Thanh Trí 
+KTPM2020 
+CNPM 
+KTPM2020 
+1196 
+205203x0 
+Nguyễn Thanh Trọng 
+KHNT2020 
+KHMT 
+KHNT2020 
+1197 
+205203x4 
+Nguyễn Thành Trung 
+CNTT2020 
+KTTT 
+CNTT2020 
+1198 
+205203x2 
+Bùi Minh Tuấn 
+KTPM2020 
+CNPM 
+KTPM2020 
+1199 
+205203x4 
+Nguyễn Hoàng Tuấn 
+KHNT2020 
+KHMT 
+KHNT2020 
+1200 
+205203x5 
+Trần Trương Phú Túc 
+PMCL2020.2 
+CNPM 
+KHNT2020 
+1201 
+205203x7 
+Lê Xuân Tùng 
+KHTN2020 
+KHMT 
+KHTN2020 
+1202 
+205203x5 
+Lê Thị Phương Vy 
+KHMT2020 
+KHMT 
+KHMT2020 
+1203 
+205203x8 
+Phạm Lê Dịu Ái 
+HTTT2020 
+HTTT 
+HTTT2020 
+1204 
+205203x9 
+Bùi Đoàn Khánh Ân 
+KTPM2020 
+CNPM 
+KTPM2020 
+1205 
+205203x0 
+Đinh Quang Ân 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1206 
+205203x3 
+Nguyễn Trần Đức An 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1207 
+205203x5 
+Phạm Phước An 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1208 
+205203x7 
+Trần Bảo Ân 
+ATTN2020 
+MMT&TT 
+ANTN2020 
+1209 
+205203x0 
+Cao Phạm Tiến Anh 
+PMCL2020.1 
+CNPM 
+PMCL2020 
+1210 
+205203x4 
+Huỳnh Yến Anh 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1211 
+205203x2 
+Nguyễn Trần Đức Anh 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1212 
+205203x4 
+Nguyễn Trần Minh Anh 
+KHNT2020 
+KHMT 
+KHNT2020 
+1213 
+205203x6 
+Nguyễn Vân Anh 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1214 
+205204x0 
+Trần Thái Bảo 
+KHTN2020 
+KHMT 
+KHTN2020 
+1215 
+205204x1 
+Nguyễn Mạnh Cường 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1216 
+205204x2 
+Nguyễn Minh Cường 
+HTTT2020 
+HTTT 
+HTTT2020 
+1217 
+205204x3 
+Trần Quốc Cường 
+ATCL2020 
+MMT&TT 
+ATCL2029 
+1218 
+205204x8 
+Trần Thanh Đăng 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1219 
+205204x8 
+Trần Tuấn Đạt 
+KTMT2020 
+KTMT 
+KTMT2020 
+1220 
+205204x2 
+Trương Kim Điền 
+KTPM2020 
+CNPM 
+KTPM2020 
+1221 
+205204x0 
+Nguyễn Hiền Đức 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1222 
+205204x3 
+Nguyễn Trí Đức 
+KTPM2020 
+CNPM 
+KTPM2020 
+1223 
+205204x5 
+Nguyễn Vũ Dương 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1224 
+205204x9 
+Nguyễn Đức Duy 
+CNTT2020 
+KTTT 
+CNTT2020 
+1225 
+205204x0 
+Nguyễn Minh Duy 
+KTPM2020 
+CNPM 
+KTPM2020 
+1226 
+205204x3 
+Tô Phúc Duy 
+CNTT2020 
+KTTT 
+CNTT2020 
+1227 
+205204x5 
+Đào Thị Mỹ Duyên 
+TMCL2020 
+HTTT 
+TMCL2020 
+1228 
+205204x8 
+Nguyễn Hoàng Gia 
+KHMT2020 
+KHMT 
+KHMT2020 
+1229 
+205204x1 
+Lê Trương Ngọc Hải 
+KHMT2020 
+KHMT 
+KHMT2020 
+1230 
+205204x9 
+Lê Nhật Hào 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1231 
+205204x3 
+Lê Đức Hậu 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1232 
+205204x7 
+Vũ Minh Hiền 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1233 
+205205x0 
+Đặng Thái Hòa 
+CNTT2020 
+KTTT 
+CNTT2020 
+1234 
+205205x1 
+Đỗ Thị Cúc Hoa 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1235 
+205205x3 
+Trần Hưng Hoàn 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+Chưa cung cấp STK trên hệ thống 
+1236 
+205205x8 
+Phạm Hoàng Hưng 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1237 
+205205x5 
+Trần Ngọc Diễm Hương 
+TMĐT2020 
+HTTT 
+TMDT2020 
+1238 
+205205x4 
+Nguyễn Huỳnh Gia Huy 
+KTPM2020 
+CNPM 
+KTPM2020 
+1239 
+205205x5 
+Nguyễn Minh Huy 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1240 
+205205x6 
+Nguyễn Quang Huy 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1241 
+205205x1 
+Trần Anh Huy 
+HTCL2020 
+HTTT 
+HTCL2020 
+1242 
+205205x2 
+Trần Gia Huy 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1243 
+205205x6 
+Trịnh Gia Huy 
+ATTN2020 
+MMT&TT 
+ATTN2020 
+1244 
+205205x8 
+Nguyễn Khánh Huyền 
+PMCL2020.1 
+CNPM 
+PMCL2020 
+1245 
+205205x9 
+Nguyễn Phúc Khang 
+KHMT2020 
+KHMT 
+KHMT2020 
+1246 
+205205x4 
+Lê Trần Quốc Khánh 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+Chưa cung cấp STK trên hệ thống 
+1247 
+205205x5 
+Nguyễn Hoàng Nam Khánh 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+Chưa cung cấp STK trên hệ thống 
+1248 
+205205x1 
+Châu Nhật Gia Khiêm 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1249 
+205205x3 
+Nguyễn Anh Khoa 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1250 
+205205x4 
+Nguyễn Anh Khoa 
+CNTT2020 
+KTTT 
+CNTT2020 
+1251 
+205205x4 
+Trần Đình Khôi 
+KTPM2020 
+CNPM 
+KTPM2020 
+1252 
+205206x5 
+Võ Anh Kiệt 
+ATTN2020 
+MMT&TT 
+ATTN2020 
+1253 
+205206x6 
+Trần Ngọc Thiên Kim 
+HTCL2020 
+HTTT 
+HTCL2020 
+1254 
+205206x3 
+Nguyễn Văn Linh 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1255 
+205206x1 
+Lê Phi Long 
+KTPM2020 
+CNPM 
+KTPM2020 
+1256 
+205206x4 
+Tạ Hoàng Long 
+KTPM2020 
+CNPM 
+KTPM2020 
+1257 
+205206x7 
+Phạm Thị Thanh Mai 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1258 
+205206x4 
+Nguyễn Quốc Nam 
+KHDL2020 
+KTTT 
+KHDL2020 
+1259 
+205206x1 
+Vũ Trọng Nghĩa 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1260 
+205206x4 
+Mai Duy Ngọc 
+KHNT2020 
+KHMT 
+KHNT2020 
+1261 
+205206x7 
+Đinh Văn Nguyên 
+KHDL2020 
+KTTT 
+KHDL2020 
+1262 
+205206x1 
+Phạm Ngọc Nguyên 
+HTTT2020 
+HTTT 
+HTTT2020 
+1263 
+205206x2 
+Trần Thị Thanh Nguyên 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1264 
+205206x4 
+Nguyễn Thị Linh Nhâm 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1265 
+205206x1 
+Nguyễn Trường Nhân 
+KHDL2020 
+KTTT 
+KHDL2020 
+1266 
+205206x2 
+Trần Văn Nhân 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1267 
+205206x1 
+Quách Kiều Oanh 
+CNTT2020 
+KTTT 
+CNTT2020 
+1268 
+205206x5 
+Trần Thanh Phát 
+CNTT2020 
+KTTT 
+CNTT2020 
+1269 
+205206x4 
+Trần Phạm Gia Phú 
+KHDL2020 
+KTTT 
+KHDL2020 
+1270 
+205206x9 
+Đào Danh Đăng Phụng 
+KHNT2020 
+KHMT 
+KHNT2020 
+1271 
+205207x8 
+Lê Minh Quân 
+KTPM2020 
+CNPM 
+KTPM2020 
+1272 
+205207x9 
+Nguyễn Đình Nhật Quang 
+KTPM2020 
+CNPM 
+KTPM2020 
+1273 
+205207x2 
+Trần Văn Quang 
+HTTT2020 
+HTTT 
+HTTT2020 
+1274 
+205207x9 
+Lê Thị Phương Quyên 
+KTPM2020 
+CNPM 
+KTPM2020 
+1275 
+205207x5 
+Mai Phước Sang 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1276 
+205207x6 
+Trương Tấn Sang 
+KHNT2020 
+KHMT 
+KHNT2020 
+1277 
+205207x7 
+Châu Vĩnh Sinh 
+KTPM2020 
+CNPM 
+KTPM2020 
+1278 
+205207x9 
+Nguyễn Hoàng Phú Sỹ 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1279 
+205207x6 
+Đỗ Huỳnh Mỹ Tâm 
+HTCL2020 
+HTTT 
+HTCL2020 
+1280 
+205207x8 
+Nguyễn Minh Tâm 
+KHDL2020 
+KTTT 
+KHDL2020 
+1281 
+205207x2 
+Nguyễn Hoàng Tân 
+KTMT2020 
+KTMT 
+KTMT2020 
+1282 
+205207x3 
+Dương Minh Thái 
+KTPM2020 
+CNPM 
+KTPM2020 
+1283 
+205207x4 
+Nguyễn Minh Thái 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1284 
+205207x1 
+Đặng Chí Thành 
+KHDL2020 
+KTTT 
+KHDL2020 
+1285 
+205207x3 
+Lê Công Thành 
+HTTT2020 
+HTTT 
+HTTT2020 
+1286 
+205207x6 
+Trương Đình Trọng Thanh 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1287 
+205207x9 
+Trần Thu Thảo 
+HTTT2020 
+HTTT 
+HTTT2020 
+1288 
+205207x0 
+Trần Văn Thế 
+HTCL2020 
+HTTT 
+HTCL2020 
+1289 
+205207x2 
+Bùi Duy Thiện 
+HTCL2020 
+HTTT 
+HTCL2020 
+1290 
+205207x5 
+Nguyễn Phan Quốc Thiện 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1291 
+205207x0 
+Đỗ Đức Thịnh 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+Chưa cung cấp STK trên hệ thống 
+1292 
+205207x1 
+Lê Việt Thịnh 
+KHMT2020 
+KHMT 
+KHMT2020 
+1293 
+205207x2 
+Nguyễn Đình Đức Thịnh 
+KTPM2020 
+CNPM 
+KTPM2020 
+1294 
+205207x3 
+Nguyễn Trường Thịnh 
+KHDL2020 
+KTTT 
+KHDL2020 
+1295 
+205207x2 
+Trần Thị Anh Thư 
+CNTT2020 
+KTTT 
+CNTT2020 
+1296 
+205207x7 
+Nguyễn Thị Thu Thủy 
+HTCL2020 
+HTTT 
+HTCL2020 
+1297 
+205208x2 
+Lương Hà Tiên 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1298 
+205208x8 
+Trần Ngọc Tiến 
+KTPM2020 
+CNPM 
+KTPM2020 
+1299 
+205208x0 
+Vi Minh Tiến 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1300 
+205208x1 
+Trần Trọng Tín 
+HTTT2020 
+HTTT 
+HTTT2020 
+1301 
+205208x7 
+Lê Ngọc Mỹ Trang 
+KHMT2020 
+KHMT 
+KHMT2020 
+1302 
+205208x9 
+Nguyễn Thanh Thanh Trúc 
+KHDL2020 
+KTTT 
+KHDL2020 
+Chưa cung cấp STK trên hệ thống 
+1303 
+205208x1 
+Nguyễn Thành Trung 
+KTPM2020 
+CNPM 
+KTPM2020 
+1304 
+205208x7 
+Nguyễn Cẩm Tú 
+HTCL2020 
+HTTT 
+HTCL2020 
+1305 
+205208x9 
+Võ Thanh Tú 
+HTTT2020 
+HTTT 
+HTTT2020 
+1306 
+205208x7 
+Phan Hoàng Tuấn 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1307 
+205208x1 
+Phạm Quang Tùng 
+TMCL2020 
+HTTT 
+TMCL2020 
+1308 
+205208x5 
+Nguyễn Thị Như Vân 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1309 
+205208x7 
+Huỳnh Thế Vĩ 
+KTPM2020 
+CNPM 
+KTPM2020 
+1310 
+205208x4 
+Đặng Thị Kim Yến 
+TMCL2020 
+HTTT 
+TMCL2020 
+1311 
+205208x1 
+Phạm Hoàng Ngọc Anh 
+HTTT2020 
+HTTT 
+HTTT2020 
+1312 
+205208x2 
+Phạm Ngọc Lan Anh 
+MTIO2020 
+KTMT 
+MTIO2020 
+1313 
+205208x0 
+Hoàng Văn Anh Đức 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1314 
+205209x0 
+Nguyễn Ngọc Mai Khanh 
+CNCL2020.1 
+KTTT 
+CNCL.1 
+1315 
+205209x6 
+Nguyễn Tuấn Kiệt 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1316 
+205209x9 
+Nguyễn Thị Kim Liên 
+HTTT2020 
+HTTT 
+HTTT2020 
+1317 
+205209x3 
+Nguyễn Thanh Nam 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+Chưa cung cấp STK trên hệ thống 
+1318 
+205209x5 
+Nguyễn Thị Kim Ngân 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1319 
+205209x9 
+Phạm Thế Quý 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1320 
+205209x1 
+Nguyễn Hữu Minh Sang 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1321 
+205209x6 
+Châu Tấn 
+KHDL2020 
+KTTT 
+KHDL2020 
+1322 
+205209x9 
+Phan Châu Thắng 
+KHDL2020 
+KTTT 
+KHDL2020 
+1323 
+205209x0 
+Trương Quốc Thắng 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1324 
+205209x4 
+Bùi Quốc Thịnh 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1325 
+205209x0 
+Nguyễn Đức Triển 
+MTIO2020 
+KTMT 
+MTIO2020 
+1326 
+205209x1 
+Lưu Kim Triều 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1327 
+205209x4 
+Tôn Anh Trúc 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1328 
+205209x6 
+Nguyễn Thành Trung 
+MTIO2020 
+KTMT 
+MTIO2020 
+1329 
+205209x8 
+Lê Anh Tuấn 
+TMCL2020 
+HTTT 
+TMCL2020 
+1330 
+205209x6 
+Nguyễn Đức Trung 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1331 
+205209x1 
+Ngô Lê Hạnh Dung 
+KHBC2020 
+KHMT 
+KHBC2020 
+1332 
+205209x0 
+Kiều Bá Dương 
+KTPM2020 
+CNPM 
+ATTT2020 
+1333 
+205209x4 
+Bùi Lương Hiếu 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1334 
+205209x8 
+Võ Đặng Thiện Khải 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1335 
+205210x1 
+Nguyễn Trần Tiến 
+KHTN2020 
+KHMT 
+KHTN2020 
+1336 
+205210x4 
+Nguyễn Thiên Ân 
+MMCL2020 
+MMT&TT 
+MMT2020 
+1337 
+205210x6 
+Vũ Quốc An 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1338 
+205210x8 
+Đặng Trần Tuấn Anh 
+HTCL2020 
+HTTT 
+HTCL2020 
+1339 
+205210x1 
+Đỗ Trần Mai Anh 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1340 
+205210x2 
+Dương Thị Ngọc Anh 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1341 
+205210x7 
+Lê Thị Lan Anh 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1342 
+205210x1 
+Nguyễn Phan Đức Anh 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1343 
+205210x2 
+Nguyễn Thị Kim Anh 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+Chưa cung cấp STK trên hệ thống 
+1344 
+205210x3 
+Nguyễn Thị Ngọc Anh 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1345 
+205210x4 
+Nguyễn Vân Anh 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1346 
+205210x9 
+Trần Hoàng Anh 
+KHDL2020 
+KTTT 
+KHDL2020 
+1347 
+205210x3 
+Trần Thị Ngọc Ánh 
+HTTT2020 
+HTTT 
+HTTT2020 
+1348 
+205210x5 
+Trần Thúy Anh 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1349 
+205210x9 
+Phan Thanh Bách 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1350 
+205210x5 
+Bùi Chí Bảo 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1351 
+205210x6 
+Đỗ Phùng Gia Bảo 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1352 
+205210x7 
+Đoàn Quốc Bảo 
+CNTT2020 
+KTTT 
+CNTT2020 
+1353 
+205210x9 
+Hứa Minh Bảo 
+TMCL2020 
+HTTT 
+TMCL2020 
+1354 
+205211x4 
+Nguyễn Phúc Bảo 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1355 
+205211x7 
+Phạm Thiện Bảo 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1356 
+205211x8 
+Phan Chí Bảo 
+PMCL2020.1 
+CNPM 
+PMCL2020.1 
+1357 
+205211x9 
+Trần Quốc Bảo 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1358 
+205211x2 
+Mai Ngọc Bích 
+CNTT2020 
+KTTT 
+CNTT2020 
+1359 
+205211x9 
+Vũ Quốc Thái Bình 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+Chưa cung cấp STK trên hệ thống 
+1360 
+205211x2 
+Võ Chơn Chánh 
+CNCL2020.1 
+KTTT 
+CNCL2020 
+1361 
+205211x4 
+Đặng Đại Minh Châu 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1362 
+205211x5 
+Lê Khánh Châu 
+CNCL2020.1 
+KTTT 
+CNCL2020 
+1363 
+205211x6 
+Nguyễn Thị Ngọc Thanh Châu 
+TMCL2020 
+HTTT 
+TMCL2020 
+1364 
+205211x8 
+Vũ Bảo Châu 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1365 
+205211x9 
+Chu Kim Chí 
+KHMT2020 
+KHMT 
+KHMT2020 
+1366 
+205211x2 
+Trần Thị Quế Chi 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1367 
+205211x3 
+Lưu Lê Bá Chính 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1368 
+205211x4 
+Nguyễn Thị Thùy Chinh 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1369 
+205211x8 
+Nguyễn Văn Chọn 
+CNCL2020.1 
+KTTT 
+CNCL2020 
+1370 
+205211x4 
+Phạm Đình Công 
+MMTT2020 
+MMT&TT 
+MMT2020 
+1371 
+205211x6 
+Nguyễn Đoàn Thiên Cung 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1372 
+205211x0 
+Phạm Quốc Cường 
+CNCL2020.1 
+KTTT 
+CNCL2020 
+1373 
+205211x3 
+Lê Minh Đại 
+CNTT2020 
+KTTT 
+CNTT2020 
+1374 
+205211x9 
+Nguyễn Huỳnh Hải Đăng 
+KHCL2020.1 
+KHMT 
+KHCL2020 
+1375 
+205211x2 
+Bùi Viết Đạt 
+KHCL2020.1 
+KHMT 
+KHCL2020.1 
+1376 
+205211x3 
+Đỗ Thành Đạt 
+KTPM2020 
+CNPM 
+KTPM2020 
+1377 
+205211x5 
+Dương Thành Đạt 
+MTCL2020.1 
+KTMT 
+KTMT2020 
+1378 
+205211x6 
+Hà Văn Đạt 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1379 
+205211x8 
+Lê Thành Đạt 
+ATTN2020 
+MMT&TT 
+ANTN2020 
+1380 
+205211x9 
+Lê Thành Đạt 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1381 
+205211x4 
+Nguyễn Văn Đạt 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+Chưa cung cấp STK trên hệ thống 
+1382 
+205211x5 
+Phạm Thành Đạt 
+CTTT2020 
+HTTT 
+CTTT2020 
+1383 
+205211x9 
+Trần Quốc Đạt 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1384 
+205211x1 
+Vũ Thành Đạt 
+MTIO2020 
+KTMT 
+MTIO2020 
+1385 
+205211x3 
+Huỳnh Đình Kim Điền 
+KHCL2020.1 
+KHMT 
+KHCL.2020.01 
+1386 
+205211x5 
+Tăng Việt Diện 
+HTCL2020 
+HTTT 
+KTMT2020.1 
+1387 
+205211x6 
+Trần Thị Diệp 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1388 
+205211x6 
+Nguyễn Mạnh Đức 
+KHDL2020 
+KTTT 
+KTMT2020 
+1389 
+205212x0 
+Nguyễn Trung Đức 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1390 
+205212x4 
+Trần Nhân Đức 
+CTTT2020 
+HTTT 
+CTTT2020  
+1391 
+205212x5 
+Dín Hiền Dũng 
+KTPM2020 
+CNPM 
+KTPM2020 
+1392 
+205212x7 
+Hoàng Nhật Anh Dũng 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1393 
+205212x1 
+Nguyễn Thị Dung 
+CTTT2020 
+HTTT 
+CTTT2020 
+1394 
+205212x0 
+Nguyễn Xuân Dương 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1395 
+205212x1 
+Phạm Thị Thùy Dương 
+CTTT2020 
+HTTT 
+CTTT2020 
+1396 
+205212x2 
+Phạm Tiến Dương 
+KHDL2020 
+KTTT 
+KHDL2020 
+1397 
+205212x4 
+Quan Huỳnh Quang Dương 
+TMCL2020 
+HTTT 
+TMCL2020 
+1398 
+205212x5 
+Trần Ánh Dương 
+KTMT2020 
+KTMT 
+KTMT2020 
+1399 
+205212x8 
+Bùi Đức Duy 
+HTCL2020 
+HTTT 
+HTCL2020 
+1400 
+205212x1 
+Lâm Bảo Duy 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1401 
+205212x6 
+Nguyễn Đình Duy 
+PMCL2020.2 
+CNPM 
+PMCL2020 
+1402 
+205212x0 
+Nguyễn Khánh Duy 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1403 
+205212x1 
+Nguyễn Phương Duy 
+TMCL2020 
+HTTT 
+TMCL2020 
+1404 
+205212x4 
+Nguyễn Thanh Duy 
+TMCL2020 
+HTTT 
+TMCL2020 
+1405 
+205212x7 
+Tô Thái Duy 
+HTCL2020 
+HTTT 
+HTCL2020 
+1406 
+205212x9 
+Trần Lý Thanh Duy 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1407 
+205212x0 
+Trần Quốc Duy 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1408 
+205212x2 
+Lê Hoàng Duyên 
+HTTT2020 
+HTTT 
+HTTT2020 
+Chưa cung cấp STK trên hệ thống 
+1409 
+205212x4 
+Nguyễn Thị Mỹ Duyên 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1410 
+205212x5 
+Phạm Thái Mỹ Duyên 
+HTCL2020 
+HTTT 
+HTCL2020 
+1411 
+205212x1 
+Nguyễn Tấn Giang 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1412 
+205212x4 
+Bùi Quang Giàu 
+CTTT2020 
+HTTT 
+HTTT2020 
+1413 
+205212x0 
+Nguyễn Thúy Hà 
+TMCL2020 
+HTTT 
+TMCL2020 
+Chưa cung cấp STK trên hệ thống 
+1414 
+205212x2 
+Trần Cẫm Sơn Hà 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1415 
+205212x5 
+Dương Ngọc Hải 
+HTTT2020 
+HTTT 
+HTTT2020 
+1416 
+205212x6 
+Dương Quốc Hải 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1417 
+205212x8 
+Lê Thị Hải 
+CNCL2020.1 
+KTTT 
+CNCL2020 
+1418 
+205212x0 
+Nguyễn Hoàng Ngọc Hải 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1419 
+205212x8 
+Đào Hoàng Nhật Hào 
+HTCL2020 
+HTTT 
+HTCL2020 
+1420 
+205212x1 
+Huỳnh Thế Hào 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1421 
+205212x5 
+Trần Anh Hào 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+Chưa cung cấp STK trên hệ thống 
+1422 
+205212x9 
+Nguyễn Hải Hậu 
+MTCL2020.1 
+KTMT 
+MTCL2020.1 
+Chưa cung cấp STK trên hệ thống 
+1423 
+205213x2 
+Trần Đăng Hậu 
+KTMT2020 
+KTMT 
+KTMT2020 
+1424 
+205213x3 
+Trịnh Văn Hậu 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1425 
+205213x5 
+Mai Hiếu Hiền 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1426 
+205213x0 
+Trịnh Thế Hiển 
+KHDL2020 
+KTTT 
+KHDL2020 
+1427 
+205213x3 
+Trương Văn Hiệp 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1428 
+205213x7 
+Hoàng Đình Hiếu 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1429 
+205213x8 
+Huỳnh Trung Hiếu 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1430 
+205213x0 
+Lê Vĩnh Hiếu 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1431 
+205213x3 
+Nguyễn Hùng Trung Hiếu 
+KHDL2020 
+KTTT 
+KHDL2020 
+1432 
+205213x6 
+Nguyễn Minh Hiếu 
+HTTT2020 
+HTTT 
+HTTT2020 
+1433 
+205213x8 
+Nguyễn Thanh Hiếu 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1434 
+205213x3 
+Ngô Lê Tuyết Hoa 
+MTCL2020.1 
+KTMT 
+MTCL2020.1 
+1435 
+205213x7 
+Đinh Võ Xuân Hoàn 
+HTCL2020 
+HTTT 
+HTCL2020 
+1436 
+205213x9 
+Lê Huy Hoàng 
+KHDL2020 
+KTTT 
+KHDL2020 
+1437 
+205213x8 
+Nguyễn Việt Hoàng 
+HTCL2020 
+HTTT 
+HTCL2020 
+1438 
+205213x9 
+Phan Nhật Hoàng 
+MTCL2020.1 
+KTMT 
+MTCL2020.1 
+Chưa cung cấp STK trên hệ thống 
+1439 
+205213x0 
+Thiều Huy Hoàng 
+CTTT2020 
+HTTT 
+CTTT2020 
+1440 
+205213x1 
+Trần Hữu Huy Hoàng 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+Chưa cung cấp STK trên hệ thống 
+1441 
+205213x6 
+Lê Sỹ Hội 
+KTPM2020 
+CNPM 
+KTPM2020 
+1442 
+205213x7 
+Nguyễn Thị Hồng 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+1443 
+205213x9 
+Nguyễn Tấn Huệ 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1444 
+205213x6 
+Mai Phạm Quốc Hưng 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1445 
+205213x8 
+Nguyễn Minh Hùng 
+CNTT2020 
+KTTT 
+CNTT2020 
+1446 
+205213x9 
+Nguyễn Ngọc Hưng 
+MTCL2020.1 
+KTMT 
+MTCL2020 
+Chưa cung cấp STK trên hệ thống 
+1447 
+205213x0 
+Nguyễn Thúc Hoàng Hùng 
+CTTT2020 
+HTTT 
+HTTT2020 
+1448 
+205213x6 
+Võ Đông Hưng 
+MTCL2020.1 
+KTMT 
+MTCL2020.1 
+1449 
+205213x8 
+Vũ Quốc Hùng 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1450 
+205213x1 
+Kiều Xuân Diệu Hương 
+CTTT2020 
+HTTT 
+CTTT2020 
+1451 
+205213x4 
+Hoàng Đình Hữu 
+KHCL2020.2 
+KHMT 
+KHCL.2020.2 
+1452 
+205213x5 
+Hà Gia Huy 
+CTTT2020 
+HTTT 
+CTTT2020 
+Chưa cung cấp STK trên hệ thống 
+1453 
+205213x4 
+Lê Nguyễn Minh Huy 
+KHNT2020 
+KHMT 
+KHNT2020 
+1454 
+205213x6 
+Lê Quang Huy 
+PMCL2020.2 
+CNPM 
+PMCL.2 
+1455 
+205214x1 
+Nguyễn Ngọc Quang Huy 
+PMCL2020.2 
+CNPM 
+PMCL2020 
+1456 
+205214x4 
+Nguyễn Quốc Huy 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1457 
+205214x0 
+Phạm Bùi Nhật Huy 
+KHCL2020.2 
+KHMT 
+KHMT2020.2 
+1458 
+205214x1 
+Phạm Chấn Huy 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1459 
+205214x9 
+Vũ Quang Huy 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1460 
+205214x2 
+Lê Thị Thu Huyền 
+KTMT2020 
+KTMT 
+KTMT2020 
+1461 
+205214x3 
+Nguyễn Ngọc Huyền 
+CTTT2020 
+HTTT 
+CTTT2020 
+1462 
+205214x4 
+Văn Nguyễn Ngọc Huyền 
+KHMT2020 
+KHMT 
+KHMT2020 
+1463 
+205214x5 
+Nguyễn Phi Hùng 
+CTTT2020 
+HTTT 
+CTTT2020 
+Chưa cung cấp STK trên hệ thống 
+1464 
+205214x0 
+Lê Minh Khan 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1465 
+205214x1 
+Châu Gia Khang 
+MMCL2020 
+MMT&TT 
+MMCL 2020 
+1466 
+205214x7 
+Nguyễn Huỳnh Tuấn Khang 
+PMCL2020.2 
+CNPM 
+PMCL2020 
+1467 
+205214x0 
+Võ Hưng Khang 
+CTTT2020 
+HTTT 
+CTTT2020 
+1468 
+205214x5 
+Hồ Thanh Duy Khánh 
+KHDL2020 
+KTTT 
+KHDL2020 
+1469 
+205214x6 
+Huỳnh Nguyễn Vân Khánh 
+KHCL2020.2 
+KHMT 
+TMĐT2020 
+1470 
+205214x8 
+Lê Hoàng Khanh 
+MTCL2020.1 
+KTMT 
+MTCL2020.1 
+Chưa cung cấp STK trên hệ thống 
+1471 
+205214x0 
+Nguyễn Bá Khanh 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1472 
+205214x3 
+Phạm Đức Khánh 
+CNTT2020 
+KTTT 
+CNTT2020 
+1473 
+205214x5 
+Phạm Thị Nhật Khánh 
+PMCL2020.2 
+CNPM 
+PMCL2020 
+1474 
+205214x6 
+Phạm Văn Khánh 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1475 
+205214x7 
+Trần Duy Khánh 
+HTCL2020 
+HTTT 
+HTCL2020 
+1476 
+205214x9 
+Phạm Phùng Gia Khiêm 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1477 
+205214x2 
+Cao Anh Khoa 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1478 
+205214x7 
+Lê Văn Khoa 
+KHCL2020.2 
+KHMT 
+KHCL2020 
+1479 
+205214x1 
+Nguyễn Hoàng Khoa 
+CNCL2020.1 
+KTTT 
+CNCL2020.1 
+Chưa cung cấp STK trên hệ thống 
+1480 
+205214x2 
+Nguyễn Văn Trường Khoa 
+CTTT2020 
+HTTT 
+HTTT (CTTT) 2020 
+1481 
+205214x4 
+Trần Đăng Khoa 
+ATTN2020 
+MMT&TT 
+ATTN2020 
+1482 
+205214x5 
+Trần Đăng Khoa 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1483 
+205214x8 
+Ngô Quốc Khôi 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1484 
+205214x0 
+Nguyễn Tuấn Khôi 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1485 
+205214x2 
+Trần Đình Khôi 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1486 
+205214x5 
+Phan Mạnh Khương 
+KTMT2020 
+KTMT 
+KTMT2020 
+1487 
+205214x1 
+Phan Trung Kiên 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1488 
+205214x2 
+Võ Trung Kiên 
+KHMT2020 
+KHMT 
+KHMT2020 
+1489 
+205214x3 
+Bùi Tuấn Kiệt 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1490 
+205214x4 
+Huỳnh Viết Tuấn Kiệt 
+KHMT2020 
+KHMT 
+KHMT2020 
+1491 
+205214x8 
+Nguyễn Anh Kiệt 
+HTTT2020 
+HTTT 
+HTTT2020 
+1492 
+205215x2 
+Nguyễn Xuân Tuấn Kiệt 
+HTCL2020 
+HTTT 
+HTCL2020 
+1493 
+205215x5 
+Trần Ngô Tuấn Kiệt 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1494 
+205215x9 
+Triệu Văn Kim 
+KTPM2020 
+CNPM 
+KTPM2020 
+1495 
+205215x0 
+Nguyễn Quốc Kỳ 
+CNTT2020 
+KTTT 
+CNTT 2020 
+1496 
+205215x3 
+Hoàng Thanh Lâm 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1497 
+205215x6 
+Nguyễn Hữu Lâm 
+KHDL2020 
+KTTT 
+HKDL2020 
+1498 
+205215x7 
+Nguyễn Thành Lâm 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1499 
+205215x3 
+Phan Thị Tuyết Lan 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1500 
+205215x4 
+Trần Tất Lập 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1501 
+205215x6 
+Phan Nguyên Lịch 
+CNTT2020 
+KTTT 
+CNTT2020 
+Chưa cung cấp STK trên hệ thống 
+1502 
+205215x8 
+Đặng Bá Lĩnh 
+CNTT2020 
+KTTT 
+CNTT2020 
+1503 
+205215x0 
+Huỳnh Nhựt Linh 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1504 
+205215x1 
+Lê Phước Vĩnh Linh 
+KHTN2020 
+KHMT 
+KHTN2020 
+1505 
+205215x4 
+Nguyễn Hoài Linh 
+HTTT2020 
+HTTT 
+HTTT2020 
+1506 
+205215x8 
+Trần Ngọc Linh 
+HTTT2020 
+HTTT 
+KTMT2020 
+1507 
+205215x0 
+Trần Thị Tuyết Linh 
+HTCL2020 
+HTTT 
+HTCL2020 
+1508 
+205215x6 
+Lê Tấn Lộc 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1509 
+205215x9 
+Nguyễn Tiến Lộc 
+KTPM2020 
+CNPM 
+KTPM2020 
+1510 
+205215x1 
+Phạm Hữu Lộc 
+HTCL2020 
+HTTT 
+HTCL2020 
+1511 
+205215x4 
+Đoàn Minh Lợi 
+KTPM2020 
+CNPM 
+KTPM2020 
+1512 
+205215x0 
+Phạm Ngọc Lợi 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1513 
+205215x1 
+Dương Văn Nhật Long 
+HTCL2020 
+HTTT 
+HTCL2020 
+Chưa cung cấp STK trên hệ thống 
+1514 
+205215x2 
+Huỳnh Phi Long 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1515 
+205215x5 
+Lữ Đình Long 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1516 
+205215x9 
+Nguyễn Hữu Long 
+KTMT2020 
+KTMT 
+KTMT2020 
+1517 
+205215x1 
+Nguyễn Thành Long 
+CNTT2020 
+KTTT 
+CNTT2020 
+Chưa cung cấp STK trên hệ thống 
+1518 
+205215x4 
+Trần Đức Long 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1519 
+205215x6 
+Trần Văn Long 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1520 
+205215x9 
+Dương Thị Lụa 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+Chưa cung cấp STK trên hệ thống 
+1521 
+205215x5 
+Phan Hữu Luân 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1522 
+205215x6 
+Thới Đức Luận 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1523 
+205215x9 
+Nguyễn Hữu Lương 
+CNTT2020 
+KTTT 
+CNTT2020 
+Chưa cung cấp STK trên hệ thống 
+1524 
+205215x1 
+Ngô Văn Tấn Lưu 
+KHMT2020 
+KHMT 
+KHMT2020 
+1525 
+205215x2 
+Nguyễn Minh Lý 
+KHNT2020 
+KHMT 
+KHNT2020 
+1526 
+205215x4 
+Võ Minh Mẫn 
+MTCL2020.1 
+KTMT 
+MTCL2020 
+Chưa cung cấp STK trên hệ thống 
+1527 
+205215x5 
+Phạm Văn Mạnh 
+KTMT2020 
+KTMT 
+KTMT2020 
+1528 
+205215x6 
+Phan Lê Min 
+KTMT2020 
+KTMT 
+KTMT2020 
+1529 
+205215x7 
+Đinh Nhật Minh 
+KHMT2020 
+KHMT 
+KHMT2020 
+1530 
+205216x2 
+Lê Phương Minh 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1531 
+205216x7 
+Nguyễn Đình Nhật Minh 
+KTMT2020 
+KTMT 
+KTMT2020 
+1532 
+205216x5 
+Thân Nhật Minh 
+MTIO2020 
+KTMT 
+MTIO2020 
+1533 
+205216x7 
+Trần Đức Minh 
+TMCL2020 
+HTTT 
+TMCL2020 
+1534 
+205216x0 
+Vũ Cảnh Bình Minh 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1535 
+205216x4 
+Võ Kiều My 
+TMCL2020 
+HTTT 
+TMCL2020 
+1536 
+205216x5 
+Hoàng Thị Na 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1537 
+205216x1 
+Nguyễn Ngọc Nam 
+CNTT2020 
+KTTT 
+CNTT2020 
+1538 
+205216x5 
+Phan Hoàng Nam 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1539 
+205216x2 
+Phạm Thị Bích Nga 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1540 
+205216x3 
+Bùi Thị Thanh Ngân 
+HTCL2020 
+HTTT 
+HTCL2020 
+1541 
+205216x4 
+Đặng Thị Thanh Ngân 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1542 
+205216x6 
+Nguyễn Đình Thanh Ngân 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1543 
+205216x7 
+Nguyễn Phạm Thanh Ngân 
+MTCL2020.2 
+KTMT 
+MTCL2020 
+1544 
+205216x9 
+Vương Đinh Thanh Ngân 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1545 
+205216x1 
+Huỳnh Lưu Hữu Nghĩa 
+MTIO2020 
+KTMT 
+MTIO2020 
+1546 
+205216x5 
+Phạm Quốc Nghĩa 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+Chưa cung cấp STK trên hệ thống 
+1547 
+205216x7 
+Trần Trọng Nghĩa 
+TMCL2020 
+HTTT 
+TMCL2020 
+1548 
+205216x9 
+Võ Đình Nghĩa 
+KTPM2020 
+CNPM 
+KTPM2020 
+Chưa cung cấp STK trên hệ thống 
+1549 
+205216x1 
+Cao Đình Duy Ngọc 
+KHDL2020 
+KTTT 
+KHDL2020 
+1550 
+205216x4 
+Nguyễn Kim Ngọc 
+MTCL2020.2 
+KTMT 
+MTCL2020 
+Chưa cung cấp STK trên hệ thống 
+1551 
+205216x5 
+Nguyễn Tú Ngọc 
+ATCL2020 
+MMT&TT 
+ATCL2020.2 
+1552 
+205216x8 
+Trần Diễm Mỹ Ngọc 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1553 
+205216x4 
+Nguyễn Anh Nguyên 
+HTCL2020 
+HTTT 
+HTCL2020 
+1554 
+205216x5 
+Nguyễn Hữu Nguyên 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1555 
+205216x8 
+Nguyễn Trung Nguyên 
+HTCL2020 
+HTTT 
+HTCL2020 
+1556 
+205216x9 
+Phạm Huỳnh Thái Nguyên 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1557 
+205216x3 
+Tô Đỉnh Nguyên 
+ATTN2020 
+MMT&TT 
+ANTN2020 
+1558 
+205216x7 
+Đinh Thị Ánh Nguyệt 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1559 
+205216x0 
+Lê Minh Nhã 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1560 
+205216x8 
+Nguyễn Lê Trọng Nhân 
+CNTT2020 
+KTTT 
+CNTT2020 
+1561 
+205217x0 
+Nguyễn Thanh Nhàn 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1562 
+205217x1 
+Nguyễn Thành Nhân 
+KHDL2020 
+KTTT 
+KHDL2020 
+1563 
+205217x5 
+Lê Quang Nhật 
+HTCL2020 
+HTTT 
+HTCL2020 
+1564 
+205217x7 
+Nguyễn Đình Nhất 
+MTCL2020.2 
+KTMT 
+MTCL2020 
+1565 
+205217x1 
+Võ Duy Nhất 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1566 
+205217x2 
+Bùi Ngọc Tuyết Nhi 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1567 
+205217x4 
+Nguyễn Phan Uyển Nhi 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1568 
+205217x5 
+Nguyễn Phương Yến Nhi 
+TMCL2020 
+HTTT 
+TMCL2020 
+1569 
+205217x7 
+Phan Ngọc Yến Nhi 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+Chưa cung cấp STK trên hệ thống 
+1570 
+205217x8 
+Tôn Nữ Thảo Nhi 
+HTTT2020 
+HTTT 
+HTTT2020 
+1571 
+205217x9 
+Trần Linh Nhi 
+KTPM2020 
+CNPM 
+KTPM2020 
+1572 
+205217x1 
+Vương Thị Yến Nhi 
+CTTT2020 
+HTTT 
+CTTT2020 
+1573 
+205217x2 
+Đoàn Trần Quỳnh Như 
+TMCL2020 
+HTTT 
+TMCL2020 
+1574 
+205217x6 
+Thái Thị Nhung 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1575 
+205217x7 
+Trần Bảo Nhung 
+KTMT2020 
+KTMT 
+KTMT2020 
+1576 
+205217x9 
+Nguyễn Triệu Kim Oanh 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1577 
+205217x0 
+Nguyễn Tấn Pha 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1578 
+205217x3 
+Lưu Vĩnh Phát 
+HTCL2020 
+HTTT 
+HTCL2020 
+1579 
+205217x4 
+Nguyễn Công Tấn Phát 
+CNTT2020 
+KTTT 
+CNTT2020 
+1580 
+205217x6 
+Nguyễn Tấn Phát 
+HTCL2020 
+HTTT 
+HTCL2020 
+1581 
+205217x2 
+Khưu Minh Phong 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1582 
+205217x3 
+Lê Hải Phong 
+KTPM2020 
+CNPM 
+KTPM2020 
+1583 
+205217x9 
+Trần Thanh Phong 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1584 
+205217x0 
+Trần Thạnh Phong 
+HTCL2020 
+HTTT 
+HTCL2020 
+1585 
+205217x2 
+Huỳnh Gia Phú 
+CNTT2020 
+KTTT 
+CNTT2020 
+1586 
+205217x4 
+Mai Xuân Phú 
+KTMT2020 
+KTMT 
+KTMT2020 
+1587 
+205217x6 
+Trần Thanh Phú 
+HTCL2020 
+HTTT 
+HTCL2020 
+1588 
+205217x0 
+Hoàng Văn Phúc 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1589 
+205217x1 
+Lê Hoàng Phúc 
+PMCL2020.2 
+CNPM 
+pmcl2020.2 
+Chưa cung cấp STK trên hệ thống 
+1590 
+205217x3 
+Lê Hoàng Phúc 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1591 
+205217x5 
+Ngô Thị Phúc 
+KHDL2020 
+KTTT 
+KHDL2020 
+1592 
+205217x8 
+Nguyễn Hoàng Phúc 
+KTPM2020 
+CNPM 
+KTPM2020 
+1593 
+205217x0 
+Phạm Hữu Phúc 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1594 
+205217x1 
+Phạm Trọng Phúc 
+HTCL2020 
+HTTT 
+HTCL2020 
+1595 
+205217x5 
+Lê Trần Hữu Phước 
+KHCL2020.2 
+KHMT 
+KHCL2020 
+Chưa cung cấp STK trên hệ thống 
+1596 
+205217x6 
+Mai Văn Thiên Phước 
+KHMT2020 
+KHMT 
+KHMT2020 
+1597 
+205217x9 
+Trần Ngọc Mỹ Phương 
+HTTT2020 
+HTTT 
+HTTT2020 
+1598 
+205217x1 
+Võ Thanh Phương 
+HTTT2020 
+HTTT 
+PMCL2020.2 
+1599 
+205217x3 
+Nguyễn Thanh Thiện Quá 
+KHDL2020 
+KTTT 
+KHDL2020 
+1600 
+205217x4 
+Bùi Sỹ Quân 
+KTMT2020 
+KTMT 
+KTMT2020 
+1601 
+205217x6 
+Đặng Minh Quân 
+KHMT2020 
+KHMT 
+KHMT2020 
+1602 
+205217x1 
+Nguyễn Thanh Quan 
+MTCL2020.2 
+KTMT 
+MTCL 2020.2 
+1603 
+205217x4 
+Phan Đình Minh Quân 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1604 
+205217x9 
+Vũ Hoàng Quân 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1605 
+205218x0 
+Đỗ Phú Quang 
+KTPM2020 
+CNPM 
+KTPM2020 
+1606 
+205218x2 
+Hồ Vũ Minh Quang 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1607 
+205218x3 
+Lê Đình Thạch Quang 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1608 
+205218x9 
+Phạm Duy Quang 
+CTTT2020 
+HTTT 
+CTTT2020 
+1609 
+205218x0 
+Phạm Trần Thanh Quang 
+ATTN2020 
+MMT&TT 
+ANTN2020 
+1610 
+205218x2 
+Trần Minh Quang 
+PMCL2020.2 
+CNPM 
+PMCL2020 
+1611 
+205218x3 
+Nguyễn Huỳnh Vương Quốc 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1612 
+205218x5 
+Nguyễn Hoàng Quý 
+KHDL2020 
+KTTT 
+KHDL2020 
+1613 
+205218x8 
+Trần Văn Quý 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1614 
+205218x0 
+Nguyễn Thị Phương Quyên 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1615 
+205218x3 
+Nguyễn Tú Quyên 
+TMCL2020 
+HTTT 
+TMCL2020 
+1616 
+205218x0 
+Trần Hoài Rin 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1617 
+205218x1 
+Trương Văn Rồng 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1618 
+205218x4 
+Trần Trọng Sang 
+CTTT2020 
+HTTT 
+CTTT2020 
+1619 
+205218x9 
+Đỗ Phi Sơn 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1620 
+205218x3 
+Nguyễn Hồng Sơn 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1621 
+205218x5 
+Nguyễn Ngọc Sơn 
+HTCL2020 
+HTTT 
+HTCL2020 
+1622 
+205218x7 
+Nguyễn Thanh Sơn 
+HTCL2020 
+HTTT 
+HTCL2020 
+1623 
+205218x0 
+Trần Văn Sơn 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1624 
+205218x2 
+Ngô Ngọc Sương 
+KHMT2020 
+KHMT 
+KHMT2020 
+1625 
+205218x7 
+Lê Anh Tài 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1626 
+205218x0 
+Nguyễn Thy Anh Tài 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1627 
+205218x1 
+Phạm Tấn Tài 
+KHMT2020 
+KHMT 
+KHMT2020 
+1628 
+205218x3 
+Trần Võ Tấn Tài 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1629 
+205218x5 
+Dương Bảo Tâm 
+HTCL2020 
+HTTT 
+HTTT2020 
+1630 
+205218x6 
+Hồ Thị Thanh Tâm 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1631 
+205218x8 
+Mai Phúc Tâm 
+KTPM2020 
+CNPM 
+CNPM2020 
+1632 
+205218x5 
+Nguyễn Duy Tân 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1633 
+205218x7 
+Nguyễn Minh Tấn 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1634 
+205218x8 
+Nguyễn Minh Tân 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1635 
+205218x1 
+Trần Nguyễn Nhật Tân 
+KHMT2020 
+KHMT 
+KHMT2020 
+Chưa cung cấp STK trên hệ thống 
+1636 
+205218x2 
+Nguyễn Phúc Tăng 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+1637 
+205218x3 
+Đặng Thái Thạch 
+KTMT2020 
+KTMT 
+KTMT2020 
+1638 
+205218x4 
+Nguyễn Châu Thạch 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1639 
+205218x8 
+Nguyễn Khắc Thái 
+KHNT2020 
+KHMT 
+KHNT2020 
+1640 
+205218x3 
+Đỗ Quang Thắng 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1641 
+205218x5 
+Lê Quang Thắng 
+KHNT2020 
+KHMT 
+KHNT2020 
+1642 
+205219x0 
+Nguyễn Ngọc Thắng 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1643 
+205219x2 
+Nguyễn Xuân Thắng 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1644 
+205219x3 
+Phạm Văn Thắng 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1645 
+205219x7 
+Trương Thành Thắng 
+KHMT2020 
+KHMT 
+KHMT2020 
+1646 
+205219x3 
+Lê Ngọc Mai Thanh 
+HTCL2020 
+HTTT 
+HTCL2020 
+1647 
+205219x6 
+Lý Phúc Thành 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1648 
+205219x0 
+Nguyễn Minh Thành 
+CTTT2020 
+HTTT 
+CTTT2020 
+1649 
+205219x4 
+Trần Thành 
+KHNT2020 
+KHMT 
+KHNT2020 
+1650 
+205219x7 
+Trần Trung Thành 
+KTPM2020 
+CNPM 
+KTPM2020 
+1651 
+205219x0 
+Văn Ngọc Thành 
+KTMT2020 
+KTMT 
+KTMT2020 
+1652 
+205219x2 
+Huỳnh Trung Thảo 
+KTPM2020 
+CNPM 
+KTPM2020 
+1653 
+205219x3 
+Nguyễn Ngọc Thảo 
+HTTT2020 
+HTTT 
+HTTT2020 
+1654 
+205219x5 
+Nguyễn Thị Ngọc Thảo 
+CTTT2020 
+HTTT 
+HTTT2020 
+Chưa cung cấp STK trên hệ thống 
+1655 
+205219x6 
+Nguyễn Thị Phương Thảo 
+KHDL2020 
+KTTT 
+KHDL2020 
+1656 
+205219x8 
+Trần Phương Thảo 
+KHCL2020.2 
+KHMT 
+KHCL2020 
+1657 
+205219x2 
+Nguyễn Bảo Thi 
+TMCL2020 
+HTTT 
+TMCL2020 
+1658 
+205219x4 
+Cao Hoàng Thiện 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1659 
+205219x6 
+Hứa Phú Thiên 
+CNTT2020 
+KTTT 
+CNTT2020 
+Chưa cung cấp STK trên hệ thống 
+1660 
+205219x7 
+Lê Văn Thiện 
+CNTT2020 
+KTTT 
+KTMT2020 
+1661 
+205219x4 
+Trần Triệu Thiên 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1662 
+205219x5 
+Lê Thị Thiệp 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1663 
+205219x6 
+Trần Văn Thiệt 
+KTPM2020 
+CNPM 
+KTPM2020 
+1664 
+205219x7 
+Vũ Hoàng Thạch Thiết 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1665 
+205219x1 
+Ngô Hùng Thịnh 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1666 
+205219x3 
+Nguyễn Hùng Thịnh 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1667 
+205219x4 
+Nguyễn Quốc Thịnh 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1668 
+205219x3 
+Nguyễn Thị Trang Thơ 
+HTCL2020 
+HTTT 
+HTCL2020 
+1669 
+205219x4 
+Nguyễn Văn Thọ 
+ATTN2020 
+MMT&TT 
+ATTN2020 
+1670 
+205219x6 
+Lê Hoàng Thoại 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1671 
+205219x8 
+Bạch Văn Xuân Thông 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1672 
+205219x9 
+Hà Minh Thông 
+TMCL2020 
+HTTT 
+TMCL2020 
+1673 
+205219x2 
+Phạm Kiến Thông 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1674 
+205219x5 
+Lê Anh Thư 
+HTCL2020 
+HTTT 
+HTCL2020 
+1675 
+205219x8 
+Trần Thị Minh Thư 
+ATTT2020 
+MMT&TT 
+ATTT2020 
+1676 
+205219x0 
+Bùi Văn Thuận 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1677 
+205219x3 
+Nguyễn Đức Thuần 
+HTTT2020 
+HTTT 
+HTTT2020 
+Chưa cung cấp STK trên hệ thống 
+1678 
+205219x8 
+Nguyễn Thiện Thuật 
+KHDL2020 
+KTTT 
+KHDL2020 
+1679 
+205220x0 
+Nguyễn Nhất Thưởng 
+CTTT2020 
+HTTT 
+CTTT2020 
+1680 
+205220x1 
+Phan Tấn Thương 
+KHNT2020 
+KHMT 
+KHNT2020 
+1681 
+205220x2 
+Võ Xuân Thương 
+TMCL2020 
+HTTT 
+TMCL2020 
+Chưa cung cấp STK trên hệ thống 
+1682 
+205220x3 
+Dương Thanh Thủy 
+TMCL2020 
+HTTT 
+TMCL2020 
+1683 
+205220x4 
+Nguyễn Thị Kim Thùy 
+MMTT2020 
+MMT&TT 
+MMTT2020 
+1684 
+205220x5 
+Phan Phi Thuyền 
+TMCL2020 
+HTTT 
+TMCL2020 
+1685 
+205220x8 
+Lương Mạnh Tiến 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1686 
+205220x9 
+Nguyễn Tiến 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1687 
+205220x0 
+Nguyễn Minh Tiến 
+KHDL2020 
+KTTT 
+KHDL2020 
+1688 
+205220x1 
+Nguyễn Trần Cẩm Tiên 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1689 
+205220x2 
+Phạm Trần Anh Tiên 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1690 
+205220x5 
+Nguyễn Ngọc Tín 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1691 
+205220x8 
+Trần Quang Tin 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1692 
+205220x0 
+Đỗ Phạm Phúc Tính 
+KHDL2020 
+KTTT 
+KHDL2020 
+1693 
+205220x1 
+Dương Thị Tính 
+TMĐT2020 
+HTTT 
+TMĐT2020 
+1694 
+205220x3 
+Lê Chu Khánh Toàn 
+MTCL2020.2 
+KTMT 
+MTCL2020 
+1695 
+205220x5 
+Nguyễn Đức Toàn 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1696 
+205220x8 
+Nguyễn Văn Toàn 
+KHMT2020 
+KHMT 
+KHMT2020 
+1697 
+205220x4 
+Nguyễn Thùy Trâm 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1698 
+205220x7 
+Hoàng Thị Thảo Trang 
+HTCL2020 
+HTTT 
+HTCL2020 
+1699 
+205220x1 
+Phạm Thị Thu Trang 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1700 
+205220x2 
+Võ Lê Nhã Trang 
+HTCL2020 
+HTTT 
+HTCL2020 
+1701 
+205220x3 
+Võ Thị Hà Trang 
+HTTT2020 
+HTTT 
+HTTT2020 
+1702 
+205220x4 
+Bùi Công Tri 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1703 
+205220x6 
+Đinh Hoàng Trí 
+HTCL2020 
+HTTT 
+HTCL2020 
+1704 
+205220x5 
+Trần Đức Trí 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1705 
+205220x9 
+Hồ Khả Trình 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+1706 
+205220x2 
+Nguyễn Bảo Trọng 
+ATCL2020 
+MMT&TT 
+HTCL2020 
+1707 
+205220x1 
+Nguyễn Hoàng Trung 
+HTTT2020 
+HTTT 
+HTTT2020 
+1708 
+205220x3 
+Nguyễn Quốc Trung 
+HTTT2020 
+HTTT 
+HTTT2020 
+1709 
+205220x4 
+Nguyễn Thành Trung 
+CNTT2020 
+KTTT 
+CNTT2020 
+1710 
+205220x8 
+Trần Tiến Trung 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+1711 
+205220x0 
+Dương Duy Trường 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1712 
+205220x5 
+Ngô Huỳnh Trưởng 
+KHDL2020 
+KTTT 
+KHDL2020 
+1713 
+205220x6 
+Nguyễn Nhật Trường 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1714 
+205220x7 
+Nguyễn Nhật Trường 
+KHMT2020 
+KHMT 
+KHMT2020 
+1715 
+205220x0 
+Phạm Lê Trưởng 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1716 
+205220x1 
+Phan Võ Thiên Trường 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1717 
+205220x3 
+Võ Lâm Trường 
+HTCL2020 
+HTTT 
+HTCL2020 
+1718 
+205220x4 
+Lê Hữu Truyền 
+KTMT2020 
+KTMT 
+KTMT2020 
+1719 
+205220x6 
+Huỳnh Khả Tú 
+CTTT2020 
+HTTT 
+CTTT2020 
+1720 
+205220x9 
+Nguyễn Thanh Tú 
+HTCL2020 
+HTTT 
+MTCL2020.2 
+1721 
+205221x0 
+Phạm Anh Tú 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1722 
+205221x1 
+Phan Thanh Tú 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1723 
+205221x6 
+Đặng Minh Tuấn 
+HTTT2020 
+HTTT 
+HTTT2020 
+1724 
+205221x7 
+Đào Trần Anh Tuấn 
+KHCL2020.2 
+KHMT 
+KHCL2020 
+1725 
+205221x9 
+Hà Danh Tuấn 
+HTTT2020 
+HTTT 
+HTTT2020 
+1726 
+205221x0 
+Hoàng Đình Anh Tuấn 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1727 
+205221x5 
+Nguyễn Công Tuấn 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1728 
+205221x6 
+Nguyễn Đặng Quang Tuấn 
+KHNT2020 
+KHMT 
+KHNT2020 
+1729 
+205221x8 
+Nguyễn Hoàng Tuấn 
+ATCL2020 
+MMT&TT 
+TMCL2020 
+1730 
+205221x2 
+Nguyễn Thái Tuấn 
+PMCL2020.2 
+CNPM 
+PMCL2020.2 
+1731 
+205221x5 
+Phạm Phú Tuấn 
+TMCL2020 
+HTTT 
+TMCL2020 
+1732 
+205221x8 
+Võ Huỳnh Anh Tuấn 
+CNCL2020.2 
+KTTT 
+CNCL2020.2 
+1733 
+205221x0 
+Nguyễn Minh Tùng 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1734 
+205221x4 
+Huỳnh Thị Bích Tuyền 
+CNCL2020.2 
+KTTT 
+CNCL2020 
+1735 
+205221x8 
+Đào Thị Thu Uyên 
+TMĐT2020 
+HTTT 
+TMDT2020 
+1736 
+205221x1 
+Võ Đình Ngọc Uyển 
+MTIO2020 
+KTMT 
+MTIO2020 
+1737 
+205221x3 
+Lê Hoàng Văn 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+1738 
+205221x3 
+Phạm Quang Việt 
+KHCL2020.2 
+KHMT 
+KHCL2020.2 
+1739 
+205221x4 
+Trần Hoàng Việt 
+KTMT2020 
+KTMT 
+KTMT2020 
+1740 
+205221x1 
+Trần Phú Vinh 
+KHCL2020.2 
+KHMT 
+KHMT2020 
+1741 
+205221x2 
+Nguyễn Quốc Vương 
+MTCL2020.2 
+KTMT 
+MTCL2020.2 
+Chưa cung cấp STK trên hệ thống 
+1742 
+205221x5 
+Bùi Thị Thúy Vy 
+TMCL2020 
+HTTT 
+TMCL2020 
+1743 
+205221x7 
+Hà Triệu Yến Vy 
+ATCL2020 
+MMT&TT 
+ATCL2020 
+1744 
+205221x8 
+Lê Thanh Thảo Vy 
+MMCL2020 
+MMT&TT 
+MMCL2020 
+1745 
+205221x9 
+Lưu Thượng Vỹ 
+CNTT2020 
+KTTT 
+CNTT2020 
+1746 
+205221x0 
+Lưu Yến Vy 
+HTCL2020 
+HTTT 
+HTCL2020 
+Danh sách gồm 1746 sinh viên./. 
+Bài viết liên quan
+Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM 
+(09-07-2026) 
+Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027 
+(08-07-2026) 
+Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027 
+(08-07-2026) 
+Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026 
+(07-07-2026) 
+Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026 
+(02-07-2026) 
+Pages
+1
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+…
+next › 
+last » 
+Tin tức & sự kiện
+Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026 
+[An ninh sinh viên] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết! 
+[An ninh Sinh viên] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp! 
+Xem thêm 
+Hình ảnh - Video
+Xem thêm 
+Website liên kết
+Website Trường 
+Forum Trường 
+Website Đoàn - Hội 
+Website ĐH Quốc gia 
+Website ký túc xá 
+Kết nối với chúng tôi
+Facebook 
+Google plus 
+Youtube 
+Liên hệ
+Địa chỉ: Khu phố 34, Phường Linh Xuân, Thành phố Hồ Chí Minh.

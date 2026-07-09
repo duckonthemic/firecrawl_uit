@@ -1,0 +1,44 @@
+Học bổng kỹ thuật datalogic 2017
+================================
+
+Wed, 15/11/2017 - 09:58
+
+**DEADLINE: 21/11/2017**
+
+Nhằm mục đich hỗ trợ tài chính cho những bạn sinh viên theo học khối ngành kỹ thuật; hàng năm, công ty TNHH Datalogic Việt Nam cấp học bổng khuyến khích sinh viên nghiên cứu khoa học kỹ thuật; và theo đuổi ước mơ nghê nghiệp. Bên cạnh đó, chương trình học bổng cũng nhằm mục đích thu hút tài năng trẻ gia nhập công ty Datalogic.
+
+**I. Đối tượng tham gia:**  
+1\. Sinh viên năm 2,3,4 chuyên ngành: Công nghệ thông tin, Điện tử viễn thông, Khoa học máy tính, Kỹ thuật phần mềm, Kỹ thuật máy tính, Kỹ thuật hệ thống công nghiệp.  
+2.Giao tiếp tiếng Anh tốt; thành tích học tập tốt (GPA từ 7.5) và năng nố tham gia công tác cộng  
+đồng, công tác xã hội.  
+3\. Định hướng công việc tương lai ở các lĩnh vực ngành nghề: Nghiên cứu và Phát triển sản  
+phẩm, Kỹ thuật sản xuất, chuỗi cung ứng, v.v (được trình bày trong Phiếu đăng ký).  
+4\. Có kế hoạch sử dụng học bổng rõ ràng, ưu tiên cho những sinh viên có hoàn cảnh khó khan.  
+5\. Chưa nhận học bổng/ chưa được tuyển dụng bởi công ty khác.
+
+**II. Quyền lợi:**   
+\- 15 phần học bổng (VND 5,000,000 tiền mặt) dựa vào kết quả học tập của sinh viên.  
+\- Cơ hội thực tập tại công ty Datalogic với phúc lợi hấp dẫn khi còn đang học tại trường.  
+\- Cơ hội tham gia vào những dự án của Datalogic để làm đề tài tốt nghiệp và tích lũy kinh  
+\- Cơ hội trở thành nhân viên chính thức của công ty Datalogic sau khi tốt nghiệp.
+
+**III. Cách thức nộp hồ sơ:**   
+Hồ sơ xin học bổng bao gồm:  
+1\. Mẫu Phiếu Đăng ký tham gia học bổng Datalogic đã điền đầy đủ thông tin và hoàn thành bài luận, có kèm ảnh 3x4. Link tải Mẫu Phiếu Đăng ký: [https://goo.gl/e5cCjs](https://goo.gl/e5cCjs)
+  
+2\. Bảng điểm từ học kỳ 1 đến học kỳ hiện tại.  
+3\. Các chứng chỉ: tiếng Anh, tham gia hoạt động cộng đồng, hoàn thành các khóa đào tạo chuyên môn, giấy chứng nhận gia đình khó khăn (nếu có),…  
+**Gửi hồ sơ về email: [vn.recruitment@datalogic.com](mailto:vn.recruitment@datalogic.com)** (Chị Lan Huỳnh)
+
+**IV. Quy trình phỏng vấn học bổng**  
+\- Nhận hồ sơ: đến hết ngày 21/11/2017  
+\- Phỏng vấn (Ứng viên được mời phỏng vấn sẽ đến công ty để làm bài kiểm tra tiếng Anh/  
+\- IQ/ chuyên ngành và phỏng vấn trực tiếp): 25-30/11/2017  
+\- Kết quả (sẽ được thông báo cho trường hoặc email cá nhân): 04-08/12/2017  
+\- Trao học bổng: 15/12/2017
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/201711/scholarship.jpg)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-bong-ky-thuat-datalogic-2017&title=H%E1%BB%8Dc%20b%E1%BB%95ng%20k%E1%BB%B9%20thu%E1%BA%ADt%20datalogic%202017)

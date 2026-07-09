@@ -1,0 +1,29 @@
+Thông báo nộp hồ sơ xét trợ cấp xã hội
+======================================
+
+Wed, 16/10/2013 - 09:32
+
+Phòng Công tác Sinh viên thông báo đến  sinh viên về việc nộp hồ sơ xét Trợ cấp Xã hội năm học 2013-2014.
+
+Thời gian nhận hồ sơ: từ ngày 16/10/2013 - 15/11/2013
+
+Địa điểm: nộp trực tiếp tại phòng CTSV (A.101)
+
+Mọi thắc mắc về chế độ TCXH và thủ tục hồ sơ có thể gửi về qua địa chỉ email [](mailto:vidtn@uit.edu.vn)
+vidtn@uit.edu.vn
+
+**_Lưu ý: Phòng CTSV không giải quyết hồ sơ sinh viên nộp trễ hạn_**
+
+**_Sinh viên vui lòng xem file chi tiết đính kèm. Riêng mẫu đơn, sinh viên vào phần các biểu mẫu download mẫu đơn.  
+_**
+
+  
+
+  
+Tập tin đính kèm: [Thong bao thu ho so TCXH 13-14.doc](https://ctsv.uit.edu.vn/sites/default/files/attachments/article/243/Thong%20bao%20thu%20ho%20so%20TCXH%2013-14.doc)
+  
+Tập tin đính kèm: [mau TCXH .doc](https://ctsv.uit.edu.vn/sites/default/files/attachments/article/243/mau%20TCXH%20.doc)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-nop-ho-so-xet-tro-cap-xa-hoi&title=Th%C3%B4ng%20b%C3%A1o%20n%E1%BB%99p%20h%E1%BB%93%20s%C6%A1%20x%C3%A9t%20tr%E1%BB%A3%20c%E1%BA%A5p%20x%C3%A3%20h%E1%BB%99i)

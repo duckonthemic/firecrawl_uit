@@ -1,0 +1,19 @@
+Thông báo kết quả mua BHYT 3 tháng cuối năm 2022- KHÓA 2022
+===========================================================
+
+Wed, 19/10/2022 - 16:07
+
+Phòng Công tác Sinh viên thông báo kết quả được cấp Bảo hiểm y tế 3 tháng cuối năm 2022.
+
+**Sinh viên nội trú ở KTX thì không có tên trong danh sách mua ở Trường.** 
+
+**Sinh viên có thể tra cứu hạn sử dụng BHYT tại [https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bh...](https://baohiemxahoi.gov.vn/tracuu/Pages/tra-cuu-thoi-han-su-dung-the-bhyt.aspx)
+**
+
+Từ ngày 01/10/2021 thẻ BHYT (thẻ giấy) sẽ được thay thế bằng ứng dụng VssID để khám chữa bệnh ở các bệnh viện. Vì vậy, **BẮT BUỘC** sinh viên phải cài đặt ứng dụng VssID để Khám chữa bệnh.
+
+Sinh viên cài đặt ứng dụng VssID để sử dụng, sinh viên xem hướng dẫn cài đặt tại [https://ctsv.uit.edu.vn/bai-viet/bhyt-cai-dat-ung-dung-vssid-cho-doi-tuo...](https://ctsv.uit.edu.vn/bai-viet/bhyt-cai-dat-ung-dung-vssid-cho-doi-tuong-tham-gia-bhyt)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ket-qua-mua-bhyt-3-thang-cuoi-nam-2022-khoa-2022&title=Th%C3%B4ng%20b%C3%A1o%20k%E1%BA%BFt%20qu%E1%BA%A3%20mua%20BHYT%203%20th%C3%A1ng%20cu%E1%BB%91i%20n%C4%83m%202022-%20%20KH%C3%93A%202022)

@@ -1,0 +1,36 @@
+Thông báo kiểm tra Sinh hoạt Công dân Sinh viên đầu năm học 2018 - 2019, đầu khoá 2018
+======================================================================================
+
+Tue, 25/09/2018 - 15:10
+
+Thông báo kiểm tra Sinh hoạt Công dân Sinh viên đầu năm học 2018-2019, đầu khoá 2018
+------------------------------------------------------------------------------------
+
+Phòng CTSV xin thông tin về đợt kiểm tra tuần Sinh hoạt Công dân Sinh viên đầu Khoá 2018, đầu năm học 2018-2019 như sau:
+
+**Thời gian làm bài:** 60 phút - từ 23:00 **\[mới cập nhật\]** ngày thứ năm 27/9/2018 đến 23:00 ngày chủ nhật 30/9/2018
+
+**Đối tượng:** Tất cả các Sinh viên chính qui (SV tự do không cần kiểm tra) đang còn học ở Trường (Tình trạng là "đang học" hoặc "cảnh cáo").
+
+**Link kiểm tra:** 
+
+**Link kiểm tra:**
+
+*   **Khoá 2018: [https://courses.uit.edu.vn/mod/quiz/view.php?id=62698](https://courses.uit.edu.vn/mod/quiz/view.php?id=62698)
+    **
+*   **Khoá 2017 về trước: [https://courses.uit.edu.vn/mod/quiz/view.php?id=62779](https://courses.uit.edu.vn/mod/quiz/view.php?id=62779)
+    **
+
+            (các bạn có thể làm ở nhà hoặc làm ở máy tính ở Thư viện/Phòng máy)
+
+**Nếu có thắc mắc các bạn hỏi ở forum:** [https://forum.uit.edu.vn/node/529652](https://forum.uit.edu.vn/threads/68031)
+ nếu có tính chất cá nhân thì các bạn email cho email [toannv@uit.edu.vn](mailto:toannv@uit.edu.vn)
+ 
+
+Các bạn phải hoàn thành >= 70% số câu hỏi mới đạt. Mỗi bạn được làm tối đa 2 lần. Điểm cuối cùng là điểm lần kiểm tra sau cùng. 
+
+**Tài liệu:** Tài liệu slide cung cấp trên forum có thể chưa cập nhật là phiên bản mới nhất. Do đó các bạn cẩn thận đọc kỹ câu hỏi nhé.
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-kiem-tra-sinh-hoat-cong-dan-sinh-vien-dau-nam-hoc-2018-2019-dau-khoa-2018&title=Th%C3%B4ng%20b%C3%A1o%20ki%E1%BB%83m%20tra%20Sinh%20ho%E1%BA%A1t%20C%C3%B4ng%20d%C3%A2n%20Sinh%20vi%C3%AAn%20%C4%91%E1%BA%A7u%20n%C4%83m%20h%E1%BB%8Dc%202018%20-%202019%2C%20%C4%91%E1%BA%A7u%20kho%C3%A1%202018)

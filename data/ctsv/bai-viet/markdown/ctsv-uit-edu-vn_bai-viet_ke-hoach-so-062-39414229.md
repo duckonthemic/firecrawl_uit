@@ -1,0 +1,14 @@
+Kế hoạch số 06/2018 - Tuần sinh hoạt công dân sinh viên cuối khóa năm 2018
+==========================================================================
+
+Sat, 28/04/2018 - 17:16
+
+Thông tin chi tiết vui lòng xem file đính kèm.
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [06\_kh\_dhcntt02\_4\_2018\_scan.pdf](https://ctsv.uit.edu.vn/sites/default/files/201905/06_kh_dhcntt02_4_2018_scan.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fke-hoach-so-062018-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-2018&title=K%E1%BA%BF%20ho%E1%BA%A1ch%20s%E1%BB%91%2006%2F2018%20-%20Tu%E1%BA%A7n%20sinh%20ho%E1%BA%A1t%20c%C3%B4ng%20d%C3%A2n%20sinh%20vi%C3%AAn%20cu%E1%BB%91i%20kh%C3%B3a%20n%C4%83m%202018)

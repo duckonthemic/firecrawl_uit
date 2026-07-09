@@ -1,0 +1,32 @@
+30 suất học bổng Nguyễn Thái Bình – Báo Thanh Niên dành cho SV ĐHCNTT
+=====================================================================
+
+Thu, 28/02/2013 - 02:23
+
+1\. Số suất học bổng dành cho ĐH CNTT: 30 suất
+
+2\. Giá trị học bổng: 5.000.000đ/suất
+
+3\. Điều kiện xét tuyển:
+
+\- Sinh viên có hoàn cảnh khó khăn và tinh thần vượt khó học tập, ưu tiên các ứng viên thuộc hộ nghèo, cận nghèo.
+
+\- Có kết quả học tập đạt loại giỏi
+
+\- Chưa nhận học bổng của tổ chức nào trong năm học 2012-2013
+
+4\. Hồ sơ _(xem công văn đính kèm)_
+
+5\. Mẫu đơn xin dự tuyển _(xem công văn đính kèm)_
+
+**_Lưu ý:_**
+
+_Do hệ thống điểm HKI Nh 2012-2013 chưa cập nhật xong nên trong mẫu đơn dự tuyển **sinh viên để 2 cột điểm như sau:**_
+
+_\-_ Điểm năm học 2011-2012:
+
+_\-_ Điểm học kỳ 1 năm học 2012-2013:
+
+Hệ thống điểm hiện tại của Phòng ĐTĐH đang được nâng cấp vì vậy **_sinh viên theo dõi thời gian xin bảng điểm tại bài viết này._**
+
+Hồ sơ sinh viên gửi về Phòng Công tác sinh viên trường ĐHCNTT trước ngày 08/3/2013 (Thứ 6)

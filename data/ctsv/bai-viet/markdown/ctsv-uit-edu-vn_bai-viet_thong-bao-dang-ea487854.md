@@ -1,0 +1,41 @@
+Thông báo đăng ký Học bổng ngoài ngân sách Học kỳ 1 – Năm học 2021-202
+======================================================================
+
+Fri, 29/10/2021 - 09:20
+
+Thực hiện kế hoạch năm học 2021-2022 và căn cứ Quyết định số 89/QĐ-ĐHCNTT ngày 07/3/2019 của Hiệu trưởng Trường Đại học Công nghệ Thông tin về việc ban hành Quy định sinh viên được nhận học bổng, Phòng Công tác sinh viên thông báo sinh viên đăng ký xét học bổng ngoài ngân sách học kỳ 1 năm học 2021-2022 như sau:
+
+1.  **Đối tượng:** Tất cả sinh viên trường có nguyện vọng nhận học bổng ngoài ngân sách học kỳ 1 năm học 2021-2022. 
+2.  **Quy trình thực hiện:**
+
+\- Bước 1: Sinh viên đăng ký theo link: [https://forms.gle/Q47jiccnvz8L2hG56](https://forms.gle/Q47jiccnvz8L2hG56)
+
+Thời gian đăng ký từ ngày ra thông báo đến hết ngày 12/11/2021. Sinh viên đăng ký thành công sẽ có email xác nhận gửi về email sinh viên.
+
+\- Bước 2: Phòng CTSV công bố danh sách sinh viên đăng ký.
+
+\- Bước 3: Phòng CTSV tiếp nhận thông tin học bổng, công bố rộng rãi đến sinh viên nộp hồ sơ theo yêu cầu học bổng.
+
+\- Bước 4: Họp Hội đồng xét học bổng dựa trên danh sách sinh viên đăng ký và danh sách sinh viên nộp hồ sơ.
+
+\- Bước 5: Phòng CTSV công bố danh sách sinh viên dự kiến được chọn.
+
+\- Bước 6: Phòng CTSV công bố danh sách sinh viên chính thức được chọn.
+
+3.  **Lưu ý:**
+
+\- Không ưu tiên xét học bổng đối với (dựa vào thông tin trong bảng điểm rèn luyện sinh viên học kỳ 2 năm học 2020-2021):
+
+\+ Sinh viên không tham gia BHYT (mục 2.3)
+
+\+ Sinh viên phát ngôn không đúng mực trên forum (mục 4.14)
+
+\+ Sinh viên vi phạm các quy định của của Trường, ĐHQG, Bộ GDĐT và các cấp khác
+
+**\* Mọi thắc mắc sinh viên vui lòng liên hệ:**
+
+\-  Forum trường: [https://forum.uit.edu.vn/node/554106](https://forum.uit.edu.vn/node/554106)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-dang-ky-hoc-bong-ngoai-ngan-sach-hoc-ky-1-nam-hoc-2021-202&title=Th%C3%B4ng%20b%C3%A1o%20%C4%91%C4%83ng%20k%C3%BD%20H%E1%BB%8Dc%20b%E1%BB%95ng%20ngo%C3%A0i%20ng%C3%A2n%20s%C3%A1ch%20%20H%E1%BB%8Dc%20k%E1%BB%B3%201%20%E2%80%93%20N%C4%83m%20h%E1%BB%8Dc%202021-202)

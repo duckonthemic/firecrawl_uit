@@ -1,0 +1,24 @@
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 54
+==========================================================
+
+Mon, 19/12/2022 - 20:46
+
+"....Giờ là lúc nhìn lại xem một năm vừa trải qua  
+  
+Buồn vui thế nào có giận hờn có thứ tha  
+  
+Hài lòng hay thất vọng trưởng thành hơn hay vẫn ngây ngô  
+  
+Như lúc ban đầu...."
+
+Sau một năm bị cuốn vào guồng quay tấp nập của cuộc sống, những áp lực có tên và không tên con người ta phải sống vội vàng. Vì vậy, những ngày cuối năm là cơ hội để mỗi người cho phép bản thân sống chậm lại. Nhìn lại chặng đường dài vừa qua, sẽ có người hài lòng, có người thất vọng; có người tự hào, có người hối tiếc…
+
+Bên cạnh những niềm vui, những thành tựu đáng tự hào vẫn còn tiếc nuối vì những điều chưa thực hiện được.
+
+Có thể nói, dù hài lòng hay thất vọng thì một năm qua chúng ta đều đã sống hết mình theo cách riêng của mỗi người. Dù rằng trong mắt người khác bạn chưa hoàn hảo nhưng mỗi chúng ta đều là phiên bản tốt hơn qua thời gian.
+
+Hãy cùng đến với WETALK số 54 - số cuối năm này với chủ đề **“Năm qua đã làm gì”** để nhìn lại một năm sau những bộn bề, những vất vả, khó khăn, có nụ cười, có giọt nước mắt.
+
+Thời gian từ
+
+               15:00 - 16:00, thứ 6 ngày 23/12/2022  , Không gian chia sẻ - A104

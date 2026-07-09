@@ -1,0 +1,204 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#main-nav)
+
+Nội quy cơ quan trường học của Trường ĐH CNTT
+=============================================
+
+Thu, 17/01/2013 - 04:25
+
+**N****ỘI QUY CƠ QUAN**
+
+_(__Ban hành kèm theo Quyết định số 241/QĐ-ĐHCNTT\-TCHC ngày 2 tháng 7 năm 2012 của_
+
+_Hiệu trưởng Trường Đại học Công nghệ Thông tin)_
+
+**I.         NHỮNG QUY ĐỊNH CHUNG**
+
+**1.**    Đối tượng áp dụng:
+
+a. Cán bộ, viên chức hành chính bao gồm:
+
+i. Ban giám hiệu;
+
+ii. Lãnh đạo, chuyên viên, nhân viên các phòng, ban, trung tâm, thư viện;
+
+iii. Thư ký, trợ lý của các đơn vị;
+
+iv. Các cá nhân được Hiệu trưởng quy định làm việc theo chế độ hành chính. b. Nghiên cứu viên;
+
+c. Giảng viên;
+
+d. Sinh viên;
+
+e. Khách đến liên hệ công tác.
+
+**2.**    Giữ gìn vệ sinh nơi công cộng, nơi làm việc, lớp học sạch đẹp, gọn gàng; không vứt rác, mẩu thuốc lá bừa bãi.
+
+**3.**    Thái độ hòa nhã, văn minh, lịch sự trong giao tiếp. Nghiêm cấm mọi biểu hiện cửa quyền, hách dịch, quát tháo, nhũng nhiễu, gây phiền hà, khó khăn trong giải quyết công việc.
+
+Không gây ồn ào mất trật tự trong khuôn viên Trường.
+
+**4.**    Trang phục phải gọn gàng lịch sự. Đối với lực lượng bảo vệ, thường trực cơ quan, cán bộ y tế phải mặc đúng trang phục của ngành theo quy định.
+
+**5.**    Có trách nhiệm bảo vệ tài sản công, không được sử dụng các tài sản, phương tiện công để phục vụ cho mục đích cá nhân.
+
+**6.**    Nghiêm chỉnh thực hiện phòng chống cháy nổ; tiết kiệm điện, nước, không đun nấu trong phòng làm việc, phòng học. Kiểm tra an toàn các thiết bị, tắt điện các thiết bị và khóa phòng trước khi ra về.
+
+**7.**    Không được mạo danh để giải quyết công việc, không được mượn danh cơ quan để giải quyết các công việc cá nhân.
+
+**8.**    Không tạo và gieo rắc virus; xâm nhập hệ thống máy tính trái phép để chiếm đoạt quyền điểu khiển hệ thống, nội dung thông tin, làm biến dạng hoặc hủy hoại dữ liệu. Không sử dụng máy tính để truyền bá thông tin phản động, lừa đảo. Không tung tin đồn thất thiệt, nói xấu, kích động chia rẽ, gây mất đoàn kết trong Trường.
+
+**9.** Không được mang hung khí, vũ khí, chất dễ cháy nổ, hoá chất độc hại, hàng quốc cấm, các vật gây mất vệ sinh vào Trường.
+
+**10.** Không sử dụng rượu, bia và các chất có cồn; không hút thuốc lá trong phòng, trong lớp học. Cấm chơi cờ bạc dưới mọi hình thức.
+
+**11.** Để xe máy, xe đạp và các phương tiện đi lại đúng nơi quy định, theo chỉ dẫn của tổ Bảo vệ.
+
+**12.** Nghiêm cấm các hình thức mê tín dị đoan trong cơ quan.
+
+**II.        ĐỐI VỚI CÁN BỘ, VIÊN CHỨC HÀNH CHÍNH – GIẢNG VIÊN – NGHIÊN CỨU**
+
+**VIÊN**
+
+Cán bộ, viên chức hành chính, nghiên cứu viên và giảng viên (gọi chung là CBCNV) ngoài những quy định chung tại mục I của bản Nội quy này còn có nghĩa vụ tuân thủ các quy định sau:
+
+**1.**    Đảm bảo thời gian làm việc theo quy định, không đi muộn về sớm; không nói chuyện riêng, phải chuyển điện thoại di động sang chế độ rung trong cuộc họp; khi có nhu cầu làm việc ngoài giờ phải có giấy báo với sự xác nhận của trưởng đơn vị gửi cho tổ Bảo vệ. Trường không cho phép làm việc quá 21h00, ngoại trừ các nhân viên phải trực nghĩa vụ có tên trong bảng theo dõi trực của Trường đặt tại phòng Bảo vệ.
+
+**2.**    Thời gian làm việc:
+
+a. Đối với cán bộ, viên chức hành chính và nghiên cứu viên: từ thứ 2 đến thứ 6 hằng tuần.
+
+\-     Buổi sáng: từ **7h30** đến **11h30,**
+
+\-     Buổi chiều: từ **13h30** đến **16h30.**
+
+b. Đối với giảng viên:
+
+\-    Làm việc theo chế độ, định mức thời gian quy định của Nhà nước, quy
+
+chế chi tiêu nội bộ của Trường và sự phân công nhiệm vụ của Trưởng
+
+Khoa đúng theo chuyên môn.
+
+**3.**    Các đơn vị trong Trường phải đảm bảo phân công 01 lãnh đạo trực đơn vị ít nhất 01 buổi
+
+(sáng hoặc chiều) trong ngày làm việc.
+
+Trước 9h00 ngày thứ Sáu hàng tuần, các đơn vị gửi lịch trực cho tuần kế tiếp về Phòng Tổ chức – Hành chính qua email: [tchc@uit.edu.vn.](mailto:tchc@uit.edu.vn) Trong trường hợp vắng mặt tại cơ quan và không thể thực hiện được theo lịch trực do thực hiện các nhiệm vụ của Trường, lãnh đạo các đơn vị phải báo cáo với Hiệu trưởng (qua phòng Tổ chức – Hành chính).
+
+Cán bộ lãnh đạo các Khoa được phân công trực ban Lãnh đạo Khoa phải tuân thủ thời gian làm việc như cho khối hành chính của Trường. Lịch trực ban lãnh đạo Khoa được thông báo công khai tại lịch tuần làm việc của Khoa.
+
+**4.**    Thực hiện chế độ trao đổi thông tin qua Cổng thông tin của Trường theo quy định. Thực hiện chế độ theo dõi thông tin trên mạng hằng ngày để kịp thời tiếp nhận chỉ đạo, điều hành của lãnh đạo Trường, trao đổi thông tin công tác với các đơn vị trong cơ quan và kịp thời cập nhật thông tin liên quan.
+
+**5.**    Chấp hành sự chỉ đạo, phân công nhiệm vụ của Trưởng đơn vị và cấp phó phụ trách phần việc của đơn vị đã được Trưởng đơn vị phân công phụ trách (đối với đơn vị có tổ chức trực thuộc, thì ngoài việc chấp hành sự chỉ đạo, phân công nhiệm vụ của Trưởng đơn vị, còn phải chấp hành sự phân công thực hiện nhiệm vụ của Trưởng bộ phận hoặc Phó trưởng bộ phận được phân công phụ trách nhiệm vụ đó theo quy định của đơn vị).
+
+**6.**    Giải quyết công việc đúng thời hạn được giao, đảm bảo chất lượng, tuân thủ quy trình xử lý công việc, đảm bảo về nội dung, hình thức, thể thức, trình tự, thủ tục ban hành văn bản và có quyền giữ ý kiến riêng, thể hiện ý kiến đó để Trưởng đơn vị xem xét, quyết định, chịu trách nhiệm trước Trưởng đơn vị về công việc được giao và chịu trách nhiệm trước pháp luật khi thi hành nhiệm vụ.
+
+**7.**    Giữ bí mật tài liệu hồ sơ của cơ quan, không được cung cấp tài liệu khi chưa được sự đồng ý của Ban Giám hiệu.
+
+**8.**    Nơi làm việc phải sắp xếp trật tự và gọn gàng. Sử dụng văn phòng phẩm tiết kiệm, hiệu quả và đúng mục đích.
+
+**9.**    CBCNV khi đi công tác (vắng mặt khỏi cơ quan) từ 01 ngày trở lên theo sự phân công của
+
+Trường phải báo cáo với Trưởng đơn vị và Phòng Tổ chức Hành chính.
+
+**10.** CBCNV khi nghỉ vì lý do cá nhân (nghỉ phép, nghỉ ốm, …) từ 01 ngày trở lên phải gửi đơn xin phép cho lãnh đạo đơn vị và Phòng Tổ chức Hành chính ít nhất trước một ngày, trừ trường hợp không thể lường trước được. CBCNV chỉ được nghỉ làm việc khi đơn xin phép đã được lãnh đạo đồng ý; nếu vì lý do công việc và chưa được sự đồng ý của cán bộ phụ trách trực tiếp thì không được tự ý nghỉ.
+
+**11.** Người đứng đầu đơn vị chức năng của Trường khi đi công tác (vắng mặt khỏi cơ quan) hoặc nghỉ từ 01 ngày làm việc trở lên phải báo cáo xin phép Ban giám hiệu. Sau khi được đồng ý phải thông báo cho phòng Tổ chức Hành chính và làm giấy ủy quyền cho cấp phó để điều hành, giải quyết các công việc của đơn vị. Người được ủy quyền chịu trách nhiệm trước người đứng đầu đơn vị, trước Hiệu trưởng và trước pháp luật về mọi hoạt động của đơn vị trong thời gian được ủy quyền.
+
+**12.** Trưởng đơn vị thuộc Trường phải thực hiện đầy đủ chế độ thông tin, báo cáo Ban Giám hiệu theo quy định. Báo cáo quý, báo cáo năm, báo cáo đánh giá kết quả thực hiện nhiệm vụ chỉ đạo của Hiệu trưởng và lĩnh vực phụ trách theo năm học phải thông qua Hiệu trưởng hoặc Phó Hiệu trưởng phụ trách.
+
+**13.** Không mang tài sản công ra ngoài cơ quan, không tự ý di chuyển tài sản trang thiết bị ra khỏi phòng khi chưa được Trưởng đơn vị đồng ý và Phòng Quản trị thiết bị phê duyệt.
+
+**III.      ĐỐI VỚI GIẢNG VIÊN, NGHIÊN CỨU VIÊN**
+
+Giảng viên, nghiên cứu viên ngoài những quy định tại mục I, II của bản Nội quy này còn
+
+có nghĩa vụ tuân thủ các quy định sau:
+
+**1.**    Giảng viên của Trường thực hiện hoạt động giảng dạy, nghiên cứu khoa học, hoạt động chuyên môn theo quy chế của Bộ GD&ĐT (theo quyết định số 64/2008/QĐ\-BGDĐT) và quy định của Trường, cũng như không có quyền từ chối công tác giảng dạy trong trường hợp tổng số tiết qui đổi/năm chưa gấp 02 lần số tiết chuẩn.
+
+**2.**    Nghiên cứu viên có nhiệm vụ chính là tiến hành công tác nghiên cứu khoa học và phát triển công nghệ; thực hiện hoặc chủ trì tổ chức thực hiện nhiệm vụ nghiên cứu và ứng dụng tại các tổ chức nghiên cứu và phát triển.
+
+**3.**    Nghiên cứu viên có trách nhiệm tham gia vào hoạt động giảng dạy tại các khoa, bộ môn (khi các đơn vị này có nhu cầu) nhưng tổng số thời gian tham gia giảng dạy trong giờ hành chính của tất cả các hệ đào tạo không vượt quá thời gian quy định dành cho CBCNV theo Quy chế chi tiêu nội bộ của Trường.
+
+**4.**    Giảng viên, nghiên cứu viên có nghĩa vụ thực hiện các công việc chung của đơn vị (ngoài việc giảng dạy, nghiên cứu khoa học) do Trưởng đơn vị phân công. Trong trường hợp, nếu thấy có lý do chính đáng để không nhận phân công, giảng viên, nghiên cứu viên cần báo cáo lên Ban Giám hiệu để xem xét và giải quyết.
+
+**IV.      ĐỐI VỚI NHÂN VIÊN BẢO VỆ CƠ QUAN**
+
+Nhân viên bảo vệ ngoài những quy định tại mục I, II của bản Nội quy này còn có nghĩa vụ tuân thủ các quy định sau:
+
+**1.**    Trực 24/24 giờ hàng ngày, không được nhờ người ngoài trực thay. Trường hợp đặc biệt cần người thay phải báo cáo cho Trưởng ban Quản lý cơ sở và Tổ trưởng Tổ bảo vệ biết và điều người thay thế.
+
+**2.**    Có nhiệm vụ đóng mở cổng, kiểm soát giấy tờ, hàng hóa, tài sản ra vào cơ quan, nếu phát hiện hoặc nghi ngờ vi phạm, bảo vệ có quyền tạm giữ và báo cáo với thủ trưởng trực tiếp xin ý kiến giải quyết và hướng dẫn khách, nhắc nhở mọi người thực hiện nội quy cơ quan đề ra.
+
+**3.**    Kiểm tra giấy tờ tùy thân của khách đến liên hệ công tác và có trách nhiệm hướng dẫn khách theo yêu cầu công tác. Không cho phép người ngoài vào Trường thực hiện các hoạt động quảng cáo, quay phim, chụp hình khi chưa có sự đồng ý của Ban giám hiệu.
+
+**4.**    Thường xuyên tuần tra, canh gác để phát hiện kịp thời những hành động xâm phạm đến tài sản cơ quan. Khi có hiện tượng bất thường, không an toàn xảy ra phải bảo vệ hiện trường, báo cáo kịp thời cho cấp trên và công an địa phương giải quyết.
+
+**5.**    Hướng dẫn mọi người để ô tô, xe máy, xe đạp gọn gàng, ngăn nắp đúng nơi quy định.
+
+**6.**    Thực hiện nghiêm túc chế độ nhận và bàn giao ca (có sổ ghi chép rõ ràng).
+
+**V.        ĐỐI VỚI SINH VIÊN**
+
+Sinh viên ngoài những quy định chung tại mục I của bản Nội quy này còn có nghĩa vụ tuân thủ các quy định sau:
+
+**1.**    Sinh viên phải đeo thẻ sinh viên khi đến Trường.
+
+**2.**    Thực hiện nghiêm túc giờ giấc học tập theo quy định. Không đi học muộn, bỏ tiết, bỏ học, nói chuyện riêng, làm việc riêng, sử dụng điện thoại trong giờ học. Không đưa bạn bè, người nhà và các đối tượng lạ vào lớp và khuôn viên Trường.
+
+**3.**    Lễ phép với các Thầy, Cô giáo, CBCNV Trường.
+
+**4.**    Thực hiện đúng quy chế/quy định sinh viên do Trường ban hành.
+
+**VI.      TỔ CHỨC THỰC HIỆN**
+
+Nội quy có hiệu lực thi hành kể từ ngày ký quyết định ban hành. Tất cả CBCNV, sinh viên, khách đến liên hệ công tác có trách nhiệm thực hiện nghiêm túc theo đúng quy định. Nếu vi phạm nội quy sẽ bị xử lý theo các quy định hiện hành của Nhà trường và Nhà nước. Trong quá trình thực hiện, nội quy này có thể được sửa đổi, bổ sung theo quyết định của Hiệu trưởng
+
+**HIỆU**
+
+**TRƯỞNG (đã ký)**
+
+         **D****ương Anh Đức**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnoi-quy-co-quan-truong-hoc-cua-truong-dh-cntt&title=N%E1%BB%99i%20quy%20c%C6%A1%20quan%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc%20c%E1%BB%A7a%20Tr%C6%B0%E1%BB%9Dng%20%C4%90H%20CNTT)
+    
+
+Bài viết liên quan
+------------------
+
+*   [Quy định liên quan đến học bổng sinh viên](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien)
+     (20-03-2019)
+*   [Quy định liên quan đến công tác đào tạo tại Trường Đại học Công nghệ Thông tin](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-cong-tac-dao-tao-tai-truong-dai-hoc-cong-nghe-thong-tin)
+     (29-07-2013)
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#)
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#)
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#addtoany "Show all")

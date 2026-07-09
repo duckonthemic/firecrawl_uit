@@ -1,0 +1,24 @@
+\[BẢO HIỂM Y TẾ\] Danh sách sinh viên không cung cấp thông tin còn thiếu để mua BHYT 3 tháng cuối năm 2021
+==========================================================================================================
+
+Thu, 30/09/2021 - 16:51
+
+Phòng Công tác Sinh viên, thông báo danh sách sinh viên chưa cung cấp thông tin cần thiết để mua BHYT 3 tháng cuối năm 2021 cụ thể như sau:
+
+\- Sinh viên không cung cấp mã số BHXH
+
+\- Sinh viên thuộc diện con quân nhân (Mã thẻ TQ).
+
+**Hồ sơ nộp gồm:**
+
+    1. Tờ khai TK1, điền đẩy đủ 2 mặt và tất cả thông tin yêu cầu (theo mẫu).
+
+    2. Bản scan sổ hộ khẩu cả gia đình (**tất cả các trang có tên thành viên trong sổ hộ khẩu).**
+
+    3. Bản scan CMND của sinh viên.
+
+Phòng CTSV cũng đã có gửi mail nhắc nhở các bạn nhanh chóng hoàn thành hồ sơ bổ sung để mua BHYT. Tuy nhiên cho đến thời điểm này sinh viên vẫn chưa bổ sung hồ sơ cũng như kê khai hồ sơ sức khỏe (Khóa 2021).
+
+Phòng CTSV sẽ gia hạn thời gian bổ sung hồ sơ đến 15 giờ ngày 03/10/2021. 
+
+Nếu sau thời gian này sinh viên không bổ sung hồ sơ theo quy định thì sẽ được xem là từ chối tham gia BHYT 3 tháng cuối năm 2021 và sẽ bị xử lý theo quy định.

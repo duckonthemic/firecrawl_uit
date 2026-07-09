@@ -1,0 +1,32 @@
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 15
+==========================================================
+
+Mon, 30/03/2020 - 10:09
+
+Bạn bè, người yêu đã từng thân thiết, yêu thương nhưng dần xa nhau là trải nghiệm bất đắc dĩ mà chúng ta không thể thoát khỏi trong quá trình trưởng thành.
+
+Người mà hôm qua chúng ta còn yêu thương, mà hôm nay lại không còn là bạn trên Facebook, những bức hình chung dường như không còn hiện hữu. 
+
+Bạn nhìn những nick Facebook nhấn like status mình mà không nhớ nổi gương mặt người ấy trông như thế nào. Còn khi đối phương đăng gì đó, bên dưới đầy comment, bạn cũng chẳng biết bình luận gì, vì đọc không hiểu, không tham gia nổi. Không phải bạn không muốn tâm sự, mà vì cơ hội để nói càng ngày càng ít đi. Vì không trực tiếp giao lưu nên có những cảm xúc không thể nào chia sẻ được. Dù sao thì gục đầu vào vai nhau mà khóc, hay đơn giản chỉ là thút thít nghẹn ngào cũng sẽ có tác dụng hơn ngàn vạn câu an ủi qua màn hình.
+
+Theo dòng thời gian trôi, khi mỗi người có cuộc sống và mục tiêu riêng, khi vòng tròn giao tiếp của cả hai không còn giao nhau nữa, người ta sẽ càng ngày càng xa nhau.
+
+Thời gian qua nhanh, thấm thoắt một cái, chúng ta ai cũng đã có cuộc sống của riêng mình. Sẽ không còn chủ đề chung để nói, sẽ không còn bạn chung để kể và hồi ức giữa cả hai rồi sẽ nhạt. Thế nhưng hãy cứ coi như đó là lẽ thường tình. Bởi cuộc sống mà, có gì đảm bảo được dài lâu, tình bạn hay tình yêu cũng thế thôi. Ít nhất trong khoảnh khắc cả hai còn thân thiết, yêu thương, hãy đối xử với nhau bằng sự chân thành, vậy cũng đủ rồi!
+
+**Làm thế nào để đối mặt với "người lạ hôm nay là người thân yêu hôm qua", bạn sẽ vượt qua hay cứu vãn một mối tình yêu, tình bạn như thế,  thì hãy đến với WeTalk số 15 chủ đề "Người lạ hôm nay là người thân yêu hôm qua"**
+
+Hãy đến với chủ đề WeTalk số 15 với chủ đề **"Người lạ hôm nay là người thân yêu hôm qua"** vào lúc
+
+09:00 - 11:00, thứ 3 ngày 31/03/2020
+
+20:00 - 21:00, thứ 7 ngày 04/04/2020
+
+20:00 - 21:00, thứ 7 ngày 11/04/2020
+
+Tại: Online trên Microsoft Teams (Sinh viên đăng ký và sẽ được gửi code lớp qua email)
+
+Link đăng ký tham gia: [https://forms.gle/LUxq2q6pJ8DS9zyMA](https://forms.gle/LUxq2q6pJ8DS9zyMA)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkhong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-15&title=Kh%C3%B4ng%20gian%20chia%20s%E1%BA%BB%20-%20Bu%E1%BB%95i%20tr%C3%B2%20chuy%E1%BB%87n%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20s%E1%BB%91%2015)

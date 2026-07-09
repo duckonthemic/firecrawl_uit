@@ -1,0 +1,85 @@
+Học bổng Ươm Mầm Tương Lai
+==========================
+
+Thu, 01/10/2015 - 14:05
+
+Nhóm thiện nguyện Bước Chân Sen, thuộc chi hội khuyến học Chùa Long Phước địa chỉ 44/1 Phan Văn Trị, phường 12, quận Bình Thạnh triển khai chương trình học bổng “ Ươm Mầm Tương Lai” nhằm giúp đỡ các bạn sinh viên có thành tích học tập tốt nhưng hoàn cảnh khó khăn. Năm 2015 vào ngày 4 và ngày 5 tháng 10 chúng tôi tiếp tục triển khai chương trình xét tuyển học bổng “ Ươm Mầm Tương Lai năm học 2015-2016” . Học bổng có các tiêu chí sau:
+
+**1\. Đối tượng:**
+
+ **• Đối tượng 1**: Tân sinh viên có điểm thi đại học cao trúng tuyển vào các trường đại học/cao đẳng công lập trong khu vực TP.HCM, có hoàn cảnh gia đình khó khăn
+
+   
+**• Đối tượng 2:** Sinh viên đang theo học tại các trường ĐH/CĐ công lập có hoàn cảnh gia đình khó khăn, có kết quả học tập năm học 2014 – 2015 từ 7.5 trở lên.
+
+   
+**2\. Số lượng**: 50 suất học bổng
+
+   
+• Đối tượng 1: 25 suất – 2.400.000 VND/suất
+
+   
+• Đối tượng 2: 25 suất – 2.400.000 VND/suất
+
+   
+**3\. Thời gian:**
+
+   
+• Thời gian nhận hồ sơ và phỏng vấn trực tiếp:
+
+   
+o từ 14h - 20h ngày 03/10/2015 (22/08 AL)
+
+   
+o từ 8h đến 20h ngày 04/10/2015 (22/08 AL)
+
+   
+• Thời gian trao học bổng: Ngày 11/10/2014 (29/8 AL)
+
+   
+**4\. Hồ sơ gồm có:**
+
+   
+\- Đơn xin cấp học bổng (viết tay) trình bày hoàn cảnh gia đình, mục tiêu cuộc sống và mục đích sử dụng nếu như nhận được học bổng.
+
+   
+\- Bản sao CMND
+
+   
+\- Bản sao sổ hộ nghèo có công chứng (hoặc giấy xác nhận hộ nghèo, hộ cận nghèo, gia đình chính sách có xác nhận của chính quyền)
+
+   
+\- Bản sao Giấy báo trúng tuyển ĐH, CĐ (đối tượng 1)
+
+   
+\- Bảng điểm năm học 2014 - 2015 (đối tượng 2)
+
+   
+**5\. Hình thức nộp hồ sơ:**
+
+   
+Nộp trực tiếp tại Chùa Long Phước
+
+   
+Địa chỉ 44/1 Phan Văn Trị, P.12, Q. Bình Thạnh, Tp HCM
+
+   
+**6\. Thắc mắc:**
+
+   
+Mọi ý kiến thắc mắc xin gửi về địa chỉ email: [buocchansen@gmail.com](mailto:buocchansen@gmail.com)
+
+   
+Hotline: 0933 212 890 – Ms.Hương hoặc 0989 422 603-MS. Ngọc Ánh
+
+   
+  (liên lạc trong giờ hành chính)
+
+   
+7\. Tham khảo:
+
+   
+Thông tin chi tiết xin tham khảo tại website:
+
+   
+• [www.chualongphuoc.com.vn](http://www.chualongphuoc.com.vn/)

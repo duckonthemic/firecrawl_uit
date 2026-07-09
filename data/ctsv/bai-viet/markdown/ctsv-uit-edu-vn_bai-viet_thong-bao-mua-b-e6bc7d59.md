@@ -1,0 +1,36 @@
+Thông báo mua BHYT năm 2019 - Đợt bổ sung
+=========================================
+
+Thu, 03/01/2019 - 09:42
+
+Phòng Công tác Sinh viên thông báo về việc mua bảo hiểm y tế đối với sinh viên như sau:
+
+**Đối tượng:** tất cả sinh viên chính quy, những bạn chưa tham gia ở đợt 1 năm 2019, **trừ các trường hợp được địa phương cấp thẻ, đã có tham gia BHYT ở công ty, đã có tham gia BHYT ở KTX thì không đóng tiền mua BHYT ở đợt này.**
+
+Theo quy định, mức đóng BHYT bằng 4,5% mức lương cơ sở (1.390.000 đồng) nhân với số tháng tương ứng thời hạn sử dụng của thẻ BHYT áp dụng cho năm 2019 (11 tháng: 01/02/2018 -31/12/2018), cụ thể như sau:
+
+4,5% x 1.390.000 đồng x 11 tháng = 688.050 đồng.
+
+Trong đó:
+
+Sinh viên đóng 70%                     = **481.635 đồng**
+
+Ngân sách Nhà nước hỗ trợ 30% = **206.415** **đồng**
+
+**Hình thức nộp tiền và đăng ký nơi khám chữa bệnh ban đầu:**
+
+Ngân hành TMCP Á Châu (ACB) - Chi nhánh Sài gòn
+
+Tên tài khoản: Trường Đại học Công nghệ Thông tin
+
+Số tài khoản: 25083649
+
+**Nội dung nộp tiền:<Họ và tên>,<MSSV>,Nộp tiền BHYT năm học 2018-2019**
+
+**Số tiền nộp:** 481.635 đồng.
+
+Sinh viên đăng ký theo link hướng dẫn như sau: [https://student.uit.edu.vn/sinhvien/phieukhaosat](https://student.uit.edu.vn/sinhvien/phieukhaosat)
+
+Danh sách các bệnh viện nhận đăng ký nơi khám chữa bệnh ban đầu tại [http://bhxhtphcm.gov.vn/danh-muc/chitiet/336](http://bhxhtphcm.gov.vn/danh-muc/chitiet/336)
+
+Thời gian đăng ký nơi khám chữa bệnh ban đầu, đóng tiền mua BHYT, điều chỉnh nơi khám chữa bệnh ban đầu từ ngày thông báo đến 16 giờ 30 ngày 18/01/2019.

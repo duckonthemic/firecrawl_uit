@@ -1,0 +1,51 @@
+Thông báo học bổng Amcham 2016
+==============================
+
+Mon, 05/09/2016 - 15:36
+
+Chương trình Học bổng Thường niên AmCham là một trong những nỗ lực góp phần hỗ trợ xúc tiến thương mại và đầu tư của Hiệp hội Thương mại Mỹ tại TP. Hồ Chí Minh (AmCham Vietnam) bằng việc xác định nguồn nhân lực chất lượng cao cho các công ty hội viên, đồng thời trang bị cho sinh viên những kỹ năng cần thiết trước khi bước vào môi trường làm việc chuyên nghiệp.
+
+Chương trình sẽ trao **50** suất học bổng trị giá **10.000.000 đồng/suất** cho các sinh viên xuất sắc nhất đến từ **13 trường đại học** tại Thành phố Hồ Chí Minh và tỉnh Bình Dương: **_ĐH Bách khoa, ĐH  Khoa học Tự nhiên, ĐH Khoa học Xã hội và Nhân văn, ĐH Kinh tế - Luật, ĐH Công nghệ Thông tin, ĐH Quốc tế, Khoa Y (thuộc ĐH Quốc Gia TP.HCM), ĐH Ngoại thương CS II tại TP.HCM, ĐH Ngân hàng, ĐH Hoa Sen, ĐH Luật, ĐH Sư phạm Kỹ thuật TP.HCM và ĐH Quốc tế miền Đông._**
+
+**ĐIỀU KIỆN THAM GIA**
+
+\- Với Khoa Y (thuộc Đại học Quốc Gia TP.HCM): Sinh viên từ **năm thứ năm đến năm cuối,** thuộc hệ chính quy niên khóa 2016 – 2017
+
+\- Với những trường Đại học còn lại: Sinh viên từ **năm thứ ba đến năm cuối,** thuộc hệ chính quy niên khóa 2016 – 2017
+
+\- Điểm trung bình tích lũy từ **7.0** trở lên (thang điểm **10**) hoặc **3.0** trở lên (thang điểm **4**)
+
+\- Hoạt động ngoại khóa tích cực và có **định hướng nghề nghiệp** rõ ràng
+
+\- Giao tiếp tốt bằng **tiếng Anh**
+
+**LỢI ÍCH CỦA SINH VIÊN KHI NHẬN HỌC BỔNG**
+
+**\- 50 suất** học bổng xuất sắc trị giá lên đến **10.000.000 đồng/suất**
+
+\- Được công nhận bởi **gần** **500 công ty** thành viên AmCham Vietnam
+
+\- Cơ hội **thực tập / làm việc** tại AmCham Vietnam và các công ty hội viên
+
+\- Được tham gia, đóng góp cho các hoạt động và sự kiện do AmCham Vietnam tổ chức
+
+\- Gia nhập nhóm **AmCham Scholar Alumni/ae** (ASA), tham gia các buổi hội thảo, sinh hoạt ngoại khóa dành cho sinh viên sắp tốt nghiệp hay mới ra trường, tham quan nhà máy và công ty hội viên
+
+\- Có cơ hội tham gia vào Ban Điều hành ASA và Ban Tổ chức các chương trình, sự kiện của nhóm, bao gồm Chương trình Học bổng AmCham thường niên.
+
+**HÃY ĐẾN VỚI** **NGÀY HỘI THÔNG TIN HỌC BỔNG AMCHAM 2016** **ĐỂ:**
+
+\- Tìm hiểu **cách thức nộp đơn** và quy trình xét tuyển
+
+\- Trao đổi cùng đại diện AmCham, Ban Điều Hành Chương Trình Học Bổng và các nhà tài trợ
+
+\- Chia sẻ **kinh nghiệm** từ các cựu sinh viên đã đạt học bổng
+
+\- Giao lưu, tìm hiểu thông tin về các công ty, cơ hội thực tập, việc làm tại bàn thông tin
+
+\- Tham gia đặt câu hỏi và rút thăm trúng thưởng để nhận được **nhiều phần quà thú vị** từ Ban điều hành và các nhà tài trợ (**Vietnam Esports, Amway** và **ThaiHaBooks****)**
+
+**Thời gian:** **8h00 - 11h30 AM | Thứ Bảy ngày** **10** **tháng** **0****9 năm 2016**
+**Địa điểm:** **Riverside Palace** **– 360D Bến Vân Đồn,** **Quận 4, TP** **Hồ Chí Minh**
+
+Xem thông tin chi tiết và đăng kí tham gia chương trình tại: **bit.ly/info-acs2016** **trước** **22:00 Thứ năm, ngày** **08/09/2016****.** Để biết thêm thông tin chi tiết về chương trình và các vòng thi, vui lòng truy cập trang web chính thức tại [http://www.amchamvietnam.com/amcham-scholarship-2016/](http://www.amchamvietnam.com/amcham-scholarship-2016/)

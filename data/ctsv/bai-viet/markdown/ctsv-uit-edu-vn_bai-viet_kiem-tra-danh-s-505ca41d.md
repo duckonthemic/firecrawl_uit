@@ -1,0 +1,18 @@
+KIỂM TRA DANH SÁCH ĐÓNG TIỀN MUA BHYT VÀ ĐĂNG KÝ BỆNH VIỆN NĂM 2020 - CẬP NHẬT LÚC 16 GIỜ 30 NGÀY 18/12/2019
+============================================================================================================
+
+Tue, 17/12/2019 - 16:06
+
+Phòng CTSV thông báo danh sách sinh viên đóng tiền mua BHYT năm 2020 **ở Trường**, tính đến HẾT NGÀY 17/12/2019.
+
+    1. Danh sách đóng tiền thành công **và** đã đăng ký bệnh viện. 
+
+    2. Danh sách đóng tiền không thành công do thiếu thông tin.
+
+    3. Sinh viên không cung cấp mã số BHXH, bắt buộc phải làm tờ khai TK1 và phụ lục gia đình theo quy định của BHXH Hồ Chí Minh => Sinh viên tải mẫu đơn đính kèm để kê khai theo quy định.
+
+    4. Sinh viên đăng ký nơi KCB ban đầu là Bệnh viện 115 - BỆNH VIỆN NÀY KHÔNG NHẬN ĐĂNG KÝ MỚI => Sinh viên chọn bệnh viện khác để đăng ký mới. 
+
+   5. Những sinh viên có mã thẻ BHYT bắt đầu là HN, CN, TQ, DK nếu đã lỡ đóng tiền mua BHYT ở trường, các bạn liên hệ Phòng CTSV (A.101) trong giờ hành chính để được hướng dẫn thủ tục chuyển tiền đã đóng qua học phí. Vì các bạn thuộc đối tượng được cấp thẻ BHYT miễn phí ở địa phương. Thời gian: gian đến 11 giờ 30 ngày 19/12/2019.
+
+    6. Sinh viên nên tra cứu lại mã số BHXH theo hướng dẫn tại web CTSV.

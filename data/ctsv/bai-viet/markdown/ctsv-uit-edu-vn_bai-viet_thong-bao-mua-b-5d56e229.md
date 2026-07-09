@@ -1,0 +1,36 @@
+Thông báo mua BHYT 3 tháng cuối năm 2023 - Dành cho khóa cũ
+===========================================================
+
+Fri, 08/09/2023 - 14:39
+
+Phòng Công tác Sinh viên xin thông báo về vấn đề Bảo hiểm Y tế (BHYT) như sau:
+
+1\. Theo Luật, tất cả sinh viên phải có BHYT.
+
+2\. Sinh viên phải cập nhật thông tin về BHYT của mình với Trường để bảo đảm các quyền lợi khi xét học bổng, khen thưởng, kỷ luật …. Sinh viên có thể tra cứu thông tin về BHYT của mình (_dựa trên dữ liêu của Trường_) ở **[https://student.uit.edu.vn/sinhvien/baohiem](https://student.uit.edu.vn/sinhvien/baohiem)** , _mục **Thông tin Bảo hiểm Y tế**_
+
+3\. Trường có tổ chức cho SV đóng tiền và đăng ký nơi khám chữa bệnh (KCB) ban đầu đợt 5 năm 2023 dành cho SV chưa có BHYT với nội dung chi tiết như sau:
+
+\- Thời gian thẻ BHYT sẽ mua có hiệu lực: 01/10/2023 - 31/12/2023 (03 tháng).
+
+3.1. Hình thức nộp tiền và đăng ký nơi khám chữa bệnh ban đầu:
+
+*   Số tài khoản: **25083649** tại  Ngân hàng **ACB** - chi nhánh Sài gòn; Tên tài khoản: **Trường Đại học Công nghệ Thông tin.** 
+*   Nội dung nộp tiền**:<Ho và ten>,<MSSV>,Nộp tiền BHYT năm 2023.** 
+*   Số tiền nộp: **170.100** **đồng**.
+
+3.2. Thời gian nộp tiền và đăng ký nơi khám chữa.bệnh ban đầu : **từ ngày ra thông báo đến hết ngày 14/9/2023.**
+
+3.3. Cách thức đăng ký nơi Khám chữa bệnh ban đầu :
+
+Sinh viên đăng nhập: [https://daa.uit.edu.vn/sinhvien/baohiem/dangkymua-baohiemyte](https://link.uit.edu.vn/Dang-ky-benh-vien)
+ và chọn mục Đăng ký nơi khám chữa bệnh ban đầu. Sau khi chọn bệnh viện, sinh viên nhấn vào nút Lưu để hệ thống lưu lại thông tin.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202109/screen_shot_2021-09-07_at_17.00.31.png)
+
+4.4. Nếu có thắc mắc SV có thể xem và hỏi thêm ở [https://forum.uit.edu.vn/node/565617](https://forum.uit.edu.vn/node/563523)
+
+**5 Các lưu ý:**
+
+*   Sinh viên nội trú tại KTX, sinh viên đang tham gia BHYT ở công ty, hộ gia đình và được địa phương cấp thẻ BHYT (thẻ còn hạn sử dụng) KHÔNG đóng tiền mua BHYT ở Trường.
+*   Sinh viên nên kiểm tra hạn sử dụng BHYT qua ứng dụng VssID hoặc [https://baohiemxahoi.gov.vn/](https://baohiemxahoi.gov.vn/)

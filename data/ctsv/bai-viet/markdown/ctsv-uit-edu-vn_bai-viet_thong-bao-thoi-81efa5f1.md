@@ -1,0 +1,26 @@
+Thông báo thời gian tổ chức Lễ tốt nghiệp và nhận lễ phục đợt 1 năm 2025
+========================================================================
+
+Fri, 25/04/2025 - 15:56
+
+Phòng Công tác Sinh viên thông báo đến các bạn học viên, sinh viên thời gian tổ chức Lễ tốt nghiệp và Trao bằng năm đợt 1 năm 2025 cụ thể như sau: 
+
+Thời gian: **Từ ngày 07/06/2025 đến ngày 08/06/2025 (thứ 7, chủ nhật), mỗi buổi 2 Khoa.**
+
+|     |     |     |
+| --- | --- | --- |
+| **STT** | **Khoa** | **Thời gian** |
+| 1   | Hệ thống Thông tin<br><br>Kỹ thuật Máy tính | Sáng ngày 07/6/2025 (thứ 7) |
+| 2   | Công nghệ Phần mềm<br><br>Khoa học & Kỹ thuật Thông tin | Chiều ngày 07/6/2025 (thứ 7) |
+| 3   | Khoa học Máy tính<br><br>Mạng máy tính & Truyền thông | Sáng ngày 08/6/2025 (chủ nhật) |
+Địa điểm: **Hội trường A - Trường Đại học Công nghệ Thông tin.**
+
+**Học viên, sinh viên xem thông báo chi tiết về thời gian tổ chức lễ của từng Khoa cũng như việc nhận lễ phục tại File đính kèm.**
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [37\_tb\_le\_tn.pdf](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/37_tb_le_tn_0.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-thoi-gian-chuc-le-tot-nghiep-va-nhan-le-phuc-dot-1-nam-2025&title=Th%C3%B4ng%20b%C3%A1o%20th%E1%BB%9Di%20gian%20t%E1%BB%95%20ch%E1%BB%A9c%20L%E1%BB%85%20t%E1%BB%91t%20nghi%E1%BB%87p%20v%C3%A0%20nh%E1%BA%ADn%20l%E1%BB%85%20ph%E1%BB%A5c%20%C4%91%E1%BB%A3t%201%20n%C4%83m%202025)

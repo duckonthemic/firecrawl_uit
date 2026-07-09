@@ -1,0 +1,46 @@
+Thông báo Vv thay đổi ngân hàng nhận các loại học bổng cho sinh viên từ năm 2026
+================================================================================
+
+Tue, 10/03/2026 - 15:30
+
+**THÔNG BÁO**
+
+**VỀ VIỆC THAY ĐỔI NGÂN HÀNG**
+
+**NHẬN CÁC LOẠI HỌC BỔNG CHO SINH VIÊN TỪ NĂM 2026**
+
+Nhằm tối ưu hóa quy trình nghiệp vụ, rút ngắn thời gian chi trả và hạn chế các sai sót phát sinh liên quan đến thông tin tài khoản thụ hưởng của sinh viên, Trường Đại học Công nghệ Thông tin thông báo về việc thống nhất phương thức chi trả các loại học bổng từ nguồn ngân sách nhà trường cho sinh viên thông qua Ngân hàng TMCP Đại Chúng Việt Nam (PVComBank) kể từ năm 2026.
+
+Căn cứ thỏa thuận hợp tác giữa Trường Đại học Công nghệ Thông tin và Ngân hàng TMCP Đại Chúng Việt Nam – Chi nhánh Bình Dương, Nhà trường sẽ hỗ trợ cho sinh viên có nhu cầu nhận học bổng, tạo tài khoản cá nhân tại ngân hàng PVComBank với các quyền lợi như sau:
+
+*   Miễn phí duy trì số dư tối thiểu.
+*   Miễn phí phí quản lý tài khoản thanh toán bằng đồng Việt Nam.
+*   Miễn phí SMS Banking.
+*   Miễn phí phí chuyển tiền bằng đồng Việt Nam liên ngân hàng trên hệ thống ngân hàng trực tuyến.
+
+Thời hạn áp dụng quyền lợi:  trong thời hạn 05 năm kể từ khi mở tài khoản.
+
+Ngân hàng PVComBank bố trí máy ATM tại trường ĐH Công nghệ Thông tin để tạo điều kiện cho sinh viên trong việc thực hiện các giao dịch.
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+**HƯỚNG DẪN ĐĂNG KÝ TÀI KHOẢN PVCOMBANK TRỰC TUYẾN DÀNH CHO SINH VIÊN**
+
+**Bước 1:** Sinh viên tải và cài đặt ứng dụng **PVConnect** theo mã QR bên dưới hoặc tải ứng dụng trên Google Play/ App Store
+
+**Bước 2:** Sinh viên thực hiện các bước cài đặt, xác thực VNeID, xác thực sinh trắc học.... theo hướng dẫn trong ứng dụng.
+
+**Lưu ý:** tại bước 4/5, mục chọn **Chi nhánh quản lý**, thông thường ứng dụng sẽ đề xuất theo địa chỉ thường trú hoặc vị trí hiện tại của người dùng. Sinh viên chú ý thay đổi thành **PVComBank Bình Dương** để được hỗ trợ tốt nhất và hưởng các ưu đãi theo thỏa thuận hợp tác với trường.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202603/pvcombank.jpg)
+
+_Vui lòng quét mã tại đây để mở tài khoản_
+
+![](<Base64-Image-Removed>)
+
+                                                 **PVCOMBANK BÌNH DƯƠNG**
+
+**Thông tin hỗ trợ** _(vui lòng cung cấp thông tin là sinh viên ĐH Công nghệ Thông tin để được hỗ trợ tốt nhất)_
+
+*   Hotline: 0948.548.968
+*   E-mail: [ngadtn@pvcombank.com.vn](mailto:ngadtn@pvcombank.com.vn)

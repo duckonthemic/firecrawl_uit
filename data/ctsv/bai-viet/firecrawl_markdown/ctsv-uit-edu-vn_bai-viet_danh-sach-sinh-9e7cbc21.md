@@ -1,0 +1,275 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc#main-nav)
+
+Danh sách sinh viên Khóa 2022 chưa hoàn thành hồ sơ nhập học
+============================================================
+
+Thu, 27/10/2022 - 16:38
+
+Phòng Công tác Sinh viên thông báo danh sách sinh viên chưa hoàn thành hồ sơ nhập học.
+
+Sinh viên nhanh chóng bổ sung hồ sơ giấy cũng như cập nhật hồ sơ online, hồ sơ sức khỏe. Sinh viên kiểm tra hồ sơ nào **Chưa hoàn thành** theo danh sách kèm theo và nhanh chóng bổ sung.
+
+Sinh viên bổ sung hồ sơ thiếu **trước 16 giờ 30 ngày 03/11/2022**. Hồ sơ giấy sinh viên nộp trực tiếp tại Phòng CTSV (A.101).
+
+Sau thời gian trên nếu sinh viên chưa hoàn thành hồ sơ nhập học sẽ xử lý theo quy định.
+
+  
+  
+  
+  
+  
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |    
+| STT | MASV | HOTEN | T.T HS Giấy | T.T HS Online | T.T HS Sức khoẻ |
+| 1   | 22520020 | Nguyễn Duy Ân | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 2   | 22520029 | Trần Bình An | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 3   | 22520032 | Trịnh Hoàng An | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 4   | 22520035 | Võ Đức Phước An | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 5   | 22520055 | Nguyễn Khánh Tuấn Anh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 6   | 22520067 | Phạm Đức Anh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 7   | 22520069 | Phạm Nguyên Anh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 8   | 22520091 | Nguyễn Hoàng Bách | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 9   | 22520105 | Lê Trần Gia Bảo | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 10  | 22520109 | Nguyễn Gia Bảo | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 11  | 22520118 | Trần Gia Bảo | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 12  | 22520153 | Trần Khánh Chi | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 13  | 22520176 | Nguyễn Mạnh Cường | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 14  | 22520202 | Dương Đình Phương Dao | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 15  | 22520209 | Dương Thế Đạt | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 16  | 22520210 | Hoàng Tiến Đạt | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 17  | 22520219 | Nguyễn Phúc Đạt | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 18  | 22520222 | Nguyễn Tấn Đạt | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 19  | 22520228 | Nguyễn Vĩnh Đạt | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 20  | 22520238 | Trần Thế Đạt | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 21  | 22520243 | Ya Đạt | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 22  | 22520256 | Lê Thế Đoàn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 23  | 22520261 | Nguyễn Ngọc Du | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 24  | 22520266 | Hà Minh Đức | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 25  | 22520269 | Nguyễn Duy Đức | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 26  | 22520274 | Nguyễn Xuân Việt Đức | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 27  | 22520288 | Nguyễn Thị Mỹ Dung | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 28  | 22520292 | Trần Quang Dũng | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 29  | 22520293 | Trần Trí Dũng | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 30  | 22520297 | Lê Minh Dương | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 31  | 22520302 | Mai Dương | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 32  | 22520309 | Phạm Hải Dương | Chưa nộp hồ sơ | Chưa hoàn thành | Hoàn thành |
+| 33  | 22520316 | Lê Thanh Duy | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 34  | 22520323 | Nguyễn Bảo Duy | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 35  | 22520327 | Nguyễn Hoàng Duy | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 36  | 22520335 | Nguyễn Trung Duy | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 37  | 22520371 | Nguyễn Quốc Hà | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 38  | 22520385 | Lý Chí Hải | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 39  | 22520401 | Nguyễn Phan Anh Hào | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 40  | 22520441 | Nguyễn Phúc Hiếu | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 41  | 22520445 | Trần Minh Hiếu | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 42  | 22520452 | Nguyễn Hoàng Hiệp | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 43  | 22520467 | Nguyễn Duy Hoàng | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 44  | 22520485 | Đỗ Huy Hoàng | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 45  | 22520523 | Phan Trần Tiến Hưng | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 46  | 22520530 | Hoàng Thị Thu Hường | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 47  | 22520539 | Đoàn Quang Huy | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 48  | 22520551 | Lương Ngọc Huy | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 49  | 22520557 | Nguyễn Anh Huy | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 50  | 22520561 | Nguyễn Kim Phương Huy | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 51  | 22520576 | Trần Minh Huy | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 52  | 22520588 | Bùi Thanh Huyền | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 53  | 22520596 | Lê Minh Kha | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 54  | 22520602 | Huỳnh Quang Khải | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 55  | 22520610 | Dương Hiển Gia Khang | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 56  | 22520620 | Nguyễn Gia Khang | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 57  | 22520634 | Hứa Hồng Khanh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 58  | 22520638 | Lê Trần Quốc Khánh | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 59  | 22520648 | Phạm Quang Khánh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 60  | 22520650 | Phạm Quốc Khánh | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 61  | 22520653 | Trần Lâm Ngọc Khanh | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 62  | 22520683 | Nguyễn Võ Anh Khoa | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 63  | 22520685 | Phạm Đăng Khoa | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 64  | 22520692 | Trần Tuấn Khoa | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 65  | 22520702 | Trương Duy Khôi | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 66  | 22520721 | Nguyễn Trí Tuấn Kiệt | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 67  | 22520724 | Trần Hoàng Tuấn Kiệt | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 68  | 22520731 | Lê Trần Gia Lạc | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 69  | 22520742 | Phạm Nguyễn Duy Lâm | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 70  | 22520752 | Nguyễn Duy Liêm | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 71  | 22520753 | Nguyễn Thị Kim Liên | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 72  | 22520765 | Lê Viết Lĩnh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 73  | 22520770 | Nguyễn Phan Khánh Linh | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 74  | 22520773 | Nguyễn Thị Thùy Linh | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 75  | 22520789 | Lê Tấn Lộc | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 76  | 22520802 | Trang Thành Lợi | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 77  | 22520841 | Nguyễn Vũ Xuân Mai | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 78  | 22520844 | Nguyễn Đức Minh Mẫn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 79  | 22520849 | Nguyễn Đức Mạnh | Chưa hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 80  | 22520850 | Nguyễn Văn Mạnh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 81  | 22520866 | Lê Lâm Bảo Minh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 82  | 22520867 | Lê Ngọc Bảo Minh | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 83  | 22520879 | Nguyễn Văn Nhật Minh | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 84  | 22520922 | Nguyễn Văn Nam | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 85  | 22520924 | Danh Nat | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 86  | 22520940 | Lê Võ Hoàng Nghi | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 87  | 22520941 | Trần Thị Phụng Nghi | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 88  | 22520953 | Hồng Bảo Ngọc | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 89  | 22520963 | Đặng Chí Nguyên | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 90  | 22520984 | Phan Hoàng Nguyên | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 91  | 22520996 | Huỳnh Chí Nhân | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 92  | 22521007 | Trần Thành Nhân | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 93  | 22521009 | Võ Thanh Nhàn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 94  | 22521012 | Dương Vi Khắc Nhật | Chưa hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 95  | 22521015 | Huỳnh Văn Nhật | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 96  | 22521023 | Phạm Đình Nhật | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 97  | 22521043 | Trần Đỗ Phương Nhi | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 98  | 22521054 | Nguyễn Thủy Quỳnh Như | Chưa hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 99  | 22521058 | Nguyễn Thị Hồng Nhung | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 100 | 22521075 | Nguyễn Thịnh Phát | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 101 | 22521078 | Bùi Nhật Phi | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 102 | 22521095 | Vũ Thanh Phong | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 103 | 22521111 | Đào Thanh Phúc | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 104 | 22521135 | Nguyễn Trần Phúc | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 105 | 22521138 | Phạm Trần Hồng Phúc | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 106 | 22521174 | Đỗ Hoàng Quân | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 107 | 22521179 | Lê Hoàng Quân | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 108 | 22521182 | Lê Văn Quân | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 109 | 22521183 | Nguyễn Đặng Minh Quan | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 110 | 22521188 | Phạm Phú Minh Quân | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 111 | 22521196 | Đặng Tấn Quang | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 112 | 22521201 | Ngô Anh Quang | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 113 | 22521206 | Trương Quang | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 114 | 22521227 | Võ Minh Quyền | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 115 | 22521233 | Nguyễn Thị Như Quỳnh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 116 | 22521242 | Nguyễn Hữu Sang | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 117 | 22521243 | Trịnh Quang Sang | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 118 | 22521248 | Đặng Thành Sơn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 119 | 22521249 | Đào Công Sơn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 120 | 22521251 | Nguyễn Duy Thế Sơn | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 121 | 22521257 | Phạm Quang Sơn | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 122 | 22521272 | Dư Duy Tài | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 123 | 22521278 | Nguyễn Hữu Tài | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 124 | 22521306 | Nguyễn Hoàng Tấn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 125 | 22521321 | Bùi Duy Thân | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 126 | 22521325 | Đặng Hữu Thắng | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 127 | 22521351 | Nguyễn Công Thành | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 128 | 22521375 | Trần Thị Phương Thảo | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 129 | 22521386 | Lê Dương Minh Thiên | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 130 | 22521391 | Nguyễn Minh Thiện | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 131 | 22521395 | Trịnh Xuân Thiện | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 132 | 22521398 | Trần Nguyễn Duy Thiện | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 133 | 22521409 | Lê Cường Thịnh | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 134 | 22521416 | Nguyễn Quang Thịnh | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 135 | 22521424 | Trần Ngọc Anh Thơ | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 136 | 22521435 | Võ Văn Phi Thông | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 137 | 22521448 | Trần Văn Thuận | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 138 | 22521449 | Trương Gia Thuận | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 139 | 22521460 | Nguyễn Lê Phương Thy | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 140 | 22521465 | Huỳnh Dương Tiến | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 141 | 22521494 | Trần Quang Minh Toàn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 142 | 22521516 | Dương Thành Trí | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 143 | 22521521 | Nguyễn Minh Trí | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 144 | 22521523 | Nguyễn Minh Trí | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 145 | 22521528 | Trần Vũ Anh Trí | Chưa nộp hồ sơ | Chưa hoàn thành | Hoàn thành |
+| 146 | 22521544 | Nguyễn Xuân Trí | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 147 | 22521549 | Hoàng Thanh Trúc | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 148 | 22521554 | Hoàng Đinh Trung | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 149 | 22521555 | Huỳnh Trung | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 150 | 22521563 | Nguyễn Chí Trung | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 151 | 22521566 | Phạm Đức Trung | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 152 | 22521583 | Tống Viết Trường | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 153 | 22521588 | Võ Văn Trường | Chưa hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 154 | 22521599 | Đào Văn Tuân | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 155 | 22521604 | Nguyễn Anh Tuấn | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 156 | 22521652 | Từ Thuận Văn | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 157 | 22521659 | Trần Nhật Vĩ | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 158 | 22521662 | Đoàn Hoài Việt | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 159 | 22521664 | Phạm Hoàng Việt | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 160 | 22521673 | Mai Hoàng Vinh | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 161 | 22521675 | Nguyễn Thành Vinh | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 162 | 22521685 | Bùi Võ Duy Vũ | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 163 | 20522218 | Vũ Đăng Quang | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 164 | 22560007 | Trần Nguyễn Quang Huy | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 165 | 22560014 | Nguyễn Thái Chí Nghĩa | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 166 | 22560018 | Trần Hoàng Phúc Thịnh | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 167 | 22560023 | Lê Thành Trung | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 168 | 22560024 | Lê Minh Tuấn | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 169 | 22560025 | Nguyễn Quốc Anh | Chưa hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 170 | 22560028 | Nguyễn Văn Chung | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 171 | 22560031 | Trịnh Vũ Hoàng | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 172 | 22560041 | Trương Hoài Bảo | Chưa hoàn thành | Hoàn thành | Hoàn thành |
+| 173 | 22560043 | Đỗ Nguyên Phương | Hoàn thành | Chưa hoàn thành | Hoàn thành |
+| 174 | 22560051 | Nguyễn Đức Duy | Hoàn thành | Hoàn thành | Chưa hoàn thành |
+| 175 | 22560052 | Sử Tiến Long | Hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 176 | 22560055 | Hồ Nguyễn Xuân Quang | Chưa hoàn thành | Chưa hoàn thành | Chưa hoàn thành |
+| 177 | 22540002 | Phan Tấn Cảnh | Chưa hoàn thành | Không cần nộp | Không cần nộp |
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdanh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc&title=Danh%20s%C3%A1ch%20sinh%20vi%C3%AAn%20Kh%C3%B3a%202022%20ch%C6%B0a%20ho%C3%A0n%20th%C3%A0nh%20h%E1%BB%93%20s%C6%A1%20nh%E1%BA%ADp%20h%E1%BB%8Dc)
+    
+
+Bài viết liên quan
+------------------
+
+*   [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+     (09-07-2026)
+*   [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+     (08-07-2026)
+*   [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+     (08-07-2026)
+*   [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+     (07-07-2026)
+*   [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+     (02-07-2026)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc?page=317 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2022-chua-hoan-thanh-ho-so-nhap-hoc#addtoany "Show all")

@@ -1,0 +1,28 @@
+Thông báo nghiêm cấm sử dụng các văn bằng, chứng chỉ giả
+========================================================
+
+Sat, 03/12/2022 - 12:11
+
+Thông báo nghiêm cấm sử dụng các văn bằng, chứng chỉ giả
+
+Sáng ngày 29 tháng 11 năm 2022, Hội đồng Kỷ luật Sinh viên năm 2022 đã họp xét kỷ luật 01 sinh viên về việc sinh viên đã sử dụng chứng chỉ ngoại ngữ giả trong hồ sơ xét tốt nghiệp đợt 4 năm 2022. Phòng Công tác Sinh viên thông báo đến toàn thể sinh viên một số vấn đề sau:
+
+\- Nhà trường nghiêm cấm hành vi sử dụng các văn bằng, chứng chỉ giả.
+
+\- Tất cả văn bằng, chứng chỉ sau khi nộp về trường, Nhà trường sẽ phối hợp với đơn vị cấp văn bằng, chứng chỉ để thực hiện các bước hậu kiểm, xác nhận kết quả.
+
+\- Nếu phát hiện hành vi sử dụng văn bằng, chứng chỉ giả, Nhà trường sẽ áp dụng mức kỷ luật là Buộc thôi học và không được tham dự tuyển sinh vào bất cứ hệ đào tạo nào của Nhà trường trong thời gian 5 năm.
+
+ **_Để tạo điều kiện cho sinh viên trong việc xét tốt nghiệp,_** **_s_****_inh viên có thể liên_** **_hệ các đơn vị trong trường nhờ hỗ trợ giải đáp các vấn đề thời gian hết hạn đào tạo, thời gian tối thiểu nộp chứng chỉ ngoại ngữ tốt nghiệp._**
+
+Để tránh những trường hợp đáng tiếc xảy ra, Phòng Công tác Sinh viên đề nghị sinh viên nghiêm túc thực hiện thông báo trên.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/202212/beyourself.png)
+
+File đính kèm: 
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [beyourself.png](https://ctsv.uit.edu.vn/sites/default/files/202212/beyourself.png)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-nghiem-cam-su-dung-cac-van-bang-chung-chi-gia-0&title=Th%C3%B4ng%20b%C3%A1o%20nghi%C3%AAm%20c%E1%BA%A5m%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20v%C4%83n%20b%E1%BA%B1ng%2C%20ch%E1%BB%A9ng%20ch%E1%BB%89%20gi%E1%BA%A3)

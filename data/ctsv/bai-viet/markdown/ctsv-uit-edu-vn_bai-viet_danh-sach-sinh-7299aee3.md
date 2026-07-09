@@ -1,0 +1,12 @@
+Danh sách sinh viên khóa cũ đóng tiền mua BHYT 3 tháng cuối năm 2020
+====================================================================
+
+Sat, 17/10/2020 - 17:25
+
+Phòng Công tác Sinh viên thông báo danh sách đóng tiền mua BHYT 3 tháng cuối năm 2020.
+
+\- Sinh viên xem danh sách đóng tiền mua BHYT ở sheet BAO HIEM.
+
+\- Sinh viên đã xin chuyển số tiền đóng nhầm qua học phí xem ở sheet BAO HIEM CHUYEN QUA HP.
+
+**Riêng các dòng tô màu đỏ ở sheet BAO HIEM do sinh viên đóng tiền nội dung không đúng, sinh viên kiểm tra và cập nhật trực tiếp tại Phòng KHTC (A.113) đến 16 giờ 30 ngày 20/10/202**0 để được cập nhật mã số sinh viên.

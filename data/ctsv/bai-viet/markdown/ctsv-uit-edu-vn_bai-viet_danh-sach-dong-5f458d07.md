@@ -1,0 +1,46 @@
+Danh sách đóng tiền BHYT và đăng ký bệnh viện năm 2022
+======================================================
+
+Sat, 18/12/2021 - 12:29
+
+Phòng Công tác Sinh viên, thông báo danh sách đóng tiền mua bảo hiểm y tế và đăng ký bệnh viện năm 2022 **tính đến 16 giờ ngày 17/12/2021.** Sinh viên lưu ý những thông tin sau như sau:
+
+\- Cột mã số BHXH: #N/A: sinh viên chưa cung cấp mã số BHXH hoặc không có mã số **\=> Xem cột ghi chú và check email sinh viên làm theo hướng dẫn.**
+
+\- Cột ghi chú: Mã TQ, TA **=> Sinh viên check email sinh viên và làm theo hướng dẫn.**
+
+\- Cột ghi chú: Bệnh viện không nhận đăng ký mới **\=> Sinh viên chọn lại bệnh viện khác để đăng ký.**
+
+\- Cột ghi chú: Sinh viên đã tốt nghiệp **\=> Sinh viên liên hệ Phòng KHTC để nhận lại tiền BHYT đã đóng.**
+
+\- Cột ghi chú: sinh viên kiểm tra lại lịch sử đóng tiền **=> Liên hệ Phòng KHTC xem đóng tiền mua BHYT mấy lần**
+
+\- Cột bệnh viện đăng ký: Sinh viên tham gia BHYT ở địa phương hoặc công ty => **Nếu sinh viên không mua BHYT ở trường** => **Liên hệ Phòng KHTC để xin chuyển số tiền đã đóng qua học phí.**
+
+\- Cột ghi chú: Sinh viên nội trú KTX => **Sinh viên liên hệ Phòng KHTC để chuyển qua học phí.**
+
+**\=> Phòng CTSV nhận phản hồi, cập nhật thông tin đến 16 giờ 30 ngày 21/12/2022. Sinh viên kiểm tra tất cả thông tin của mình, phản hồi qua forum [https://forum.uit.edu.vn/node/554934](https://forum.uit.edu.vn/node/554934)
+ theo thời gian quy định, nếu có sai sót Phòng CTSV sẽ không giải quyết cũng như từ chối mua BHYT cho sinh viên nếu như thiếu thông tin theo quy định.**
+
+Riêng các trường hợp sau đóng tiền mua BHYT nhưng thiếu thông tin => Kiểm tra và phản hồi về Phòng KHTC (email:[khtc@uit.edu.vn](mailto:khtc@uit.edu.vn)
+) trước 16 giờ ngày 20/12/2021.
+
+  
+  
+  
+
+|     |     |     |
+| --- | --- | --- |  
+| Ngày | Nội dung | Số tiền |
+| 25/11/2021 | 796642.251121.094219.BHYT NAM 2022 CUA LE DUC TRUNG-251121-09:42:35 796642 | 570000 |
+| 10/12/2021 | VU QUOC HUY-MSSV 25083649 -NOP TIEN BHYT NAM 2022 GD 100700-121021 02:10:26 | 563.220,00 |
+| 13/12/2021 | ACB;25083649;PHAM MINH NGOC CHUYEN KHOAN GD 682770-121221 19:05:33 | 563.220,00 |
+| 13/12/2021 | MBVCB.1570576535.040208.NGUYEN QUANG HUY CHUYEN TIEN.CT TU 1017037963 NGUYEN QUANG HUY TOI 25083649 TRUONG DAI HOC CN THONG TIN (ACB) A CHAU GD 040208-121221 23:42:49 | 563.220,00 |
+| 16/12/2021 | 19135798199-0903575849-MOMO DEN STK NGAN HANG ACB 25083649 GD 240482-121521 21:48:28 | 563.220,00 |
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [dssv.pdf](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202603/dssv.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdanh-sach-dong-tien-bhyt-va-dang-ky-benh-vien-nam-2022&title=Danh%20s%C3%A1ch%20%C4%91%C3%B3ng%20ti%E1%BB%81n%20BHYT%20v%C3%A0%20%C4%91%C4%83ng%20k%C3%BD%20b%E1%BB%87nh%20vi%E1%BB%87n%20n%C4%83m%202022)

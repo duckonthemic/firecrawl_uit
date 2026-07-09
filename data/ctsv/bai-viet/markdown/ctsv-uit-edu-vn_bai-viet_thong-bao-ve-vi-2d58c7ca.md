@@ -1,0 +1,24 @@
+Thông báo về việc tiếp nhận sinh viên vào ở Ký túc xá
+=====================================================
+
+Sat, 29/01/2022 - 14:47
+
+**Thông báo về việc tiếp nhận sinh viên vào ở Ký túc xá**
+
+Ngày 27/01/2022, Trung tâm Quản lý Ký túc xá ban hành thông báo số 40/TB-TTQLKTX về việc tiếp nhận sinh viên vào ở Ký túc xá gồm các nội dung:
+
+1\. Đối với sinh viên đến lấy đồ: Sinh viên không ở năm học 2021-2022 còn để đồ tại KTX. Thời gian lấy đồ từ ngày 8/2/2022 đến 28/2/2022.
+
+2\. Đối với tình nguyện viên: Sinh viên đăng ký tham gia đội tình nguyện, thời gian từ ngày 8/2/2022,
+
+3\. Đối với sinh viên đến ở Ký túc xá: Sinh viên đã đăng ký ở năm học 2021-2022, thời gian từ ngày 13/2/2022.
+
+Thời gian làm việc: Từ 7h30 đến 21h00 hàng ngày (trừ ngày lễ và chủ nhật), riêng chủ nhật ngày 13/2/2022 KTX làm việc bình thường.
+
+Sinh viên xem chi tiết tại: [http://ktx.vnuhcm.edu.vn/thong-bao/tb-vv-tiep-nhan-sv-o-ky-tuc-xa.html](http://ktx.vnuhcm.edu.vn/thong-bao/tb-vv-tiep-nhan-sv-o-ky-tuc-xa.html)
+
+Phòng Công tác Sinh viên đề nghị sinh viên thực hiện đúng theo thông báo của Trung tâm Quản lý Ký túc xá. 
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ve-viec-tiep-nhan-sinh-vien-vao-o-ky-tuc-xa&title=Th%C3%B4ng%20b%C3%A1o%20v%E1%BB%81%20vi%E1%BB%87c%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20sinh%20vi%C3%AAn%20v%C3%A0o%20%E1%BB%9F%20K%C3%BD%20t%C3%BAc%20x%C3%A1)

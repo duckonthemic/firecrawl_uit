@@ -1,0 +1,32 @@
+\[Phòng chống tệ nạn\] "BỎ TÚI" BÍ KÍP NÓI KHÔNG VỚI MA TÚY!
+============================================================
+
+Thu, 05/03/2026 - 09:14
+
+Phòng Công tác Sinh viên thông tin đến các bạn sinh viên về chuỗi bài viết tuyên truyền phòng tệ nạn xã hội hiện nay.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202603/matuy-14x.png)
+
+**"BỎ TÚI" BÍ KÍP NÓI KHÔNG VỚI MA TÚY!** 
+
+Môi trường đại học là khoảng thời gian tuyệt vời để chúng ta trải nghiệm và trưởng thành. Tuy nhiên, bên cạnh những cơ hội học tập, sinh viên vẫn luôn là đối tượng tấn công của các loại tệ nạn xã hội, đặc biệt là ma túy với những hình thức ngày càng tinh vi, có thể khiến tương lai của bạn bị "crash" bất cứ lúc nào.
+
+Nhằm giúp các UIT-ers bảo vệ bản thân và giữ cho "hệ điều hành" cuộc đời luôn sạch, dưới đây là các loại thông tin về các loại ma túy, giúp bạn nhận diện những mã độc nguy hiểm:
+
+**Nhận diện các "biến thể" ma túy phổ biến:**   
+**– Ma túy tổng hợp:** Ví dụ như thuốc lắc (MDMA), ma túy đá, ketamine, thường ở dạng viên nén hoặc tinh thể. Các chất này tác động mạnh lên thần kinh, gây ảo giác, kích động và mất kiểm soát hành vi.
+
+**– Ma túy tự nhiên:** Gồm cần sa, thuốc phiện, heroin… có nguồn gốc từ cây chứa chất gây nghiện. Sử dụng lâu dài gây lệ thuộc, suy giảm trí nhớ và tàn phá sức khỏe.
+
+**– Ma túy trá hình:** Có thể được ngụy trang dưới dạng kẹo mút, kẹo dẻo, nước ngọt, bột pha uống… nên dễ khiến người dùng mất cảnh giác. Những loại này vẫn chứa chất gây nghiện và rất nguy hiểm cho sức khỏe.
+
+**Bên cạnh đó, các UIT-ers hãy cùng nhau ghi nhớ bộ quy tắc “3 KHÔNG” để không bao giờ phải hối tiếc:**   
+**\- Không thử dù chỉ một lần:** Ma túy không phải là trải nghiệm, đó là sai lầm hủy hoại cả cuộc đời.   
+**\- Không tin lời dụ dỗ:** Đừng để những lời hứa hẹn về "cảm giác lạ" hay "không gây nghiện" đánh lừa.   
+**\- Không đánh đổi ước mơ:** Một phút lầm lỡ có thể trả giá bằng cả sự nghiệp và hoài bão phía trước.
+
+Hãy lan tỏa thông điệp này đến bạn bè và người thân để xây dựng một cộng đồng sinh viên UIT nói không với ma túy nhé!
+
+Trong mọi tình huống nghi ngờ bị dụ dỗ, đe dọa hoặc phát hiện dấu hiệu bất thường, sinh viên tuyệt đối không tự xử lý một mình. Hãy liên hệ ngay cho gia đình, cơ quan chức năng hoặc Phòng Công tác Sinh viên (CTSV) để được hỗ trợ kịp thời.
+
+PHÒNG CÔNG TÁC SINH VIÊN – UIT

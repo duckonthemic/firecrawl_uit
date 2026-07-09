@@ -1,0 +1,17 @@
+Mời Doanh nghiệp tài trợ các hoạt động sinh viên đầu năm học 2018 - 2019
+========================================================================
+
+Mon, 30/07/2018 - 14:35
+
+**Kính** **g****ử****i:** **Q****u****ý** **doanh nghi****ệ****p**  
+Trường Đại học Công nghệ Thông tin ĐHQG-HCM (ĐH CNTT - UIT) được thành lập vào tháng 6 năm 2006, là Trường đại học công lập đầu tiên của cả nước đào tạo chuyên về Công nghệ Thông tin và Truyền thông. Trong 12 năm qua, Trường ĐH CNTT đã gặt hái được nhiều thành tựu to lớn trong công tác đào tạo và phát triển nguồn nhân lực chất lượng cao trong lĩnh vực công nghệ thông tin, đóng góp vào sự phát triển chung của đất nước. Trong suốt chặng đường phát triển, Trường ĐH CNTT luôn nhận được sự hỗ trợ, phối hợp của quý doanh nghiệp trong công tác hỗ trợ việc làm và bồi dưỡng chuyên môn cho sinh viên trường. Trường ĐH CNTT trân trọng cảm ơn sự đồng hành của quý doanh nghiệp trong thời gian qua.  
+Trường ĐH CNTT với hơn 5.000 sinh viên hệ chính quy đang học tập tại trường, trong đó có 1.250 tân sinh viên nhập học trong năm học 2018 – 2019. Trường ĐH CNTT trân trọng kính mời quý doanh nghiệp tham gia tài trợ các hoạt động năm học 2018 – 2019. Sự đồng hành của quý doanh nghiệp sẽ góp phần xây dựng hình ảnh, thương hiệu đẹp với các đối tác, các nhà khoa học và đặc biệt là sinh viên UIT - nguồn nhân lực chất lượng cao trong tương lai của quý doanh nghiệp.
+
+File Hồ sơ mời tài trợ Đính kèm
+
+Trường ĐH CNTT rất vui mừng nhận được sự quan tâm, tài trợ của quý đơn vị, doanh nghiệp cho các hoạt động năm học 2018 – 2019.  
+Để công tác tổ chức được chu đáo, Quý doanh nghiệp vui lòng xác nhận thông tin tài trợ trước ngày 07/8/2018.
+
+**M****Ọ****I CHI TI****Ế****T V****Ề** **TÀI TR****Ợ** **VUI LÒNG LIÊN H****Ệ****:**  
+**PHÒNG CÔNG TÁC SINH VIÊN, PHÒNG A101**  
+**TR****ƯỜ****NG** **Đ****H CÔNG NGH****Ệ** **THÔNG TIN**

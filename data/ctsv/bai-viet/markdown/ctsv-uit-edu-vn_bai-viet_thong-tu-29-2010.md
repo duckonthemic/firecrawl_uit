@@ -1,0 +1,13 @@
+Thông tư 29-2010
+================
+
+Wed, 21/11/2012 - 07:23
+
+Thông tư liên tịch số 29/2010/TTLT-BGDĐT-BTCBLĐTBXH ngày 15/11/2010 của liên bộ Bộ Giáo dục và Đào tạo, Bộ Tài Chính, Bộ Lao động -Thương bình và Xã hội hướng dẫn thực hiện một số điều của Nghị định số 49/2010/NĐ-CP ngày 14 tháng 5 năm 2010 của Chính phủ quy định về miễn, giảm học phí, hỗ trợ chi phí học tập và cơ chế thu, sử dụng học phí đối với cơ sở giáo dục thuộc hệ thống giáo dục quốc dân từ năm học 2010 - 2011 đến năm học 2014 – 2015
+
+  
+Tập tin đính kèm: [TT\_29\_2010.pdf](https://ctsv.uit.edu.vn/sites/default/files/attachments/article/52/TT_29_2010.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-tu-29-2010&title=Th%C3%B4ng%20t%C6%B0%2029-2010)

@@ -1,0 +1,20 @@
+Thông báo xét cấp học bổng khuyến khích học tập Học kỳ 2 - Năm học 2017-2018
+============================================================================
+
+Thu, 15/11/2018 - 10:47
+
+Phòng CTSV thông báo: Học bổng Khuyến khích học tập của Trường ĐH Công nghệ Thông tin sẽ được áp dụng theo quy định số 742/QĐ-ĐHCNTT trong đó đối tượng của học bổng sẽ rộng hơn, cơ hội để SV được học bổng KKHT sẽ nhiều hơn.
+
+Tất cả Sinh viên muốn xét học bổng KKHT phải  đăng ký online tại đường link: [**https://goo.gl/forms/gH2OMAlqNPB8wUqw2**](https://goo.gl/forms/gH2OMAlqNPB8wUqw2) 
+
+Trường hợp sinh viên đủ điều kiện xét học bổng KKHT HK2 năm học 2017-2018 nhưng không đăng ký online sẽ không được xét chọn.
+
+Thời gian đăng ký: từ ngày ra thông báo **đến hết ngày 21/11/2018**
+
+**_Điều kiện, tiêu chuẩn xét học bổng sinh viên xem Quyết định số: 742/QĐ-ĐHCNTT, ngày 14/11/2018 về việc ban hành Quy định xét cấp học bổng khuyến khích học tập cho sinh viên Đại học chính quy của Hiệu trưởng Trường ĐH Công nghệ Thông tin._**
+
+_Mọi thắc mắc của sinh viên liên hệ qua topic:_ **_[https://forum.uit.edu.vn/node/531306](https://forum.uit.edu.vn/node/531306)_**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-xet-cap-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-2-nam-hoc-2017-2018&title=Th%C3%B4ng%20b%C3%A1o%20x%C3%A9t%20c%E1%BA%A5p%20h%E1%BB%8Dc%20b%E1%BB%95ng%20khuy%E1%BA%BFn%20kh%C3%ADch%20h%E1%BB%8Dc%20t%E1%BA%ADp%20%20H%E1%BB%8Dc%20k%E1%BB%B3%202%20-%20N%C4%83m%20h%E1%BB%8Dc%202017-2018)

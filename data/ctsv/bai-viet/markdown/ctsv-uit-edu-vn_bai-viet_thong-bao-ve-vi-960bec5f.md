@@ -1,0 +1,8 @@
+Thông báo về việc kiểm tra hồ sơ chính sách sinh viên
+=====================================================
+
+Thu, 05/05/2016 - 10:51
+
+Phòng Công tác Sinh viên, thông báo danh sách sinh viên dự kiến được hưởng chế độ chính sách học kỳ 2 năm học 2015-2016.
+
+Sinh viên kiểm tra: đối tượng, họ tên, mã số sinh viên, lớp.

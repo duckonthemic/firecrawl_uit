@@ -1,0 +1,14 @@
+Quyết định số 512/2022 - Trao học bổng UIT Global Tháng 6 năm 2022
+==================================================================
+
+Sat, 30/07/2022 - 15:04
+
+Thông tin chi tiết vui lòng xem file đính kèm.
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [512\_qd\_dhcntt13\_7\_2022\_scan.pdf](https://ctsv.uit.edu.vn/sites/default/files/202210/512_qd_dhcntt13_7_2022_scan.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-so-5122022-trao-hoc-bong-uit-global-thang-6-nam-2022&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%20512%2F2022%20-%20Trao%20h%E1%BB%8Dc%20b%E1%BB%95ng%20UIT%20Global%20Th%C3%A1ng%206%20n%C4%83m%202022)

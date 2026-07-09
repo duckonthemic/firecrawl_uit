@@ -1,0 +1,45 @@
+\[VNExpress\] Những kẻ lừa đảo 'thao túng tâm lý' nạn nhân thế nào
+==================================================================
+
+Sun, 03/08/2025 - 13:20
+
+**Bài 1: [Cảnh báo về tình trạng SV bị kẻ gian lừa đảo, thao túng tâm lý](https://ctsv.uit.edu.vn/bai-viet/canh-bao-ve-tinh-trang-sv-bi-ke-gian-lua-dao-thao-tung-tam-ly)
+**
+
+**Bài 2: [Phương thức, thủ đoạn hoạt động lừa đảo thông qua mạng mà sinh viên hay gặp phải](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai)
+**
+
+**Bài 3: Những kẻ lừa đảo 'thao túng tâm lý' nạn nhân thế nào**
+
+Nguồn: [https://vnexpress.net/nhung-ke-lua-dao-thao-tung-tam-ly-nan-nhan-the-nao...](https://vnexpress.net/nhung-ke-lua-dao-thao-tung-tam-ly-nan-nhan-the-nao-4902901.html)
+
+Vừa trộn xong mẻ vữa, anh Toản điếng người nghe vợ báo tin số tiền 600 triệu đồng chuẩn bị cho con trai đi du học, bị lừa mất sạch.
+
+Ba ngày trước, con trai út tên Thành Đạt, 19 tuổi, nhận cuộc gọi từ một người xưng là "công an Hà Nội", thông báo cậu liên quan đến đường dây rửa tiền xuyên quốc gia.
+
+Giọng "anh công an" rất nghiêm nghị, đọc rành rọt mọi thông tin cá nhân của Đạt. Sau đó, hình ảnh công văn điều tra và ảnh tang vật và cả một nhóm người bị tạm giam cùng với "lệnh bắt giữ" khiến cậu bủn rủn tay chân.
+
+"Chúng bảo nếu em nói với ai, kể cả với người nhà sẽ bị bắt ngay để không làm lộ quá trình điều tra. Lúc đó em hoảng loạn, không nghĩ được gì", Đạt kể. Khi cậu cố gắng thanh minh, đối tượng trấn an: "Chúng tôi tin em vô tội, nhưng phải chứng minh điều đó". Kẻ lừa đảo nói Đạt phải chuyển 600 triệu đồng cho "cơ quan điều tra", sẽ hoàn trả sau hai, ba ngày.
+
+Khi Đạt nói không có tiền, chúng tấn công vào điểm yếu "nếu bố mẹ biết chuyện này sẽ lo lắng, hoảng loạn và khiến sự việc rắc rối thêm". Một kịch bản được đưa ra: "Hãy nói được học bổng du học, cần 600 triệu để chứng minh tài chính".
+
+Thanh niên 19 tuổi nghe theo.
+
+Nghe con trai báo tin được học bổng du học, vợ chồng anh Toản tin tuyệt đối. Trong ba ngày, họ vay mượn đủ 600 triệu đồng, chuyển hết cho Đạt.
+
+Nam sinh được hướng dẫn rút tiền mặt, mang đến một quán cà phê giao cho "điều tra viên". Việc trao tiền trực tiếp, không phải nhấp vào đường link, hay nhập mã OTP, khiến Đạt tin hơn.
+
+Ba ngày trôi qua vẫn không thấy tiền về, số điện thoại của "điều tra viên" không thể liên lạc được. Lúc này Đạt mới bừng tỉnh.
+
+"Mẹ ơi, con bị lừa rồi", nam sinh khóc nức nở qua điện thoại, thú nhận với mẹ trong buổi sáng giữa tháng 5/2025.
+
+...
+
+**Lời khuyên:**
+
+*   **Cơ quan chức năng không làm việc qua điện thoại, Zoom.....  Với sinh viên, các cơ quan chức năng/Công An sẽ làm việc với Trường trước khi làm việc với sinh viên. Do đó nếu có vấn đề gì thì SV có thể liên hệ trực tiếp với Nhà trường để xác minh thông tin.** 
+
+Nếu có bất kỳ nghi ngờ nào, hãy liên hệ ngay với
+
+*   P.CTSV
+*   Trực ban Công An phường Đông Hòa : 0274.3750.872

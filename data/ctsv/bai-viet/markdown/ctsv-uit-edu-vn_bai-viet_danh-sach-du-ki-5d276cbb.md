@@ -1,0 +1,37 @@
+Danh sách dự kiến nhận học bổng dành cho sinh viên ngành Thiết kế Vi mạch Khóa 2024
+===================================================================================
+
+Wed, 18/09/2024 - 16:55
+
+**DANH SÁCH DỰ KIẾN NHẬN HỌC BỔNG**
+
+**DÀNH CHO SINH VIÊN NGÀNH THIẾT KẾ VI MẠCH 2024**
+
+**(cập nhật 13:00 ngày 19/9)**
+
+Nhằm khuyến khích và hỗ trợ sinh viên theo học ngành Thiết kế vi mạch, Trường Đại học Công nghệ thông tin đã triển khai chương trình học bổng cho các sinh viên khóa 2024 theo học ngành Thiết kế vi mạch có thành tích xuất sắc (chi tiết ở [https://tuyensinh.uit.edu.vn/2024-thong-bao-hoc-bong-danh-cho-sinh-vien-...](https://tuyensinh.uit.edu.vn/2024-thong-bao-hoc-bong-danh-cho-sinh-vien-nganh-thiet-ke-vi-mach-khoa-2024)
+ ).  
+Sau khi sinh viên khóa 2024 nhập học, Phòng Công tác Sinh viên xin thông tin một số thông tin như sau.
+
+*   Về điểm ĐGNL: có hơn 50 sinh viên có điểm từ 988 điểm, hơn 100 sinh viên có điểm từ 970 điểm trở lên
+*   Về điểm thi TN THPT: có hơn 50 sinh viên điểm từ 28 điểm, hơn 100 sinh viên có điểm từ 27.75 trở lên
+
+Dựa trên kết quả này, Phòng CTSV công bố danh sách dự kiến các sinh viên nhận học bổng ngành Thiết kế Vi mạch 2024 như sau:
+
+  
+  
+  
+  
+  
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |    
+| STT | MSSV | Họ tên | Thành tích | Loại Học bổng |
+| 1   | 24521385 | Nguyễn Đức Phúc | THPT (28.2) | Loại 2 |
+| 2   | 24520816 | Lê Đăng Khoa | THPT (28.05) | Loại 2 |
+| 3   | 24520103 | Nguyễn Hoàng Tuấn Anh | THPT (27.8) | Loại 3 |
+| 4   | 24521908 | Lê Anh Tú | THPT (27.75) | Loại 3 |
+| 5   |     |     |     |     |
+| 6   | 24520603 | Nguyễn Gia Hùng | ĐGNL (985) | Loại 3 |
+| 7   | 24520908 | Nguyễn Tuấn Kiệt | ĐGNL (975) | Loại 3 |
+| 8   | 24520831 | Nguyễn Minh Khoa | ĐGNL (974) | Loại 3 |

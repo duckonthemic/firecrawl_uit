@@ -1,0 +1,22 @@
+TB v/v Nghiêm chỉnh chấp hành các quy định An toàn giao thông
+=============================================================
+
+Thu, 22/04/2021 - 09:58
+
+Nhằm đảm bảo các quy định về An toàn giao thông, Nhà trường thông báo đến sinh viên nghiêm chỉnh chấp hành Luật Giao thông đường bộ, đặc biệt lưu ý những nội dung sau:
+
+\- Tuyệt đối tuân thủ các quy định về an toàn giao thông khi tham gia giao thông trong và ngoài khu đô thị đại học.  
+\- Nghiêm cấm các hành vi chở quá số người quy định, không đội mũ bảo hiểm khi ngồi trên xe gắn máy, xa đạp điện,…  
+\- Chú ý quan sát các biển báo, đi đúng làn đường, tuyến đường, tốc độ cho phép; tại các vòng xoay phải tuân thủ đi theo đường vòng xuyến.  
+\- Chỉ đi bộ trên lề đường, vỉa hè, qua đường đúng vạch sơn quy định dành cho người đi bộ.  
+\- Lên và xuống xe buýt đúng trạm.
+
+Nhằm thực hiện tốt các quy định về an toàn giao thông, cũng như giảm thiểu tối đa các trường hợp đáng tiếc xảy ra do tai nạn giao thông, Phòng Công tác sinh viên đề nghị sinh viên nghiêm túc thực hiện các nội dung trên.
+
+Phòng Công tác Sinh viên sẽ phối hợp với các đơn vị chức năng trong và ngoài trường thực hiện kiểm tra thường xuyên các nội dung về an toàn giao thông. Sinh viên bị phát hiện vi phạm về trật tự an toàn giao thông sẽ bị xử lý theo nội quy của Nhà trường.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202104/chap_hanh_luat_giao_thong.jpg)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Ftb-vv-nghiem-chinh-chap-hanh-cac-quy-dinh-toan-giao-thong&title=TB%20v%2Fv%20Nghi%C3%AAm%20ch%E1%BB%89nh%20ch%E1%BA%A5p%20h%C3%A0nh%20c%C3%A1c%20quy%20%C4%91%E1%BB%8Bnh%20An%20to%C3%A0n%20giao%20th%C3%B4ng)

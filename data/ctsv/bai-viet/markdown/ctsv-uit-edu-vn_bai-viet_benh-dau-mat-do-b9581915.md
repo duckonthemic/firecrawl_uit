@@ -1,0 +1,32 @@
+Bệnh đau mắt đỏ đang gia tăng, cần làm gì để phòng bệnh
+=======================================================
+
+Tue, 19/09/2023 - 10:10
+
+Đau mắt đỏ là tình trạng nhiễm trùng mắt, thường do vi khuẩn hoặc vi rút gây ra hoặc do phản ứng dị ứng, với triệu chứng đặc trưng là đỏ mắt. Bệnh thường khởi phát đột ngột, lúc đầu ở một mắt sau lan sang mắt còn lại. Bệnh đau mắt đỏ rất dễ mắc, dễ lây lan trong cộng đồng và gây thành dịch. Cho đến nay chưa có vắc xin phòng bệnh, chưa có thuốc điều trị đặc hiệu và những người bị đau mắt đỏ rồi vẫn có thể bị nhiễm lại chỉ sau vài tháng khỏi bệnh.
+
+Đau mắt đỏ tuy là một bệnh cấp tính, triệu chứng rầm rộ, dễ lây nhưng thường lành tính, ít để lại di chứng, tuy nhiên bệnh thường gây ảnh hưởng nhiều đến sinh hoạt, học tập và lao động, và có không ít trường hợp bệnh kéo dài, gây biến chứng ảnh hưởng đến thị lực sau này
+
+**Để chủ động phòng, chống bệnh đau mắt đỏ, chúng ta cần thực hiện**
+
+1\. Thường xuyên rửa tay bằng xà phòng, sử dụng nước sạch
+
+2\. Không đưa tay lên dụi mắt, mũi, miệng  
+
+3\. Không dùng chung vật dụng cá nhân như: lọ thuốc nhỏ mắt, khăn mặt, kính mắt, khẩu trang…
+
+4\. Vệ sinh mắt, mũi, họng hàng ngày bằng nước muối sinh lý, các thuốc nhỏ mắt, nhỏ mũi thông thường
+
+5\. Sử dụng xà phòng hoặc các chất sát khuẩn thông thường sát trùng các đồ dùng, vật dụng của người bệnh
+
+6\. Hạn chế tiếp xúc với người bệnh hoặc nghi bị bệnh đau mắt đỏ
+
+7\. Người bệnh, người nghi bị bệnh đau mắt đỏ cần hạn chế tiếp xúc với người khác
+
+8\. Người có các dấu hiệu đau mắt đỏ cần đến cơ sở y tế để được khám, tư vấn, điều trị kịp thời, không tự ý điều trị khi chưa có hướng dẫn của cán bộ y tế để tránh biến chứng nặng. 
+
+**Nguồn tham khảo: Cục Y tế dự phòng**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fbenh-dau-mat-do-dang-gia-tang-can-lam-gi-de-phong-benh&title=B%E1%BB%87nh%20%C4%91au%20m%E1%BA%AFt%20%C4%91%E1%BB%8F%20%C4%91ang%20gia%20t%C4%83ng%2C%20c%E1%BA%A7n%20l%C3%A0m%20g%C3%AC%20%C4%91%E1%BB%83%20ph%C3%B2ng%20b%E1%BB%87nh)

@@ -1,0 +1,13 @@
+Học bổng BFF 15.000.000đ
+========================
+
+Thu, 09/11/2017 - 09:33
+
+Chương trình Big Friend Foundation (viết tắt là BFF) là chương trình phi lợi nhuận, được thành lập với mục tiêu tiếp sức và trợ lực cho các tân sinh viên hiếu học nhưng gặp khó khăn về tài chính có cơ hội hoàn tất ước mơ học Đại học, Cao đẳng; và trang bị cho các bạn những kỹ năng sống và làm việc cần thiết thông qua các hoạt động huấn luyện, chia sẻ, kết nối trong chương trình. Nhờ sự giúp đỡ, chuyển thông tin của các thầy cô, đến hết năm 2016, BFF đã hỗ trợ được 73 em sinh viên tại 17 trường thuộc ngành Kinh tế và Kỹ thuật, Nông nghiệp và Kiến trúc ở Tp.HCM
+
+Với mong muốn chia sẻ bớt những gánh nặng, tiếp sức và trợ lực cho các bạn nhỏ hiếu học và giàu nghị lực, BFF vui mừng công bố thông tin về việc sẽ trao tặng thêm 27 suất Học bổng cho các em sinh viên hiếu học trong năm 2017, bên cạnh việc duy trì các suất học bổng hiện tại.
+
+Đối tượng nhận được sự hỗ trợ từ BFF là các em đã **có kết quả đậu đại học năm 2017, có hoàn cảnh kinh tế khó khăn, nhưng mong muốn và quyết tâm theo đuổi con đường học vấn. Học bổng BFF trị giá 15,000,000đ/ sinh viên/ năm học.** Bao gồm: học phí và các khoá huấn luyện – đào tạo về kỹ năng sống và làm việc cho đến khi các em hoàn tất chương trình đại học 4 năm của mình. BFF bắt đầu nhận hồ sơ đăng kí nhận học bổng từ ngày hôm nay cho đến **hết ngày 09/11/2017**. Thông tin được đính kèm theo email hoặc xem thêm tại website và facebook của chương trình:
+
+Website: **[http://hocbongbff.org/bff-trao-15-su...015/#more-1430](http://hocbongbff.org/bff-trao-15-suat-hoc-bong-nam-2015/#more-1430)
+**

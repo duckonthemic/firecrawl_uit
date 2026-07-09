@@ -1,0 +1,46 @@
+Thông báo về thời hạn sử dụng các tài khoản cấp cho sinh viên
+=============================================================
+
+Wed, 07/09/2016 - 14:53
+
+**\[Cập nhật\] 24/7/2021: Tài khoản ms.uit.edu.vn/Office365 không nằm trong phạm vi của thông báo này. Tài khoản  ms.uit.edu.vn/Office365 sẽ của SV sẽ không được Trường hỗ trợ (gia hạn./đổi pass/..) sau khi SV thôi học/tốt nghiệp.**
+
+**THÔNG BÁO**
+
+**Về thời hạn sử dụng các tài khoản cấp cho sinh viên của Trường Đại học Công nghệ Thông tin**
+
+Trường ĐH Công nghệ Thông tin  thông báo đến sinh viên của Trrường về thời hạn sử dụng các tài khoản Nhà trường cấp cho sinh viên như sau:
+
+1.  **Tài khoản chứng thực:**
+
+*   Tài khoản chứng thực được Nhà trường cấp cho sinh viên khi sinh viên trúng tuyển vào Trường và được in trong giấy báo nhập học.
+*   Tài khoản chứng thực sinh viên được lưu giữ trong vòng 05 năm kể từ khi sinh viên tốt nghiệp. Sau đó Trường sẽ xóa tài khoản chứng thực khỏi hệ thống.
+*   Nhà trường sẽ thu hồi tài khoản chứng thực trước thời hạn trong các trường hợp sau:
+    *   Sinh viên trúng tuyển nhưng không đến làm thủ tục nhập học theo qui định.
+    *   Sinh viên đã nghỉ học: bao gồm sinh viên chuyển trường, du học, sinh viên xin nghỉ học,  sinh viên bị buộc thôi học tại Trường.
+
+1.  **Tài khoản email sinh viên**
+
+*   Tài khoản email sinh viên được Nhà trường cấp cho sinh viên khi sinh viên trúng tuyển vào Trường và được in trong giấy báo nhập học.
+*   Email sinh viên sẽ được sử dụng vĩnh viễn kể cả khi sinh viên đã sinh viên tốt nghiệp.
+*   Nhà trường sẽ thu hồi tài khoản email sinh viên đối với các trường hợp sau:
+    *   Sinh viên trúng tuyển nhưng không đến làm thủ tục nhập học theo qui định.
+    *   Sinh viên đã nghỉ học: bao gồm sinh viên chuyển trường, du học, sinh viên xin nghỉ học,  sinh viên bị buộc thôi học tại Trường.
+
+Sinh viên có trách nhiệm bảo quản các tài khoản được cấp và chỉ được sử dụng cho mục đích học tập. Mọi hành vi sử dụng tài khoản sai mục đích sẽ bị xử lý theo qui định của Nhà trường.
+
+                                                                             **KT. HIỆU TRƯỞNG**
+
+                                                                            **PHÓ HIỆU TRƯỞNG**
+
+                                                                              **_( Đã ký)_**
+
+                                                                            **Vũ Đức Lung**
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [36\_tb\_dhcntt\_ctsv.pdf](https://ctsv.uit.edu.vn/sites/default/files/201609/36_tb_dhcntt_ctsv.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ve-thoi-han-su-dung-cac-tai-khoan-cap-cho-sinh-vien&title=Th%C3%B4ng%20b%C3%A1o%20v%E1%BB%81%20th%E1%BB%9Di%20h%E1%BA%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A1c%20t%C3%A0i%20kho%E1%BA%A3n%20c%E1%BA%A5p%20cho%20sinh%20vi%C3%AAn)

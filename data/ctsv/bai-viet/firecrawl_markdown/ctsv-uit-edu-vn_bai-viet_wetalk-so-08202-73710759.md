@@ -1,0 +1,134 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay#main-nav)
+
+WeTalk Số 08/2025 – “Sống khỏe mỗi ngày”
+========================================
+
+Tue, 05/08/2025 - 08:20
+
+**WeTalk Số 08/2025 – “Sống khỏe mỗi ngày”  
+Xây dựng thói quen tốt cho cơ thể và tâm trí**
+
+Bạn đang ngủ ít, ăn qua loa, cuốn vào deadline và thấy mình "đuối sức"?
+
+Bạn thấy tâm trí lúc nào cũng căng thẳng, thiếu động lực dù công việc hay học tập vẫn diễn ra đều?
+
+**WeTalk số 08/2025 sẽ cùng bạn khám phá bí quyết xây dựng những thói quen nhỏ - nhưng bền vững để giữ cho thân thể khỏe mạnh - tinh thần vững vàng mỗi ngày.**
+
+Tuổi trẻ là khoảng thời gian rực rỡ với thật nhiều ước mơ: học giỏi hơn, kiếm thêm thu nhập, theo đuổi đam mê, kết nối bạn bè… Nhưng giữa muôn vàn điều muốn làm, cơ thể và tâm trí bạn có đang đủ khỏe để đồng hành lâu dài?
+
+Chỉ với 24 giờ mỗi ngày - như bao người khác - bạn có thể tự thiết kế một nhịp sống cân bằng: vừa học hiệu quả, vừa làm việc thông minh, lại có thời gian nghỉ ngơi, tập luyện và tái tạo năng lượng tinh thần.
+
+Bí quyết không nằm ở việc làm thật nhiều, mà là làm đúng - sống khỏe - nghỉ đúng lúc. Bắt đầu từ những việc nhỏ nhất: ăn đủ bữa, ngủ đúng giờ, dành thời gian cho bản thân và biết lắng nghe chính mình. Khi đó, bạn không chỉ giữ được thể chất dẻo dai mà còn duy trì được một tinh thần tích cực, vững vàng trước áp lực học hành hay cuộc sống.
+
+**Nội dung chính của chương trình:**
+
+1\. Những hiểu lầm thường gặp về sức khỏe thể chất và tinh thần của sinh viên
+
+2\. Gợi ý xây dựng thói quen ăn - ngủ - học - nghỉ lành mạnh
+
+3\. Cách điều chỉnh cảm xúc, giảm stress bằng các phương pháp đơn giản, hiệu quả
+
+4\. Giới thiệu các nguồn hỗ trợ tinh thần miễn phí tại UIT dành cho bạn!
+
+**WeTalk số 08 sẽ là điểm hẹn giúp bạn học cách lắng nghe cơ thể - nuôi dưỡng tinh thần và sống thật khỏe mỗi ngày!**
+
+**THÔNG TIN CHƯƠNG TRÌNH**
+
+*   **Thời gian:** 14h Thứ 3 ngày 19/08/2025 và 14h Thứ 6 ngày 22/08/2025 (Online qua MS Teams)
+*   **Đối tượng tham gia:** Tất cả sinh viên UIT - đặc biệt dành cho những ai đang mong muốn _lắng nghe cơ thể - nuôi dưỡng tinh thần_
+*   **Còn chần chờ gì mà không [](https://forms.gle/gHauABidJiT8C4rF7)** [**đăng ký ngay**](https://forms.gle/gHauABidJiT8C4rF7) 
+
+* * *
+
+**QUÀ TẶNG DÀNH CHO NGƯỜI THAM DỰ**
+
+*   **Cộng điểm rèn luyện**
+*   **Gửi gắm câu chuyện và cảm xúc của bạn trong [Tâm sự ẩn danh](https://forms.gle/bmgim25VAQK2Lv4N7)
+    **
+*   **Tư vấn 1:1 với chuyên gia sau chương trình**
+
+* * *
+
+**VỀ WETALK**
+
+WeTalk là chuỗi chương trình trò chuyện tâm lý - sức khỏe tinh thần được tổ chức định kỳ hàng tháng bởi Phòng Công tác Sinh viên, diễn ra tại Không gian chia sẻ - một nơi an toàn, thân thiện để mỗi sinh viên UIT được “xả bớt gánh nặng”, nạp lại năng lượng tinh thần, và học cách phát triển bản thân tích cực hơn.
+
+**_WeTalk – nơi chia sẻ, lắng nghe và đồng hành cùng bạn._**
+
+* * *
+
+**_Hẹn gặp bạn vào chiều 19 và 22/8 nhé!_**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fwetalk-so-082025-song-khoe-moi-ngay&title=WeTalk%20S%E1%BB%91%2008%2F2025%20%E2%80%93%20%E2%80%9CS%E1%BB%91ng%20kh%E1%BB%8Fe%20m%E1%BB%97i%20ng%C3%A0y%E2%80%9D)
+    
+
+Bài viết liên quan
+------------------
+
+*   [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+     (09-07-2026)
+*   [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+     (08-07-2026)
+*   [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+     (08-07-2026)
+*   [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+     (07-07-2026)
+*   [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+     (02-07-2026)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay?page=330 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay#)
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay#)
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-082025-song-khoe-moi-ngay#addtoany "Show all")

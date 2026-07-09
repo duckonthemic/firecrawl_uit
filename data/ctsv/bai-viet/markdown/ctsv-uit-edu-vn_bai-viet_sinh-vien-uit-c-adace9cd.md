@@ -1,0 +1,22 @@
+Sinh viên UIT cùng tham dự IEEE Day seminar 2021
+================================================
+
+Thu, 30/09/2021 - 21:00
+
+> IEEE chọn ngày 5 tháng 10 hàng năm là ngày IEEE và chủ đề của ngày IEEE Day năm nay 2021 là **“Leveraging Technology for a Better Tomorrow”**.
+> 
+> Nhân kỷ niệm ngày “2021 IEEE Day”, IEEE Signal Processing Vietnam Chapter (SPS-VN) tổ chức một seminar khoa học từ 8:30 đến 10:30 (giờ VN) vào ngày 5/10/2021 với chương trình như sau:
+> 
+> **\- 8:30 - 9:30am: a distinguished lecture by Prof. Lê Ngọc Thọ, IEEE fellow, McGill University**
+> 
+> **\- 9:30 - 10:30am: a distinguished talk by Mr.Lê Hoài Hội, Giám Đốc Viettel Innovation LAB tại TP. Hồ Chí Minh.**
+> 
+> Trân trọng kính mời quý Thầy/Cô, các anh chị nghiên cứu sinh, học viên cao học và các bạn sinh viên quan tâm đăng ký tham dự.
+> 
+> Link đăng ký tham dự seminar (miễn phí) là [https://forms.gle/bm9zGKN2sS5ZNMqn6](https://forms.gle/bm9zGKN2sS5ZNMqn6)
+> 
+> ![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202109/unnamed.jpeg)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fsinh-vien-uit-cung-tham-du-ieee-day-seminar-2021&title=Sinh%20vi%C3%AAn%20UIT%20c%C3%B9ng%20tham%20d%E1%BB%B1%20IEEE%20Day%20seminar%202021)

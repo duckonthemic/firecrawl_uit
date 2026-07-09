@@ -1,0 +1,38 @@
+THÔNG BÁO HỌC BỔNG “UIT ĐỒNG HÀNH” NĂM 2022
+===========================================
+
+Sat, 16/04/2022 - 19:25
+
+**THÔNG BÁO HỌC BỔNG**
+
+**“****UIT** **ĐỒNG HÀNH”** **NĂM 202****2**
+
+            Trường Đại học Công nghệ Thông tin - Đại học Quốc gia Thành phố Hồ Chí Minh thông báo tiêu chí xét học bổng “UIT đồng hành” năm 2022 như sau:
+
+1.  **Đối tượng, điều kiện:**
+
+1.  **Đối tượng:**
+
+*   Thí sinh mô côi cả cha lẫn mẹ bởi dịch Covid-19, trúng tuyển hệ chính quy văn bằng 1 khóa tuyển năm 2022 của Trường Đại học Công nghệ thông tin, ĐHQG-HCM bằng tất cả các hình thức tuyển sinh.
+
+2.  **Điều kiện:**
+
+*   Thí sinh chưa được nhận bất cứ học bổng tương tự từ các tổ chức, cá nhân. 
+
+2.  **Giá trị, số lượng, thời gian nhận học bổng**
+
+*   Số lượng học bổng: 50 suất.
+*   Giá trị học bổng: 100.000.000đ/suất (Một trăm triệu đồng)
+*   Thời gian nhận học bổng: 04 năm học theo chương trình đào tạo.
+
+**III. Đăng** **ký và nộp hồ sơ học bổng**
+
+\- Sinh viên trúng tuyển vào Trường sẽ nộp các hồ sơ theo quy định của hội đồng học bổng như sau:
+
+1\. Bản chính giấy xác nhận mồ côi cả cha lẫn mẹ do dịch Covid-19 gây ra.
+
+2\. Bản đăng ký học bổng (theo mẫu)
+
+3\. Thư do chính sinh viên viết đề đạt nguyện vọng nhận học bổng
+
+\- Thời gian đăng ký và xét học bổng: sẽ có thông báo sau khi sinh viên trúng tuyển.

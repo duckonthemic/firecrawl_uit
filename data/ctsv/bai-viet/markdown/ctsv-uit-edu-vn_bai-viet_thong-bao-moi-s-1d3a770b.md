@@ -1,0 +1,32 @@
+Thông báo Mời SV tham gia khảo sát mức độ hài lòng về Dịch vụ Giáo dục công
+===========================================================================
+
+Tue, 29/04/2025 - 15:28
+
+ **\[THÔNG BÁO\] MỜI SINH VIÊN THAM GIA KHẢO SÁT MỨC ĐỘ HÀI LÒNG VỀ DỊCH VỤ GIÁO DỤC CÔNG**
+
+Bạn muốn tiếng nói của mình góp phần cải thiện môi trường học tập tại UIT?  
+Đừng bỏ lỡ cơ hội tham gia Khảo sát xác định chỉ số hài lòng của sinh viên đối với dịch vụ giáo dục công năm 2025!
+
+**1\. Mục tiêu khảo sát:**
+
+\- Thực hiện theo Công văn số 767/ĐHQG-CTSV của ĐHQG-HCM và văn bản số 1550/BGDĐT-VP ngày 4/4/2025 của Bộ Giáo dục và Đào tạo 
+
+\- Đo lường mức độ hài lòng của sinh viên đối với dịch vụ giáo dục công nhằm đánh giá một cách khoa học, minh bạch và khách quan chất lượng dịch vụ của các cơ sở giáo dục công.   
+\- Từ kết quả đánh giá, các cơ quan quản lý và các cơ sở giáo dục nắm bắt được nhu cầu, mong muốn của sinh viên để có giải pháp cải thiện chất lượng dịch vụ, thực hiện tốt quá trình đổi mới căn bản, toàn diện giáo dục và đào tạo. 
+
+**2\. Quyền lợi khi tham gia:**
+
+**Cộng 5 điểm rèn luyện** cho sinh viên hoàn thành khảo sát đúng hạn - nghiêm túc.
+
+Góp phần xây dựng môi trường học tập tốt hơn cho chính bạn và thế hệ sinh viên tương lai.
+
+**3\. Thời hạn tham gia:** Từ ngày ra thông báo đến **hết ngày 11/5/2025**
+
+**4\. Hình thức:** Điền thông tin vào Phiếu khảo sát trực tuyến theo link sau: [**https://link.uit.edu.vn/KhaoSatDichVuCong2025**](https://link.uit.edu.vn/KhaoSatDichVuCong2025)
+
+Hãy tham gia và thể hiện tiếng nói sinh viên UIT ngay hôm nay!
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-moi-sv-tham-gia-khao-sat-muc-do-hai-long-ve-dich-vu-giao-duc-cong&title=Th%C3%B4ng%20b%C3%A1o%20M%E1%BB%9Di%20SV%20tham%20gia%20kh%E1%BA%A3o%20s%C3%A1t%20m%E1%BB%A9c%20%C4%91%E1%BB%99%20h%C3%A0i%20l%C3%B2ng%20v%E1%BB%81%20D%E1%BB%8Bch%20v%E1%BB%A5%20Gi%C3%A1o%20d%E1%BB%A5c%20c%C3%B4ng)

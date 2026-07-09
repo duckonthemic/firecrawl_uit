@@ -1,0 +1,39 @@
+Học bổng UIT Global
+===================
+
+Wed, 20/01/2021 - 10:50
+
+Nhằm khuyến khích sinh viên rèn luyện, nâng cao năng lực ngoại ngữ; Trường Đại học Công nghệ Thông tin thông báo về việc triển khai Học bổng **UIT Global** như sau:
+
+**1\. Đối tượng:** tất cả sinh viên hệ chính quy còn trong thời gian thiết kế của chương trình đào tạo. Sinh viên chương trình liên kết quốc tế không thuộc đối tượng của học bổng này.
+
+**2\. Điều kiện nhận học bổng:**  
+\- Sinh viên có đạo đức tốt, có tinh thần trách nhiệm cộng đồng, có tham gia Bảo hiểm Y tế. Sinh viên không bị các hình thức kỷ luật của Trường, Ký túc xá.  
+\- Chứng chỉ ngoại ngữ còn trong thời hạn quy định.  
+\- Đối với sinh viên khóa 2021: thời gian thi chứng chỉ có thể trước hoặc sau khi sinh viên trúng tuyển vào Trường.  
+\- Đối với sinh viên các khóa còn lại: thời gian thi chứng chỉ từ ngày 01.01.2021.
+
+**3\. Giá trị học bổng:**
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Tiếng Anh** |     | **Tiếng Nhật** | **Giá trị học bổng** |
+| **IELTS** | **TOEFL iBT** |
+| \>=5.5 | \>65 | N3  | 5.000.000VNĐ |
+| \>=6.5 | \>80 | N2  | 7.000.000VNĐ |
+| \>=7.5 | \>95 | N1  | 15.000.000VNĐ |
+**_Mỗi sinh viên chỉ được nhận học bổng 01 lần._**
+
+**_Trường hợp SV nộp cùng lúc nhiều chứng chỉ ngoại ngữ, học bổng sẽ được cấp theo mức cao nhất._**
+
+**4\. Quy trình nộp hồ sơ học bổng**  
+**\- Bước 1:** Sau khi có chứng chỉ ngoại ngữ, sinh viên nộp chứng chỉ tại website daa.uit.edu.vn.  
+**\- Bước 2:** Phòng Đào tạo Đại học thực hiện công tác hậu kiểm chứng chỉ. Bước này tối đa 30 ngày kể từ ngày SV hoàn thành bước 1.  
+**\- Bước 3:** Phòng Công tác Sinh viên trình Ban Giám hiệu duyệt danh sách sinh viên được cấp học bổng và chuyển quyết định đến Phòng Kế hoạch Tài chính thực hiện thủ tục chi học bổng cho sinh viên. Bước này tối đa 30 ngày sau khi hoàn thành bước 2.
+
+Mọi thắc mắc sinh viên vui lòng liên hệ topic này hoặc email [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+.
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-bong-uit-global&title=H%E1%BB%8Dc%20b%E1%BB%95ng%20UIT%20Global)

@@ -1,0 +1,47 @@
+Thông báo v/v đăng ký và thành lập đội tuyển tham gia Hội thao Sinh viên ĐHQG-HCM lần XI năm 2017
+=================================================================================================
+
+Wed, 22/03/2017 - 18:46
+
+Thực hiện Kế hoạch số 345/ĐHQG-CTSV về việc tổ chức Hội thao Sinh viên ĐHQG-HCM lần thứ XI - năm 2017, Phòng Công tác Sinh viên thông báo đến sinh viên trường về việc đăng ký và thành lập Đội tuyển tham gia Hội thao, cụ thể như sau:  
+**1\. Đối tượng tham gia:** Là sinh viên chính quy của Trường, đủ điều kiện về sức khỏe
+
+**2\. Thời gian thi đấu:** từ 10 - 21/4/2017
+
+**3\. Địa điểm thi đấu:** Các trường thành viên ĐHQG-HCM
+
+**4\. Các môn thi đấu:**  
+4.1. Bóng đá mini nam, nữ (trong nhà)  
+4.2. Bóng chuyền nam, nữ  
+4.3. Bóng rổ nam  
+4.4. Bóng bàn  
+4.5. Cầu lông  
+4.6. Cờ vua - cờ tướng
+
+**5\. Điều lệ thi đấu:** Điều lệ đính kèm
+
+**6\. Hình thức thành lập đội tuyển**  
+\- Sinh viên đăng ký từ ngày thông báo đến 30/3/2017  
+\- Danh sách vận động viên sẽ được chọn theo ưu tiên sau:  
+        1. Cá nhân/ thành viên các đội đạt giải Hội thao các cấp  
+        2. Thành viên CLB TDTT cấp trường  
+        3. Thường xuyên tập luyện tại CLB TDTT  
+        4. Các trường hợp khác  
+\- Danh sách VĐV chính thức sẽ được thông báo vào ngày 01/4/2017.
+
+Chi tiết thông báo xem tại file đính kèm.
+
+**Đăng ký tại Forum trường:  [https://forum.uit.edu.vn/threads/65522](https://forum.uit.edu.vn/threads/65522)
+**
+
+Loading...
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [tb062017-\_tham\_gia\_hoi\_thao\_sv\_dhqg\_2017.pdf](https://ctsv.uit.edu.vn/sites/default/files/201703/tb062017-_tham_gia_hoi_thao_sv_dhqg_2017.pdf)
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [dieu\_le\_hoi\_thao\_2017\_-\_format\_-\_200317.pdf](https://ctsv.uit.edu.vn/sites/default/files/201703/dieu_le_hoi_thao_2017_-_format_-_200317.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-vv-dang-ky-va-thanh-lap-doi-tuyen-tham-gia-hoi-thao-sinh-vien-dhqg-hcm-lan-xi-nam&title=Th%C3%B4ng%20b%C3%A1o%20v%2Fv%20%C4%91%C4%83ng%20k%C3%BD%20v%C3%A0%20th%C3%A0nh%20l%E1%BA%ADp%20%C4%91%E1%BB%99i%20tuy%E1%BB%83n%20tham%20gia%20H%E1%BB%99i%20thao%20Sinh%20vi%C3%AAn%20%C4%90HQG-HCM%20l%E1%BA%A7n%20XI%20n%C4%83m%202017)

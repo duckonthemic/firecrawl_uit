@@ -1,0 +1,28 @@
+Mời SV tham gia cuộc thi ICPC Bắc Trung Nam và Toàn quốc 2020
+=============================================================
+
+Thu, 15/10/2020 - 17:52
+
+Chào các bạn!
+
+Vào tháng 10-11 hằng năm là dịp các SV đam mê thuật toán của Việt Nam sẽ tham gia các cuộc thi khởi động trong khuôn khổ cuộc thi ICPC (International Collegiate Programming Contest). Ở Việt Nam, cuộc thi ICPC sẽ được tổ chức bằng các vòng Khu vực Bắc - Trung - Nam và vòng Quốc gia Online. Đây là hình thức thi đánh giá được kỹ năng toàn diện của SV CNTT. 
+
+Với SV UIT, các bạn có thể tham gia các vòng thi này với các thông tin như sau:
+
+*   (0) Vòng khởi động UIT - sẽ diễn ra vào ngày 18/10/2020 với hình thức online. Chi tiết xem tại [https://forum.uit.edu.vn/node/546820](https://forum.uit.edu.vn/node/546820)
+    
+*   (1) Vòng miền Nam (Southern) ngày 25/10 do Đại học Khoa học Tự nhiên, ĐHQG Tp Hồ Chí Minh chủ trì với hình thức thi tại UIT  hoặc online _(thi offline mới được tính giải) ._  Chi tiết xem tại: [https://forum.uit.edu.vn/node/546724](https://forum.uit.edu.vn/node/546724)
+    
+*   (2)(3) Vòng miền Trung (Central) và Vòng miền Bắc (Northern) ngày 1/11/2020
+*   (4) Kỳ thi Quốc gia (online) ICPC năm 2020: ngày 15/11/ 2020
+*   (5) Kỳ thi ICPC Asia CanTho năm 2020: sáng ngày 11/12/2020
+*   SV UIT được hỗ trợ thi ở UIT: miễn phí đăng ký dự thi, được cộng ĐRL nếu giải được >= 1 bài
+
+Nếu cần thêm chi tiết các bạn có thể liên hệ với Thầy Toàn qua email [toannv@uit.edu.vn](mailto:toannv@uit.edu.vn)
+ hoặc fb.com/toan.uit hoặc trên forum
+
+Link đăng ký:  Kỳ thi ngày 18/10/2020 ở [https://forum.uit.edu.vn/node/546820](https://forum.uit.edu.vn/node/546820)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fmoi-sv-tham-gia-cuoc-thi-icpc-bac-trung-nam-va-toan-quoc-2020&title=M%E1%BB%9Di%20SV%20tham%20gia%20cu%E1%BB%99c%20thi%20ICPC%20B%E1%BA%AFc%20Trung%20Nam%20v%C3%A0%20To%C3%A0n%20qu%E1%BB%91c%202020)

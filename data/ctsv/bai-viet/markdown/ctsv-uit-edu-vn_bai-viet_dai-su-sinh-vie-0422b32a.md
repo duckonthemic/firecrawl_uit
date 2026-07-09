@@ -1,0 +1,50 @@
+Đại sứ sinh viên - StudyAdelaide, Úc
+====================================
+
+Mon, 18/09/2017 - 09:24
+
+Nhà trường có nhận được thông tin chương trình Đại sứ sinh viên năm 2017 do StudyAdelaide, Úc tài trợ (2 suất)
+
+**1\. Cơ cấu giải thưởng:** Đại sứ sinh viên 2017 sẽ được StudyAdelaide tài trợ chuyến đi học tập và trải nghiệm tại thành phố Adelaide, Úc gồm:
+
+\- 01 chuyến bay khứ hồi đến thành phố Adelaide, Úc;
+
+\- Nơi ở cho sinh viên trong 04 tuần;
+
+\- 01 Khóa học tiếng Anh trong 04 tuần;
+
+\- 1,000 đô la Úc cho chi phí tiêu dùng;
+
+\- Trải nghiệm cuộc sống ở thành phố Adelaide và Nam Úc.
+
+**2\. Số lượng:** StudyAdelaide sẽ tuyển chọn 02 đại sứ sinh viên cho năm 2017.
+
+**3\. Điều kiện ứng tuyển:**
+
+\- Là công dân Việt Nam;
+
+\- Từ 16 tuổi trở lên;
+
+\- Là học sinh, sinh viên các trường Trung học phổ thông, Đại học và Cao đẳng trong cả nước;
+
+\- Năng động, thân thiện và có kỹ năng giao tiếp tốt;
+
+\- Kỹ năng giao tiếp tiếng Anh khá - tốt;
+
+\- Tích cực, am hiểu việc sử dụng phương các phương tiện social media;
+
+\- Kinh nghiệm trong các hoạt động tình nguyện, hoạt động vì cộng đồng;
+
+\- Có tìm hiểu, hiểu biết về thành phố Adelaide nói riêng và nước Úc nói chung.
+
+**4\. Đăng ký ứng tuyển:** Ứng viên đăng ký trực tuyến bằng cách hoàn tất mẫu đơn đăng ký của chương trình trên website: [http://vietnam.studyadelaide.com/studentambassador/](http://vietnam.studyadelaide.com/studentambassador/)
+.
+
+**Lưu ý:** Các ứng viên đạt yêu cầu sẽ được liên hệ để tham gia vòng phỏng vấn.
+
+**5\. Thời hạn đăng ký:** trước **16g00** ngày **09/10/2017**.
+
+Xem thêm thông chi tiết về chương trình và tham gia nhận quà mỗi tuần cùng Study Adelaide tại:[http://vietnam.studyadelaide.com/studentambassador/](http://vietnam.studyadelaide.com/studentambassador/)
+.
+
+Mọi thắc mắc vui lòng liên hệ:

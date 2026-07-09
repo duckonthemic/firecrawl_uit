@@ -1,0 +1,26 @@
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 22
+==========================================================
+
+Mon, 14/09/2020 - 17:20
+
+Nhìn những người bạn xung quanh mình dễ dàng cho được 7 chấm, 8 chấm mà bản thân mình, vẫn không vượt qua được ngưỡng 6 chấm….. Tôi từ hỏi bản thân mình đã bị gì? Tôi cũng cố gắng? Cũng đi học đầy đủ? Cũng làm việc nhóm. Nhưng kết quả thì chưa bao giờ như những gì tôi muốn. 
+
+Có nhiều lúc thật sự mình đã rất cố gắng nhưng kết quả lại không như mong muốn. Không biết từ khi nào mà điểm số là thứ khiến mình sợ và ghét nó như thế. Muốn nghỉ học hay dành thời gian nghỉ ngơi cũng không được, phải ngồi tính toán xem mình được bao nhiêu điểm rồi cần phải gỡ những môn nào. Mệt! 
+
+Bản thân cảm thấy áp lực với những điểm số, càng học càng thấy dốt càng thấy mọi thứ nó đi xa mình quá. Muốn vứt bỏ nó nhưng lại nghĩ bố mẹ bỏ bao nhiêu tiền cho mình giờ vứt ngang thì thật có lỗi. Học qua loa không bằng cấp thì bao lâu mới không phải lo nghĩ về tiền bạc, tương lai. Thật sự quá áp lực.
+
+Và không chỉ riêng bạn, thời sinh, ai chẳng vài lần không hài lòng về điểm số, không có những lần mệt mỏi vì những áp lực... Hãy xem đấy là một trong vài dấu mốc của cả một quá trình học tập dài hơi. Quan trọng là, sau những áp lực đó, sau những giây phút cho phép mình được mệt mỏi đó bạn sẽ tìm được cho mình "chìa khóa" thành công! Đừng bao giờ mải mê chạy theo điểm số của người khác mà luôn cho rằng mình thua kém và lâu dần dẫn đến sự tự ti. Bạn có thể lấy ai đó làm mục tiêu nhưng đừng quá đặt nặng vấn đề thắng - thua.
+
+Quan trọng là bạn đã nỗ lực hết mình chưa? Bạn đã vượt qua được sự lười biếng, vượt qua được ngưỡng của bản thân? Khi đã cố gắng hết mình cho mình một mục tiêu, nếu kết quả chưa được như mong muốn, đừng nên quá chán nản. Điều bạn cần là thời gian, sự rèn luyện thêm và đôi khi là một chút may mắn nữa!
+
+Hãy tâm sự và tìm cho mình hướng đi đúng đắn với chủ đề WeTalk số 22 với chủ đề "Tôi chưa từng 6 chấm" vào lúc
+
+09:30 - 11:00, Thứ 4 ngày 16/09/2020  
+15:00 - 16:30, Thứ 6 ngày 18/09/2020  
+Tại: Phòng A104 - Phòng Không gian chia sẻ   
+Link đăng ký tham gia: [https://forms.gle/LUxq2q6pJ8DS9zyMA](https://forms.gle/LUxq2q6pJ8DS9zyMA)
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202009/wetalk22.png)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkhong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-22&title=Kh%C3%B4ng%20gian%20chia%20s%E1%BA%BB%20-%20Bu%E1%BB%95i%20tr%C3%B2%20chuy%E1%BB%87n%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20s%E1%BB%91%2022)

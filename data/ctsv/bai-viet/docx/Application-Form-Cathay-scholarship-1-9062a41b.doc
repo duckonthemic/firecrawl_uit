@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <meta name="robots" content="noindex" /> -->
+    <!-- <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"> -->
+    <title>Đại học Quốc gia TPHCM</title>
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="320" />
+    <link rel="icon" href="/res/logo.png" />
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/assets/css/sub.css" rel="stylesheet" />
+
+    <link
+      href="/assets/3d-flipbook-dflip-lite/assets/css/dflip.min.css"
+      rel="stylesheet"
+    />
+
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/3d-flipbook-dflip-lite/assets/js/dflip.min.js"></script>
+    <meta id="mttitle" property="og:title" content="" />
+    <meta id="mtdesc" property="og:description" content="" />
+    <meta id="mtimg" property="og:image" content="" />
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-M1WNFEZL8K"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-M1WNFEZL8K");
+    </script>
+    <script type="module" crossorigin src="/assets/index-QZpy-Obt.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CcI28U4b.css">
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/fap.js"></script>
+  </body>
+</html>

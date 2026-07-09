@@ -1,0 +1,45 @@
+UIT SPORT 2025 - Khép lại mùa giải Bóng chuyền Nam
+==================================================
+
+Wed, 16/04/2025 - 10:32
+
+**UIT SPORT 2025 - KHÉP LẠI MÙA GIẢI BÓNG CHUYỀN NAM**
+
+Vậy là sau hành trình đầy cảm xúc, từ những trận vòng bảng kịch tính đến loạt knock-out nghẹt thở, giải BÓNG CHUYỀN NAM UIT SPORT 2025 đã chính thức khép lại với một trận chung kết bùng nổ và không khoan nhượng!
+
+Trận chung kết giữa **MMTT và KTMT.1** không chỉ là cuộc đối đầu giữa hai đội bóng mạnh nhất giải - mà còn là nơi tinh thần, bản lĩnh và khát vọng được thử lửa đến cùng.  
+\- Những cú đập sấm sét.  
+\- Những pha cứu bóng dẻo dai như thép.  
+\- Và những tiếng hò reo của khán giả cổ vũ. Tất cả đã tạo nên một trận đấu cháy hết mình!
+
+**KẾT QUẢ CHUNG CUỘC:**  
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/1._kq_bong_chuyen.png)  
+Không chỉ là chức vô địch, **MMTT** đã khẳng định hành trình vươn lên đầy nghị lực, đánh bại mọi thử thách để bước lên đỉnh vinh quang.  
+Dù chiến thắng hay dừng bước, tất cả các đội đã làm nên một mùa giải không thể nào quên.  
+**HẸN GẶP LẠI Ở BÓNG CHUYỀN NAM - UIT SPORT 2026!**
+
+* * *
+
+**![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6449.png)**
+
+**![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6436.png)**
+
+**![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6423.png)**
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6458.png)
+
+File đính kèm: 
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [1.\_kq\_bong\_chuyen.png](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/1._kq_bong_chuyen.png)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [dsc\_6449.png](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6449.png)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [dsc\_6436.png](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6436.png)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [dsc\_6423.png](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6423.png)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [dsc\_6458.png](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202504/dsc_6458.png)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fuit-sport-2025-khep-lai-mua-giai-bong-chuyen-nam&title=UIT%20SPORT%202025%20-%20Kh%C3%A9p%20l%E1%BA%A1i%20m%C3%B9a%20gi%E1%BA%A3i%20B%C3%B3ng%20chuy%E1%BB%81n%20Nam)

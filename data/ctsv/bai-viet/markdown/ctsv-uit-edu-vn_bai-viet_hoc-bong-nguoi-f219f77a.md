@@ -1,0 +1,78 @@
+Học bổng Người bạn đồng hành
+============================
+
+Sat, 16/05/2020 - 15:41
+
+**1.**    **Mục đích chương trình**
+
+Chương trình Học bổng Người bạn đồng hành tạo thêm điều kiện học tập và phát triển cho sinh viên khuyết tật, đồng thời giúp các em ý thức được quyền lợi và trách nhiệm của mình trong xã hội.
+
+DRD tin rằng khi có được cơ hội học tập, người khuyết tật (NKT) sẽ:
+
+\- Tự tin phát triển, nâng cao năng lực của bản thân
+
+\- Có cơ hội tự khẳng định mình, từ đó góp phần thay đổi cách nhìn chung của xã hội về năng lực của NKT
+
+\- Cơ hội việc làm, hòa nhập cộng đồng, góp phần vào sự phát triển của đất nước.
+
+**2\. Tác động của chương trình**
+
+\- Sinh viên khuyết tật nhận học bổng đồng thời có được cơ hội để hiểu thêm triết lý sống “mình vì mọi người, mọi người vì mình”, được trang bị thêm kiến thức về lĩnh vực khuyết tật và kỹ năng sống thông qua những buổi sinh hoạt với DRD. Sau khi sinh viên ra trường, DRD sẽ giúp sinh viên tiếp cận với các cơ hội việc làm thông qua mạng lưới mà DRD vẫn đang phát triển.
+
+\- Ngoài ra, sinh viên khuyết tật còn được thử sức với vai trò tham gia tổ chức các chương trình chia sẻ kỹ năng cho các bạn sinh viên khuyết tật khác góp phần nâng cao sự tự tin và năng lực hòa nhập xã hội
+
+**3\. Đối tượng nhận học bổng**
+
+\- **Sinh viên khuyết tật** đang theo học tại các trường **Đại học, Cao đẳng trên địa bàn TP. HCM**.
+
+\- Học lực từ 6,5 trở lên (đối với sinh viên năm 2 trở lên) và điểm học bạ từ 7,0 trở lên (đối với sinh viên năm 1).
+
+**4\. Tiêu chí lựa chọn**
+
+\- Gặp khó khăn về tài chính.
+
+\- Có kế hoạch, mục tiêu học tập rõ ràng.
+
+\- Có tinh thần cộng đồng/ biết vì người khác.
+
+**_Ưu tiên:_** Nữ, vùng sâu vùng xa, dân tộc thiểu số.
+
+**5\. Mức học bổng**
+
+Trợ cấp hàng tháng: Có 2 mức hỗ trợ cho từng trường hợp của sinh viên khuyết tật: 1 triệu đồng và 500 ngàn đồng.
+
+**6\. Thời gian nộp hồ sơ**
+
+Từ 24/4/2020 đến 10/6/2020 nhận hồ sơ. 30/6/2020 hạn thông báo kết quả
+
+**7\. Xét duy trì**
+
+Đối với những sinh viên khuyết tật đã được nhận học bổng, ở những năm sau đó, các bạn không cần làm lại hồ sơ. Tuy nhiên, sinh viên phải gửi bảng điểm ngay khi có kết quả của từng học kỳ để chương trình xét quyết định tiếp tục trao học bổng hoặc dừng.
+
+**8\. Yêu cầu khi nhận học bổng**
+
+\- Gửi báo cáo đều đặn (3 tháng/lần).
+
+\- Thái độ hợp tác và giữ liên hệ với nhóm học bổng thường xuyên.
+
+\- Tham gia (có thể lựa chọn) các hoạt động thể hiện tinh thần, trách nhiệm xã hội: dạy kèm cho trẻ khuyết tật, tham gia tổ chức các sự kiện, hỗ trợ các bạn sinh viên khuyết tật khác…
+
+**9\. Hồ sơ bao gồm**
+
+\- Đơn xét Học bổng người bạn đồng hành, gồm: Thông tin cá nhân và hoàn cảnh gia đình, qua một trong hai cách sau:
+
+Ø  Hoàn thành mẫu đính kèm [**(Tải mẫu đính kèm)**](https://www.drdvietnam.org/images/hinh%20tin/2018/09/Mau%20don%20xin%20Hoc%20bong%20NBDH_DRD.docx)
+
+Ø  Link đăng ký: [**http://bit.ly/hocbongnguoibandonghanh**](http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2Fhocbongnguoibandonghanh&sa=D&sntz=1&usg=AFQjCNFl8gu0QHRk7Bmtbp8U8FIM1fB2Vw)
+
+\- Bảng điểm kết quả học tập tổng hợp các học kỳ có dấu mộc nhà trường (nếu có bảng điểm).
+
+\- Photo học bạ Trung học phổ thông và giấy báo trúng tuyển (đối với sinh viên năm 1 nếu chưa có bảng điểm).
+
+\- Photo giấy chứng nhận hộ cận nghèo, hộ nghèo hoặc giấy xác nhận gia đình khó khăn về kinh tế (nếu có).
+
+\- Một tấm ảnh toàn thân, nhìn rõ mặt và dạng khuyết tật.
+
+**10\. Thông tin liên hệ**
+
+\- Người phụ trách: Phan Thị Kim Vân

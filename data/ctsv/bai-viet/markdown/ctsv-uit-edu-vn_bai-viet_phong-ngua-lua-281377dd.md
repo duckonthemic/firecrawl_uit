@@ -1,0 +1,44 @@
+\[Phòng ngừa lừa đảo\] BẢO VỆ DẤU CHÂN SỐ CỦA BẠN
+=================================================
+
+Fri, 27/03/2026 - 14:08
+
+Phòng Công tác Sinh viên thông tin đến các bạn sinh viên về về chuỗi bài viết tuyên truyền phòng ngừa các phương thức, thủ đoạn lừa đảo bắt cóc học sinh viên qua mạng
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202603/bao_ve_dau_chan_so.jpg)
+
+Trong thời đại số, “dấu chân số” của bạn có thể trở thành mục tiêu của các đối tượng lừa đảo. Chỉ một chút sơ suất, bạn có thể bị đánh cắp thông tin, tài khoản hoặc tiền bạc.
+
+**3 CHIÊU TRÒ PHỔ BIẾN NHẤT HIỆN NAY:**
+
+**1. Việc nhẹ lương cao**
+
+*   Tuyển cộng tác viên online, chốt đơn, làm nhiệm vụ
+*   Yêu cầu nộp tiền trước để “kích hoạt” hoặc “tăng cấp”
+*   Thực chất là bẫy chiếm đoạt tiền
+
+**2. Mạo danh cơ quan chức năng**
+
+*   Giả danh công an, tòa án, ngân hàng
+*   Yêu cầu cung cấp OTP, mật khẩu, thông tin cá nhân
+*   Đánh cắp tài khoản và tiền trong tích tắc
+
+**3. Bẫy tình cảm & đầu tư**
+
+*   Làm quen, tạo lòng tin rồi dụ đầu tư
+*   Hứa hẹn lợi nhuận cao, “lãi nhanh”
+*   Cuối cùng yêu cầu nạp thêm tiền rồi biến mất
+
+**NHỚ NGAY “3 KHÔNG” ĐỂ TỰ BẢO VỆ:**
+
+**\- KHÔNG cung cấp OTP** – Dù bất kỳ ai yêu cầu
+
+**\- KHÔNG** **bấm link lạ** – Tránh bị chiếm quyền tài khoản
+
+**\- KHÔNG** chuyển tiền – Khi chưa xác minh rõ ràng
+
+Sinh viên hãy đọc kỹ, lưu lại và chia sẻ bài viết này. Biết sớm để tránh bẫy – chia sẻ để bảo vệ bạn bè xung quanh!
+
+Trong mọi tình huống nghi ngờ bị lừa đảo, bị đe dọa hoặc cần xác minh thông tin, sinh viên tuyệt đối không tự xử lý một mình. Hãy liên hệ ngay Cố vấn học tập (CVHT) hoặc Phòng Công tác Sinh viên (CTSV) để được hỗ trợ kịp thời và đúng quy trình.
+
+PHÒNG CÔNG TÁC SINH VIÊN – UIT

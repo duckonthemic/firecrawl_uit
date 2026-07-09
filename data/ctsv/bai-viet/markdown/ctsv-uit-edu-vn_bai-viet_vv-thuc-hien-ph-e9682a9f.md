@@ -1,0 +1,20 @@
+V/v Thực hiện phương thức đóng học phí thay thế tài khoản định danh
+===================================================================
+
+Thu, 18/07/2024 - 11:20
+
+Hiện tại, giao dịch đóng học phí thông qua tài khoản định danh đang gặp lỗi kỹ thuật, Nhà trường đang phối hợp với ngân hàng BIDV để kiểm tra và xử lý lỗi.
+
+Phòng Kế hoạch - Tài chính thông báo về việc sử dụng phương thức đóng học phí thay thế tài khoản định danh như sau:
+
+Sinh viên thực hiện đóng học phí bằng "CÁCH 2" như trong thông báo thu học phí học kỳ hè, năm học 2023-2024. Cụ thể:
+
+**Cách 2: Sinh viên nộp học phí trực tiếp vào một trong các tài khoản ngân hàng sau:**
+
+**Tên tài khoản:           TRUONG DAI HOC CONG NGHE THONG TIN**
+
+_1\. Số tài khoản:             314.100.01210304_
+
+   _Tại ngân hàng:          TMCP Đầu tư và Phát triển Việt Nam (BIDV) – CN Đông Sài Gòn_
+
+_2\. Số tài khoản:             038.100.0578414_

@@ -1,0 +1,25 @@
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 57
+==========================================================
+
+Sat, 08/04/2023 - 18:51
+
+“Tại sao người khác dễ dàng có được tình yêu, còn tôi thì không?”
+
+Đã bao giờ bạn bất lực đến bật khóc trước câu hỏi này chưa?
+
+Trong gia đình, trong tình bạn hay tình yêu. Có những người tìm thấy tình yêu rất dễ dàng. Gần như họ chẳng va vấp khổ sở nhiều lần. Gần như họ có thể tìm được một người tình nguyện hiểu họ, yêu thương và trân trọng họ rất đơn giản và nhanh lẹ. Để rồi họ cứ an yên mà yêu nhau đắm say giữa cuộc đời vần vũ. Cuộc sống của họ không phải là không có thử thách, chỉ là họ có thể cùng nhau nắm tay để đi qua sóng gió rất nhẹ nhàng.
+
+Nhưng không. Rồi đến một ngày bạn sẽ thấy, thái độ đối với tình yêu mới là thứ để quyết định bạn có xứng đáng được yêu và hạnh phúc hay không!  
+Thay vì cho rằng chẳng ai đến bên cạnh mình, tôi sẽ tìm cách để đến bên cạnh người khác.
+
+Thay vì mong chờ tình yêu đến sưởi ấm trái tim cô đơn của mình, tôi sẽ chủ động mang tình yêu đến và sưởi ấm một trái tim cô đơn khác.
+
+Thay vì oán thán cuộc đời này đầy rẫy những bất công, tôi sẽ lặng lẽ san sẻ niềm may mắn và sự giàu có trong tâm hồn mình cho những người cần chúng.
+
+Rồi một ngày, có lẽ, tình yêu hoặc là hạnh phúc, sẽ tự dưng mà xuất hiện đến bên tôi thôi.
+
+Tôi muốn mình thay đổi cách nhìn, thay đổi cách suy nghĩ, và thay đổi cách sống. Hãy đến với WeTalk số 58 chủ đề “Tại sao người khác dễ dàng có được tình yêu, còn tôi thì không?” vào lúc:
+
+Thời gian từ 19:00 - 20:00, thứ 2 ngày 10/4/2023, Online trên Microsoft Teams
+
+                     15:00 - 16:00, thứ 6 ngày 21/4/2023 , tại Phòng Không gian chia sẻ - A104

@@ -1,0 +1,80 @@
+Bệnh sốt xuất huyết do virus Marburg
+====================================
+
+Thu, 06/04/2023 - 11:44
+
+**Virus Marburg là gì?**
+
+Marburg virus được phát hiện lần đầu vào năm 1967 tại một phòng thí nghiệm tại Marburg và Frankfut , Đức khi gây **bệnh sốt xuất huyết** và cũng thời gian đó là tại Serbia. 31 bệnh nhân là nhân viên phòng thí nghiệm và thân nhân chăm sóc họ. 7 ca tử vong. Nguyên nhân là do tiếp xúc với mô của loài khỉ xanh lá nhập khẩu từ Châu Phi. Bệnh điển hình thường gây dịch ở các nước Châu Phi, vùng Tây Sahara.
+
+Ký chủ của loại virus này là loài dơi ở Châu Phi, Rousettus aegyptiacus. Loài dơi này nhiễm virus nhưng không biểu hiện bệnh. Tuy nhiên nếu động vật hay người nhiễm bệnh này có thể gây bệnh nặng với tỷ lệ tử vong cao.
+
+Bệnh do virus Marburg gây ra có nhiều điểm giống nhau về mặt lâm sàng với Ebola như quá trình phát triển trong cơ thể, mức độ/ cách thức lây lan; có thể gây ra những triệu chứng và biến chứng tương tự và có nguy cơ bùng dịch với tỷ lệ tử vong cao.
+
+Virus Marburg gây sốt xuất huyết nguy hiểm, có nhiều điểm tương tự với virus Ebola
+
+**Con đường lây truyền**
+
+Nhiễm Marburg virus ở người thường do tiếp xúc lâu dài với phân hay chất tiết của dơi Rousettus trong hầm mỏ. Một khi người bị nhiễm virus có thể lây nhiễm trực tiếp qua đường tiếp xúc trực tiếp (da trầy xước hay niêm mạc) với máu, chất tiết, tạng hay dịch cơ thể ngay cả trên bề mặt hay dụng cụ (quần áo, drap giường) bị lây nhiễm dịch tiết.
+
+Vi rút cũng có nguy cơ lây truyền qua đường tình dục. Một số báo cáo khoa học cho biết tìm thấy virus Marburg trong tinh dịch sau tận 7 tuần khi người nhiễm bình phục.
+
+Đối với nhân viên y tế thường nếu xuyên tiếp xúc với người nhiễm bệnh mà không có biện pháp kiểm soát nhiễm trùng nghiêm ngặt thì nguy cơ bị lây bệnh rất cao. Lây nhiễm qua các thiết bị y tế nhiễm bẩn như kim tiêm thường có liên quan tới tình trạng bệnh nghiêm trọng hơn và có thể dẫn tới tỷ lệ tử vong cao hơn.
+
+Trong môi trường chất thải người bệnh và ở bề mặt trung tính tại nhiệt độ phòng, vi rút có thể tồn tại nhiều ngày. Kể cả sau khi khỏi bệnh, virus Marburg vẫn còn tồn tại ở các vị trí như tinh hoàn và bên trong mắt ở một số người. Nếu nhiễm bệnh trong thời gian mang thai, virus sẽ có trong nhau thai, nước ối và cả thai nhi. Ở những phụ nữ đang cho con bú nếu bị Marburg, virus có nguy cơ tồn tại trong sữa mẹ
+
+**Dấu hiệu khi bị nhiễm Virus Marburg**
+
+Trước khi xuất hiện các triệu chứng đầu tiên, sốt xuất huyết do nhiễm virus Marburg có thời gian ủ bệnh từ 2-21 ngày. Trong thời gian ủ bệnh, Marburg không có tính lây nhiễm.
+
+Các dấu hiệu bệnh sau đó thường khởi phát đột ngột với các biểu hiện dưới đây:
+
+Sốt cao, đau đầu, đau họng và mệt mỏi dữ dội. Đau cơ rất thường gặp. Tiêu chảy nước, đau bụng , vọp bẻ, nôn và buồn nôn có thể gặp từ ngày thứ ba. Tiêu chảy có thể kéo dài cả tuần. Trong giai đoạn này bệnh nhân trông giống “thây ma” với gương mặt thất thần, vô cảm với mắt thâm quầng, trũng sâu.Trong khoảng 15 ngày sau khởi phát bệnh nhân có thể có sẩn hồng ban, thường ở thân: ngực, lưng, bụng trên.Xuất huyết có thể xảy ra trong vòng 7 ngày đầu, và là nguyên nhân gây tử vong với xuất huyết nhiều nơi. Xuất huyết tiêu hóa bao gồm: ói ra máu tiêu ra ra máu tươi thường kèm chảy máu mũi, máu rang hay xuất huyết ama đạo. Xuất huyết tự nhiên hay chảy máu nơi tiêm chích đặt biệt nghiêm trọng. trong suốt giai đoạn này bệnh nhân thường sốt cao. Ngoài ra bệnh có thể ảnh hưởng đến hệ thần kinh bao gồm: lú lẫn, kích thích, và kích động.Viêm tinh hoàn có thể xuất hiện ở giai đoạn muộn: khoảng 15 ngày sau.Bệnh có thể gây tử vong thường sau 7-8 ngày khởi phát bệnh do mất máu hay shock. Các triệu chứng diễn tiến nặng bao gồm vàng da, viêm tụy, suy gan, suy đa cơ quan và xuất huyết nặng.
+
+Xuất huyết là dấu hiệu cảnh báo nguy hiểm khi bị nhiễm virus Marburg
+
+**Nguyên nhân gây bệnh**
+
+Giống như con đường lây truyền, những người nhiễm MVD được cho là có thời gian dài tiếp xúc hoặc làm việc trong các hang động là nơi sinh sống của loài dơi Rousettus. Virus có thể lây lan từ động vật sang người, cũng như từ người sang người và qua các vật thể bị ô nhiễm.
+
+Vì vậy những đối tượng như người thường xuyên làm việc, sinh sống trong khu vực có dơi ăn quả châu Phi/ động vật linh trưởng; nhân viên y tế; nhân viên phòng thí nghiệm; người tiếp xúc các thiết bị y tế như kim tiêm, ga trải giường; khách du lịch,… là những người có nguy cơ cao _nhiễm virus Marburg_ .
+
+**Chẩn đoán khi bị nhiễm virus Marburg**
+
+Không dễ để có thể chẩn đoán lâm sàng virus Marburg sớm, chính xác vì các triệu chứng của virus tương tự nhiều bệnh nhiễm khác như **sốt rét** hoặc sốt thương hàn, viêm màng não và các bệnh sốt xuất huyết do virus khác (vd Ebola). Tỷ lệ tử vong giao động 23-90%.
+
+Nếu nghi ngờ hoặc là đối tượng từng ở trong môi trường có nguy cơ nhiễm bệnh cao như làm việc trong phòng thí nghiệm vi sinh hay đến vùng dịch tễ: Châu Phi và có tiếp xúc với dơi ăn quả hay làm việc trong hầm mỏ hay hang động có phân dơi. trước tiên người bệnh cần phải cách ly để giảm thiểu thấp nhất nguy cơ lây nhiễm.
+
+Để xác nhận liệu có thật sự bị bệnh nhiễm Marburg hay không, người bệnh cần thực hiện các xét nghiệm như:
+
+Mẫu bệnh phẩm: Ngoài máu ra còn có thể lấy dịch não tủy, nước bọt và một số dịch tiết khác của cơ thể.Xét nghiệm ELISA antigen hoặc IgM/IgG: Là xét nghiệm hấp thụ miễn dịch liên kết với enzyme. Đây là một biện pháp sinh hóa nhằm phát hiện kháng thể IgM (mới nhiễm) hoặc IgG (từng nhiễm) trong máu – dấu hiệu cho thấy bạn đã tiếp xúc với virus.Xét nghiệm PCR: PCR là phản ứng chuỗi polymerase phiên mã ngược. Xét nghiệm này giúp tìm kiếm vật chất di truyền của virus – cụ thể là RNA – để xác định dấu ấn di truyền của virus.
+
+Cả 2 xét nghiệm máu ở trên có khả năng xác nhận bệnh trong giai đoạn đầu, trong vòng vài ngày khi có các triệu chứng bệnh nhiễm virus Marburg. Ngoài ra còn có các phương pháp chẩn đoán chuyên sâu hơn như thu thập mẫu bệnh học rồi nghiên cứu bằng kính hiển vi điện tử hoặc tiến hành phân lập virus bằng nuôi cấy tế bào.
+
+**Phương pháp điều trị**
+
+Khác với Ebola, cho tới nay vẫn chưa có vaccine hay phương pháp điều trị đặc hiệu nào với virus Marburg. Vậy cách điều trị virus Marburg là gì nếu không may nhiễm bệnh? Nguyên tắc điều trị chính là phát hiện sớm – điều trị sớm – tập trung vào việc nâng đỡ,bù nước điện giải, thở oxy nếu cần điều trị triệu chứng như giảm sốt/ đau, chống xuất huyết, chống suy thận/ suy gan, hỗ trợ tim mạch, chống sốc/dị ứng và hạn chế ở mức thấp nhất các biến chứng xảy ra muộn.
+
+Riêng kháng sinh, chỉ sử dụng trong trường hợp người nhiễm Marburg có các dấu hiệu liên quan tới bội nhiễm vi khuẩn. Những điều này giúp điều trị triệu chứng bệnh cụ thể cũng như tăng cơ hội sống cho người bệnh.
+
+Có một số nghiên cứu đang được thử nghiệm trên động vật nhưng chưa có được áp dụng trên cơ thể người. Các nhà khoa học đang hướng tới biện pháp phát triển protein hỗ trợ miễn dịch để cơ thể có sự chống trả tốt hơn nếu bị virus Marburg xâm nhập và tấn công.
+
+Bệnh có thể tái phát ở một số người nhưng đây là trường hợp rất hiếm gặp; lý do xảy ra tình trạng này vẫn đang được nghiên cứu, chưa có kết luận cụ thể.
+
+![Zalo](https://zalo-article-photo.zadn.vn/f20220ef3bbad2e48bab#270997369)  
+
+  
+
+Việc điều trị cho người nhiễm virus Marburg tập trung chủ yếu vào khả năng giảm nhẹ triệu chứng bệnh và ngăn ngừa biến chứng
+
+**Phương pháp phòng ngừa virus Marburg**
+
+Do chưa có vaccine nên cách phòng ngừa Marburg phần lớn dựa trên các kỹ thuật bảo vệ hàng rào như sử dụng thiết bị bảo hộ cá nhân cũng như tránh động vật có nguy cơ mang virus. Cụ thể bao gồm:
+
+Cách ly, hạn chế tiếp xúc với người nghi nhiễm/ bị nhiễm virusTrang bị các thiết bị bảo hộ như áo choàng, găng tay, khẩu trang, kính mắt,… trước khi tiếp xúc với người nghi nhiễm/ bị nhiễm virusSử dụng thiết bị y tế 1 lần như kim tiêm. Khử trùng kỹ càng những thiết bị dùng lại sau khi có tiếp xúc với dịch cơ thể nhiễm virus MarburgThận trọng với các chất thải như máu/ bãi nôn,… hoặc bất cứ vật dụng nào của người bệnhCần phòng ngừa với cả người thân của người bệnhTránh các vật chủ có nguy cơ tiềm ẩn chứa virus hư dơi ăn quả, động vật linh trưởng, lợn nhà,..Rửa tay thường xuyên sau khi chăm sóc người bệnhNgăn chặn ổ dịch bằng việc chôn cất nhanh chóng, an toàn người đã khuất; theo dõi những người có nguy cơ cao lây nhiễm trong 21 ngày. Nấu chín kỹ tất cả loại thịt trước khi tiêu thụ, tránh ăn thịt sống táiPhòng ngừa Marburg trong quan hệ tình dục: WHO khuyến cáo nam giới sau khi khỏi bệnh nên quan hệ tình dục sau hơn 12 tháng kể từ khi bắt đầu có triệu chứng bệnh hoặc cho đến khi có 2 lần xét nghiệm tinh dịch âm tính với virus Marburg.Tuyên truyền, giáo dục cộng đồng các thông tin cơ bản về nhận biết, phòng ngừa và cách xử lý khi bị nhiễm virút.
+
+                                                                   Nguồn: [http://dvctt.phuongcogiang.gov.vn](http://dvctt.phuongcogiang.gov.vn/)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fbenh-sot-xuat-huyet-do-virus-marburg&title=B%E1%BB%87nh%20s%E1%BB%91t%20xu%E1%BA%A5t%20huy%E1%BA%BFt%20do%20virus%20Marburg)

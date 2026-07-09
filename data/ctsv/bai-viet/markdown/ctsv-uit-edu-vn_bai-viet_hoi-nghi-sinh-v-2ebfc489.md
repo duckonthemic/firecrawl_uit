@@ -1,0 +1,25 @@
+Hội nghị sinh viên năm học 2012-2013
+====================================
+
+Thu, 11/04/2013 - 03:40
+
+Phòng Công tác Sinh viên thông báo
+
+Hội nghị sinh viên năm học 2012-2013, diễn ra vào ngày : 15/4/2013 ( thứ 2)
+
+Thời gian: từ 7g30 ngày 15/4/2013 ( ngồi theo số thứ tự và điểm danh)
+
+Địa điểm: Giảng đường A - Trường Đại học CNTT
+
+Trang phục: Sinh viên dự Hội nghị mặc áo đồng phục của Hội nghị + Quần tây/ quần jeans sẫm màu + thẻ đeo sinh viên.
+
+Sinh viên nhận áo đồng phục vào lúc 8g00 - 11g30, ngày 12/4/2013 ( thứ 6) tại phòng 103 toà nhà A.
+
+Để Hội nghị thành công tốt đẹp đề nghị các bạn tham dự đúng giờ.
+
+  
+Tập tin đính kèm: [DS SV trieu tap tham du HN SV NH 2012-2013.xls](https://ctsv.uit.edu.vn/sites/default/files/attachments/article/175/DS%20SV%20trieu%20tap%20tham%20du%20HN%20SV%20NH%202012-2013.xls)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoi-nghi-sinh-vien-nam-hoc-2012-2013&title=H%E1%BB%99i%20ngh%E1%BB%8B%20sinh%20vi%C3%AAn%20n%C4%83m%20h%E1%BB%8Dc%202012-2013)

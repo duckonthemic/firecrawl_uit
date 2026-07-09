@@ -1,0 +1,23 @@
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 45
+==========================================================
+
+Thu, 24/03/2022 - 17:39
+
+WETALK - KHÔNG GIAN CHIA SẺ chủ đề Hậu giãn cách “Người tiến xa, kẻ hụt chân”
+
+Dịch bệnh xảy ra và qua đi như một cơn lốc cuốn đi việc rất nhiều cảm xúc của các bạn trẻ. Nhiều người trẻ không còn việc làm thêm hoặc phải gián đoạn học hành thậm chí là bị bỏ lại sau lưng. Cuộc sống bỗng dưng trở nên tù túng, lo lắng, bất an về tài chính, sức khỏe và tương lai trở thành những gánh nặng tâm lý mà nhiều người kể cả các bạn trẻ đang phải đối mặt.
+
+Trong nhiều tháng dịch bệnh, có bạn thì tận dụng khoảng thời gian này để nâng cấp bản thân lên một "level" mới. Họ tận dụng thời gian rỗi trong mùa giãn cách để học thêm một ngôn ngữ lập trình mới, trau dồi thêm tiếng Anh hoặc học thêm một khóa học mới để có thêm kỹ năng.
+
+Nhưng, ngược lại không thể khó nhìn thấy có rất nhiều bạn lại dành gần như cả ngày để giải trí, thư giãn với những hoạt động như xem phim, lướt Facebook, dạo TikTok. Thậm chí, khi dịch qua đi nhiều người sẽ rơi vào trạng thái trách móc bản thân vì đã phung phí phần lớn thời gian trong mùa giãn cách mà không tiến bộ được gì cả.
+
+Vì vậy, chính khoảng thời gian này vô tình lại tạo ra khoảng cách ngày càng lớn giữa người nỗ lực để nâng cấp bản thân và những kẻ thường hay trì hoãn.
+
+Thời gian giãn cách vừa qua chính là một chiếc đồng hồ tua chậm để các bạn trẻ có thêm thời gian học cách phát triển bản thân và dành thời gian học thêm những điều mới, phục vụ cho công việc sau này. Nhưng xin thông báo rằng: thời gian ấy đã sắp sửa kết thúc! Một cuộc sống tuy "bình thường nhưng rất mới" sẽ lại chào đón chúng ta với những áp lực và đòi hỏi còn lớn hơn nữa.
+
+Mỗi người trẻ ai nấy đều có những vận tốc và đích đến riêng. Thay vì tập trung nhìn về phía thành công của người khác, hãy nhìn về con đường mình đã chọn và nỗ lực làm mọi cách để bước đi thật nhanh. Tìm ra cách lấp đầy những lỗ hổng của bản thân trong công việc, trong giao tiếp xã hội - là cách hiệu quả nhất để chúng ta củng cố bản thân, sẵn sàng chào đón một cuộc sống bình thường mới.
+
+Vậy để giải tỏa tâm lý đó và tìm cách cho mình lấp đầy những thiếu sót, hãy đến với WeTalk số 45 chủ đề  
+Hậu giãn cách “Người tiến xa, kẻ hụt chân” vào lúc:  
+19:00 - 20:00, Thứ Bảy ngày 12/03/2022, Tại Online trên Microsoft Teams  
+15:00 - 16:00, Thứ Ba ngày 22/03/2022, Tại phòng A114 - KHÔNG GIAN CHIA SẺ

@@ -1,0 +1,17 @@
+Thông báo Khóa học "Blockchain Mathematics and Computing"
+=========================================================
+
+Tue, 14/06/2022 - 11:11
+
+Thông báo Khóa học "Blockchain Mathematics and Computing"
+=========================================================
+
+Thực hiện theo công văn số: 68/VNCCCT ngày 08 tháng 06 năm 2022 của Viện nghiên cứu Cao cấp về Toán (VIASM) về việc triển khai Kế hoạch, nhiệm vụ năm 2022 của "Chương trình trọng điểm Quốc gia phát triển Toán học giai đoạn 2021-2030"; công văn số: 26/ĐHCNTT-ĐTSĐH ngày 10 tháng 06 năm 2022 của Trường Đại học Công nghệ Thông tin - ĐHQG-HCM về việc Phối hợp tổ chức Khóa học "Blockchain Mathematics and Computing"; và Thông báo số: 1 về Khóa học "Blockchain Mathematics and Computing" của VIASM
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [thong\_bao\_so\_1\_blockchain.pdf](https://ctsv.uit.edu.vn/sites/default/files/202206/thong_bao_so_1_blockchain.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-khoa-hoc-blockchain-mathematics-and-computing&title=Th%C3%B4ng%20b%C3%A1o%20Kh%C3%B3a%20h%E1%BB%8Dc%20%22Blockchain%20Mathematics%20and%20Computing%22)

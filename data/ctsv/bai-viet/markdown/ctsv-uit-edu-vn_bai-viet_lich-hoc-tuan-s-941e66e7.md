@@ -1,0 +1,19 @@
+Lịch học tuần SHCD cuối khoá
+============================
+
+Thu, 27/06/2013 - 06:36
+
+Phòng Công tác Sinh viên thông báo đến sinh viên lịch học tuần SHCD cuối khoá dành cho sinh viên khoá 4 và sinh viên khoá trước chưa tham gia tuần SHCD cuối khoá.
+
+Thời gian : ngày 08,09,10/7/2013.
+
+Địa điểm: Giảng đường 1, 2.
+
+Lưu ý: Đây là Tuần SHCD bắt buộc đối với sinh viên cuối khoá, sinh viên không tham gia sẽ không được xét tốt nghiệp, sinh viên xem Quyết định số 01/QĐ-ĐHCNTT-CTSV ngày 21 tháng 02 năm 2011 ban hành quy định Tuần sinh hoạt công dân đối với sinh viên ở mục Quy chế - Quy định.
+
+  
+Tập tin đính kèm: [Thong bao Tuan SHCD cuoi khoa.pdf](https://ctsv.uit.edu.vn/sites/default/files/attachments/article/213/Thong%20bao%20Tuan%20SHCD%20cuoi%20khoa.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Flich-hoc-tuan-shcd-cuoi-khoa&title=L%E1%BB%8Bch%20h%E1%BB%8Dc%20tu%E1%BA%A7n%20SHCD%20cu%E1%BB%91i%20kho%C3%A1)

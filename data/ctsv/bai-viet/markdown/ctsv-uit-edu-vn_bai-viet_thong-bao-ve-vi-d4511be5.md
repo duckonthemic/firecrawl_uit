@@ -1,0 +1,12 @@
+THÔNG BÁO Về việc tư vấn tâm lý trực tuyến của Không gian chia sẻ trong hè
+==========================================================================
+
+Mon, 03/08/2020 - 15:19
+
+**THÔNG BÁO 
+Về việc tư vấn tâm lý trực tuyến
+của Không gian chia sẻ trong hè**
+
+    Căn cứ tình hình thực tế;  
+    Để duy trì được việc hỗ trợ sinh viên có nhu cầu cần được tham vấn, tư vấn những vấn đề gặp phải trong thời gian này nghỉ hè cũng như đang diễn ra dịch bệnh Covid – 19,  Không gian chia sẻ sẽ chuyển sang hình thức tư vấn online, cụ thể:  
+              - Tư vấn trực tuyến tại Microsoft Teams: 9taqfo4 (Từ 8h30 – 11h30 và 13h30 – 16h các ngày Thứ Hai và thứ Tư hàng tuần)

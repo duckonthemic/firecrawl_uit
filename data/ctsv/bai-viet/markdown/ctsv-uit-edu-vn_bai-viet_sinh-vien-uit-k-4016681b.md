@@ -1,0 +1,24 @@
+Sinh viên UIT kiến tập tại Cty Global Cybersoft
+===============================================
+
+Mon, 24/03/2014 - 08:51
+
+Nhằm hỗ trợ sinh viên tìm hiểu môi trường làm việc trong doanh nghiệp và tiếp cận cơ hội làm việc sau khi tốt nghiệp tại Công Ty Cổ Phần Global Cybersoft (GCS) Việt Nam. Phòng Công tác Sinh viên, Văn phòng các Chương trình Chất lượng cao tổ chức 2 đợt tham quan cho Sinh viên trường ĐH Công nghệ Thông tin vào các ngày 21 và 24/3/2014 thu hút 165 sinh viên tham gia.
+
+![wev](https://ctsv.uit.edu.vn/bai-viet/sites/default/files/images/wev.jpg)
+
+Tham gia buổi kiến tập, sinh viên được Chị Nguyễn Thị Tuyết – Trường phòng nhân sự, Anh Ngô Văn Toàn – Phó Tổng Giám đốc GCS, đại diện doanh nghiệp giới thiệu bộ máy vận hành của GCS ở Việt Nam và trên thế giới; cơ hội thực tập, làm việc và những yêu cầu kiến thức, kỹ năng đối với sinh viên khi xác định chọn GCS là điểm lập nghiệp trong tương lai. Đây là những thông tin hữu ích giúp sinh viên định hướng nghề nghiệp rõ ràng, trang bị kiến thức chuyên môn, ngoại ngữ, kỹ năng mềm để nắm lấy cơ hội việc làm sau khi tốt nghiệp. Sau phần trình bày, các bạn sinh viên đã có những câu hỏi trao đổi hữu ích về nghề nghiệp lẫn chuyên môn.
+
+![DSC01480](https://ctsv.uit.edu.vn/bai-viet/sites/default/files/images/DSC01480.JPG)
+
+![DSC01481](https://ctsv.uit.edu.vn/bai-viet/sites/default/files/images/DSC01481.JPG)
+
+Trước khi kết thúc chuyên đi, sinh viên được giới thiệu các phòng làm việc tại GCS. Phòng Công tác Sinh viên sẽ tiếp tục liên hệ với các doanh nghiệp khác để giúp sinh viên có thêm nhiều chuyến đi kiến tập hữu ích.
+
+![CAM01319](https://ctsv.uit.edu.vn/bai-viet/sites/default/files/images/CAM01319.jpg)
+
+  
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fsinh-vien-uit-kien-tap-tai-cty-global-cybersoft&title=Sinh%20vi%C3%AAn%20UIT%20ki%E1%BA%BFn%20t%E1%BA%ADp%20t%E1%BA%A1i%20Cty%20Global%20Cybersoft)

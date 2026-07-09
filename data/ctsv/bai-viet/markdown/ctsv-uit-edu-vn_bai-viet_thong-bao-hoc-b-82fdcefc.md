@@ -1,0 +1,45 @@
+Thông báo học bổng tuyển sinh năm 2016
+======================================
+
+Fri, 19/08/2016 - 10:06
+
+Trường Đại học Công nghệ Thông tin, ĐHQG-HCM thông báo tiêu chí xét học bổng tuyển sinh năm 2016 như sau:
+
+1.  **Tiêu chuẩn chung**
+
+Học bổng tuyển sinh 2016 được xét cho những sinh viên trúng tuyển đại học chính quy năm 2016 vào Trường Đại học Công nghệ Thông tin, ĐHQG-HCM có điểm thi cao theo tiêu chuẩn dưới đây:
+
+|     |     |     |
+| --- | --- | --- |
+|     | **Điều kiện** | **Giá trị học bổng** |
+|     | \- Học sinh đạt giải học sinh giỏi quốc tế năm 2015, 2016.<br><br>\- Học sinh đạt từ giải 3 trở lên học sinh giỏi quốc gia môn Tin học năm 2015, 2016.<br><br>\- Học sinh Thủ khoa, Á khoa Trường<br><br>\- Học sinh có tổ hợp môn xét tuyển vào trường đạt ≥27 điểm trở lên (không tính điểm ưu tiên) | Tương đương với 100% học phí toàn bộ thời gian học tại trường (không tính học phí trong học kỳ hè) |
+|     | Học sinh có tổ hợp môn xét tuyển vào trường đạt ≥26 điểm trở lên (không tính điểm ưu tiên) | Tương đương 100% học phí năm học 2016-2017 |
+*   Nếu sinh viên đạt từ 2 tiêu chuẩn trở lên thì chọn tiêu chuẩn cao nhất.
+*   Sinh viên đóng học phí theo qui định, sau đó Trường sẽ trao học bổng bằng số tiền sinh viên đã đóng (không tính các môn học do sinh viên đăng ký học lại, cải thiện…)
+
+1.  **Tiêu chuẩn kèm theo**
+
+Ngoài tiêu chuẩn chung ở trên, sinh viên muốn duy trì học bổng tuyển sinh 2016 phải đạt tất cả các tiêu chuẩn sau:
+
+*   Không vi phạm quy chế học vụ của Nhà trường.
+*   Có điểm trung bình học kỳ ≥ 7.0 và điểm rèn luyện ≥ 65.
+
+Nếu không đạt đủ các tiêu chuẩn trên, sinh viên sẽ không được cấp trong thời gian tiếp theo.
+
+Nếu sinh viên học chương trình tiên tiến, chất lượng cao thì mức học bổng 1 học kỳ tương đương học phí học kỳ của chương trình đại trà trong học kỳ đó.
+
+Sinh viên xin tạm dừng, bảo lưu ở học kỳ nào thì không được nhận học bổng ở học kỳ đó.
+
+Căn cứ các điều kiện trên, đến thời điểm hiện tại có 03 Tân Sinh viên sẽ được cấp học bổng tương ứng 100% học phí trong suốt thời gian học tại Trường. Đó là 
+
+\- SV VĂN TIẾN CƯỜNG - MSSV 16520160 - Điểm trúng tuyển 26.5
+
+\- SV NGUYỄN NGỌC HANH - MSSV: 16520342 - Điểm trúng tuyển 26.5
+
+\- SV LƯƠNG TUẤN KIỆT - MSSV: 16520626 - Điểm trúng tuyển 26
+
+Xin chúc mừng tất cả các bạn!
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-hoc-bong-tuyen-sinh-nam-2016&title=Th%C3%B4ng%20b%C3%A1o%20h%E1%BB%8Dc%20b%E1%BB%95ng%20tuy%E1%BB%83n%20sinh%20n%C4%83m%202016)

@@ -1,0 +1,34 @@
+Buổi giới thiệu Chương trình trao đổi sinh viên ACTS
+====================================================
+
+Mon, 01/10/2018 - 10:55
+
+**Giới thiệu**
+
+Hệ thống trao đổi tín chỉ Đông Nam Á (ASEAN Credit Transfer System – ACTS) là một hệ thống do Mạng lưới các trường Đại học Đông Nam Á (ASEAN University Network – AUN) thành lập nhằm: tăng cường và tạo điều kiện cho việc giao lưu sinh viên giữa các trường đại học thành viên AUN; chuẩn bị cho sinh viên của các trường thành viên AUN hội nhập Cộng đồng ASEAN.
+
+**Lợi ích của việc tham gia ACTS**
+
+*   Trải nghiệm nền giáo dục của các trường Đại học trong khu vực Đông Nam Á;
+*   Được miễn học phí và được hưởng một số chương trình hỗ trợ sinh viên tham gia chương trình này (tùy thuộc vào chính sách của từng trường và từng thời điểm nộp hồ sơ);
+*   Tích lũy tín chỉ vào chương trình học chính quy;
+*   Trải nghiệm cuộc sống và văn hóa bản địa;
+*   Tiếp thu kiến thức, tăng cường hiểu biết về Cộng đồng ASEAN;
+*   Mở rộng cơ hội nghề nghiệp trong tương lai.
+    
+    **Nội dung buổi giới thiệu**
+    
+*   Giới thiệu về chương trình trao đổi tín chỉ ACTS.
+*   Hướng dẫn làm hồ sơ trực tuyến.
+*   Giải đáp thắc mắc
+    
+    **Thời gian và địa điểm**
+    
+*   Thời gian: **15:00 - 16:30 ngày 04/10/2018 (Thứ Năm)**
+*   Địa điểm: **Phòng A116**
+
+**Trân trọng chào đón sự tham gia của sinh viên, cán bộ, giảng viên Trường ĐH Công nghệ Thông tin, ĐHQG-HCM.**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fbuoi-gioi-thieu-chuong-trinh-trao-doi-sinh-vien-acts&title=%20Bu%E1%BB%95i%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20trao%20%C4%91%E1%BB%95i%20sinh%20vi%C3%AAn%20ACTS)

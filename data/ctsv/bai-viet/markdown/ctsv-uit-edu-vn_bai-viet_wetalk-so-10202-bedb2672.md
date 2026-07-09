@@ -1,0 +1,58 @@
+WeTalk Số 10/2025 – Từ “Tôi” đến “Chúng ta”
+===========================================
+
+Thu, 02/10/2025 - 11:04
+
+**WeTalk Số 10/2025 – “Từ “Tôi” đến “Chúng ta”- Bí quyết  
+kết nối và chinh phục Teamwork hiệu quả”**
+
+Bạn có bao giờ cảm thấy khó khăn trong việc mở rộng mối quan hệ, kết nối với bạn bè hay hợp tác hiệu quả khi làm việc nhóm? 
+
+Bạn mong muốn xây dựng những kết nối bền vững, biết cách hòa nhập, đồng hành và phát huy sức mạnh tập thể thay vì chỉ đơn độc một mình?
+
+Hãy đến với WeTalk số 10/2025 để cùng nhau khám phá hành trình chuyển mình từ “Tôi” đến “Chúng ta” nơi bạn học cách kết nối, thấu hiểu và chinh phục teamwork một cách hiệu quả!
+
+**Kết nối - Đồng hành - Chinh phục cùng nhau**
+
+Tuổi trẻ là hành trình khám phá và đại học chính là nơi bạn không chỉ học kiến thức mà còn học cách kết nối với người khác. Ở môi trường này, bạn sẽ gặp nhiều người bạn mới, cùng tham gia những dự án, hoạt động nhóm nơi mà kỹ năng lắng nghe, chia sẻ và hợp tác quan trọng không kém điểm số.
+
+Đôi khi, việc làm việc nhóm khiến bạn thấy khó hòa nhập, mệt mỏi hay thậm chí “lạc nhịp” với tập thể. Nhưng chính những khoảnh khắc ấy lại là cơ hội để bạn rèn luyện tinh thần đồng đội, thấu hiểu sự khác biệt và tìm ra “chìa khóa” để đi từ Tôi đến Chúng ta.
+
+**NỘI DUNG CHƯƠNG TRÌNH:**
+
+Vì sao làm việc nhóm đôi khi lại khiến chúng ta thấy khó khăn, thậm chí “stress” hơn làm việc một mình? Những khác biệt về tính cách, cách giao tiếp, hay mục tiêu cá nhân thường là nguyên nhân khiến nhiều nhóm rơi vào bế tắc.
+
+**1\.** **Khám phá bí quyết kết nối để có nhiều mối quan hệ chất lượng:** Đại học là môi trường lý tưởng để mở rộng mạng lưới bạn bè, đồng đội. Bạn sẽ được chia sẻ những cách đơn giản nhưng hiệu quả để gắn kết, thấu hiểu và xây dựng sự tin cậy lẫn nhau.
+
+**2\.** **Chinh phục Teamwork hiệu quả:** Cùng chuyên gia tìm hiểu kỹ năng cần thiết để biến “tôi” thành “chúng ta”: từ giao tiếp, lắng nghe, phân chia vai trò đến xử lý mâu thuẫn trong nhóm, những yếu tố then chốt giúp bất kỳ tập thể nào đạt được thành công.
+
+**THÔNG TIN CHƯƠNG TRÌNH**
+
+*   **Thời gian:** 14h30 Thứ 3 ngày 11/11/2025 (Online qua MS Teams) và 14h30 Thứ 6 ngày 14/11/2025 (Offline tại Không gian chia sẻ A104)
+*   **Đối tượng tham gia:** Các bạn SV quan tâm đến bí quyết kết nối và chinh phục Teamwork hiệu quả
+*   **Còn chần chờ gì mà không** **đăng ký ngay** **[tại đây](https://forms.gle/qzb361HVKCC7rRX49)**
+
+* * *
+
+**QUÀ TẶNG DÀNH CHO NGƯỜI THAM DỰ**
+
+*   **Cộng điểm rèn luyện**
+*   **Gửi gắm câu chuyện và cảm xúc của bạn trong** [**_Hộp tâm sự ẩn danh_**](https://link.uit.edu.vn/thong-diep)
+    
+*   **Tư vấn 1:1 với chuyên gia sau chương trình**
+
+* * *
+
+**VỀ WETALK**
+
+WeTalk là chuỗi chương trình trò chuyện tâm lý - sức khỏe tinh thần được tổ chức định kỳ hàng tháng bởi Phòng Công tác Sinh viên, diễn ra tại Không gian chia sẻ - một nơi an toàn, thân thiện để mỗi sinh viên UIT được “xả bớt gánh nặng”, nạp lại năng lượng tinh thần, và học cách phát triển bản thân tích cực hơn.
+
+**_WeTalk – nơi chia sẻ, lắng nghe và đồng hành cùng bạn._**
+
+* * *
+
+**_Hẹn gặp bạn vào chiều 21 và 24/10 nhé!_**
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fwetalk-so-102025-tu-toi-den-chung-ta&title=WeTalk%20S%E1%BB%91%2010%2F2025%20%E2%80%93%20T%E1%BB%AB%20%E2%80%9CT%C3%B4i%E2%80%9D%20%C4%91%E1%BA%BFn%20%E2%80%9CCh%C3%BAng%20ta%E2%80%9D)

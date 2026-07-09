@@ -1,0 +1,42 @@
+Cơ hội không thể bỏ lỡ – Talkshow “Động lực kiến tạo tương lai”
+===============================================================
+
+Wed, 27/11/2024 - 17:00
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202411/covertalkshowso2.png)
+
+**_Bạn đã sẵn sàng để khám phá con đường thành công trong sự nghiệp?_**
+
+Hãy tham gia ngay Talkshow “Khách mời của Đại học Quốc gia Thành phố Hồ Chí Minh” – Số thứ 2 với chủ đề **“Động lực kiến tạo tương lai”!** Đây là sự kiện đầy ý nghĩa dành riêng cho các bạn sinh viên, giúp bạn trang bị những kiến thức và kỹ năng cần thiết để bứt phá trong tương lai.
+
+**_Bạn sẽ nhận được gì?_**
+
+1.  Hiểu rõ yêu cầu của thị trường lao động hiện nay.
+2.  Lắng nghe những chia sẻ về kiến thức, kỹ năng, thái độ cần thiết để xây dựng sự nghiệp bền vững.
+3.  Học hỏi từ những câu chuyện truyền cảm hứng và kinh nghiệm thực tế về khởi nghiệp từ các diễn giả thành công.
+
+**Dàn khách mời đặc biệt:**
+
+**1\. Ông Phạm Phú Ngọc Trai** \- Chủ tịch Hội đồng quản trị Công ty Tư vấn Kinh doanh Hội nhập Toàn cầu - GIBC.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202411/ong_pham_phu_ngoc_trai.png)
+
+**2\. Ông Trần Hùng Huy** \- Chủ tịch Hội đồng quản trị Ngân hàng Thương mại Cổ phần Á Châu (ACB).
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202411/ong_tran_hung_huy.png)
+
+**3.Cựu sinh viên thành đạt của ĐHQG-HCM** – Người đã đi trước và để lại dấu ấn mạnh mẽ trên hành trình sự nghiệp.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202411/ong_nguyen_khac_minh_tri_led.png)
+
+**Thời gian: 8:00 sáng, Thứ Sáu, ngày 06/12/2024**
+
+**Địa điểm: Hội trường A5, Trường Đại học Bách Khoa, 268 Lý Thường Kiệt, P.14, Q.10, TP.HCM.**
+
+**Hạn chót đăng ký:**
+
+**Trước ngày 04/12/2024** **tại:** [https://link.uit.edu.vn/VNUHCM.Talkshow.2024](https://link.uit.edu.vn/VNUHCM.Talkshow.2024)
+
+Cơ hội tham dự miễn phí và nhận những bài học quý giá từ các diễn giả hàng đầu trong ngành! Đừng bỏ lỡ cơ hội này để khơi nguồn cảm hứng, học hỏi kinh nghiệm và kết nối với những người thành công!
+
+Hẹn gặp các bạn tại chương trình!

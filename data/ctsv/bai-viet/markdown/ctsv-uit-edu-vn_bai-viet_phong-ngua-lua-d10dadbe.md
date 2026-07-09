@@ -1,0 +1,31 @@
+\[Phòng ngừa lừa đảo\] Bài 02 | Lừa đảo Học bổng & Du học “Danh sách mật”
+=========================================================================
+
+Fri, 26/12/2025 - 15:56
+
+Phòng Công tác Sinh viên thông tin đến các bạn sinh viên về về chuỗi bài viết tuyên truyền phòng ngừa các phương thức, thủ đoạn lừa đảo bắt cóc học sinh viên viên qua mạng do Phòng Cảnh sát hình sự Công an TP.HCM triển khai
+
+**_Bài 02 | Lừa đảo HỌC BỔNG & DU HỌC “DANH SÁCH MẬT”_**
+Thời gian gần đây, nhiều sinh viên đã trở thành nạn nhân của các chiêu trò lừa đảo ngày càng tinh vi liên quan đến học bổng, du học và các “suất ưu tiên nội bộ”, với những lời mời gọi như:
+
+“Có tên trong danh sách mật”
+
+“Suất đặc biệt – không công khai”
+
+“Chỉ cần nộp phí để giữ chỗ”
+
+Các đối tượng thường giả danh cán bộ, gửi giấy tờ giả, tạo áp lực về thời gian, yêu cầu chuyển tiền hoặc quay video, thậm chí đe dọa, khủng bố tinh thần sinh viên và gia đình.
+
+*   Những dấu hiệu nhận biết lừa đảo phổ biến.
+*   Các chiêu thức đánh vào lòng tham và sự lo lắng của sinh viên.
+*   3 nguyên tắc vàng giúp các sinh viên tự bảo vệ mình.
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202512/2.png)
+
+Sinh viên hãy đọc kỹ, lưu lại và chia sẻ bài viết này. Biết sớm để tránh bẫy và chia sẻ để bảo vệ bạn bè xung quanh.
+
+Trong mọi tình huống nghi ngờ bị lừa đảo, bị đe dọa hoặc cần xác minh thông tin, sinh viên tuyệt đối không tự xử lý một mình. Hãy liên hệ ngay Cố vấn học tập (CVHT) hoặc Phòng Công tác Sinh viên (CTSV) để được hỗ trợ kịp thời và đúng quy trình.
+
+\----------------------------------------------------
+
+PHÒNG CÔNG TÁC SINH VIÊN – UIT

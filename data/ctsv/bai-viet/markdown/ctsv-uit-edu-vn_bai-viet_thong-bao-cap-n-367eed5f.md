@@ -1,0 +1,22 @@
+Thông báo cập nhật hồ sơ sinh viên (quan trọng)
+===============================================
+
+Wed, 29/04/2026 - 13:55
+
+Căn cứ quy định về lưu trữ hồ sơ sinh viên, Phòng Công tác Sinh viên thông báo đến toàn thể sinh viên hệ chính quy đang học tại Trường về việc cập nhật Bằng tốt nghiệp Trung học phổ thông (THPT), cụ thể như sau:
+
+1.  Đối tượng: Sinh viên hệ chính quy hiện đang theo học tại Trường.
+2.  Hình thức:  Sinh viên thực hiện upload bản scan/chụp Bằng tốt nghiệp THPT (bản chính) tại: [https://student.uit.edu.vn/sinhvien/chungchi](https://student.uit.edu.vn/sinhvien/chungchi)
+    
+3.  Thời gian thực hiện: **Từ ngày ban hành thông báo đến hết ngày 17/5/2026**.
+4.  Lưu ý:
+
+*   Giấy chứng nhận tốt nghiệp THPT tạm thời đã nộp khi nhập học không thay thế cho Bằng tốt nghiệp THPT chính thức.
+*   Sinh viên đã nộp bản chính Bằng tốt nghiệp THPT trước đó không cần thực hiện lại.
+*   Sau thời hạn trên, Phòng CTSV sẽ rà soát danh sách sinh viên chưa hoàn thành và xử lý theo quy định hiện hành của Nhà trường.
+
+Nhà trường đề nghị sinh viên nghiêm túc thực hiện đúng thời hạn.
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-cap-nhat-ho-so-sinh-vien-quan-trong&title=Th%C3%B4ng%20b%C3%A1o%20c%E1%BA%ADp%20nh%E1%BA%ADt%20h%E1%BB%93%20s%C6%A1%20sinh%20vi%C3%AAn%20(quan%20tr%E1%BB%8Dng))

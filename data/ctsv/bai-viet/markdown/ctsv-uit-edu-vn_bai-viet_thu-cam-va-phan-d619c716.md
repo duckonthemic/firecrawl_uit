@@ -1,0 +1,24 @@
+Thư cảm ơn và phản hồi sinh viên về việc sử dụng kết quả khảo sát
+=================================================================
+
+Tue, 24/05/2022 - 16:58
+
+Thân gởi các bạn sinh viên!
+
+Hoạt động thu thập lấy ý kiến phản hồi từ các bên liên quan  là môt trong những hoạt động quan trọng nhằm đổi mới và nâng cao chất lượng đào tạo tại Trường ĐH Công nghệ Thông tin (UIT) 
+
+Hằng năm, Trường tiến hành khảo sát lấy ý kiến phản hồi từ nhiều đối tượng khác nhau, trong  đó có các bạn sinh viên đang học tại Trường. Nay Ban Giám hiệu Nhà trường chân thành gởi đến các bạn lời cảm ơn về sự nhiệt tình đóng góp ý kiến cho Nhà Trường. Những ý kiến này sẽ là kênh thông tin hữu ích để nhà Trường xem xét và từng bước cải thiện hơn nữa chất lượng đào tạo.
+
+Mời các bạn xem file đính kèm 
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/1.png)
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/2.png)
+
+File đính kèm: 
+
+ ![PDF icon](https://ctsv.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [thu\_cam\_on\_va\_phan\_hoi\_ket\_qua\_khao\_sat\_sinh\_vien.pdf](https://ctsv.uit.edu.vn/sites/default/files/202205/thu_cam_on_va_phan_hoi_ket_qua_khao_sat_sinh_vien.pdf)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthu-cam-va-phan-hoi-sinh-vien-ve-viec-su-dung-ket-qua-khao-sat&title=Th%C6%B0%20c%E1%BA%A3m%20%C6%A1n%20v%C3%A0%20ph%E1%BA%A3n%20h%E1%BB%93i%20sinh%20vi%C3%AAn%20v%E1%BB%81%20vi%E1%BB%87c%20s%E1%BB%AD%20d%E1%BB%A5ng%20k%E1%BA%BFt%20qu%E1%BA%A3%20kh%E1%BA%A3o%20s%C3%A1t%20)

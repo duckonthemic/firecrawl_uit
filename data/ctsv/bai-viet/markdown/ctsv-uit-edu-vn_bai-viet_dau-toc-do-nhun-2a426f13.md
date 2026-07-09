@@ -1,0 +1,75 @@
+Dấu ấn tốc độ - Những gương mặt xuất sắc tại Giải Chạy Việt Dã UIT SPORT 2025
+=============================================================================
+
+Tue, 27/05/2025 - 08:38
+
+Vào sáng ngày 23/05/2025, **giải chạy Việt dã UIT SPORT 2025** đã diễn ra sôi nổi với sự tham gia nhiệt tình của đông đảo sinh viên đến từ các khoa trong toàn trường. Các vận động viên đã cống hiến những phần thi đầy nỗ lực, thể hiện tinh thần thể thao, ý chí bền bỉ và quyết tâm vượt qua giới hạn bản thân.
+
+**BTC xin chúc mừng các bạn sinh viên đã xuất sắc đạt giải tại cuộc thi năm nay!**
+
+**NỘI DUNG NỮ:**
+
+**Giải Nhất:** Lê Huỳnh Thảo An – Khoa Khoa học & Kỹ thuật thông tin  
+**Giải Nhì:** Nguyễn Thị Mai Liên – Khoa Hệ thống Thông tin   
+**Giải Ba:** Vũ Thị Như Quỳnh – Khoa Hệ thống Thông tin   
+**Giải Khuyến Khích:** Hồ Thị Minh Ngọc – Khoa Khoa Khoa học & Kỹ thuật thông tin
+
+**NỘI DUNG NAM:**
+
+**Giải Nhất:** Lê Văn An – Khoa Công nghệ Phần mềm   
+**Giải Nhì (đồng giải):**
+
+Võ Hồ Trung Quân – Khoa Hệ thống Thông tin 
+
+Nguyễn Minh Hiếu – Khoa Mạng máy tính và Truyền thông 
+
+**Giải Ba (đồng giải):**
+
+Dương Văn Quy – Khoa Khoa Khoa học & Kỹ thuật thông tin
+
+Nguyễn Gia Bảo – Khoa Hệ thống Thông tin 
+
+Nguyễn Lâm Minh Khoa – Khoa Mạng máy tính và Truyền thông 
+
+**Giải Khuyến Khích:**
+
+Trần Đình Trung Hiếu – Khoa Hệ thống Thông tin 
+
+Nguyễn Đình Chiến – Khoa Khoa Khoa học & Kỹ thuật thông tin
+
+Nguyễn Thành Ý – Khoa Khoa Khoa học & Kỹ thuật thông tin
+
+Phan Như Thuần – Khoa Mạng máy tính và Truyền thông
+
+Giải chạy không chỉ là nơi tranh tài thể lực mà còn là dịp để sinh viên UIT rèn luyện sức khỏe, lan tỏa năng lượng tích cực và tinh thần đồng đội. BTC xin gửi lời cảm ơn đến tất cả các vận động viên, các bạn sinh viên cổ động và các thầy cô đã góp phần tạo nên một sự kiện thể thao thành công và đầy cảm hứng!
+
+**Hẹn gặp lại các bạn ở mùa giải năm sau!**  
+#UITSport2025 #ViệtDãUIT #SứcKhỏeSinhViên #UITNăngĐộng #ThểThaoVìCộngĐồng
+
+**Các bạn có thể xem thêm ảnh chụp Giải chạy tại đây: [https://drive.google.com/drive/folders/1Z5FTYg0hcHZye6KejD0Zoc6uEgrSWaXP](https://drive.google.com/drive/folders/1Z5FTYg0hcHZye6KejD0Zoc6uEgrSWaXP%C2%A0)** 
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_141.jpg)
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_144.jpg)
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_150.jpg)
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_153.jpg)
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_156.jpg)
+
+File đính kèm: 
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/jpeg") [giaivietdauit\_141.jpg](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_141.jpg)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/jpeg") [giaivietdauit\_144.jpg](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_144.jpg)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/jpeg") [giaivietdauit\_150.jpg](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_150.jpg)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/jpeg") [giaivietdauit\_153.jpg](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_153.jpg)
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/jpeg") [giaivietdauit\_156.jpg](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202505/giaivietdauit_156.jpg)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdau-toc-do-nhung-guong-mat-xuat-sac-tai-giai-chay-viet-da-uit-sport-2025&title=D%E1%BA%A5u%20%E1%BA%A5n%20t%E1%BB%91c%20%C4%91%E1%BB%99%20-%20Nh%E1%BB%AFng%20g%C6%B0%C6%A1ng%20m%E1%BA%B7t%20xu%E1%BA%A5t%20s%E1%BA%AFc%20t%E1%BA%A1i%20Gi%E1%BA%A3i%20Ch%E1%BA%A1y%20Vi%E1%BB%87t%20D%C3%A3%20UIT%20SPORT%202025)

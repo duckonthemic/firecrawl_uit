@@ -1,0 +1,30 @@
+\[Phòng ngừa lừa đảo\] CẢNH BÁO THỦ ĐOẠN LỪA ĐẢO XEM BÓI, CẦU DUYÊN ONLINE
+==========================================================================
+
+Wed, 25/02/2026 - 11:00
+
+Phòng Công tác Sinh viên thông tin đến các bạn sinh viên về về chuỗi bài viết tuyên truyền phòng ngừa các phương thức, thủ đoạn lừa đảo bắt cóc học sinh viên qua mạng
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202602/canhbaoluadaoxemboionline.jpg)
+
+_**CẢNH BÁO THỦ ĐOẠN LỪA ĐẢO XEM BÓI, CẦU DUYÊN ONLINE**_
+
+**Sau Tết, nhiều sinh viên dễ gặp các chiêu trò lừa đảo công nghệ cao như:**
+
+*   Xem bói online – giải hạn – cắt duyên – mở cung tài lộc
+*   Yêu cầu chuyển khoản 1–3 triệu để “làm lễ gấp”
+    
+*   Nhắn tin hù dọa: “Không làm sẽ gặp hạn, xui rủi”
+    
+
+**Nhớ kỹ 3 KHÔNG:**
+
+*   KHÔNG HOANG MANG – Giữ bình tĩnh, đừng để bị thao túng tâm lý.
+*   KHÔNG TIN TƯỞNG – Không nghe theo lời dụ dỗ, đe dọa trên mạng.
+*   KHÔNG CHUYỂN KHOẢN – Tuyệt đối không gửi tiền cho người lạ.
+
+Sinh viên hãy đọc kỹ, lưu lại và chia sẻ bài viết này. Biết sớm để tránh bẫy – chia sẻ để bảo vệ bạn bè xung quanh!
+
+Trong mọi tình huống nghi ngờ bị lừa đảo, bị đe dọa hoặc cần xác minh thông tin, sinh viên tuyệt đối không tự xử lý một mình. Hãy liên hệ ngay Cố vấn học tập (CVHT) hoặc Phòng Công tác Sinh viên (CTSV) để được hỗ trợ kịp thời và đúng quy trình.
+
+PHÒNG CÔNG TÁC SINH VIÊN – UIT

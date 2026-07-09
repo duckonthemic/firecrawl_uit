@@ -1,0 +1,115 @@
+Thông báo Về việc tham dự lễ tốt nghiệp đợt 1 Năm 2026 và Danh sách xếp chỗ
+===========================================================================
+
+Sun, 31/05/2026 - 21:28
+
+**NHỮNG LƯU Ý**  
+**KHI THAM DỰ LỄ TỐT NGHIỆP ĐỢT 1 – 2026**
+
+**LỊCH TỔ CHỨC LỄ TỐT NGHIỆP:**
+
+Buổi sáng ngày 09/06/2026 lúc 8h00: 
+
+*   Lễ trao bằng Tiến sĩ, Thạc sĩ các ngành: Khoa Khoa học Máy tính, Công nghệ Thông tin, Hệ thống Thông tin, An toàn Thông tin.
+*   Lễ trao bằng cử nhân khoa Khoa học Máy tính. 
+
+Buổi chiều ngày 09/06/2026 lúc 13h30: Lễ trao bằng Kỹ sư, Cử nhân khoa: Hệ thống Thông tin.
+
+Buổi sáng ngày 10/06/2026 lúc 8h00: Lễ trao bằng Kỹ sư, Cử nhân khoa: Công nghệ Phần mềm.
+
+Buổi chiều ngày 10/06/2026 lúc 13h30: Lễ trao bằng Kỹ sư, Cử nhân khoa: Khoa Mạng máy tính và Truyển thông.
+
+Buổi sáng ngày 11/06/2026 lúc 8h00: Lễ trao bằng Kỹ sư, Cử nhân các khoa: Khoa Kỹ thuật Máy tính, Khoa Khoa học và Kỹ thuật Thông tin (bao gồm cả các hệ: Liên thông Chính qui, Văn bằng 2 Chính qui), Trung tâm Phát triển Công nghệ Thông tin- CITD (các chương trình hệ đào tạo từ xa).
+
+**Địa điểm:** _Hội trường A (Tầng 3 Nhà A) , Trường ĐH Công nghệ Thông tin._
+
+**NHỮNG LƯU Ý CHUNG:**
+
+\- Cẩn trọng trong việc **tự bảo quản tư trang, vật dụng cá nhân, tài sản có giá trị,** phòng ngừa kẻ gian trà trộn lấy cắp tài sản
+
+\- Giữ trật tự, **t******ắ**t chuông điện thoại di động**, không sử dụng laptop trong thời gian diễn ra lễ.
+
+\- Trong thời gian diễn ra lễ, nhà trường có bố trí chụp hình cho các tân tiến sĩ thạc sĩ, kỹ sư, cử nhân tại hội trường. Sau lễ tốt nghiệp 10 ngày, tân tiến sĩ, thạc sĩ, kỹ sư, cử nhân có thể lên website của phòng CTSV để xem và download ảnh.
+
+\- Quý phụ huynh và các bạn sinh viên chú ý khi sử dụng các dịch vụ chụp ảnh khác không phải do trường cung cấp. **Không chụp hình, không lên sân khấu tặng hoa trong thời gian diễn ra lễ**.
+
+ **ĐỐI VỚI QUÝ VỊ PHỤ HUYNH:**
+
+\- Vui lòng tuân theo sự hướng dẫn của Ban tổ chức: Quý phụ huynh vui lòng ngồi theo dõi Lễ tốt nghiệp tại **Khán đài A-B-C-D (Cửa số 09-10-11-12) và K-L (Cửa số 01-02-03).** 
+
+**Lưu ý:** Chỗ ngồi trong hội trường có hạn, ban tổ chức ưu tiên phụ huynh đến trước và ổn định chỗ ngồi. Trong trường hợp Hội trường A hết chỗ ngồi, Ban Tổ chức bố trí phòng chờ có điều hòa và video trực tuyến cho phụ huynh tại phòng **A315 và A325 ( lầu 3 nhà A)**.
+
+\- **Chú ý tự bảo quản tài sản cá nhân phòng ngừa kẻ gian trà trộn lấy cắp tài sản**.
+
+\- **Không tập trung trong khu vực làm lễ của sinh viên học viên, không đứng tại các cửa và lối đi của Hội trường, không lên sân khấu chụp ảnh, tặng hoa.**
+
+\- Phụ huynh có mang theo trẻ em vui lòng kiểm soát trẻ, tránh gây ồn trong buổi lễ.
+
+**ĐỐI VỚI TÂN TIẾN SĨ, THẠC SĨ, KỸ SƯ VÀ TÂN CỬ NHÂN DỰ LỄ:**
+
+\- Thời gian tập trung **Buổi sáng lúc 07 giờ 30 , Buổi chiều lúc 13 giờ 00** tại Hội trường A để điểm danh, ổn định chỗ ngồi nghe hướng dẫn nghi thức nhận bằng. Buổi lễ sẽ bắt đầu lúc **08 giờ 00 buổi sáng** và **13 giờ 30 buổi chiều**.
+
+\- Học viên, sinh viên phải có mặt đúng giờ, ngồi đúng chỗ ngồi theo thông báo và thực hiện công tác **điểm danh lần 1** với thư ký khoa phụ trách. Học viên, sinh viên không thực hiện đúng thủ tục sẽ **không có tên trong nghi thức trao bằng.**
+
+\- Tuân theo sự điều động của Ban tổ chức, tuyệt đối **không ra khỏi giảng đường trong thời gian diễn ra lễ**  (dự kiến kết thúc lúc 10 giờ 00 buổi sáng và 15 giờ 30 buổi chiều).
+
+\- **Mặc lễ phục theo quy định**, **tua nón để phía bên trái**.
+
+\- **Nhớ số thứ tự và ngồi đúng vị trí theo sơ đồ** đã thông báo (Xem kỹ danh sách và sơ đồ đính kèm).
+
+\- Khi chào cờ: **đứng và không đội nón**. Khi nghe đọc quyết định công nhận tốt nghiệp: đứng, đội nón, tua nón để phía bên trái.
+
+**QUI TRÌNH NHẬN BẰNG:**
+
+Bước 1: Di chuyển khi có sự điều động từ Ban tổ chức, di chuyển theo thứ tự danh sách, theo một hàng. ****Điểm danh lần 2**** .
+
+**_Lưu ý: di chuyển ra khỏi chỗ ngồi theo hướng dẫn._**
+
+Bước 2: Di chuyển đến vi trí chờ nhận bằng. **Điểm danh xác nhận lần 3**.
+
+Bước 3: Nghi thức trao huy chương tốt nghiệp. Bước đến phía trước sân khấu, chỉnh trang y phục, tua nón bên trái, đợi xướng tên.
+
+Bước 3: Khi nghe xướng tên, di chuyển đến giữa sân khấu; cúi đầu chào, bắt tay Thầy bằng 2 tay; **cúi đầu để thầy gạt tua**. Khi nhận bằng, cầm 2 tay, ngang ngực. Xoay người về phía khán đài, **nhìn thẳng vào máy ảnh, chụp hình với Thầy**.
+
+Bước 4: Di chuyển ra phía sau, xếp thành hàng theo sự hướng dẫn của người điều phối, **chụp hình chung theo khoa**.
+
+Bước 5: Di chuyển về chỗ ngồi theo sự hướng dẫn.
+
+**SƠ ĐỒ HỘI TRƯỜNG A:**
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/files/202506/hoitruonga.jpg)
+
+**DANH SÁCH XẾP CHỖ NGỒI:**
+
+Tân thạc sĩ, tân cử nhân, tân kỹ sư được xếp ngồi từ Khán đài C đến Khán đài L
+
+Vui lòng xem kỹ danh sách đính kèm để ngồi đúng vị trí (Số hàng ghế và khán dài có dán tại mỗi hàng ghế)
+
+**<< DANH SÁCH XẾP CHỖ SÁNG 09/06 (TS, ThS, KMHT)>>**
+
+**<< DANH SÁCH XẾP CHỖ CHIỀU 09/06 (HTTT) >>**
+
+**<< DANH SÁCH XẾP CHỖ SÁNG 10/06 (CNPM) >>**
+
+**<< DANH SÁCH XẾP CHỖ CHIỀU 10/06 (MMT&TT) >>**
+
+**<< DANH SÁCH XẾP CHỖ SÁNG 11/06 (KTMT, KH&KTTT, CITD) >>**
+
+**HƯỚNG DẪN:**
+
+\- Tân thạc sĩ, kỹ sư, cử nhân lên nhận bằng theo sự điều động của Ban tổ chức Di chuyển ra khỏi chỗ ngồi theo hướng **bên phải khán đài** và đi về theo hướng **bên trái** **khán đài** chỗ ngồi ban đầu
+
+\- Ghi nhớ **Khán đài và Hàng ghế** của mình để ngồi đúng vị trí
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202405/luuy.jpg)
+
+\- Ghi chú trong danh sách:
+
+*   STT: Số thứ tự trong danh sách dự lễ.
+*   Khán đài: Có 12 Khán đài được đánh thứ tự theo chữ cái ABC từ trái sang phải.
+*   Hàng ghế : Mỗi Khán đài có 11 hàng ghế được đánh số thứ tự ( Số gần sân khấu là số nhỏ).
+*   **Lưu ý:** có một số khán đài có ít hơn 11 hàng ghế. Vui lòng xem số dán trên bàn để biết hàng ghế.
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ve-viec-tham-du-le-tot-nghiep-dot-1-nam-2026-va-danh-sach-xep-cho&title=Th%C3%B4ng%20b%C3%A1o%20V%E1%BB%81%20vi%E1%BB%87c%20tham%20d%E1%BB%B1%20l%E1%BB%85%20t%E1%BB%91t%20nghi%E1%BB%87p%20%C4%91%E1%BB%A3t%201%20N%C4%83m%202026%20v%C3%A0%20Danh%20s%C3%A1ch%20x%E1%BA%BFp%20ch%E1%BB%97)

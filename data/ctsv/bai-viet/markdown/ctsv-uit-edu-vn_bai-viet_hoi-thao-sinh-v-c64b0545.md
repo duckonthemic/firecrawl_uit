@@ -1,0 +1,64 @@
+Hội thao Sinh viên ĐHQG-HCM năm 2026 | Mở đăng ký tham gia môn bóng rổ và cầu lông (Đợt 3)
+==========================================================================================
+
+Fri, 22/05/2026 - 10:28
+
+Thực hiện kế hoạch số 709/KH-ĐHQG ngày 13 tháng 04 năm 2026 của Đại học Quốc gia Thành phố Hồ Chí Minh về việc tổ chức Hội thao sinh viên Đại học Quốc gia Thành phố Hồ Chí Minh năm 2026, Phòng Công tác Sinh viên thông báo về việc tổ chức đăng ký tham gia  
+như sau:
+
+**1\. Đối tượng – Điều kiện tham gia:**
+
+*   Sinh viên hệ đào tạo chính quy tập trung văn bằng một, sinh viên chương trình liên kết, trao đổi đang theo học tại Trường Đại học Công nghệ Thông tin ĐHQG-HCM (ĐHCNTT).
+*   Sinh viên có đủ sức khỏe đảm bảo thi đấu theo quy định.
+*   Có Bảo hiểm y tế (còn thời hạn) và Bảo hiểm tai nạn.
+*   Sinh viên không thuộc diện đang bảo lưu, đang bị kỷ luật từ hình thức cảnh cáo trở lên_._
+
+**2\. Môn thi đấu:**
+
+Hội thao Sinh viên ĐHQG-HCM năm 2026 có 02 môn thi đấu, trong đó:
+
+1.  Bóng rổ - Nội dung Nữ
+2.  Cầu lông
+
+**3\. Thông tin đăng ký:**
+
+**_3.1. Bóng rổ - Nội dung nữ:_**
+
+*   Thời hạn đăng ký: đến hết ngày 30/5/2026
+*   Số lượng: tối đa 14 VĐV nữ
+*   Thời gian thi đấu: tháng 8/2026
+*   Địa điểm thi đấu: Nhà học thể dục thể thao Bách khoa, Trường ĐH Bách Khoa
+*   Áp dụng Luật Bóng rổ Quốc tế ban hành.
+*   Thể thức thi đáu: Áp dụng điều lệ Hội thao Sinh viên ĐHQG-HCM năm 2026
+*   Đăng ký tham gia: [https://link.uit.edu.vn/mon-bong-ro-htsv-dhqg-2026](https://link.uit.edu.vn/mon-bong-ro-htsv-dhqg-2026)
+    
+
+_Lưu ý:_ Nếu số lượng đăng ký vượt quá số lượng yêu cầu của BTC, Nhà trường sẽ ưu tiên chọn sinh viên có thành tích ở các giải Thể thao trong và ngoài ĐHCNTT có liên quan đến môn đăng ký tham gia.
+
+**_3.2. Môn Cầu lông:_**
+
+*   Thời hạn đăng ký: đến hết ngày 30/5/2026
+*   Số lượng: 06 VĐV nam, 06 VĐV nữ (mỗi VĐV đăng ký tối đa 02 nội dung thi đấu)
+*   Nội dung thi đấu: đơn nam, đơn nữ, đôi nam, đôi nữ, đôi nam - nữ
+*   Thời gian thi đấu: **ngày 27/7 – 29/7/2026**
+*   Địa điểm thi đấu: Nhà học thể dục thể thao Bách khoa, Trường ĐH Bách Khoa
+*   Áp dụng Luật thi đấu cầu lông thế giới hiện hành.
+*   Đăng ký tham gia: [https://link.uit.edu.vn/cau-long-htsv-dhqg-2026](https://link.uit.edu.vn/cau-long-htsv-dhqg-2026)
+    
+
+_Lưu ý:_ Nếu số lượng đăng ký vượt quá số lượng yêu cầu của BTC, Nhà trường sẽ ưu tiên chọn sinh viên có thành tích ở các giải Thể thao trong và ngoài ĐHCNTT có liên quan đến môn đăng ký tham gia.
+
+**4\. Giải thưởng:**
+
+*   Giải nhất: Huy chương, tiền thưởng
+*   Giải nhì: Huy chương, tiền thưởng
+*   Giải ba: Huy chương, tiền thưởng
+*   Giải Khuyến khích: Tiền thưởng
+
+_Lưu ý:_ Giải thưởng thay đổi theo từng môn thi đấu.
+
+**5\. Thông tin liên hệ:**
+
+Nguyễn Khánh Hòa – Chuyên viên Phòng Công tác sinh viên, ĐHCNTT
+
+*   Phòng Công tác Sinh viên – A101, Tòa nhà A

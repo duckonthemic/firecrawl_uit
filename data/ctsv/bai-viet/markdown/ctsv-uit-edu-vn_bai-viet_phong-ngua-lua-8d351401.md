@@ -1,0 +1,45 @@
+\[Phòng ngừa lừa đảo\] Bài 05 | CẢNH BÁO THỦ ĐOẠN LỪA ĐẢO XE ÔM - TAXI CÔNG NGHỆ
+================================================================================
+
+Fri, 30/01/2026 - 14:08
+
+Phòng Công tác Sinh viên thông tin đến các bạn sinh viên về về chuỗi bài viết tuyên truyền phòng ngừa các phương thức, thủ đoạn lừa đảo bắt cóc học sinh viên qua mạng
+
+![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202601/xe_om_cong_nghe4x.png)
+
+_**Bài 05 | CẢNH BÁO THỦ ĐOẠN LỪA ĐẢO XE ÔM - TAXI CÔNG NGHỆ**_
+Vào các dịp lễ, Tết hoặc cao điểm về quê, khu vực bến xe, sân bay, cổng ký túc xá thường xuất hiện nhiều đối tượng giả danh xe ôm/taxi công nghệ để mời chào trực tiếp. Chúng lợi dụng tâm lý vội giờ, mang nhiều hành lý, đi một mình để dụ sinh viên đi xe ngoài ứng dụng với lời hứa “đi nhanh, giá rẻ và không cần chờ”. Thực tế, nhiều trường hợp bị chặt chém, đưa đi lòng vòng, thu thêm tiền vô lý hoặc bỏ khách giữa đường.
+
+**1) Phân tích 5 chiêu trò "thao túng" thường gặp:**
+
+Giả danh chuyên nghiệp: Họ mặc đồ giống hệt tài xế công nghệ nhưng thực tế không có chuyến trên app. Khi bạn lên xe, bạn đã nằm ngoài sự bảo vệ của hệ thống định vị và bảo hiểm của hãng.
+
+Chiêu bài "App lỗi/Mạng yếu": Tài xế yêu cầu bạn hủy chuyến để đi ngoài app với giá "hữu nghị". Nhưng khi đến nơi, họ sẽ vẽ ra đủ lý do để thu tiền cao gấp nhiều lần.
+
+Lợi dụng giờ cao điểm: Những cái cớ như "đường tắc quá", "đi đường vòng cho nhanh" thực chất là để vòi vĩnh thêm tiền ngoài giá hiển thị.
+
+Kịch bản "Mượn điện thoại/Xin mã OTP": Đây là chiêu nguy hiểm nhất. Họ giả vờ kiểm tra chuyến hoặc gọi cho khách khác nhưng thực chất là để chiếm quyền tài khoản hoặc thực hiện các giao dịch gian lận.
+
+Hứa hẹn "Đón nhanh - Cọc trước": Tuyệt đối không chuyển khoản trước để giữ xe. Nhận tiền xong, họ sẽ cắt liên lạc ngay lập tức.
+
+**2) Bộ quy tắc "4 KHÔNG" để sinh tồn:**
+
+KHÔNG bước lên xe nếu thông tin tài xế và biển số không khớp với app.
+
+KHÔNG hủy chuyến dù tài xế có năn nỉ hay lấy lý do gì.
+
+KHÔNG giao điện thoại và KHÔNG cung cấp mã OTP cho bất kỳ ai.
+
+KHÔNG trả thêm tiền ngoài số tiền đã chốt trên ứng dụng
+
+**3) LƯU Ý QUAN TRỌNG TRƯỚC KHI LÊN XE:**
+
+Trước khi di chuyển, sinh viên chủ động hỏi rõ tên tài xế và biển số xe, đồng thời đối chiếu lại với thông tin hiển thị trên ứng dụng. Chỉ lên xe khi tên – biển số – loại xe trùng khớp hoàn toàn. 
+
+Nếu tài xế tỏ thái độ né tránh, trả lời mập mờ hoặc thúc giục lên xe khi chưa xác nhận thông tin thì hãy từ chối ngay và báo hủy chuyến trên ứng dụng!
+
+Sinh viên hãy đọc kỹ, lưu lại và chia sẻ bài viết này. Biết sớm để tránh bẫy – chia sẻ để bảo vệ bạn bè xung quanh!
+
+Trong mọi tình huống nghi ngờ bị lừa đảo, bị đe dọa hoặc cần xác minh thông tin, sinh viên tuyệt đối không tự xử lý một mình. Hãy liên hệ ngay Cố vấn học tập (CVHT) hoặc Phòng Công tác Sinh viên (CTSV) để được hỗ trợ kịp thời và đúng quy trình.
+
+PHÒNG CÔNG TÁC SINH VIÊN – UIT

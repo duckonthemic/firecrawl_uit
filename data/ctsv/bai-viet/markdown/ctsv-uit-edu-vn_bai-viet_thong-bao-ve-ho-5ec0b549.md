@@ -1,0 +1,34 @@
+Thông báo về hoạt động tham vấn tâm lý miễn phí dành cho sinh viên ĐHQG-HCM năm 2025 - MHRS
+===========================================================================================
+
+Wed, 11/06/2025 - 08:52
+
+**Hỗ trợ tư vấn tâm lý cho sinh viên: UIT luôn đồng hành cùng bạn!**
+
+Tại Trường Đại học Công nghệ Thông tin (UIT), **Không gian chia sẻ - A104** là nơi gặp gỡ và hỗ trợ thường xuyên dành cho sinh viên đang gặp khó khăn trong học tập, các mối quan hệ, hoặc cần chia sẻ về sức khỏe tinh thần. **Không gian chia sẻ** hoạt động định kỳ vào thứ Hai, thứ Ba và thứ Sáu hàng tuần, với sự đồng hành của chuyên gia tâm lý và cán bộ phòng Công tác sinh viên.
+
+**_Đây là hoạt động thường xuyên tại UIT, tạo nên một môi trường an toàn và thân thiện để sinh viên được lắng nghe, chia sẻ và tháo gỡ những áp lực trong học tập và cuộc sống._**
+
+Ngoài ra, sinh viên UIT còn có thêm lựa chọn hỗ trợ từ **Trung tâm MHRS – Trường ĐH KHXH&NV**
+
+Nhằm triển khai hoạt động "Xây dựng, thí điểm và nhân rộng mô hình tư vấn tâm lý trong trường học" thuộc chương trình của ĐHQG-HCM giai đoạn 2021–2030, Trung tâm Nghiên cứu và Hỗ trợ Sức khỏe Tinh thần (MHRS) – Trường Đại học KHXH&NV đã mở rộng hoạt động tư vấn tâm lý miễn phí dành cho toàn bộ sinh viên thuộc ĐHQG-HCM.
+
+**Bạn đang gặp phải các vấn đề như:**  
+Căng thẳng học tập, thi cử?  
+Áp lực về định hướng tương lai?  
+Khó khăn trong các mối quan hệ?  
+Cảm giác cô đơn, mất động lực?  
+Rối loạn cảm xúc, mất cân bằng tâm lý?
+
+_**Đừng ngần ngại, hãy chủ động tìm đến các kênh hỗ trợ!**_
+
+**Thông tin chương trình tư vấn từ Trung tâm MHRS**  
+**1\. Đối tượng:** Sinh viên toàn ĐHQG-HCM
+
+**2\. Chi phí:** Miễn phí
+
+**3\. Hình thức:** Tư vấn trực tiếp hoặc trực tuyến
+
+**4\. Đăng ký:**
+
+Cách 1: Gọi hotline 0886 471 798

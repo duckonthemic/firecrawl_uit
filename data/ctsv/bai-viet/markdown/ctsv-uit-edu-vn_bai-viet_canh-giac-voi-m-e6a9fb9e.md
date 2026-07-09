@@ -1,0 +1,75 @@
+Cảnh giác với ma trận cá cược online
+====================================
+
+Thu, 24/11/2022 - 09:43
+
+Phòng Công tác Sinh viên đề nghị sinh viên cảnh giác trước những thủ đoạn lừa đảo tinh vi và đồng thời không sa vào tệ nạn cá cược. Những bạn sinh viên khi gặp trường hợp hoặc phát hiện các trường hợp bạn mình như dưới đây hoặc tương tự, vui lòng liên hệ phòng Công tác Sinh viên qua email [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+ hoặc trực tiếp tại phòng A101 để được hỗ trợ tư vấn. 
+
+Theo CAND Online, nguồn: [https://cand.com.vn/Ho-so-Interpol/canh-giac-voi-ma-tran-ca-cuoc-online-...](https://cand.com.vn/Ho-so-Interpol/canh-giac-voi-ma-tran-ca-cuoc-online-i654975/)
+
+Có lẽ, chưa khi nào các sàn cá cược, nhà cái tổ chức cá cược lại nở rộ như hiện nay. Chúng sử dụng rất nhiều chiêu trò để câu nhử người chơi rơi vào “ma trận” cá cược đỏ đen để rồi qua đó “vặt trụi những con gà béo”. Nếu không tỉnh táo, bất kỳ ai cũng có thể trở thành nạn nhân, có thể “mất cả chì lẫn chài”.
+
+**Giăng bẫy để lôi kéo người chơi**
+
+Thời gian gầy đây, các sàn cá cược, website cá cược bóng đá online lại nở rộ trên mạng xã hội. Chỉ cần gõ từ khóa “cá cược” trên Google là hàng loạt thông tin về hội nhóm cá cược, nhà cái uy tín hàng đầu, trò chơi đổi thưởng, tài xỉu... hiện ra dày đặc. Bất kỳ ai cũng có thể đăng nhập và tham gia chơi, chỉ cần có một chiếc máy tính hay điện thoại thông minh, sau đó người chơi đăng nhập theo hướng dẫn của nhân viên trang website.
+
+Qua tìm hiểu, các trang web cá cược này đều có tên tương tự nhau như: Fi 88, Fi88, M99, Fun88, Sodo779... Theo như lời giới thiệu, người chơi chỉ cần đăng nhập vào link dẫn, nạp tiền vào tài khoản là có thể chơi được. Đơn cử như trang Sodo779, khi chúng tôi truy cập web này là rất nhiều hình ảnh bắt mắt mời chào người chơi, cùng với đó là những lời quảng cáo vô cùng hấp dẫn như: “Sodo779 - Nhà cái cá cược online uy tín hàng đầu Việt Nam - châu Á, có trụ sở và được cấp phép hoạt động chính thức bởi Chính phủ Philippines, dưới sự quản lý của Cục Quản lý giải trí và trò chơi Pagcor”.
+
+![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_01-1653530116821.png)  
+
+Vì ham mê đỏ đen, anh Lâm đã mất 600 triệu đồng.
+
+  
+
+Tại đây, họ cung cấp cho các thành viên của mình những sản phẩm trò chơi như: Cá cược trực tuyến Thể thao (cá độ bóng đá, đua ngựa, đánh gofl, đua xe...); Thể thao điện tử (eSport), Thể thao ảo (Virtual Sport); Slot game nổ hũ; Đánh bài trực tuyến (Baccarat, Rồng hổ, Sicbo tài xỉu,...); lô đề, lô tô online; Game bài ăn tiền; Bắn cá và nhiều sản phẩm hấp dẫn khác.
+
+Cũng lấy tiêu chí “Khách hàng là thượng đế”, nhà cái này còn dụ người chơi bằng những lời “nổ” có cánh như: “Không đơn thuần chỉ là nơi giải trí. Với thâm niên hoạt động lâu năm trên thị trường trò chơi trực tuyến, Sodo779 được ví như một “trụ cột” vững chắc trên nền tảng giải trí ảo Việt Nam. Có tầm ảnh hưởng vô cùng mạnh mẽ đến nhiều sân chơi cá cược... Điều này phần nào chứng minh được nhà cái là sự lựa chọn hoàn hảo nhất dành cho người chơi. Việc xác định rõ tiêu chí hoạt động đã giúp chúng tôi có thể nâng tầm nhận biết thương hiệu Sodo779 trong mắt mỗi khách hàng”.
+
+Không những vậy, nhân viên còn xin số điện thoại của người chơi để hướng dẫn cụ thể cách đăng nhập, cách chơi và thanh toán khi thắng thua. Khi phóng viên hỏi nhân viên về cách thức thanh toán tiền, người này cho hay, toàn bộ tài khoản nhận tiền của web đều đến từ ngân hàng Việt Nam.
+
+![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_02-1653530140070.png)  
+
+Nhiều người liên tục nhận được tin nhắn qua Zalo mời chào đánh bạc online.
+
+  
+
+Với những người có “máu đỏ đen”, “Tài xỉu online” là cái tên không còn xa lạ. Bởi trò chơi đỏ đen này được đánh giá là một trong những trò phổ biến nhất. Thực chất đây là ứng dụng cho phép người chơi đặt cược số tiền mong muốn vào một trong 2 ô “Tài” hoặc “Xỉu” để ăn thua tiền cá cược. Theo luật chơi, hệ thống này sẽ tung ra 3 viên xúc xắc và nếu tổng số điểm trên 3 viên xúc xắc được tung ra lớn hơn 10 thì được gọi là “Tài” và nhỏ hơn 10 thì được gọi là “Xỉu”.
+
+Xuất hiện đa dạng với nhiều hình thức từ các trang web tới các ứng dụng, có thể nói “Tài xỉu online” đang là một trong những game cá cược có khả năng tiếp cận người chơi cao nhất. Tìm kiếm từ khóa “Tài - Xỉu” trên Facebook, lập tức cho kết quả hàng trăm hội nhóm với số lượng thành viên từ vài nghìn đến hàng trăm nghìn trong một hội nhóm. Thậm chí, để lôi kéo người chơi, trong các hội nhóm này liên tiếp đăng các đoạn video livestream để hướng dẫn cách chơi và tặng quà cho những người xem trực tiếp. Qua tìm hiểu, các tài khoản được dùng cho việc chia sẻ các video nói trên chủ yếu là các tài khoản ảo và không có bất kỳ thông tin cá nhân nào.
+
+Một điều đặc biệt nguy hiểm, các ứng dụng này được quảng cáo rất nhiều, tràn lan trên khắp các diễn đàn xã hội như Facebook, Zalo, YouTube... Kèm theo là những lời mời chào vô cùng “ngọt tai”, như: Cái này cực dễ, các anh em cứ theo tôi, tôi bày cách chơi chỉ có thắng, cái này có mẹo hết cả...”.
+
+Với mật độ dày đặc, ngày càng nhiều các tựa game hay các trang web đánh bạc có khả năng tiếp cận người chơi rất cao. Mỗi trang web nhà cái lại cho ra cách chơi khác nhau. Mặc dù, các chiêu thức không mới thế nhưng nhiều người vẫn vì ham mê cá độ mà sập bẫy. Dù các phương tiện truyền thông đại chúng liên tục phát đi cảnh báo về tệ nạn này, thế nhưng tình trạng cá cược online vẫn diễn ra rất sôi động.
+
+Anh Nguyễn Công Dũng (Đông Anh, Hà Nội) chia sẻ: “Tôi thấy các trang mạng xã hội nhiều vô kể, từ Facebook đến Zalo. Không những vậy, các trang web xem bóng đá trực tuyến cũng thế, góc nào của màn hình cũng hiện lên quảng cáo chơi cá độ... Mà có một điều đặc biệt, các trang xem bóng đá trực tiếp, chính bình luận viên cũng trực tiếp quảng cáo các trang web cá cược. Họ còn hướng dẫn cách chơi, nhận định tỷ lệ, nhận định kèo nào ngon, kèo nào không ngon. Như cái trang FB88 là tôi thấy quảng cáo nhiều nhất, gần như trận bóng nào tôi xem cũng thấy hiện lên trang, bình luận viên trực tiếp quảng cáo”.
+
+![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_03-1653530157439.png)  
+
+Đăng ký tài khoản để tham gia đánh bạc online rất đơn giản và nhanh chóng.
+
+  
+
+Không chỉ quảng cáo rầm rộ trên mạng xã hội, các trang web mà các đối tượng này còn nhắn tin trực tiếp cho mọi người để gạ gẫm vào chơi. Như anh Nguyễn Văn Thắng (Thanh Xuân, Hà Nội), khoảng 2 tuần vừa qua, ngày nào cũng nhận được tin nhắn giới thiệu trang web về cá độ bóng đá, đều đặn từ số điện thoại lạ. Anh Thắng cho hay: “Tôi cũng chịu không biết họ lấy số điện của tôi từ đâu, tôi chặn số này họ lại lấy số khác nhắn. Họ nhắn từ Zalo cho đến Viber, quảng cáo trang cá độ của họ uy tín, rồi thanh toán nhanh gọn”.
+
+Theo kinh nghiệm của những người từng chơi cá độ online, thì đây thực chất là cái bẫy mà những đối tượng lừa đảo giăng ra. “Tài khoản một vài triệu, ít thì cho rút tiền ngay để lấy uy tín nhưng khi tài khoản lớn một chút, khoảng 50-100 triệu là chúng giở trò ngay. Chúng khóa tài khoản và lấy luôn tiền gốc của mình. Khi mình điện thoại thắc mắc thì họ bảo tài khoản của mình vi phạm, đã bị khóa và xóa luôn. Bạn bè tôi mấy người bị rồi, có người mất trắng cả mấy trăm triệu, biết là bị lừa đảo nhưng không dám báo cho Cơ quan công an, vì đánh bạc là sai rồi” - anh Thắng tiết lộ.
+
+**Chơi bạc online, bi kịch ngoài đời**
+
+Câu chuyện về những nạn nhân dính vào ma trận “cờ bạc online” không phải là hiếm. Như anh Nguyễn Thanh Lâm (Hà Đông, Hà Nội) đã phải trả giá rất đắt cho đam mê đỏ đen của mình. Sau khi lên mạng xem bóng đá online, anh vô tình click vào trang web chuyên cá độ bóng đá. Ban đầu chỉ là tò mò đăng ký rồi đăng nhập, sau anh nạp vài ba triệu vào để chơi. Anh Lâm kể: “Lúc đầu tôi click vào trang đó, họ bảo đăng ký tài khoản, nhập số điện thoại. Khi làm xong theo hướng dẫn, nhân viên của họ gọi điện chăm sóc rất chu đáo. Tôi có nạp 3 triệu để chơi linh tinh mấy trò, chỉ chơi có 1 đêm mà lãi được hơn chục triệu. Cứ thế ngấm dần có lần tôi nạp đến 100 triệu để chơi. Sau đó cứ như bị ma làm, ham lắm, cứ thua lại nạp, không có tiền thì đi vay. Tôi thua nặng nhất là đánh xóc đĩa online. Tổng cho lần dại dột này khoảng 600 triệu đồng”.
+
+![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_04-1653530281102.png)  
+
+Trang web lôi kéo được rất nhiều dân cá độ bóng đá.
+
+  
+
+Hoặc, trường hợp của em Trương Như H. (Thạch Thành, Thanh Hóa), với tham vọng “đổi đời” ở tuổi 18, em đã ném vào cờ bạc online với số vốn ban đầu là 30 triệu đồng. Sàn giao dịch mà N.C.K lựa chọn là “Tài xỉu online”. Nếu như đặt cược đúng, số tiền mà người chơi kiếm được trong 1 đêm có thể lên tới hàng chục triệu đồng. Tuy nhiên, với cách đánh “tất tay” như H., hàng chục triệu bốc hơi cũng chỉ trong 1 đêm.  “Ban đầu em cũng thắng đấy nhưng sau thua một ít là lao vào gỡ. Thua nhiều quá, em đã đi vay nặng lãi, vậy mà chỉ có 1 tháng em đã phải vay đến 100 triệu đồng. Vì không có khả năng trả, em đành bỏ học và trốn nợ, mãi sau bố mẹ biết mới trả nợ và được về nhà”.
+
+Hay câu chuyện của Lê Văn B. (23 tuổi, Tp Thái Nguyên). B. vốn là sinh viên của một trường khá nổi tiếng ở Hà Nội, thế nhưng từ khi trở thành “con bạc online” thì tương lai của anh đã rẽ sang một hướng khác. Ban đầu, thấy bạn bè rủ chơi, anh cũng tò mò vào thử. Thử rồi thành thật. Toàn bộ số tiền gia đình chu cấp để ăn học hằng tháng đều nướng vào đánh xóc đĩa online. Không những vậy, anh còn vay mượn bạn bè, người thân 50 triệu đồng để chơi. Vì không còn khả năng chi trả, B. phải bỏ học để chạy xe ôm trang trải cuộc sống xa nhà. “Đáng năm nay em ra trường và đi làm rồi. Cũng vì ham mê mà phải tạm bảo lưu kết quả học để đi chạy xe ôm kiếm sống. Thôi mình chót dại, còn dừng lại được là còn chưa muộn. Em cũng trả gần hết nợ rồi, dự tính sang năm lại tiếp tục theo học để tốt nghiệp”.
+
+> Luật sư Trương Quốc Hòe, Trưởng Văn phòng luật sư Intelia, Đoàn Luật sư Hà Nội cho hay: Chúng ta không thể cấm được hết các trang cờ bạc này vì chúng đều được đặt ở nước ngoài, không chịu chế tài của Việt Nam. Việc đánh bạc online cũng gặp không ít rủi ro với người chơi như có trang web bị sập khiến người chơi mất sạch. Tại Việt Nam pháp luật đã nghiêm cấm việc cá cược, chơi bài điện tử. Tuy nhiên, vì lòng tham của người ham mê cờ bạc nên hành vi này vẫn diễn ra, đây là hành vi trái pháp luật. Hiện nay, để giảm các trang web cá cược nở rộ thì trí tuệ nhân tạo của Việt Nam cần phát triển để phát hiện những web cá cược và đóng lại. Đồng thời, tăng cường tuyên truyền cho người dân không sa vào tệ nạn này”.
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fcanh-giac-voi-ma-tran-ca-cuoc-online&title=C%E1%BA%A3nh%20gi%C3%A1c%20v%E1%BB%9Bi%20ma%20tr%E1%BA%ADn%20c%C3%A1%20c%C6%B0%E1%BB%A3c%20online)

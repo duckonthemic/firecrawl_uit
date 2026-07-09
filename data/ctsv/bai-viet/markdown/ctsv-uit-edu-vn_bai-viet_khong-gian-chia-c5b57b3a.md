@@ -1,0 +1,10 @@
+Không gian chia sẻ online trên Microsoft Teams
+==============================================
+
+Tue, 23/06/2020 - 13:19
+
+Dựa theo nhu cầu thực tế của sinh viên, KHÔNG GIAN CHIA SẺ UIT (Online) được tổ chức cố định vào khung giờ: 
+
+\- **Thứ 2: từ 20:00 - 22:00** Thí điểm tư vấn cho sinh viên không sắp xếp được thời gian đến Phòng Không gian chia sẻ
+
+Mã Microsoft Teams: **9taqfo4**

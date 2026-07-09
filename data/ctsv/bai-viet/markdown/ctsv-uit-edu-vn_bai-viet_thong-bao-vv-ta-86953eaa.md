@@ -1,0 +1,40 @@
+THÔNG BÁO - V/v Tân sinh viên khóa 2021 đăng ký giấy xác nhận sinh viên
+=======================================================================
+
+Tue, 07/09/2021 - 15:10
+
+**THÔNG BÁO**
+
+_V/v Tân sinh viên khóa 2021 đăng ký giấy xác nhận sinh viên_
+
+Phòng CTSV thông báo Tân sinh viên khóa 2021 đã có thể xin giấy xác nhận sinh viên để hoàn thiện hồ sơ Xin tạm hoãn nghĩa vụ quân sự tại địa phương. Tân Sinh viên khóa 2021 chỉ có thể xin giấy xác nhân khi đảm bảo 3 điều kiện sau:
+
+*   Đã xác nhận nhập học
+*   Đã hoàn thành học phí
+*   Đã hoàn thành đầy đủ thông tin cá nhân trong lí lịch sinh viên và hồ sơ sinh viên trực tuyến
+
+Hiện tại là thời gian giãn cách xã hội nên P.CTSV chỉ làm việc online và không thể gửi GXN cho sinh viên có đầy đủ chữ ký và mộc theo yêu cầu của địa phương. Qui trình nhận giấy xác nhận như sau:
+
+_**Bước 1: Sinh viên vào website [https://ctsv.uit.edu.vn](https://ctsv.uit.edu.vn/)
+, đăng nhập bằng tài khoản chứng thực**_
+
+_**Bước 2: Chọn mục DỊCH VỤ TRỰC TUYẾN, chọn tiếp Giấy xác nhận sinh viên, Lý do: Tạm hoãn nghĩa vụ quân sự**_
+
+_**Bước 3: Phòng CTSV sẽ kiểm tra, nếu các thông tin hợp lệ thì P.CTSV sẽ tự gởi GXN bảng PDF không có mộc và chữ ký cho sinh viên qua email [mssv@gm.uit.edu.vn](mailto:mssv@gm.uit.edu.vn)
+ (Trường đã cấp cho sinh viên, xem trên giấy báo nhập học) sau giai đoạn này qui trình đề nghị cấp GXN của sinh viên sẽ hoàn tất.**_
+
+**Lưu ý:**
+
+1\. Nếu sinh viên muốn phòng CTSV gởi email xác nhận về địa chỉ email của địa phương thì sinh viên gửi  lại email nhận được và cung cấp địa chỉ email.
+
+2. Trường hợp địa phương cần tự xác minh, sinh viên có thể cung cấp địa chỉ email, hoặc số điện thoại của lãnh đạo phòng CTSV để địa phương liên hệ xác minh: 
+
+\- Địa chỉ email: [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+
+\- Số điện thoại lãnh đạo P.CTSV tại [https://ctsv.uit.edu.vn/bai-viet/nhan-su](https://ctsv.uit.edu.vn/bai-viet/nhan-su)
+
+Sinh viên liên hệ trao đổi tại: [https://forum.uit.edu.vn/node/552273](https://forum.uit.edu.vn/node/552273)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-vv-tan-sinh-vien-khoa-2021-dang-ky-giay-xac-nhan-sinh-vien&title=TH%C3%94NG%20B%C3%81O%20-%20V%2Fv%20T%C3%A2n%20sinh%20vi%C3%AAn%20kh%C3%B3a%202021%20%C4%91%C4%83ng%20k%C3%BD%20gi%E1%BA%A5y%20x%C3%A1c%20nh%E1%BA%ADn%20sinh%20vi%C3%AAn)

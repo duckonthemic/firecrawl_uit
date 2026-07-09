@@ -1,0 +1,24 @@
+Học bổng An toàn Thông tin - 10.000.000đ/suất
+=============================================
+
+Tue, 28/11/2017 - 10:55
+
+P.CTSV thông báo về học bổng An toàn Thông tin do Cục An toàn Thông tin - Bộ Văn hóa Thông tin Truyền thông trao:  
+\- Giá trị học bổng: 10.000.000đ/suất \* 4 suất  
+\- Thời gian trao: Ngày hội việc làm UIT Career Day 2017 - 02/12/2017  
+\- Yêu cầu:  
+\+ Là Sinh viên ngành Truyền thông Mạng Máy tính hoặc ngành An toàn thông tin  
+\+ Có điểm trung bình tích lũy trên 6.5, điểm rèn luyện trên 65  
+\+ Ưu tiên sinh viên có hoàn cảnh khó khăn (có minh chứng)  
+\+ Ưu tiên sinh viên có thành tích trong các cuộc thi về An toàn thông tin  
+\- Hồ sơ nộp **trước 12 giờ ngày 30/11/2017**, gồm:  
+\+ Bảng điểm tích lũy, bảng điểm rèn luyện  
+\+ Giấy chứng nhận hoàn cảnh khó khăn  
+\+ Giấy chứng nhận các cuộc thi học thuật, giấy khen,...  
+\+ Bài viết cá nhân.  
+\- Hồ sơ nộp tại P.CTSV A201 hoặc A101  
+\- Chi tiết liên hệ tại đây hoặc [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-bong-toan-thong-tin-10000000dsuat&title=H%E1%BB%8Dc%20b%E1%BB%95ng%20An%20to%C3%A0n%20Th%C3%B4ng%20tin%20-%2010.000.000%C4%91%2Fsu%E1%BA%A5t)
