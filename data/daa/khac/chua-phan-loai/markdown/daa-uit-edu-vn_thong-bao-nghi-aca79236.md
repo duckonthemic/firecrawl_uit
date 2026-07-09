@@ -1,0 +1,29 @@
+Thông báo nghỉ lễ Giỗ Tổ Hùng Vương, Chiến thắng 30/4 và Quốc tế Lao động 01/5/2026
+===================================================================================
+
+T4, 08/04/2026 - 09:44
+
+Kính chào Quý Thầy, Cô và các bạn sinh viên!
+
+Căn cứ lịch nghỉ lễ được Phòng Tổ chức - Hành chính công bố:
+
+\- Giỗ Tổ Hùng Vương: nghỉ từ thứ Bảy ngày 25/4 đến hết thứ Hai ngày 27/4/2026.
+
+\- Chiến thắng 30/4 và Quốc tế Lao động 1/5: nghỉ từ thứ Năm ngày 30/4 đến hết Chủ nhật ngày 03/5/2026.
+
+Như vậy:
+
+\- Ngày 28, 29/4/2026 là ngày làm việc bình thường.
+
+\- Giảng viên muốn nghỉ ngày thứ Bảy 25/4 và thứ Bảy ngày 2/5 phải báo nghỉ và báo bù trên hệ thống [https://daa.uit.edu.vn](https://daa.uit.edu.vn/)
+  (do Nhà trường vẫn có lịch dạy và học vào thứ Bảy hàng tuần).
+
+Chúc Thầy, Cô có ngày nghỉ lễ vui vẻ!
+
+\---
+
+TBN
+
+Các file đính kèm: 
+
+ ![PDF icon](https://daa.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [316\_tb\_dhcntt\_01\_4\_2026.pdf](https://daa.uit.edu.vn/sites/daa/files/202604/316_tb_dhcntt_01_4_2026.pdf)

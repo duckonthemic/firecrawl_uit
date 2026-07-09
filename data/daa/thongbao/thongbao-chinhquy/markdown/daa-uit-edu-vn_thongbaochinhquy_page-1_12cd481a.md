@@ -3,191 +3,191 @@
 
 **Các thông báo dành cho hệ đại học chính quy.**
 
-[Thông báo học bù Hệ quản trị cơ sở dữ liệu (IS210.Q22) ngày 05/05/2026](https://daa.uit.edu.vn/node/38928)
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q224) ngày 02/07/2026](https://daa.uit.edu.vn/node/39700)
 
-------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 15:29
+T4, 01/07/2026 - 08:36
 
-CBGD : **Đỗ Thị Minh Phụng**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hệ quản trị cơ sở dữ liệu (IS210)**  
-Lớp : **IS210.Q22**  
-Phòng : **B6.08**  
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q224**  
+Phòng : **B1.22**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **8**  
+Thứ : **5 , ngày 02/07/2026**
+
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q224) ngày 02/07/2026](https://daa.uit.edu.vn/node/39700 "Thông báo học bù Cấu trúc rời rạc (MA004.Q224) ngày 02/07/2026")
+    
+
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q224) ngày 02/07/2026](https://daa.uit.edu.vn/node/39699)
+
+----------------------------------------------------------------------------------------------------
+
+T4, 01/07/2026 - 08:18
+
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q224**  
+Phòng : **B1.22**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **7**  
+Thứ : **5 , ngày 02/07/2026**
+
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q224) ngày 02/07/2026](https://daa.uit.edu.vn/node/39699 "Thông báo học bù Cấu trúc rời rạc (MA004.Q224) ngày 02/07/2026")
+    
+
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q226) ngày 02/07/2026](https://daa.uit.edu.vn/node/39698)
+
+----------------------------------------------------------------------------------------------------
+
+T4, 01/07/2026 - 08:16
+
+CBGD : **Nguyễn Văn Hợi**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q226**  
+Phòng : **B3.14**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **2**  
+Thứ : **5 , ngày 02/07/2026**
+
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q226) ngày 02/07/2026](https://daa.uit.edu.vn/node/39698 "Thông báo học bù Cấu trúc rời rạc (MA004.Q226) ngày 02/07/2026")
+    
+
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q219) ngày 02/07/2026](https://daa.uit.edu.vn/node/39697)
+
+----------------------------------------------------------------------------------------------------
+
+T3, 30/06/2026 - 09:00
+
+CBGD : **Hà Mạnh Linh**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q219**  
+Phòng : **B3.18**  
 Thời gian :  
 \- Tiết bắt đầu : **1**  
 \- Tiết kết thúc : **4**  
-Thứ : **3 , ngày 05/05/2026**
+Thứ : **5 , ngày 02/07/2026**
 
-*   [Xem thêm về Thông báo học bù Hệ quản trị cơ sở dữ liệu (IS210.Q22) ngày 05/05/2026](https://daa.uit.edu.vn/node/38928 "Thông báo học bù Hệ quản trị cơ sở dữ liệu (IS210.Q22) ngày 05/05/2026")
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q219) ngày 02/07/2026](https://daa.uit.edu.vn/node/39697 "Thông báo học bù Cấu trúc rời rạc (MA004.Q219) ngày 02/07/2026")
     
 
-[Thông báo nghỉ lớp Phân tích thiết kế hệ thống (IS201.Q21.1) ngày 29/04/2026](https://daa.uit.edu.vn/node/38927)
+[Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q219) ngày 29/06/2026](https://daa.uit.edu.vn/node/39695)
 
-------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 14:45
+T7, 27/06/2026 - 14:50
 
-CBGD : **Đỗ Thị Minh Phụng**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Phân tích thiết kế hệ thống (IS201)**  
-Lớp : **IS201.Q21.1**  
-Phòng :  
-Thời gian :  
-\- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **10**  
-Thứ : **4 , ngày 29/04/2026**
-
-*   [Xem thêm về Thông báo nghỉ lớp Phân tích thiết kế hệ thống (IS201.Q21.1) ngày 29/04/2026](https://daa.uit.edu.vn/node/38927 "Thông báo nghỉ lớp Phân tích thiết kế hệ thống (IS201.Q21.1) ngày 29/04/2026")
-    
-
-[Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q22.1) ngày 28/04/2026](https://daa.uit.edu.vn/node/38926)
-
-----------------------------------------------------------------------------------------------------------------
-
-T5, 16/04/2026 - 14:40
-
-CBGD : **Đỗ Thị Minh Phụng**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hệ quản trị cơ sở dữ liệu (IS210)**  
-Lớp : **IS210.Q22.1**  
-Phòng :  
-Thời gian :  
-\- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **10**  
-Thứ : **3 , ngày 28/04/2026**
-
-*   [Xem thêm về Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q22.1) ngày 28/04/2026](https://daa.uit.edu.vn/node/38926 "Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q22.1) ngày 28/04/2026")
-    
-
-[Thông báo nghỉ lớp Phân tích thiết kế hệ thống (IS201.Q21) ngày 29/04/2026](https://daa.uit.edu.vn/node/38925)
-
-----------------------------------------------------------------------------------------------------------------
-
-T5, 16/04/2026 - 14:36
-
-CBGD : **Đỗ Thị Minh Phụng**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Phân tích thiết kế hệ thống (IS201)**  
-Lớp : **IS201.Q21**  
+CBGD : **Hà Mạnh Linh**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q219**  
 Phòng :  
 Thời gian :  
 \- Tiết bắt đầu : **1**  
 \- Tiết kết thúc : **4**  
-Thứ : **4 , ngày 29/04/2026**
+Thứ : **2 , ngày 29/06/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Phân tích thiết kế hệ thống (IS201.Q21) ngày 29/04/2026](https://daa.uit.edu.vn/node/38925 "Thông báo nghỉ lớp Phân tích thiết kế hệ thống (IS201.Q21) ngày 29/04/2026")
+*   [Xem thêm về Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q219) ngày 29/06/2026](https://daa.uit.edu.vn/node/39695 "Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q219) ngày 29/06/2026")
     
 
-[Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q22) ngày 28/04/2026](https://daa.uit.edu.vn/node/38924)
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q210) ngày 29/06/2026](https://daa.uit.edu.vn/node/39694)
 
---------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 14:33
+T5, 25/06/2026 - 14:21
 
-CBGD : **Đỗ Thị Minh Phụng**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hệ quản trị cơ sở dữ liệu (IS210)**  
-Lớp : **IS210.Q22**  
-Phòng :  
+CBGD : **Trần Đức Thành**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q210**  
+Phòng : **B4.20**  
 Thời gian :  
 \- Tiết bắt đầu : **1**  
 \- Tiết kết thúc : **4**  
-Thứ : **3 , ngày 28/04/2026**
+Thứ : **2 , ngày 29/06/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q22) ngày 28/04/2026](https://daa.uit.edu.vn/node/38924 "Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q22) ngày 28/04/2026")
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q210) ngày 29/06/2026](https://daa.uit.edu.vn/node/39694 "Thông báo học bù Cấu trúc rời rạc (MA004.Q210) ngày 29/06/2026")
     
 
-[Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q212.1) ngày 16/04/2026](https://daa.uit.edu.vn/node/38923)
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q211) ngày 26/06/2026](https://daa.uit.edu.vn/node/39693)
 
-----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 11:38
+T5, 25/06/2026 - 14:19
 
-CBGD : **Lê Trần Trọng Khiêm**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Cấu trúc dữ liệu và giải thuật (IT003)**  
-Lớp : **IT003.Q212.1**  
-Phòng :  
+CBGD : **Trần Đức Thành**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q211**  
+Phòng : **B3.16**  
 Thời gian :  
 \- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **10**  
-Thứ : **5 , ngày 16/04/2026**
+\- Tiết kết thúc : **9**  
+Thứ : **6 , ngày 26/06/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q212.1) ngày 16/04/2026](https://daa.uit.edu.vn/node/38923 "Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q212.1) ngày 16/04/2026")
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q211) ngày 26/06/2026](https://daa.uit.edu.vn/node/39693 "Thông báo học bù Cấu trúc rời rạc (MA004.Q211) ngày 26/06/2026")
     
 
-[Thông báo nghỉ lớp Kinh tế chính trị Mác – Lênin (SS008.Q24) ngày 30/04/2026](https://daa.uit.edu.vn/node/38922)
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q211) ngày 29/06/2026](https://daa.uit.edu.vn/node/39692)
 
-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 11:28
+T5, 25/06/2026 - 11:40
 
-CBGD : **Phạm Thị Thuỳ Linh**  
-Khoa/ Bộ môn : **P.DTDH**  
-Môn học : **Kinh tế chính trị Mác – Lênin (SS008)**  
-Lớp : **SS008.Q24**  
-Phòng :  
+CBGD : **Trần Đức Thành**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q211**  
+Phòng : **B3.16**  
 Thời gian :  
-\- Tiết bắt đầu : **4**  
-\- Tiết kết thúc : **5**  
-Thứ : **5 , ngày 30/04/2026**
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **2 , ngày 29/06/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Kinh tế chính trị Mác – Lênin (SS008.Q24) ngày 30/04/2026](https://daa.uit.edu.vn/node/38922 "Thông báo nghỉ lớp Kinh tế chính trị Mác – Lênin (SS008.Q24) ngày 30/04/2026")
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q211) ngày 29/06/2026](https://daa.uit.edu.vn/node/39692 "Thông báo học bù Cấu trúc rời rạc (MA004.Q211) ngày 29/06/2026")
     
 
-[Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 14/05/2026](https://daa.uit.edu.vn/node/38921)
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q225) ngày 27/06/2026](https://daa.uit.edu.vn/node/39691)
 
-----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 09:00
+T5, 25/06/2026 - 11:39
 
-CBGD : **Huỳnh Đức Huy**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hoạch định nguồn lực doanh nghiệp (IS336)**  
-Lớp : **IS336.Q22.1**  
-Phòng : **B1.02**  
+CBGD : **Trần Đức Thành**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q225**  
+Phòng : **B3.16**  
 Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **1**  
-Thứ : **5 , ngày 14/05/2026**
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **7 , ngày 27/06/2026**
 
-*   [Xem thêm về Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 14/05/2026](https://daa.uit.edu.vn/node/38921 "Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 14/05/2026")
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q225) ngày 27/06/2026](https://daa.uit.edu.vn/node/39691 "Thông báo học bù Cấu trúc rời rạc (MA004.Q225) ngày 27/06/2026")
     
 
-[Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 07/05/2026](https://daa.uit.edu.vn/node/38920)
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q223) ngày 27/06/2026](https://daa.uit.edu.vn/node/39690)
 
-----------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
-T5, 16/04/2026 - 08:59
+T5, 25/06/2026 - 11:38
 
-CBGD : **Huỳnh Đức Huy**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hoạch định nguồn lực doanh nghiệp (IS336)**  
-Lớp : **IS336.Q22.1**  
-Phòng : **B1.04**  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **1**  
-Thứ : **5 , ngày 07/05/2026**
-
-*   [Xem thêm về Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 07/05/2026](https://daa.uit.edu.vn/node/38920 "Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 07/05/2026")
-    
-
-[Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 23/04/2026](https://daa.uit.edu.vn/node/38919)
-
-----------------------------------------------------------------------------------------------------------------------------
-
-T5, 16/04/2026 - 08:58
-
-CBGD : **Huỳnh Đức Huy**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hoạch định nguồn lực doanh nghiệp (IS336)**  
-Lớp : **IS336.Q22.1**  
-Phòng : **B1.02**  
+CBGD : **Trần Đức Thành**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q223**  
+Phòng : **B3.18**  
 Thời gian :  
 \- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **1**  
-Thứ : **5 , ngày 23/04/2026**
+\- Tiết kết thúc : **4**  
+Thứ : **7 , ngày 27/06/2026**
 
-*   [Xem thêm về Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 23/04/2026](https://daa.uit.edu.vn/node/38919 "Thông báo lịch học HT2 Hoạch định nguồn lực doanh nghiệp (IS336.Q22.1) ngày 23/04/2026")
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q223) ngày 27/06/2026](https://daa.uit.edu.vn/node/39690 "Thông báo học bù Cấu trúc rời rạc (MA004.Q223) ngày 27/06/2026")

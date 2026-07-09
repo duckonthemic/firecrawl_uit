@@ -70,3 +70,5 @@ Các file đính kèm: 
  ![PDF icon](https://daa.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [200\_bb\_dhqg\_29\_01\_2026\_hop\_ve\_cong\_tac\_dao\_tao\_trinh\_do\_dai\_hoc\_tai\_dhqg.pdf](https://daa.uit.edu.vn/sites/daa/files/202601/200_bb_dhqg_29_01_2026_hop_ve_cong_tac_dao_tao_trinh_do_dai_hoc_tai_dhqg.pdf)
 
  ![PDF icon](https://daa.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [357\_336\_qd\_dhqg30\_3\_2026\_ioc\_ve\_viec\_phan\_cap\_phan\_quyen\_trong\_cong\_tac\_dao\_tao.pdf](https://daa.uit.edu.vn/sites/daa/files/202604/357_336_qd_dhqg30_3_2026_ioc_ve_viec_phan_cap_phan_quyen_trong_cong_tac_dao_tao.pdf)
+
+ ![PDF icon](https://daa.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [tb1119\_dhqg\_dieu\_chinh\_ma\_nganh\_dao\_tao\_thi\_diem.signed\_thiet\_ke\_vi\_mach.pdf](https://daa.uit.edu.vn/sites/daa/files/202604/tb1119_dhqg_dieu_chinh_ma_nganh_dao_tao_thi_diem.signed_thiet_ke_vi_mach.pdf)

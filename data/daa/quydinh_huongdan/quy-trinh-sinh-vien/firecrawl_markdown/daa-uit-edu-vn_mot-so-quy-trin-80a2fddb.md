@@ -1,0 +1,490 @@
+[Skip to content](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#main)
+ [Skip to navigation](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#main-nav)
+
+Một số quy trình dành cho sinh viên
+===================================
+
+T6, 03/10/2014 - 14:39
+
+### **QUY ĐỊNH CHUNG:**
+
+**Kênh thông tin liên hệ chính thức:**
+
+\- Của Phòng Đào tạo Đại học (P.ĐTĐH): Email: [phongdaotaodh@uit.edu.vn](mailto:phongdaotaodh@uit.edu.vn)
+, Trang web Cổng thông tin đào tạo đại học: [daa.uit.edu.vn](http://daa.uit.edu.vn/)
+. P.ĐTĐH trả lời email gửi đến địa chỉ email của Phòng trong vòng 2 ngày làm việc.
+
+\- Của Sinh viên (SV): Tài khoản email được nhà trường cấp. P.ĐTĐH gửi email thông báo kết quả xử lý yêu cầu cá nhân đến tài khoản email của sinh viên.
+
+*   [Cấp bảng điểm](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#capbangdiem)
+    
+*   [Đăng ký học phần](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#dangkyhocphan)
+    
+*   [Chuyển ngành](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#chuyennganh)
+    
+*   [Chuyển trường](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#chuyentruong)
+    
+*   [Bảo lưu kết quả](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#baoluuketqua)
+    
+*   [Hoãn thi](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#hoanthi)
+    
+*   [Thôi học](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#nghihoc)
+    
+*   [Gia hạn thời gian đào tạo](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#giahandaotao)
+    
+*   [Phúc khảo điểm](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#phuctradiem)
+    
+*   [Cấp giấy giới thiệu](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#capgiaygioithieu)
+    
+*   [Miễn học phần Ngoại ngữ (Tiếng Anh, Tiếng Nhật)](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#mienhocphanav)
+    
+*   [Xét tốt nghiệp cho sinh viên hệ CQUI](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#xettotnghiep)
+    
+*   [Quy trình điều chỉnh đăng ký học phần](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#quytrinhdieuchinhdkhp)
+    
+*   [Quy trình đăng ký song ngành](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#dksongnganh)
+    
+*   [Khiếu nại khác](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#khieunaikhac)
+    
+*   [Biểu mẫu KLTN](https://daa.uit.edu.vn/bieu-mau-khoa-luan-tot-nghiep-danh-cho-sinh-vien)
+    
+*   [Chuyển từ hình thức chính quy sang từ xa](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#cquitotuxa)
+    
+*   [Đơn xin thi lại](https://daa.uit.edu.vn/sites/daa/files/202312/mau_16_don_xin_thi_lai.doc)
+    
+*   [Biểu mẫu TTTN dành cho SV](https://daa.uit.edu.vn/bieu-mau-thuc-tap-tot-nghiep-danh-cho-sv)
+    
+*   [Biểu mẫu quy trình công nhận tín chỉ trong đào tạo](https://daa.uit.edu.vn/mot-so-quy-trinh-danh-cho-sinh-vien#congnhantc)
+    
+
+### **1\. CẤP BẢNG ĐIỂM**
+
+**Bước 1** : SV đăng ký bảng điểm trên trang web.
+
+**Bước 2** : Sau khi xem trên hệ thống thấy tình trạng _đã in bảng điểm_, SV đến P.ĐTĐH để đóng lệ phí và nhận bảng điểm.
+
+### **2\. ĐĂNG KÝ HỌC PHẦN**
+
+**Bước 1:** Khoảng một tháng trước khi bắt đầu học kỳ, P.ĐTĐH thông báo thời gian đăng ký học phần và thời khóa biểu các học phần dự kiến mở trên Trang web.
+
+**Bước 2: Xác nhận ĐKHP -** SV xác nhận ĐKHP được hệ thống gợi ý (dựa trên kế hoạch đào tạo mẫu) tại trang web [dkhp.uit.edu.vn](http://dkhp.uit.edu.vn/)
+ (sử dụng tài khoản chứng thực) theo thời gian đã thông báo; sau thời gian này những gợi ý ĐKHP không được xác nhận sẽ bị xóa. 
+
+SV nên liên hệ cố vấn học tập để được tư vấn.
+
+**Bước 3: Đăng ký đợt 1 (đợt chính thức) -** SV ĐKHP đợt 1 tại trang web [dkhp.uit.edu.vn](http://dkhp.uit.edu.vn/)
+ (sử dụng tài khoản chứng thực) theo thời gian đã thông báo. Căn cứ vào chương trình đào tạo, thời khóa biểu đã được thông báo, SV chọn học phần phù hợp để ĐKHP (cần lưu ý các ràng buộc về thời gian, môn học tiên quyết, môn học trước). Trong thời gian này, SV được thêm, bỏ học phần.
+
+SV nên liên hệ cố vấn học tập để được tư vấn.
+
+Kết thúc đăng ký đợt 1, P.ĐTĐH thông báo danh sách các lớp được mở, lớp hủy và lớp chờ đăng ký thêm.
+
+**Bước 4:** **Đăng ký đợt 2 (đợt hiệu chỉnh)** – SV điều chỉnh ĐKHP tại trang web [dkhp.uit.edu.vn](http://dkhp.uit.edu.vn/)
+ (sử dụng tài khoản chứng thực) theo thời gian đã thông báo. Trong thời gian này, SV được điều chỉnh, thêm, bỏ học phần. SV có thể đăng ký thêm vào những lớp như sau:
+
+\- Lớp được mở nhưng chưa đạt số lượng tối đa;
+
+\- Lớp chờ đăng ký thêm (những lớp có số lượng đăng ký từ 20 SV trở lên, nhưng chưa đủ 30);
+
+\- Lớp được mở thêm sau đợt 1 theo đề nghị của SV (có xác nhận của Khoa).
+
+**Bước 5: Đăng ký đợt 3 (đợt cứu xét)** – SV thực hiện tại trang web [dkhp.uit.edu.vn](http://dkhp.uit.edu.vn/)
+ (sử dụng tài khoản chứng thực) theo thời gian đã thông báo. Chỉ xem xét giải quyết cho các trường hợp SV học lại, cải thiện, sửa đổi, điều chỉnh nhỏ dưới 30% các môn đã đăng ký trong các đợt 1, đợt 2; không được phép ĐKHP mới trong đợt này.
+
+**Tân SV sẽ không thực hiện thao tác ĐKHP ở HK1 năm thứ nhất.** 
+
+Khi kết thúc đợt cứu xét, P.ĐTĐH công bố thời khóa biểu chính thức trên trang web [daa.uit.edu.vn](http://daa.uit.edu.vn/)
+.
+
+Sinh viên xem cụ thể tại [**Hướng dẫn Đăng ký học phần**](https://daa.uit.edu.vn/27-huong-dan-dang-ky-hoc-phan-cho-sinh-vien)
+
+**Lưu ý:** Nếu có khiếu nại, thắc mắc về kết quả ĐKHP, SV viết đơn ([Mẫu 11](https://daa.uit.edu.vn/sites/daa/files/201410/mau_11_don_dieu_chinh_dkhp.doc)
+) và nộp tại P.ĐTĐH/VPCCTĐB để được xem xét giải quyết.
+
+\- Chỉ được đăng ký tối đa 24 tín chỉ/ học kỳ (bao gồm cả các học phần đăng ký học lại và học cải thiện). SV có ĐTBC ≥ 8,0 đến thời điểm đăng ký, được phép đăng ký tối đa 30 tín chỉ.
+
+\- Phải đăng ký tối thiểu 14 tín chỉ (trừ học kỳ cuối cùng của SV theo đúng tiến độ đào tạo).
+
+\- Phải đăng ký lớp thực hành (nếu có) đi chung với lớp học lý thuyết. Ví dụ: đăng ký lớp lý thuyết SE104.D21 thì phải đăng ký một trong các lớp thực hành SE104.D21.x (với x là số thứ tự lớp thực hành được mở).
+
+\- Không được đăng ký trùng giờ học.
+
+\- Một lớp học phần được mở khi có tối thiểu 30 SV đăng ký. 
+
+\- SV đang bị cảnh cáo học vụ vì lý do học tập chỉ được đăng ký học lại.
+
+\- Kết thúc thời hạn hiệu chỉnh ĐKHP, SV không được phép rút môn học đã đăng ký. 
+
+\- Trong thời gian ĐKHP, SV có thể đề nghị mở thêm môn học nếu có nhu cầu theo các bước sau
+
+**Bước a:** Đại diện SV viết đơn đề nghị mở lớp học phần, ghi rõ lý do đề nghị mở lớp.
+
+**Bước b:** Đại diện SV nộp đơn đề nghị cho Khoa quản lý.
+
+**\-** Khoa gửi công văn đề nghị mở lớp học phần kèm danh sách SV cho P.ĐTĐH/VPCCTĐB.
+
+**\-** P.ĐTĐH/VPCCTĐB giải quyết mở lớp học phần, xếp lịch học và thông báo cho đại diện SV (bằng email).
+
+**Bước c:** SV ĐKHP vào lớp dự kiến được mở. Trường sẽ không mở lớp nếu số lượng đăng ký thực tế quá ít.
+
+**Bước d:** SV xem kết quả ĐKHP trên trang web [student.uit.edu.vn](http://student.uit.edu.vn/)
+ (sử dụng tài khoản chứng thực).
+
+### **3\. CHUYỂN NGÀNH**
+
+**\+ SV được xem xét chuyển ngành học khác nếu có đủ các điều kiện sau:**
+
+Sinh viên được xem xét chuyển ngành/chương trình nếu có đủ các điều kiện sau:
+
+\-Sinh viên đạt điều kiện trúng tuyển của ngành/chương trình đào tạo trong cùng khóa tuyển sinh.
+
+\-Không trong thời gian bị kỷ luật từ cảnh báo trở lên.
+
+\-Không thuộc năm nhất.
+
+\-Đạt số tín chỉ tích lũy tối thiểu quy định tại Khoản 4 Điều 10 trong Quy chế đào tạo theo học chế tín chỉ cho hệ ĐHCQ (QĐ số 790/QĐ-ĐHCNTT ngày 28 tháng 9 năm 2022) và có ĐTBC từ 6,0 trở lên.
+
+\-Được sự chấp thuận của Trưởng khoa/Trưởng bộ môn quản lý ngành/chương trình đào tạo (nơi chuyển đến) và Trưởng khoa/Trưởng bộ môn quản lý ngành/chương trình đào tạo (nơi chuyển đi).
+
+\-Ngành/chương trình chuyển đến có đủ các điều kiện bảo đảm chất lượng, chưa vượt quá năng lực đào tạo đối với ngành/chương trình đào tạo đó theo quy định hiện hành của Bộ Giáo dục và Đào tạo.
+
+Ngoài các quy định này, sinh viên chương trình nâng cao, chương trình tiên tiến và chương trình tài năng thực hiện theo các quy định riêng (nếu có).
+
+\+ **Các bước thực hiện:**
+
+**Bước 1:** SV viết đơn ([Mẫu 01](https://daa.uit.edu.vn/sites/daa/files/201509/mau_01_don_xin_chuyen_nganh.doc)
+), đơn phải có xác nhận của gia đình.
+
+**Bước 2:** SV xin xác nhận đồng ý cho chuyển và đồng ý tiếp nhận của hai Trưởng khoa.
+
+**Bước 3:** SV Nộp đơn và các giấy tờ cần thiết lên P.ĐTĐH.
+
+**\-** P.ĐTĐH xét duyệt theo các điều kiện và chuẩn bị Quyết định trình Hiệu trưởng ký ban hành nếu SV thỏa điều kiện.
+
+\- P.ĐTĐH thông báo cho SV kết quả xét duyệt qua email.
+
+**Bước 4:** SV xem kết quả chuyển ngành qua email.
+
+### **4\. CHUYỂN TRƯỜNG**
+
+\+ **SV được xem xét chuyển Trường nếu có đủ các điều kiện sau**:
+
+\- SV đã tham dự kỳ thi tuyển sinh theo đề chung và có kết quả thi bằng hoặc cao hơn điểm trúng tuyển của Trường xin chuyển đến.
+
+\- SV đang trong thời gian học tập.
+
+\- Trường xin chuyển đi và Trường tiếp nhận có cùng ngành học hoặc cùng nhóm ngành đào tạo.
+
+\- Không phải là SV năm thứ nhất hoặc năm cuối của thời gian thiết kế khóa học (xem chi tiết trong quy chế đào tạo theo học chế tín chỉ của Trường).
+
+\- Không trong thời gian bị kỷ luật từ cảnh cáo trở lên.
+
+\- Được sự đồng ý của Hiệu trưởng Trường xin chuyển đi và Trường tiếp nhận.
+
+\+ **Các bước thực hiện:**
+
+**Bước 1:** SV viết đơn ([Mẫu 02](https://daa.uit.edu.vn/sites/daa/files/201410/mau_02_don_xin_chuyen_truong.doc)
+) và phải có xác nhận của gia đình, phòng Kế hoạch Tài chính, phòng Công tác SV.
+
+**Bước 2:** SV xin xác nhận đồng ý của Hiệu trưởng Trường tiếp nhận.
+
+**Bước 3:** SV nộp đơn cho P.ĐTĐH.
+
+**\-** P.ĐTĐH xét duyệt theo các điều kiện và chuẩn bị Quyết định trình Ban Giám hiệu ban hành nếu SV thỏa điều kiện.
+
+\- P.ĐTĐH thông báo cho SV kết quả xét duyệt qua email.
+
+**Bước 4:** SV đến P.ĐTĐH nhận Quyết định chuyển trường.
+
+### **5\. BẢO LƯU KẾT QUẢ**
+
+\+ **Bảo lưu kết quả trúng tuyển (kỳ thi tuyển sinh):**
+
+Sau khi đã trúng tuyển ở kỳ thi tuyển sinh, do một số hoàn cảnh đặc biệt như bệnh tật, tai nạn, hoàn cảnh khó khăn xảy ra đột xuất, thí sinh trúng tuyển có thể xin bảo lưu kết quả trúng tuyển sau khi làm thủ tục nhập học. Thí sinh trúng tuyển phải nộp đơn xin bảo lưu (Mẫu 08) có xác nhận của gia đình chậm nhất 15 ngày kể từ ngày gọi nhập học cho P.ĐTĐH của Trường và chỉ được bảo lưu khi có quyết định chấp thuận của Hiệu trưởng. Thời gian bảo lưu không quá 01 năm.
+
+\+ **Tạm dừng học tập:**
+
+SV được quyền xin tạm dừng học tập và được bảo lưu kết quả học tập trong các trường hợp sau:
+
+\- Được điều động vào lực lượng vũ trang.
+
+\- Bị đau ốm hoặc tai nạn phải điều trị thời gian dài, có giấy xác nhận của cơ quan y tế có thẩm quyền.
+
+\- Trường hợp vì lý do khác, SV phải học ít nhất 1 học kỳ ở Trường và không rơi vào các trường hợp bị đình chỉ học tập.
+
+Thời gian tạm dừng học tập từ 01 đến tối đa 02 học kỳ chính liên tiếp, được tính vào thời gian tối đa hoàn thành khóa học ngoại trừ trường hợp thi hành nghĩa vụ quân sự.
+
+\+ **Các bước thực hiện:**
+
+**Bước 1:** SV viết và nộp đơn xin bảo lưu ([Mẫu 03](https://daa.uit.edu.vn/sites/daa/files/201410/mau_03_don_xin_tam_ngung_va_bao_luu_ket_qua_hoc_tap.doc)
+\-tạm dừng và bảo lưu kết quả học tập hoặc [Mẫu 08](https://daa.uit.edu.vn/sites/daa/files/201410/mau_08_don_xin_bao_luu_ket_qua_tuyen_sinh.doc)
+\-bảo lưu kết quả tuyển sinh), đơn có đầy đủ chữ ký xác nhận của gia đình, địa phương, Khoa quản lý …).
+
+**Bước 2:** SV nộp đơn tại P.ĐTĐH, kèm theo các giấy tờ, chứng từ cần thiết (giấy nhập viện, giấy chứng nhận điều trị bệnh lâu dài, giấy xác nhận của địa phương…).
+
+**\-** P.ĐTĐH xét duyệt và trình Ban Giám hiệu ra Quyết định bảo lưu nếu SV đủ điều kiện và thông báo kết quả cho SV qua email.
+
+**Bước 3:** SV nhận Quyết định bảo lưu tại P.ĐTĐH.
+
+**Bước 4:** Sau khi hết thời hạn bảo lưu: SV phải làm đơn xin nhập học lại chậm nhất là 1 tháng trước khi bắt đầu học kỳ mới và nộp tại P.ĐTĐH ([Mẫu 07](https://daa.uit.edu.vn/sites/daa/files/201410/mau_07_don_xin_hoc_lai.doc)
+\-đơn học lại dành cho SV bảo lưu kết quả học tập hoặc [Mẫu 09](https://daa.uit.edu.vn/sites/daa/files/201410/mau_09_don_xin_nhap_hoc_lai.doc)
+\-đơn nhập học lại dành cho SV bảo lưu kết quả tuyển sinh).
+
+### **6\. HOÃN THI**
+
+Trường hợp vì lý do cá nhân, SV không thể tham dự kỳ thi đúng tiến độ. SV phải đăng ký thi lại các học phần trên tại P.ĐTĐH vào đầu học kỳ gần nhất có mở học phần và trong thời gian tối đa 2 học kỳ chính tiếp theo.
+
+**Bước 1:** SV điền đơn xin hoãn thi ([Mẫu 04](https://daa.uit.edu.vn/sites/daa/files/201410/mau_04_don_xin_hoan_thi.doc)
+), đơn có xác nhận hợp lệ.
+
+**Bước 2:** SV nộp đơn tại P.ĐTĐH, kèm theo các giấy tờ, chứng từ cần thiết (giấy nhập viện, giấy chứng nhận điều trị bệnh lâu dài, giấy xác nhận của địa phương…).
+
+P.ĐTĐH xét duyệt đồng ý cho SV hoãn thi nếu SV thỏa điều kiện, cập nhật trạng thái hoãn thi (điểm I) trên hệ thống đào tạo vào môn học tương ứng và thông báo kết quả cho SV qua email.
+
+Sinh viên đăng ký thi lại theo [Mẫu 16](https://daa.uit.edu.vn/sites/daa/files/202312/mau_16_don_xin_thi_lai.doc)
+
+### **7\. THÔI HỌC**
+
+**Bước 1:** SV viết và nộp đơn xin thôi học ([Mẫu 05](https://daa.uit.edu.vn/sites/daa/files/201410/mau_05_don_xin_thoi_hoc.doc)
+), đơn có đầy đủ chữ ký xác nhận của gia đình, P.CTSV, P.KHTC, Khoa quản lý.
+
+**Bước 2:** SV nộp đơn tại P.ĐTĐH, kèm theo các giấy tờ, chứng từ cần thiết phù hợp.
+
+P.ĐTĐH xét duyệt và trình Ban Giám hiệu ra Quyết định thôi học và thông báo kết quả xử lý cho SV bằng email
+
+**Bước 3:** SV nhận Quyết định nghỉ học tại P.ĐTĐH.
+
+### **8\. GIA HẠN THỜI GIAN ĐÀO TẠO**
+
+Chỉ dành cho những SV đã quá thời gian đào tạo tối đa thiết kế cho Khóa học.
+
+**Bước 1:** SV viết đơn xin gia hạn (đơn tự viết).
+
+**Bước 2:** SV nộp đơn tại P.ĐTĐH, kèm theo các giấy tờ, chứng từ cần thiết.
+
+P.ĐTĐH xét duyệt và trình Ban Giám hiệu ra Quyết định gia hạn và thông báo kết quả xử lý cho SV bằng email.
+
+**Bước 3:** SV nhận Quyết định gia hạn tại P.ĐTĐH.
+
+### **9\. PHÚC KHẢO ĐIỂM**
+
+**Bước 1:** SV đăng ký phúc khảo trên hệ thống tại [https://daa.uit.edu.vn/sinhvien/dkphuckhao](https://daa.uit.edu.vn/sinhvien/dkphuckhao)
+ sau ngày công bố điểm (Chỉ phúc khảo đối với các bài thi theo hình thức tự luận hoặc trắc nghiệm).
+
+**Bước 2:** SV đóng lệ phí phúc khảo theo quy định.
+
+**Bước 3:** P.ĐTĐH/VPĐB cập nhật điểm vào hệ thống quản lý điểm và công bố kết quả cho SV. SV sẽ nhận được email thông báo kết quả phúc khảo.
+
+### **10\. CẤP GIẤY GIỚI THIỆU**
+
+**Bước 1:** SV đăng ký tại tại: [https://student.uit.edu.vn/sinhvien/dangky-giaygioithieu](https://student.uit.edu.vn/sinhvien/dangky-giaygioithieu)
+  
+**Bước 2:** Khi có tình trạng: **Đã in**, sinh viên tới trực tiếp P.ĐTĐH/ VP.CTĐB để nhận Giấy giới thiệu.  
+Lưu ý:  
+\- SV được cấp giấy giới thiệu trong các trường hợp:
+
+1.  Thực tập tốt nghiệp;
+    
+2.  Liên hệ phòng thí nghiệm;
+    
+3.  Tham khảo tài liệu làm luận văn;
+    
+4.  Học những môn học nhà trường không tổ chức giảng dạy trong chương trình.
+    
+
+\- Giấy giới thiệu có giá trị trong thời gian tối đa là 3 tháng.  
+**11\. MIỄN HỌC PHẦN NGOẠI NGỮ (TIẾNG ANH, TIẾNG NHẬT)**
+
+**Bước 1:** SV cập nhật chứng chỉ/chứng nhận ngoại ngữ theo quy định lên trang student.uit.edu.vn.  
+**Bước 2:** Phòng ĐTĐH/VPCCTĐB đăng thông báo thời điểm xét miễn học phần ngoại ngữ tương ứng với thời điểm xét tốt nghiệp (theo kế hoạch năm học) lên website Phòng ĐTĐH/VPCCTĐB.
+
+**Bước 3:** Phòng ĐTĐH/VPCCTĐB kiểm tra chứng chỉ/chứng nhận ngoại ngữ và cập nhật điểm Miễn (điểm M) trên hệ thống quản lý đào tạo cho học phần ngoại ngữ được miễn học tương ứng. Sinh viên theo dõi kết quả sau khoảng thời gian 20 ngày tính từ ngày kết thúc của thông báo.
+
+### **12\. XÉT TỐT NGHIỆP CHO SINH VIÊN HỆ CQUI**
+
+Trường tổ chức xét Tốt nghiệp mỗi năm 04 đợt, theo kế hoạch năm được công bố tại cổng thông tin đào tạo: [daa.uit.edu.vn](http://daa.uit.edu.vn/)
+.
+
+**Bước 1**: P.ĐTĐH thông báo kế hoạch xét tốt nghiệp trên trang web: [daa.uit.edu.vn](http://daa.uit.edu.vn/)
+.
+
+**_Lưu ý:_** Sinh viên theo dõi đăng ký xét tốt nghiệp đúng hạn theo kế hoạch.
+
+**Bước 2**: Sinh viên đóng lệ phí xét cấp bằng tốt nghiệp trực tiếp tại phòng KHTC trong giờ hành chính.
+
+**Bước 3**: Sinh viên đủ điều kiện thực hiện đăng ký xét tốt nghiệp tại:  [https://daa.uit.edu.vn/sinhvien/dangky-totnghiep](https://daa.uit.edu.vn/sinhvien/dangky-totnghiep)
+, chuẩn bị hồ sơ tốt nghiệp gồm:
+
+\- Scan bản gốc bằng tốt nghiệp THPT;
+
+\- Scan giấy khai sinh;
+
+\- Chứng chỉ ngoại ngữ dùng đế xét chuẩn đầu ra tốt nghiệp sinh viên cập nhật tại: student.uit.edu.vn.
+
+**_Lưu ý_**:
+
+\- Sinh viên phải hoàn thành lệ phí xét cấp bằng tốt nghiệp và có chứng chỉ Giáo dục Quốc phòng & An ninh mới được đăng ký xét tốt nghiệp
+
+ - Kết quả chứng chỉ ngoại ngữ dùng để xét chuẩn đầu ra tốt nghiệp được tính thời hạn hiệu lực tại thời điểm sinh viên nộp chứng chỉ. Sinh viên có thể nộp chứng chỉ ngoại ngữ vào bất cứ thời điểm nào trong quá trình học. P. ĐTĐH sẽ tiến hành liên hệ với các cơ quan chức năng để xác thực tính hợp lệ của chứng chỉ trước khi trình Hội đồng xét tốt nghiệp.
+
+**Bước 4**: Sinh viên theo dõi thông báo danh sách sinh viên dự kiến tốt nghiệp và thông tin các khoản nợ của sinh viên: nợ sách thư viện, nợ tiền giấy xác nhận,… trên trang web: [daa.uit.edu.vn](http://daa.uit.edu.vn/)
+.
+
+Sinh viên phải hoàn thành các khoản nợ đúng thời hạn trong thông báo và kiểm tra thật chính xác thông tin cá nhân của mình: họ tên, ngày sinh, nơi sinh, điểm TBTL, xếp loại. Sinh viên phản hồi về địa chỉ: [phongdaotaodh@uit.edu.vn](mailto:phongdaotaodh@uit.edu.vn)
+.
+
+**Bước 5**: Sinh viên nhận bằng tốt nghiệp tại P.ĐTĐH/VPCCTĐB theo thông báo kế hoạch tổ chức lễ tốt nghiệp của Trường. P.ĐTĐH/VPCCTĐB kiểm tra việc hoàn thành các nghĩa vụ trước khi trả bằng tốt nghiệp cho sinh viên.
+
+### **13\. QUY TRÌNH ĐIỀU CHỈNH ĐĂNG KÝ HỌC PHẦN**
+
+1\. Quy trình gồm các bước (B) sau:  
+**B1:** Sinh viên vào địa chỉ [DKHP.UIT.EDU.VN](https://dkhp.uit.edu.vn/)
+ và thực hiện đăng nhập bằng tài khoản và mật khẩu như hệ thống quản lý DAA của Trường.
+
+**B2:** Sinh viên chọn “Loại” (“Đăng ký” hoặc “Hủy đăng ký”), “Mã lớp” tương ứng với loại đăng ký hoặc hủy đăng ký (chú ý: mỗi mã lớp trên một dòng).  
+**B3:** Sinh viên lưu lại kết quả điều chỉnh sau mỗi bước đăng ký hoặc hủy đăng ký (xem hình minh họa)
+
+![Quy trình điều chỉnh đăng ký học phần](https://daa.uit.edu.vn/sites/daa/files/uploads/quy-trinh-dieu-chinh-dkhp.png)
+
+2\. Thời gian điều chỉnh theo kế hoạch được Phòng ĐTĐH thông báo. Sau thời gian này, sinh viên chờ khoảng 2-4 ngày và vào lại [DAA.UIT.EDU.VN](https://dkhp.uit.edu.vn/)
+ để xem kết quả hiệu chỉnh ĐKHP.  
+3\. Quy trình này được áp dụng từ học kỳ hè năm học 2016-2017.
+
+### **14\. ĐĂNG KÝ SONG NGÀNH**
+
+**Sinh viên trình độ đại học văn bằng 1 đang học tại Trường được đăng ký học thêm một chương trình đào tạo thứ hai nếu thỏa mãn đồng thời các điều kiện sau đây:**
+
+**a) Ngành đào tạo của chương trình đào tạo thứ hai phải khác ngành đào tạo của chương trình đào tạo thứ nhất;**
+
+**b) Không có sự khác biệt trong hình thức đào tạo giữa hai chương trình đào tạo.**
+
+**c) Đã hoàn thành năm học đầu tiên của chương trình đào tạo thứ nhất, trước học kỳ cuối của thời gian thiết kế chương trình đào tạo 01 học kỳ. Tại thời điểm đăng ký, sinh viên phải đáp ứng một trong hai điều kiện sau:**
+
+**\- Học lực tính theo ĐTBCTL xếp loại khá trở lên và đáp ứng ngưỡng bảo đảm chất lượng của chương trình thứ hai trong năm tuyển sinh (nếu có).**
+
+**\- Học lực tính theo ĐTBCTL xếp loại trung bình và đáp ứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh.**
+
+\+ **Các bước thực hiện:**
+
+**Bước 1:** SV làm đơn theo mẫu ([Mẫu](https://daa.uit.edu.vn/sites/daa/files/uploads/mau_don_xin_hoc_song_nganh.doc)
+) và phải có xác nhận của Khoa đang học và Khoa xin học song ngành.
+
+**Bước 2:** SV nộp đơn cho P.ĐTĐH.
+
+**\-** P.ĐTĐH xét duyệt theo các điều kiện và chuẩn bị Quyết định trình Ban Giám hiệu ban hành nếu SV thỏa điều kiện.
+
+\- P.ĐTĐH thông báo cho SV kết quả xét duyệt qua email.
+
+**Bước 3:** SV đến P.ĐTĐH nhận Quyết định cho phép học song ngành.
+
+### **15\. KHIẾU NẠI KHÁC**
+
+**Bước 1:** SV **điền** và nộp giấy đề nghị ([Mẫu 06](https://daa.uit.edu.vn/sites/daa/files/201410/mau_06_giay_de_nghi.doc)
+) tại P.ĐTĐH.
+
+**Bước 2:** P.ĐTĐH sẽ kiểm tra và giải quyết các khiếu nại sau 2 ngày làm việc kể từ ngày nhận đơn.
+
+**16\. BIỂU MẪU KHOÁ LUẬN TỐT NGHIỆP**
+
+### **17\. CHUYỂN HÌNH THỨC CHÍNH QUY SANG TỪ XA**
+
+Bước 1. Sinh viên liên hệ TT.PTCNTT để được tư vấn các vấn đề về học tập, quy chế, quy định có liên quan.  
+Bước 2. Nếu có nguyện vọng chuyển từ hình thức đào tạo chính quy sang đào tạo từ xa SV nộp đơn cho P.ĐTĐH/VP.CCTĐB (theo **[Mẫu 17](https://daa.uit.edu.vn/sites/daa/files/202605/mau_17_don_de_chi_chuyen_cq-tx.docx)
+)**.  
+Lưu ý:  
+\- Đối với chương trình đại trà, chương trình chuẩn, chương trình liên thông đại học, chương trình văn bằng thứ hai: SV nộp đơn cho P.ĐTĐH.  
+\- Đối với chương trình tiên tiến, chương trình tài năng: SV nộp đơn cho VP.CCTĐB.  
+\- Giữ biên nhận hoặc giấy hẹn (nếu có).  
+Bước 3. Theo dõi quá trình xét duyệt và nhận thông báo kết quả:    
+   -  Liên hệ với P.ĐTĐH/VP.CCTĐB để cập nhật tiến trình xử lý hồ sơ và nhận kết quả chuyển hệ.  
+Bước 4. SV liên hệ TTPTCNTT để làm thủ tục nhập học.  
+\-  Số điện thoại: (028) 38 282 286 ( trong giờ hành chính)  
+\-  Hotline: 0865 58 48 79  
+\-  ZaloOA: [https://zalo.me/trungtamcitd](https://zalo.me/trungtamcitd)
+  
+\-  Fanpage: Trung tâm Phát triển Công nghệ Thông tin  
+\-  Email: [phongdaotao.citd@uit.edu.vn](mailto:phongdaotao.citd@uit.edu.vn)
+
+**20\. QUY TRÌNH CÔNG NHẬN TÍN CHỈ TRONG ĐÀO TẠO**
+
+Sinh viên xem Quy trình [tại đây](https://daa.uit.edu.vn/sites/daa/files/202503/412-qd-dhcntt_27-03-2025_quy_trinh_cong_nhan_tin_chi_trong_dao_tao_dai_hoc.pdf)
+
+Sinh viên xem Biểu mẫu [tại đây](https://daa.uit.edu.vn/bieu-mau-quy-trinh-cong-nhan-tin-chi-trong-dao-tao-dai-hoc)
+
+Biểu mẫu:
+
+\- Đơn đề nghị công nhận tín chỉ từ các cơ sở đào tạo trong nước
+
+\- Đơn đăng ký công nhận tín chỉ
+
+\- Đơn đề nghị bảo lưu học phí
+
+\- Báo cáo sau học tập/ đào tạo cới cơ sở nước ngoài
+
+### **CÁC BIỂU MẪU**
+
+| ### Mẫu | ### Tên biểu mẫu | ### Tải về |
+| --- | --- | --- |
+| ### Mẫu 01 | ### Đơn xin chuyển ngành | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201509/mau_01_don_xin_chuyen_nganh.doc) |
+| ### Mẫu 02 | ### Đơn xin chuyển trường | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_02_don_xin_chuyen_truong.doc) |
+| ### Mẫu 03 | ### Đơn xin tạm ngưng và bảo lưu kết quả học tập | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_03_don_xin_tam_ngung_va_bao_luu_ket_qua_hoc_tap.doc) |
+| ### Mẫu 04 | ### Đơn xin hoãn thi | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_04_don_xin_hoan_thi.doc) |
+| ### Mẫu 05 | ### Đơn xin thôi học | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_05_don_xin_thoi_hoc.doc) |
+| ### Mẫu 06 | ### Giấy đề nghị | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_06_giay_de_nghi.doc) |
+| ### Mẫu 07 | ### Đơn xin học lại | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_07_don_xin_hoc_lai.doc) |
+| ### Mẫu 08 | ### Đơn xin bảo lưu kết quả tuyển sinh | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_08_don_xin_bao_luu_ket_qua_tuyen_sinh.doc) |
+| ### Mẫu 09 | ### Đơn xin nhập học lại | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_09_don_xin_nhap_hoc_lai.doc) |
+| ### Mẫu 10 | ### Đơn phúc khảo | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_10_don_phuc_khao.doc) |
+| ### Mẫu 11 | ### Đơn điều chỉnh đăng ký học phần | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201410/mau_11_don_dieu_chinh_dkhp.doc) |
+| ### Mẫu 12 | ### Giấy giới thiệu | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/202407/mau_12-giay_gioi_thieu.doc) |
+| ### Mẫu 13 | ### Đơn xin miễn học Anh văn | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201610/mau_13_don_xin_mien_hoc_anh_van.doc) |
+| ### Mẫu 14 | ### Đơn đề nghị xét cấp bằng tốt nghiệp | ### [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/201703/mau_14_don_de_nghi_xet_tot_nghiep_.doc) |
+| ### Mẫu 15 | ### Biểu mẫu KLTN | [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/bieu-mau-khoa-luan-tot-nghiep-danh-cho-sinh-vien) |
+| ### Mẫu 16 | ### Đơn xin thi lại | [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/202312/mau_16_don_xin_thi_lai.doc) |
+| ### Mẫu 17 | ### Đơn chuyển chính quy sang từ xa | [![](https://daa.uit.edu.vn/sites/daa/files/uploads/download.gif)](https://daa.uit.edu.vn/sites/daa/files/202605/mau_17_don_de_chi_chuyen_cq-tx.docx) |
+
+Các file đính kèm: 
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_02\_don\_xin\_chuyen\_truong.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_02_don_xin_chuyen_truong.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_03\_don\_xin\_tam\_ngung\_va\_bao\_luu\_ket\_qua\_hoc\_tap.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_03_don_xin_tam_ngung_va_bao_luu_ket_qua_hoc_tap.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_04\_don\_xin\_hoan\_thi.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_04_don_xin_hoan_thi.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_05\_don\_xin\_thoi\_hoc.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_05_don_xin_thoi_hoc.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_06\_giay\_de\_nghi.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_06_giay_de_nghi.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_07\_don\_xin\_hoc\_lai.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_07_don_xin_hoc_lai.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_08\_don\_xin\_bao\_luu\_ket\_qua\_tuyen\_sinh.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_08_don_xin_bao_luu_ket_qua_tuyen_sinh.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_09\_don\_xin\_nhap\_hoc\_lai.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_09_don_xin_nhap_hoc_lai.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_11\_don\_dieu\_chinh\_dkhp.doc](https://daa.uit.edu.vn/sites/daa/files/201410/mau_11_don_dieu_chinh_dkhp.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_01\_don\_xin\_chuyen\_nganh.doc](https://daa.uit.edu.vn/sites/daa/files/201509/mau_01_don_xin_chuyen_nganh.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_13\_don\_xin\_mien\_hoc\_anh\_van.doc](https://daa.uit.edu.vn/sites/daa/files/201610/mau_13_don_xin_mien_hoc_anh_van.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_10\_don\_phuc\_khao.doc](https://daa.uit.edu.vn/sites/daa/files/201802/mau_10_don_phuc_khao.doc)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_12-giay\_gioi\_thieu.doc](https://daa.uit.edu.vn/sites/daa/files/202407/mau_12-giay_gioi_thieu.doc)
+
+ ![Tập tin](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/vnd.openxmlformats-officedocument.wordprocessingml.document") [mau\_01b\_don\_xin\_chuyen\_ct.docx](https://daa.uit.edu.vn/sites/daa/files/202107/mau_01b_don_xin_chuyen_ct.docx)
+
+ ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_16\_don\_xin\_thi\_lai.doc](https://daa.uit.edu.vn/sites/daa/files/202312/mau_16_don_xin_thi_lai.doc)
+
+ ![Tập tin](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/vnd.openxmlformats-officedocument.wordprocessingml.document") [mau\_17\_don\_de\_chi\_chuyen\_cq-tx.docx](https://daa.uit.edu.vn/sites/daa/files/202605/mau_17_don_de_chi_chuyen_cq-tx.docx)
+
+Bài viết liên quan
+------------------
+
+*   [Hướng dẫn tra cứu và xác minh văn bằng tốt nghiệp đại học](https://daa.uit.edu.vn/thongbao/huong-dan-tra-cuu-va-xac-minh-van-bang-tot-nghiep-dai-hoc)
+     (13-11-2014)
+*   [Quy trình tạm thời về tổ chức tuyển sinh, đào tạo, kiểm tra, thi và cấp bằng tốt nghiệp đối với hệ TXQM](https://daa.uit.edu.vn/thongbao/quy-trinh-tam-thoi-ve-chuc-tuyen-sinh-dao-tao-kiem-tra-thi-va-cap-bang-tot-nghiep-doi-voi)
+     (07-11-2013)
+*   [QUY TRÌNH BÁO NGHỈ & DẠY BÙ CỦA GIẢNG VIÊN](https://daa.uit.edu.vn/thongbao/quy-trinh-bao-nghi-day-bu-cua-giang-vien)
+     (04-04-2013)
+
+Back to top

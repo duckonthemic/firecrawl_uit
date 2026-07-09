@@ -1,6 +1,43 @@
 Văn bằng 2
 ==========
 
+[Thông báo đổi phòng học các ngày 12, 13, 14/04/2022](https://daa.uit.edu.vn/thongbao/thong-bao-doi-phong-hoc-cac-ngay-12-13-14042022)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+T6, 08/04/2022 - 13:57
+
+*   [Xem thêm về Thông báo đổi phòng học các ngày 12, 13, 14/04/2022](https://daa.uit.edu.vn/thongbao/thong-bao-doi-phong-hoc-cac-ngay-12-13-14042022 "Thông báo đổi phòng học các ngày 12, 13, 14/04/2022")
+    
+
+[Hướng dẫn sử dụng tài khoản chứng thực và tài khoản Office365 cho tân sinh viên Văn bằng 2 và Liên thông](https://daa.uit.edu.vn/thongbao/huong-dan-su-dung-tai-khoan-chung-thuc-va-tai-khoan-office365-cho-tan-sinh-vien-van-bang-2)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 21/03/2022 - 07:41
+
+Chào các bạn tân sinh viên hệ Văn bằng 2 và Liên thông!
+
+*   [Xem thêm về Hướng dẫn sử dụng tài khoản chứng thực và tài khoản Office365 cho tân sinh viên Văn bằng 2 và Liên thông](https://daa.uit.edu.vn/thongbao/huong-dan-su-dung-tai-khoan-chung-thuc-va-tai-khoan-office365-cho-tan-sinh-vien-van-bang-2 "Hướng dẫn sử dụng tài khoản chứng thực và tài khoản Office365 cho tân sinh viên Văn bằng 2 và Liên thông")
+    
+
+[LỊCH HỌC ĐỢT TIẾP THEO\_CHUNG CÁC KHÓA](https://daa.uit.edu.vn/thongbao/lich-hoc-dot-tiep-theochung-cac-khoa)
+
+---------------------------------------------------------------------------------------------------------------
+
+T2, 28/02/2022 - 12:56
+
+Chào các bạn sinh viên!
+
+Phòng Đào tạo thông báo Lịch học đợt tiếp theo. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
+
+**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
+
+              **_Tiết 2345 từ 8h15 - 11h30_**
+
+*   [Xem thêm về LỊCH HỌC ĐỢT TIẾP THEO\_CHUNG CÁC KHÓA](https://daa.uit.edu.vn/thongbao/lich-hoc-dot-tiep-theochung-cac-khoa "LỊCH HỌC ĐỢT TIẾP THEO_CHUNG CÁC KHÓA")
+    
+
 [LỊCH HỌC\_KHÓA 2021 (LỚP 357)\_ĐỢT 2](https://daa.uit.edu.vn/thongbao/lich-hockhoa-2021-lop-357dot-2)
 
 -------------------------------------------------------------------------------------------------------
@@ -102,54 +139,3 @@ Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuy�
               **_Tiết 2345 từ 8h15 - 11h30_**
 
 *   [Xem thêm về VB2\_Khóa 2019\_LỊCH HỌC\_ĐỢT 8](https://daa.uit.edu.vn/thongbao/vb2khoa-2019lich-hocdot-8 "VB2_Khóa 2019_LỊCH HỌC_ĐỢT 8")
-    
-
-[VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc-0)
-
------------------------------------------------------------------------------------
-
-T5, 09/09/2021 - 10:36
-
-Chào các bạn sinh viên!
-
-Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2020. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
-
-**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
-
-              **_Tiết 2345 từ 8h15 - 11h30_**
-
-*   [Xem thêm về VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc-0 "VB2_Khóa 2020_LỊCH HỌC")
-    
-
-[VB2\_Khóa 2019\_LỊCH HỌC\_ĐỢT 7](https://daa.uit.edu.vn/thongbao/vb2khoa-2019lich-hocdot-7)
-
----------------------------------------------------------------------------------------------
-
-CN, 08/08/2021 - 16:57
-
-Chào các bạn sinh viên!
-
-Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2019. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
-
-**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
-
-              **_Tiết 2345 từ 8h15 - 11h30_**
-
-*   [Xem thêm về VB2\_Khóa 2019\_LỊCH HỌC\_ĐỢT 7](https://daa.uit.edu.vn/thongbao/vb2khoa-2019lich-hocdot-7 "VB2_Khóa 2019_LỊCH HỌC_ĐỢT 7")
-    
-
-[VB2\_Khóa 2020 (lớp 467)\_LỊCH HỌC\_ĐỢT 4](https://daa.uit.edu.vn/thongbao/vb2khoa-2020-lop-467lich-hocdot-4)
-
----------------------------------------------------------------------------------------------------------------
-
-T2, 14/06/2021 - 13:53
-
-Chào các bạn sinh viên!
-
-Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2020 (lớp 467). Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
-
-**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
-
-              **_Tiết 2345 từ 8h15 - 11h30_**
-
-*   [Xem thêm về VB2\_Khóa 2020 (lớp 467)\_LỊCH HỌC\_ĐỢT 4](https://daa.uit.edu.vn/thongbao/vb2khoa-2020-lop-467lich-hocdot-4 "VB2_Khóa 2020 (lớp 467)_LỊCH HỌC_ĐỢT 4")

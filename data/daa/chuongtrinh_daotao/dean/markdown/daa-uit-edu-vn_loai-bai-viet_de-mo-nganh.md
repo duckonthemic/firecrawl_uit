@@ -1,6 +1,8 @@
 Đề án mở ngành
 ==============
 
+*   [Đề án tuyển sinh và đào tạo sinh viên Đông Nam Á ngành Kỹ thuật phần mềm](https://daa.uit.edu.vn/de-tuyen-sinh-va-dao-tao-sinh-vien-dong-nam-nganh-ky-thuat-phan-mem)
+    
 *   [Đề án mở ngành liên kết đào tạo với nước ngoài giữa Trường Đại học Công nghệ thông tin và Trường Đại học Newcastle](https://daa.uit.edu.vn/de-mo-nganh-lien-ket-dao-tao-voi-nuoc-ngoai-giua-truong-dai-hoc-cong-nghe-thong-tin-va-truong-dai)
     
 *   [Đề án mở ngành thí điểm liên trường ngành Công nghệ nông nghiệp số trình độ đại học](https://daa.uit.edu.vn/de-mo-nganh-thi-diem-lien-truong-nganh-cong-nghe-nong-nghiep-so-trinh-do-dai-hoc)

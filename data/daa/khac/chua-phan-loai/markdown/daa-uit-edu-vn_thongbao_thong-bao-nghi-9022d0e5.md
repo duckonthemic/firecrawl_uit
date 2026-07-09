@@ -1,0 +1,8 @@
+Thông báo nghỉ học để tránh bão Tembin (KHẨN)
+=============================================
+
+CN, 24/12/2017 - 21:40
+
+Trước diễn biến phức tạp của bão Tembin, Trường ĐHCNTT thông báo toàn thể giảng viên và sinh viên được nghỉ từ 12 giờ trưa ngày 25/12/2017 đến hết ngày 26/12/2017 để tránh bão.
+
+Trân trọng.

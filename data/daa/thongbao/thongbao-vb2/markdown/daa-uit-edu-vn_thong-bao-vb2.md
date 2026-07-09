@@ -1,6 +1,39 @@
 Văn bằng 2
 ==========
 
+[Thông báo lịch thi cuối học kỳ 2 năm học 2025-2026 các lớp VB2\_đợt 2](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-2-nam-hoc-2025-2026-cac-lop-vb2dot-2)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 29/06/2026 - 16:50
+
+Chào các bạn sinh viên VB2.
+
+\- P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link: [https://docs.google.com/spreadsheets/d/1D8vicK74-bn9\_yV6c4l-2NZCcSICfckw...](https://docs.google.com/spreadsheets/d/1D8vicK74-bn9_yV6c4l-2NZCcSICfckw/edit?gid=362388946#gid=362388946)
+
+\- Mọi thắc mắc và phản hồi về lịch thi các bạn vui lòng gửi về ĐC mail: [phongld@uit.edu.vn](mailto:phongld@uit.edu.vn)
+.
+
+Trân trọng.
+
+LDP.
+
+*   [Xem thêm về Thông báo lịch thi cuối học kỳ 2 năm học 2025-2026 các lớp VB2\_đợt 2](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-2-nam-hoc-2025-2026-cac-lop-vb2dot-2 "Thông báo lịch thi cuối học kỳ 2 năm học 2025-2026 các lớp VB2_đợt 2")
+    
+
+[Thông báo thu học phí học kỳ 2, năm học 2025-2026 trình độ ĐTĐH Chương trình VB2CQ, LTĐH](https://daa.uit.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dtdh-chuong-trinh-vb2cq-ltdh)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T4, 22/04/2026 - 08:07
+
+Chào các bạn sinh viên VB2 & Liên thông.
+
+Hiện tại, Trường đã ban hành _Thông báo số 451/TB-ĐHCNTT ngày 20/4/2026_ về việc thu học phí học kỳ 2 năm học 2025-2026 trình độ ĐTĐH Chương trình Văn bằng 2 chính quy, Liên thông Đại học.
+
+*   [Xem thêm về Thông báo thu học phí học kỳ 2, năm học 2025-2026 trình độ ĐTĐH Chương trình VB2CQ, LTĐH](https://daa.uit.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-trinh-do-dtdh-chuong-trinh-vb2cq-ltdh "Thông báo thu học phí học kỳ 2, năm học 2025-2026 trình độ ĐTĐH Chương trình VB2CQ, LTĐH")
+    
+
 [Kế hoạch xét tốt nghiệp đợt 02 năm 2026](https://daa.uit.edu.vn/ke-hoach-xet-tot-nghiep-dot-02-nam-2026)
 
 ----------------------------------------------------------------------------------------------------------
@@ -28,6 +61,27 @@ Trân trọng.
 LDP.
 
 *   [Xem thêm về Thông báo lịch thi cuối học kỳ 2 năm học 2025-2026 các lớp VB2\_đợt 1](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-2-nam-hoc-2025-2026-cac-lop-vb2dot-1 "Thông báo lịch thi cuối học kỳ 2 năm học 2025-2026 các lớp VB2_đợt 1")
+    
+
+[Thông báo nghỉ lễ Giỗ Tổ Hùng Vương, Chiến thắng 30/4 và Quốc tế Lao động 01/5/2026](https://daa.uit.edu.vn/thong-bao-nghi-le-gio-hung-vuong-chien-thang-304-va-quoc-te-lao-dong-0152026)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T4, 08/04/2026 - 09:44
+
+Kính chào Quý Thầy, Cô và các bạn sinh viên!
+
+Căn cứ lịch nghỉ lễ được Phòng Tổ chức - Hành chính công bố:
+
+\- Giỗ Tổ Hùng Vương: nghỉ từ thứ Bảy ngày 25/4 đến hết thứ Hai ngày 27/4/2026.
+
+\- Chiến thắng 30/4 và Quốc tế Lao động 1/5: nghỉ từ thứ Năm ngày 30/4 đến hết Chủ nhật ngày 03/5/2026.
+
+Như vậy:
+
+\- Ngày 28, 29/4/2026 là ngày làm việc bình thường.
+
+*   [Xem thêm về Thông báo nghỉ lễ Giỗ Tổ Hùng Vương, Chiến thắng 30/4 và Quốc tế Lao động 01/5/2026](https://daa.uit.edu.vn/thong-bao-nghi-le-gio-hung-vuong-chien-thang-304-va-quoc-te-lao-dong-0152026 "Thông báo nghỉ lễ Giỗ Tổ Hùng Vương, Chiến thắng 30/4 và Quốc tế Lao động 01/5/2026")
     
 
 [Thông báo Thời khóa biểu học kỳ 2 năm học 2025-2026 các lớp VB2](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-2-nam-hoc-2025-2026-cac-lop-vb2)
@@ -103,41 +157,3 @@ Trân trọng.
 LDP.
 
 *   [Xem thêm về Thông báo lịch thi cuối học kỳ 1 năm học 2025-2026 các lớp VB2\_đợt 1](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-1-nam-hoc-2025-2026-cac-lop-vb2dot-1 "Thông báo lịch thi cuối học kỳ 1 năm học 2025-2026 các lớp VB2_đợt 1")
-    
-
-[Kế hoạch xét tốt nghiệp đợt 04 năm 2025](https://daa.uit.edu.vn/ke-hoach-xet-tot-nghiep-dot-04-nam-2025)
-
-----------------------------------------------------------------------------------------------------------
-
-T3, 30/09/2025 - 09:57
-
-*   [Xem thêm về Kế hoạch xét tốt nghiệp đợt 04 năm 2025](https://daa.uit.edu.vn/ke-hoach-xet-tot-nghiep-dot-04-nam-2025 "Kế hoạch xét tốt nghiệp đợt 04 năm 2025")
-    
-
-[Thông báo Thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1) cập nhật ngày 8/9/2025.](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-1-nam-hoc-2025-2026-cac-lop-vb2-dot-1-cap-nhat-ngay-892025)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T6, 29/08/2025 - 10:40
-
-Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1), thông tin chi tiết các bạn xem tại link:[](https://docs.google.com/spreadsheets/d/1-C2KKRzg1Z5qOizkqnQTd4N0OLrP1WHj/edit?usp=sharing&ouid=114077922023477416924&rtpof=true&sd=true)
-
-*   [Xem thêm về Thông báo Thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1) cập nhật ngày 8/9/2025.](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-1-nam-hoc-2025-2026-cac-lop-vb2-dot-1-cap-nhat-ngay-892025 "Thông báo Thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1) cập nhật ngày 8/9/2025.")
-    
-
-[Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2\_đợt 2](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-2-nam-hoc-2024-2025-cac-lop-vb2dot-2)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T5, 03/07/2025 - 08:41
-
-Chào các bạn sinh viên VB2.
-
-P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link: [https://docs.google.com/spreadsheets/d/1itXlXvQcZkFlsHv-JIvk30wgAt6c8B9p...](https://docs.google.com/spreadsheets/d/1itXlXvQcZkFlsHv-JIvk30wgAt6c8B9p/edit?usp=sharing&ouid=114077922023477416924&rtpof=true&sd=true,%C2%A0)
- các bạn có thể đăng nhập hệ thống để xem lịch thi các nhân.
-
-Trân trọng.
-
-LDP.
-
-*   [Xem thêm về Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2\_đợt 2](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-2-nam-hoc-2024-2025-cac-lop-vb2dot-2 "Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2_đợt 2")

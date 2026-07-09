@@ -1,6 +1,46 @@
 Văn bằng 2
 ==========
 
+[Lịch Thi Cuối Kỳ 2 Đơt 2 Năm Học 2022-2023 các lớp VB2](https://daa.uit.edu.vn/thongbao/lich-thi-cuoi-ky-2-dot-2-nam-hoc-2022-2023-cac-lop-vb2)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 03/07/2023 - 11:12
+
+Chào các bạn sinh viên VB2  
+\- Phòng ĐTĐH gửi các bạn lịch thi cuối học kỳ 2 các lớp VB2 đợt 2, link xem lịch thi tại link:  
+[https://link.uit.edu.vn/3001J](https://link.uit.edu.vn/3001J)
+  
+\- Các môn tổ chức thi các bạn vui lòng có mặt tại phòng thi trước thời gian thi 15 phút.  
+Mọi phản hồi về lịch thi các bạn gửi mail về P.ĐTĐH hoặc liên hệ DĐ:0989881027.  
+Trân trọng.  
+Lưu Đức Phong.
+
+*   [Xem thêm về Lịch Thi Cuối Kỳ 2 Đơt 2 Năm Học 2022-2023 các lớp VB2](https://daa.uit.edu.vn/thongbao/lich-thi-cuoi-ky-2-dot-2-nam-hoc-2022-2023-cac-lop-vb2 "Lịch Thi Cuối Kỳ 2 Đơt 2 Năm Học 2022-2023 các lớp VB2")
+    
+
+[Thông báo Thời khóa biểu học kỳ 2 năm học 2022-2023 các lớp VB2 (đợt 2)](https://daa.uit.edu.vn/thongbao/thong-bao-thoi-khoa-bieu-hoc-ky-2-nam-hoc-2022-2023-cac-lop-vb2-dot-2)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T6, 26/05/2023 - 14:27
+
+Chào các bạn sinh viên Văn bằng 2.
+
+*   [Xem thêm về Thông báo Thời khóa biểu học kỳ 2 năm học 2022-2023 các lớp VB2 (đợt 2)](https://daa.uit.edu.vn/thongbao/thong-bao-thoi-khoa-bieu-hoc-ky-2-nam-hoc-2022-2023-cac-lop-vb2-dot-2 "Thông báo Thời khóa biểu học kỳ 2 năm học 2022-2023 các lớp VB2 (đợt 2)")
+    
+
+[Thông báo Lịch thi học kỳ 2 năm học 2022-2023 các lớp VB2](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-hoc-ky-2-nam-hoc-2022-2023-cac-lop-vb2)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T5, 11/05/2023 - 09:18
+
+Chào các bạn sinh viên văn bằn 2,
+
+*   [Xem thêm về Thông báo Lịch thi học kỳ 2 năm học 2022-2023 các lớp VB2](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-hoc-ky-2-nam-hoc-2022-2023-cac-lop-vb2 "Thông báo Lịch thi học kỳ 2 năm học 2022-2023 các lớp VB2 ")
+    
+
 [Giới thiệu kỳ thi đánh giá Năng lực tiếng Anh theo Khung năng lực Ngoại ngữ 6 bậc dùng cho Việt Nam (VSTEP)](https://daa.uit.edu.vn/thongbao/gioi-thieu-ky-thi-danh-gia-nang-luc-tieng-anh-theo-khung-nang-luc-ngoai-ngu-6-bac-dung-cho)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -98,46 +138,3 @@ Chào các bạn sinh viên
 Phòng Đào tạo Đại học thông báo kế hoạch xét tốt nghiệp đợt 4 năm 2022.
 
 *   [Xem thêm về Kế hoạch xét tốt nghiệp đợt 4 năm 2022](https://daa.uit.edu.vn/thongbao/ke-hoach-xet-tot-nghiep-dot-4-nam-2022 "Kế hoạch xét tốt nghiệp đợt 4 năm 2022")
-    
-
-[Lịch thi học kỳ 1 năm học 2022-2023 các lớp VB2 (đợt 1).](https://daa.uit.edu.vn/thongbao/lich-thi-hoc-ky-1-nam-hoc-2022-2023-cac-lop-vb2-dot-1)
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-T2, 19/09/2022 - 10:47
-
-Chào các bạn sinh viên văn bằn 2,
-
-Phòng Đào tạo Đại học thông báo lịch thi các lớp văn bằng 2, các bạn xem lịch thi chi tiết tại link: [https://link.uit.edu.vn/mfbMM](https://link.uit.edu.vn/mfbMM)
-
-Trân trọng.
-
-\-------------
-
-Lưu Đức Phong.
-
-*   [Xem thêm về Lịch thi học kỳ 1 năm học 2022-2023 các lớp VB2 (đợt 1).](https://daa.uit.edu.vn/thongbao/lich-thi-hoc-ky-1-nam-hoc-2022-2023-cac-lop-vb2-dot-1 "Lịch thi học kỳ 1 năm học 2022-2023 các lớp VB2 (đợt 1).")
-    
-
-[Thông báo Giới thiệu về kỳ thi đánh giá Năng lực tiếng Anh theo Khung năng lực Ngoại ngữ 6 bậc dùng cho Việt Nam (VSTEP)](https://daa.uit.edu.vn/thongbao/thong-bao-gioi-thieu-ve-ky-thi-danh-gia-nang-luc-tieng-anh-theo-khung-nang-luc-ngoai-ngu-6)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T3, 13/09/2022 - 08:34
-
-Chào các bạn sinh viên,
-
-*   [Xem thêm về Thông báo Giới thiệu về kỳ thi đánh giá Năng lực tiếng Anh theo Khung năng lực Ngoại ngữ 6 bậc dùng cho Việt Nam (VSTEP)](https://daa.uit.edu.vn/thongbao/thong-bao-gioi-thieu-ve-ky-thi-danh-gia-nang-luc-tieng-anh-theo-khung-nang-luc-ngoai-ngu-6 "Thông báo Giới thiệu về kỳ thi đánh giá Năng lực tiếng Anh theo Khung năng lực Ngoại ngữ 6 bậc dùng cho Việt Nam (VSTEP)")
-    
-
-[Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2022](https://daa.uit.edu.vn/thongbao/thong-bao-danh-sach-sinh-vien-du-kien-tn-dot-3-nam-2022)
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-T6, 09/09/2022 - 10:20
-
-Chào các bạn sinh viên  
-Phòng Đào tạo Đại học thông báo Danh sách sinh viên dự kiến tốt nghiệp đợt 03 năm 2022 trong file đính kèm. Sinh viên kiểm tra kỹ thông tin họ tên, ngày sinh, nơi sinh, giới tính, xếp loại tốt nghiệp để ra quyết định công nhận tốt nghiệp. Nếu có sai sót sinh viên phản hồi thông tin về địa chỉ mail: [phongdaotaodh@uit.edu.vn](mailto:phongdaotaodh@uit.edu.vn)
- đến hết ngày 11/09/2022.
-
-*   [Xem thêm về Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2022](https://daa.uit.edu.vn/thongbao/thong-bao-danh-sach-sinh-vien-du-kien-tn-dot-3-nam-2022 "Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2022")

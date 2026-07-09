@@ -1,6 +1,57 @@
 Văn bằng 2
 ==========
 
+[VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc-0)
+
+-----------------------------------------------------------------------------------
+
+T5, 09/09/2021 - 10:36
+
+Chào các bạn sinh viên!
+
+Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2020. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
+
+**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
+
+              **_Tiết 2345 từ 8h15 - 11h30_**
+
+*   [Xem thêm về VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc-0 "VB2_Khóa 2020_LỊCH HỌC")
+    
+
+[VB2\_Khóa 2019\_LỊCH HỌC\_ĐỢT 7](https://daa.uit.edu.vn/thongbao/vb2khoa-2019lich-hocdot-7)
+
+---------------------------------------------------------------------------------------------
+
+CN, 08/08/2021 - 16:57
+
+Chào các bạn sinh viên!
+
+Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2019. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
+
+**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
+
+              **_Tiết 2345 từ 8h15 - 11h30_**
+
+*   [Xem thêm về VB2\_Khóa 2019\_LỊCH HỌC\_ĐỢT 7](https://daa.uit.edu.vn/thongbao/vb2khoa-2019lich-hocdot-7 "VB2_Khóa 2019_LỊCH HỌC_ĐỢT 7")
+    
+
+[VB2\_Khóa 2020 (lớp 467)\_LỊCH HỌC\_ĐỢT 4](https://daa.uit.edu.vn/thongbao/vb2khoa-2020-lop-467lich-hocdot-4)
+
+---------------------------------------------------------------------------------------------------------------
+
+T2, 14/06/2021 - 13:53
+
+Chào các bạn sinh viên!
+
+Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2020 (lớp 467). Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
+
+**_Ghi chú: Tiết tối từ 5h45 - 8h45_**
+
+              **_Tiết 2345 từ 8h15 - 11h30_**
+
+*   [Xem thêm về VB2\_Khóa 2020 (lớp 467)\_LỊCH HỌC\_ĐỢT 4](https://daa.uit.edu.vn/thongbao/vb2khoa-2020-lop-467lich-hocdot-4 "VB2_Khóa 2020 (lớp 467)_LỊCH HỌC_ĐỢT 4")
+    
+
 [VB2\_Khóa 2020(lớp 357)\_LỊCH HỌC\_ĐỢT 2](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lop-357lich-hocdot-2)
 
 -------------------------------------------------------------------------------------------------------------
@@ -96,46 +147,3 @@ T6, 02/04/2021 - 13:51
 Chào các bạn sinh viên!
 
 *   [Xem thêm về VB2\_Thông báo điều chỉnh phòng học](https://daa.uit.edu.vn/thongbao/vb2thong-bao-dieu-chinh-phong-hoc "VB2_Thông báo điều chỉnh phòng học")
-    
-
-[VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc)
-
----------------------------------------------------------------------------------
-
-T2, 22/03/2021 - 08:34
-
-Chào các bạn sinh viên!
-
-Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2020. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
-
-**_Ghi chú: Tiết tối từ 5h45 - 8h45 (Sinh viên theo học đúng thứ tiết của khóa học trúng tuyển)_**
-
-*   [Xem thêm về VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc "VB2_Khóa 2020_LỊCH HỌC")
-    
-
-[VB2\_Thông báo lịch thi đợt 2 năm học 2020-2021](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-thi-dot-2-nam-hoc-2020-2021)
-
----------------------------------------------------------------------------------------------------------------------------------
-
-T4, 17/03/2021 - 10:34
-
-Chào các bạn sinh viên!
-
-Phòng Đào tạo Đại học thông báo đến các bạn lịch thi cuối kỳ đợt 2 năm học 2020-2021. Các bạn theo dõi thông tin và tham gia thi đầy đủ nhé.
-
-_**Ghi chú: Ca 2 từ 9h30-11h00**_
-
-*   [Xem thêm về VB2\_Thông báo lịch thi đợt 2 năm học 2020-2021](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-thi-dot-2-nam-hoc-2020-2021 "VB2_Thông báo lịch thi đợt 2 năm học 2020-2021")
-    
-
-[Thông báo về việc học online](https://daa.uit.edu.vn/thongbao/thong-bao-ve-viec-hoc-online)
-
----------------------------------------------------------------------------------------------
-
-T3, 02/02/2021 - 14:22
-
-Chào các bạn sinh viên!
-
-Do diễn biến mới của dịch bệnh COVID-19, Trường thông báo đến sinh viên VB2 chính quy như sau:
-
-*   [Xem thêm về Thông báo về việc học online](https://daa.uit.edu.vn/thongbao/thong-bao-ve-viec-hoc-online "Thông báo về việc học online")

@@ -3,191 +3,191 @@
 
 **Các thông báo dành cho hệ đại học chính quy.**
 
-[Thông báo học bù Xác suất thống kê (MA005.Q24) ngày 05/05/2026](https://daa.uit.edu.vn/node/38857)
+[Thông báo học bù An toàn mạng máy tính (NT101.Q22) ngày 02/06/2026](https://daa.uit.edu.vn/node/39624)
 
-----------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
-T2, 13/04/2026 - 14:35
+T3, 26/05/2026 - 09:46
 
-CBGD : **Phùng Minh Đức**  
-Khoa/ Bộ môn : **BMTL**  
-Môn học : **Xác suất thống kê (MA005)**  
-Lớp : **MA005.Q24**  
-Phòng : **B3.20**  
+CBGD : **Tô Nguyễn Nhật Quang**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **An toàn mạng máy tính (NT101)**  
+Lớp : **NT101.Q22**  
+Phòng : **C206**  
 Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **4**  
-Thứ : **3 , ngày 05/05/2026**
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **8**  
+Thứ : **3 , ngày 02/06/2026**
 
-*   [Xem thêm về Thông báo học bù Xác suất thống kê (MA005.Q24) ngày 05/05/2026](https://daa.uit.edu.vn/node/38857 "Thông báo học bù Xác suất thống kê (MA005.Q24) ngày 05/05/2026")
+*   [Xem thêm về Thông báo học bù An toàn mạng máy tính (NT101.Q22) ngày 02/06/2026](https://daa.uit.edu.vn/node/39624 "Thông báo học bù An toàn mạng máy tính (NT101.Q22) ngày 02/06/2026")
     
 
-[Thông báo học bù Xác suất thống kê (MA005.Q222) ngày 04/05/2026](https://daa.uit.edu.vn/node/38856)
+[Thông báo học bù Giải thuật xử lý song song và phân bố (NT538.Q21) ngày 02/06/2026](https://daa.uit.edu.vn/node/39622)
 
------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
-T2, 13/04/2026 - 14:31
+T3, 26/05/2026 - 08:17
 
-CBGD : **Phùng Minh Đức**  
-Khoa/ Bộ môn : **BMTL**  
-Môn học : **Xác suất thống kê (MA005)**  
-Lớp : **MA005.Q222**  
-Phòng : **B3.10**  
+CBGD : **Lê Kim Hùng**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Giải thuật xử lý song song và phân bố (NT538)**  
+Lớp : **NT538.Q21**  
+Phòng : **C206**  
 Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **4**  
-Thứ : **2 , ngày 04/05/2026**
+\- Tiết bắt đầu : **4**  
+\- Tiết kết thúc : **5**  
+Thứ : **3 , ngày 02/06/2026**
 
-*   [Xem thêm về Thông báo học bù Xác suất thống kê (MA005.Q222) ngày 04/05/2026](https://daa.uit.edu.vn/node/38856 "Thông báo học bù Xác suất thống kê (MA005.Q222) ngày 04/05/2026")
+*   [Xem thêm về Thông báo học bù Giải thuật xử lý song song và phân bố (NT538.Q21) ngày 02/06/2026](https://daa.uit.edu.vn/node/39622 "Thông báo học bù Giải thuật xử lý song song và phân bố (NT538.Q21) ngày 02/06/2026")
     
 
-[Thông báo nghỉ lớp Khởi nghiệp kinh doanh (BUS1125.Q22) ngày 15/04/2026](https://daa.uit.edu.vn/node/38855)
+[Thông báo lịch học HT2 Tư duy tính toán cho khoa học dữ liệu (DS107.Q21.1) ngày 02/06/2026](https://daa.uit.edu.vn/node/39621)
 
--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
-T2, 13/04/2026 - 14:28
+T3, 26/05/2026 - 07:09
 
-CBGD : **Phạm Trung Tuấn**  
-Khoa/ Bộ môn : **P.DTDH**  
-Môn học : **Khởi nghiệp kinh doanh (BUS1125)**  
-Lớp : **BUS1125.Q22**  
+CBGD : **Trần Quốc Khánh**  
+Khoa/ Bộ môn : **KTTT**  
+Môn học : **Tư duy tính toán cho khoa học dữ liệu (DS107)**  
+Lớp : **DS107.Q21.1**  
+Phòng : **B4.14**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **5**  
+Thứ : **3 , ngày 02/06/2026**
+
+*   [Xem thêm về Thông báo lịch học HT2 Tư duy tính toán cho khoa học dữ liệu (DS107.Q21.1) ngày 02/06/2026](https://daa.uit.edu.vn/node/39621 "Thông báo lịch học HT2 Tư duy tính toán cho khoa học dữ liệu (DS107.Q21.1) ngày 02/06/2026")
+    
+
+[Thông báo lịch học HT2 Tư duy tính toán cho khoa học dữ liệu (DS107.Q21.1) ngày 01/06/2026](https://daa.uit.edu.vn/node/39620)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+T3, 26/05/2026 - 07:08
+
+CBGD : **Trần Quốc Khánh**  
+Khoa/ Bộ môn : **KTTT**  
+Môn học : **Tư duy tính toán cho khoa học dữ liệu (DS107)**  
+Lớp : **DS107.Q21.1**  
+Phòng : **B4.14**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **2 , ngày 01/06/2026**
+
+*   [Xem thêm về Thông báo lịch học HT2 Tư duy tính toán cho khoa học dữ liệu (DS107.Q21.1) ngày 01/06/2026](https://daa.uit.edu.vn/node/39620 "Thông báo lịch học HT2 Tư duy tính toán cho khoa học dữ liệu (DS107.Q21.1) ngày 01/06/2026")
+    
+
+[Thông báo học bù Tiền xử lý và xây dựng bộ dữ liệu (DS108.Q21.1) ngày 05/06/2026](https://daa.uit.edu.vn/node/39619)
+
+----------------------------------------------------------------------------------------------------------------------
+
+T3, 26/05/2026 - 07:06
+
+CBGD : **Trần Quốc Khánh**  
+Khoa/ Bộ môn : **KTTT**  
+Môn học : **Tiền xử lý và xây dựng bộ dữ liệu (DS108)**  
+Lớp : **DS108.Q21.1**  
+Phòng : **B5.06**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **6 , ngày 05/06/2026**
+
+*   [Xem thêm về Thông báo học bù Tiền xử lý và xây dựng bộ dữ liệu (DS108.Q21.1) ngày 05/06/2026](https://daa.uit.edu.vn/node/39619 "Thông báo học bù Tiền xử lý và xây dựng bộ dữ liệu (DS108.Q21.1) ngày 05/06/2026")
+    
+
+[Thông báo nghỉ lớp Giải thuật xử lý song song và phân bố (NT538.Q21) ngày 26/05/2026](https://daa.uit.edu.vn/node/39618)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+T2, 25/05/2026 - 18:22
+
+CBGD : **Lê Kim Hùng**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Giải thuật xử lý song song và phân bố (NT538)**  
+Lớp : **NT538.Q21**  
 Phòng :  
 Thời gian :  
 \- Tiết bắt đầu : **4**  
 \- Tiết kết thúc : **5**  
-Thứ : **4 , ngày 15/04/2026**
+Thứ : **3 , ngày 26/05/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Khởi nghiệp kinh doanh (BUS1125.Q22) ngày 15/04/2026](https://daa.uit.edu.vn/node/38855 "Thông báo nghỉ lớp Khởi nghiệp kinh doanh (BUS1125.Q22) ngày 15/04/2026")
+*   [Xem thêm về Thông báo nghỉ lớp Giải thuật xử lý song song và phân bố (NT538.Q21) ngày 26/05/2026](https://daa.uit.edu.vn/node/39618 "Thông báo nghỉ lớp Giải thuật xử lý song song và phân bố (NT538.Q21) ngày 26/05/2026")
     
 
-[Thông báo lịch học HT2 Lập trình Python cho máy học (CS116.Q21.1) ngày 24/04/2026](https://daa.uit.edu.vn/node/38854)
+[Thông báo học bù Thiết kế hệ thống SoC (CE433.Q21.2) ngày 06/06/2026](https://daa.uit.edu.vn/node/39617)
 
------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
-T2, 13/04/2026 - 14:25
+T2, 25/05/2026 - 15:16
 
-CBGD : **Trương Quốc Trường**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Lập trình Python cho máy học (CS116)**  
-Lớp : **CS116.Q21.1**  
-Phòng : **B6.02**  
+CBGD : **Trương Văn Cương**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Thiết kế hệ thống SoC (CE433)**  
+Lớp : **CE433.Q21.2**  
+Phòng : **B4.02**  
 Thời gian :  
-\- Tiết bắt đầu : **4**  
-\- Tiết kết thúc : **5**  
-Thứ : **6 , ngày 24/04/2026**
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **7 , ngày 06/06/2026**
 
-*   [Xem thêm về Thông báo lịch học HT2 Lập trình Python cho máy học (CS116.Q21.1) ngày 24/04/2026](https://daa.uit.edu.vn/node/38854 "Thông báo lịch học HT2 Lập trình Python cho máy học (CS116.Q21.1) ngày 24/04/2026")
+*   [Xem thêm về Thông báo học bù Thiết kế hệ thống SoC (CE433.Q21.2) ngày 06/06/2026](https://daa.uit.edu.vn/node/39617 "Thông báo học bù Thiết kế hệ thống SoC (CE433.Q21.2) ngày 06/06/2026")
     
 
-[Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q211) ngày 23/05/2026](https://daa.uit.edu.vn/node/38853)
+[Thông báo học bù Thiết kế hệ thống SoC (CE433.Q21.1) ngày 06/06/2026](https://daa.uit.edu.vn/node/39616)
 
-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
-T2, 13/04/2026 - 14:23
+T2, 25/05/2026 - 15:14
 
-CBGD : **Huỳnh Thị Thanh Thương**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Cấu trúc dữ liệu và giải thuật (IT003)**  
-Lớp : **IT003.Q211**  
-Phòng : **B1.22**  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **3**  
-Thứ : **7 , ngày 23/05/2026**
-
-*   [Xem thêm về Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q211) ngày 23/05/2026](https://daa.uit.edu.vn/node/38853 "Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q211) ngày 23/05/2026")
-    
-
-[Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q211.1) ngày 16/05/2026](https://daa.uit.edu.vn/node/38852)
-
---------------------------------------------------------------------------------------------------------------------
-
-T2, 13/04/2026 - 14:10
-
-CBGD : **Huỳnh Thị Thanh Thương**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Cấu trúc dữ liệu và giải thuật (IT003)**  
-Lớp : **IT003.Q211.1**  
-Phòng : **B2.14**  
+CBGD : **Trương Văn Cương**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Thiết kế hệ thống SoC (CE433)**  
+Lớp : **CE433.Q21.1**  
+Phòng : **B4.02**  
 Thời gian :  
 \- Tiết bắt đầu : **1**  
 \- Tiết kết thúc : **5**  
-Thứ : **7 , ngày 16/05/2026**
+Thứ : **7 , ngày 06/06/2026**
 
-*   [Xem thêm về Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q211.1) ngày 16/05/2026](https://daa.uit.edu.vn/node/38852 "Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q211.1) ngày 16/05/2026")
+*   [Xem thêm về Thông báo học bù Thiết kế hệ thống SoC (CE433.Q21.1) ngày 06/06/2026](https://daa.uit.edu.vn/node/39616 "Thông báo học bù Thiết kế hệ thống SoC (CE433.Q21.1) ngày 06/06/2026")
     
 
-[Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q25) ngày 11/05/2026](https://daa.uit.edu.vn/node/38851)
+[Thông báo học bù Vi xử lý-vi điều khiển (CE103.Q24) ngày 01/06/2026](https://daa.uit.edu.vn/node/39615)
 
--------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 
-T2, 13/04/2026 - 14:03
+T2, 25/05/2026 - 15:13
 
-CBGD : **Huỳnh Thị Thanh Thương**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Phân tích và thiết kế thuật toán (CS112)**  
-Lớp : **CS112.Q25**  
-Phòng : **E41**  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **3**  
-Thứ : **2 , ngày 11/05/2026**
-
-*   [Xem thêm về Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q25) ngày 11/05/2026](https://daa.uit.edu.vn/node/38851 "Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q25) ngày 11/05/2026")
-    
-
-[Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q21) ngày 09/05/2026](https://daa.uit.edu.vn/node/38850)
-
--------------------------------------------------------------------------------------------------------------------
-
-T2, 13/04/2026 - 14:01
-
-CBGD : **Huỳnh Thị Thanh Thương**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Phân tích và thiết kế thuật toán (CS112)**  
-Lớp : **CS112.Q21**  
-Phòng : **B3.12**  
+CBGD : **Thân Thế Tùng**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vi xử lý-vi điều khiển (CE103)**  
+Lớp : **CE103.Q24**  
+Phòng : **C202**  
 Thời gian :  
 \- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **8**  
-Thứ : **7 , ngày 09/05/2026**
-
-*   [Xem thêm về Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q21) ngày 09/05/2026](https://daa.uit.edu.vn/node/38850 "Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q21) ngày 09/05/2026")
-    
-
-[Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q22) ngày 09/05/2026](https://daa.uit.edu.vn/node/38849)
-
--------------------------------------------------------------------------------------------------------------------
-
-T2, 13/04/2026 - 13:56
-
-CBGD : **Huỳnh Thị Thanh Thương**  
-Khoa/ Bộ môn : **KHMT**  
-Môn học : **Phân tích và thiết kế thuật toán (CS112)**  
-Lớp : **CS112.Q22**  
-Phòng : **B3.10**  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **3**  
-Thứ : **7 , ngày 09/05/2026**
-
-*   [Xem thêm về Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q22) ngày 09/05/2026](https://daa.uit.edu.vn/node/38849 "Thông báo học bù Phân tích và thiết kế thuật toán (CS112.Q22) ngày 09/05/2026")
-    
-
-[Thông báo học bù Công nghệ Java (IE303.Q22) ngày 01/06/2026](https://daa.uit.edu.vn/node/38848)
-
--------------------------------------------------------------------------------------------------
-
-T2, 13/04/2026 - 13:52
-
-CBGD : **Nguyễn Thành Luân**  
-Khoa/ Bộ môn : **KTTT**  
-Môn học : **Công nghệ Java (IE303)**  
-Lớp : **IE303.Q22**  
-Phòng : **B1.04**  
-Thời gian :  
-\- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **9**  
+\- Tiết kết thúc : **10**  
 Thứ : **2 , ngày 01/06/2026**
 
-*   [Xem thêm về Thông báo học bù Công nghệ Java (IE303.Q22) ngày 01/06/2026](https://daa.uit.edu.vn/node/38848 "Thông báo học bù Công nghệ Java (IE303.Q22) ngày 01/06/2026")
+*   [Xem thêm về Thông báo học bù Vi xử lý-vi điều khiển (CE103.Q24) ngày 01/06/2026](https://daa.uit.edu.vn/node/39615 "Thông báo học bù Vi xử lý-vi điều khiển (CE103.Q24) ngày 01/06/2026")
+    
+
+[Thông báo học bù Cấu trúc rời rạc (MA004.Q23) ngày 03/07/2026](https://daa.uit.edu.vn/node/39614)
+
+---------------------------------------------------------------------------------------------------
+
+T2, 25/05/2026 - 15:11
+
+CBGD : **Hà Mạnh Linh**  
+Khoa/ Bộ môn : **BMTL**  
+Môn học : **Cấu trúc rời rạc (MA004)**  
+Lớp : **MA004.Q23**  
+Phòng : **B3.16**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **4**  
+Thứ : **6 , ngày 03/07/2026**
+
+*   [Xem thêm về Thông báo học bù Cấu trúc rời rạc (MA004.Q23) ngày 03/07/2026](https://daa.uit.edu.vn/node/39614 "Thông báo học bù Cấu trúc rời rạc (MA004.Q23) ngày 03/07/2026")

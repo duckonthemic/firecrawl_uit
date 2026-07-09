@@ -1,0 +1,14 @@
+Thông báo thu học phí học kỳ 2, năm học 2025-2026 trình độ ĐTĐH Chương trình VB2CQ, LTĐH
+========================================================================================
+
+T4, 22/04/2026 - 08:07
+
+Chào các bạn sinh viên VB2 & Liên thông.
+
+Hiện tại, Trường đã ban hành _Thông báo số 451/TB-ĐHCNTT ngày 20/4/2026_ về việc thu học phí học kỳ 2 năm học 2025-2026 trình độ ĐTĐH Chương trình Văn bằng 2 chính quy, Liên thông Đại học.
+
+Link xem tại:[https://khtc.uit.edu.vn/content/2025-2026-thong-bao-thu-hoc-phi-hk2-nh-2...](https://khtc.uit.edu.vn/content/2025-2026-thong-bao-thu-hoc-phi-hk2-nh-2025-2026-trinh-do-dtdh-chuong-trinh-van-bang-2-chinh)
+
+Trân trọng
+
+LDP.

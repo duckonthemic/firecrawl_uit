@@ -1,6 +1,39 @@
 Văn bằng 2
 ==========
 
+[Thông báo lịch thi cuối học kỳ 1 năm học 2024-2025 các lớp VB2\_đợt 1](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-1-nam-hoc-2024-2025-cac-lop-vb2dot-1)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T3, 15/10/2024 - 08:10
+
+Chào các bạn sinh viên VB2
+
+*   [Xem thêm về Thông báo lịch thi cuối học kỳ 1 năm học 2024-2025 các lớp VB2\_đợt 1](https://daa.uit.edu.vn/thong-bao-lich-thi-cuoi-hoc-ky-1-nam-hoc-2024-2025-cac-lop-vb2dot-1 "Thông báo lịch thi cuối học kỳ 1 năm học 2024-2025 các lớp VB2_đợt 1")
+    
+
+[Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2024](https://daa.uit.edu.vn/thong-bao-danh-sach-sinh-vien-du-kien-tn-dot-3-nam-2024)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+T4, 04/09/2024 - 15:58
+
+Chào các bạn sinh viên!  
+Phòng Đào tạo Đại học thông báo Danh sách sinh viên dự kiến tốt nghiệp đợt 3 năm 2024 trong file đính kèm. Sinh viên kiểm tra kỹ thông tin họ tên, ngày sinh, giới tính, xếp loại để ra quyết định công nhận tốt nghiệp. Nếu có sai sót sinh viên phản hồi thông tin về địa chỉ email: [phongdaotaodh@uit.edu.vn](mailto:phongdaotaodh@uit.edu.vn)
+ đến hết ngày 05/09/2024  
+
+*   [Xem thêm về Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2024](https://daa.uit.edu.vn/thong-bao-danh-sach-sinh-vien-du-kien-tn-dot-3-nam-2024 "Thông báo Danh sách sinh viên dự kiến TN đợt 3 năm 2024")
+    
+
+[Thông tin về buổi tư vấn tuyển sinh CTĐT trình độ thạc sĩ đợt 2/2024](https://daa.uit.edu.vn/thong-tin-ve-buoi-tu-van-tuyen-sinh-ctdt-trinh-do-thac-si-dot-22024)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T6, 30/08/2024 - 15:04
+
+*   [Xem thêm về Thông tin về buổi tư vấn tuyển sinh CTĐT trình độ thạc sĩ đợt 2/2024](https://daa.uit.edu.vn/thong-tin-ve-buoi-tu-van-tuyen-sinh-ctdt-trinh-do-thac-si-dot-22024 "Thông tin về buổi tư vấn tuyển sinh CTĐT trình độ thạc sĩ đợt 2/2024")
+    
+
 [Thông báo Thời khóa biểu học kỳ 1 năm học 2024-2025 các lớp VB2 (đợt 1)](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-1-nam-hoc-2024-2025-cac-lop-vb2-dot-1)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -102,47 +135,3 @@ T3, 19/03/2024 - 09:06
 Chào các bạn Sinh viên Văn bằng 2 .
 
 *   [Xem thêm về Lịch thi cuối kỳ học kỳ 2 năm học 2023-2024 các lớp VB2 Đợt 1](https://daa.uit.edu.vn/lich-thi-cuoi-ky-hoc-ky-2-nam-hoc-2023-2024-cac-lop-vb2-dot-1 "Lịch thi cuối kỳ học kỳ 2 năm học 2023-2024 các lớp VB2 Đợt 1")
-    
-
-[Thông báo Thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1)](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-2-nam-hoc-2023-2024-cac-lop-vb2-dot-1)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T6, 12/01/2024 - 11:15
-
-Chào các bạn sinh viên Văn bằng 2.
-
-Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1 ), thông tin chi tiết các bạn xem tại link:
-
-[https://link.uit.edu.vn/Hvv0c](https://link.uit.edu.vn/Hvv0c)
- hoặc các bạn có thể đăng nhập web: [https://daa.uit.edu.vn/](https://daa.uit.edu.vn/)
- vào mục thời khóa biểu cá nhân để xem lịch học.
-
-*   [Xem thêm về Thông báo Thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1)](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-2-nam-hoc-2023-2024-cac-lop-vb2-dot-1 "Thông báo Thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1)")
-    
-
-[Thông báo về việc thu học phí học kỳ 2 năm học 2023-2024 trình độ đại học hệ chính quy](https://daa.uit.edu.vn/thong-bao-ve-viec-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024-trinh-do-dai-hoc-he-chinh-quy)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T5, 28/12/2023 - 16:41
-
-Phòng ĐTĐH thông báo về việc thu học phí học kỳ 2, NH 2023-2024 trình độ ĐTĐH chính quy (xem file đính kèm)
-
-Thông tin chi tiết theo link sau [https://khtc.uit.edu.vn/content/2023-2024-thong-bao-thu-hoc-phi-hoc-ky-2...](https://khtc.uit.edu.vn/content/2023-2024-thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024)
-.
-
-Trân trọng.
-
-*   [Xem thêm về Thông báo về việc thu học phí học kỳ 2 năm học 2023-2024 trình độ đại học hệ chính quy](https://daa.uit.edu.vn/thong-bao-ve-viec-thu-hoc-phi-hoc-ky-2-nam-hoc-2023-2024-trinh-do-dai-hoc-he-chinh-quy "Thông báo về việc thu học phí học kỳ 2 năm học 2023-2024 trình độ đại học hệ chính quy")
-    
-
-[Lịch Thi Cuối Kỳ 1 Đơt 2 Năm Học 2023-2024 các lớp VB2](https://daa.uit.edu.vn/lich-thi-cuoi-ky-1-dot-2-nam-hoc-2023-2024-cac-lop-vb2)
-
-----------------------------------------------------------------------------------------------------------------------------------------
-
-T2, 25/12/2023 - 08:43
-
-Chào các bạn sinh viên VB2  
-
-*   [Xem thêm về Lịch Thi Cuối Kỳ 1 Đơt 2 Năm Học 2023-2024 các lớp VB2](https://daa.uit.edu.vn/lich-thi-cuoi-ky-1-dot-2-nam-hoc-2023-2024-cac-lop-vb2 "Lịch Thi Cuối Kỳ 1 Đơt 2 Năm Học 2023-2024 các lớp VB2")

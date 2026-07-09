@@ -1,6 +1,49 @@
 Văn bằng 2
 ==========
 
+[VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc)
+
+---------------------------------------------------------------------------------
+
+T2, 22/03/2021 - 08:34
+
+Chào các bạn sinh viên!
+
+Phòng Đào tạo thông báo Lịch học đợt tiếp theo của khóa tuyển 2020. Các bạn theo dõi lịch học và thông báo đến các bạn cùng lớp để theo học đầy đủ nhé.
+
+**_Ghi chú: Tiết tối từ 5h45 - 8h45 (Sinh viên theo học đúng thứ tiết của khóa học trúng tuyển)_**
+
+*   [Xem thêm về VB2\_Khóa 2020\_LỊCH HỌC](https://daa.uit.edu.vn/thongbao/vb2khoa-2020lich-hoc "VB2_Khóa 2020_LỊCH HỌC")
+    
+
+[VB2\_Thông báo lịch thi đợt 2 năm học 2020-2021](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-thi-dot-2-nam-hoc-2020-2021)
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+T4, 17/03/2021 - 10:34
+
+Chào các bạn sinh viên!
+
+Phòng Đào tạo Đại học thông báo đến các bạn lịch thi cuối kỳ đợt 2 năm học 2020-2021. Các bạn theo dõi thông tin và tham gia thi đầy đủ nhé.
+
+_**Ghi chú: Ca 2 từ 9h30-11h00**_
+
+*   [Xem thêm về VB2\_Thông báo lịch thi đợt 2 năm học 2020-2021](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-thi-dot-2-nam-hoc-2020-2021 "VB2_Thông báo lịch thi đợt 2 năm học 2020-2021")
+    
+
+[Thông báo về việc học online](https://daa.uit.edu.vn/thongbao/thong-bao-ve-viec-hoc-online)
+
+---------------------------------------------------------------------------------------------
+
+T3, 02/02/2021 - 14:22
+
+Chào các bạn sinh viên!
+
+Do diễn biến mới của dịch bệnh COVID-19, Trường thông báo đến sinh viên VB2 chính quy như sau:
+
+*   [Xem thêm về Thông báo về việc học online](https://daa.uit.edu.vn/thongbao/thong-bao-ve-viec-hoc-online "Thông báo về việc học online")
+    
+
 [VB2\_Thông báo lịch học đợt 2 năm học 2020-2021](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-hoc-dot-2-nam-hoc-2020-2021)
 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -100,48 +143,3 @@ Các bạn xem và thực hiện khai báo đầy đủ nhé.
 Trân trọng.
 
 *   [Xem thêm về VB2\_Thông báo tăng cường phòng, chống dịch Covid-19](https://daa.uit.edu.vn/thongbao/vb2thong-bao-tang-cuong-phong-chong-dich-covid-19 "VB2_Thông báo tăng cường phòng, chống dịch Covid-19")
-    
-
-[VB2\_Thông báo lịch thi đợt 2](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-thi-dot-2)
-
----------------------------------------------------------------------------------------------
-
-T3, 28/07/2020 - 08:25
-
-Thân chào các bạn sinh viên, phòng Đào tạo Đại học thông báo lịch thi đợt 2, các bạn xem thông tin và dự thi đầy đủ đúng giờ.
-
-Trân trọng.
-
-*   [Xem thêm về VB2\_Thông báo lịch thi đợt 2](https://daa.uit.edu.vn/thongbao/vb2thong-bao-lich-thi-dot-2 "VB2_Thông báo lịch thi đợt 2")
-    
-
-[VB2\_Thông báo học bù môn Nhập môn mạng máy tính (IT005.K21.VB2)](https://daa.uit.edu.vn/thongbao/vb2thong-bao-hoc-bu-mon-nhap-mon-mang-may-tinh-it005k21vb2)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T3, 21/07/2020 - 08:21
-
-Chào các bạn lớp VB2!
-
-Theo thông báo từ giảng viên, giảng viên Bùi Thanh Bình sẽ dạy bù cho lớp IT005.K21.VB2 một buổi vào tối thứ 4 ngày 29/7/2020.
-
-Các bạn sắp xếp tham gia lớp đầy đủ để hoàn thành số tiết học.
-
-Trân trọng.
-
-Phòng Đào tạo Đại học.
-
-*   [Xem thêm về VB2\_Thông báo học bù môn Nhập môn mạng máy tính (IT005.K21.VB2)](https://daa.uit.edu.vn/thongbao/vb2thong-bao-hoc-bu-mon-nhap-mon-mang-may-tinh-it005k21vb2 "VB2_Thông báo học bù môn Nhập môn mạng máy tính (IT005.K21.VB2)")
-    
-
-[Làm thủ tục nhập học, gặp mặt giảng viên và hướng dẫn học online cho tân sinh viên VB2 chính quy K2019](https://daa.uit.edu.vn/thongbao/lam-thu-tuc-nhap-hoc-gap-mat-giang-vien-va-huong-dan-hoc-online-cho-tan-sinh-vien-vb2-chinh)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-T3, 10/03/2020 - 15:28
-
-Thân chào Anh/Chị tân sinh viên VB2 chính quy K2019,
-
-Theo kế hoạch học tập của lớp Văn bằng 2 chính quy năm 2019, **sáng thứ 7 ngày 14/03/2020** sẽ tập trung nộp hồ sơ, gặp mặt giảng viên và hướng dẫn học online.
-
-*   [Xem thêm về Làm thủ tục nhập học, gặp mặt giảng viên và hướng dẫn học online cho tân sinh viên VB2 chính quy K2019](https://daa.uit.edu.vn/thongbao/lam-thu-tuc-nhap-hoc-gap-mat-giang-vien-va-huong-dan-hoc-online-cho-tan-sinh-vien-vb2-chinh "Làm thủ tục nhập học, gặp mặt giảng viên và hướng dẫn học online cho tân sinh viên VB2 chính quy K2019")

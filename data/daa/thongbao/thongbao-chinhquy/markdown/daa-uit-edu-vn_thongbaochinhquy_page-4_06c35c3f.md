@@ -3,191 +3,191 @@
 
 **Các thông báo dành cho hệ đại học chính quy.**
 
-[Thông báo nghỉ lớp Lập trình hướng đối tượng (IT002.Q224.1) ngày 29/04/2026](https://daa.uit.edu.vn/node/38898)
-
------------------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 10:35
-
-CBGD : **Phạm Thế Sơn**  
-Khoa/ Bộ môn : **CNPM**  
-Môn học : **Lập trình hướng đối tượng (IT002)**  
-Lớp : **IT002.Q224.1**  
-Phòng :  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **5**  
-Thứ : **4 , ngày 29/04/2026**
-
-*   [Xem thêm về Thông báo nghỉ lớp Lập trình hướng đối tượng (IT002.Q224.1) ngày 29/04/2026](https://daa.uit.edu.vn/node/38898 "Thông báo nghỉ lớp Lập trình hướng đối tượng (IT002.Q224.1) ngày 29/04/2026")
-    
-
-[Thông báo nghỉ lớp Khai thác dữ liệu (IS252.Q23.1) ngày 29/04/2026](https://daa.uit.edu.vn/node/38897)
-
---------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 09:56
-
-CBGD : **Dương Phi Long**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Khai thác dữ liệu (IS252)**  
-Lớp : **IS252.Q23.1**  
-Phòng :  
-Thời gian :  
-\- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **10**  
-Thứ : **4 , ngày 29/04/2026**
-
-*   [Xem thêm về Thông báo nghỉ lớp Khai thác dữ liệu (IS252.Q23.1) ngày 29/04/2026](https://daa.uit.edu.vn/node/38897 "Thông báo nghỉ lớp Khai thác dữ liệu (IS252.Q23.1) ngày 29/04/2026")
-    
-
-[Thông báo nghỉ lớp Khai thác dữ liệu (IS252.Q23) ngày 29/04/2026](https://daa.uit.edu.vn/node/38896)
-
-------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 09:55
-
-CBGD : **Dương Phi Long**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Khai thác dữ liệu (IS252)**  
-Lớp : **IS252.Q23**  
-Phòng :  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **4**  
-Thứ : **4 , ngày 29/04/2026**
-
-*   [Xem thêm về Thông báo nghỉ lớp Khai thác dữ liệu (IS252.Q23) ngày 29/04/2026](https://daa.uit.edu.vn/node/38896 "Thông báo nghỉ lớp Khai thác dữ liệu (IS252.Q23) ngày 29/04/2026")
-    
-
-[Thông báo lịch học HT2 Thiết kế đồ họa (MM109.Q23.1) ngày 24/04/2026](https://daa.uit.edu.vn/node/38895)
-
-----------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 09:33
-
-CBGD : **Trần Đoan Vy**  
-Khoa/ Bộ môn : **CNPM**  
-Môn học : **Thiết kế đồ họa (MM109)**  
-Lớp : **MM109.Q23.1**  
-Phòng : **C201**  
-Thời gian :  
-\- Tiết bắt đầu : **4**  
-\- Tiết kết thúc : **5**  
-Thứ : **6 , ngày 24/04/2026**
-
-*   [Xem thêm về Thông báo lịch học HT2 Thiết kế đồ họa (MM109.Q23.1) ngày 24/04/2026](https://daa.uit.edu.vn/node/38895 "Thông báo lịch học HT2 Thiết kế đồ họa (MM109.Q23.1) ngày 24/04/2026")
-    
-
-[Thông báo học bù Viết nội dung đa phương tiện (MM104.Q21) ngày 20/04/2026](https://daa.uit.edu.vn/node/38894)
-
----------------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 09:24
-
-CBGD : **Lê Viết Thọ**  
-Khoa/ Bộ môn : **CNPM**  
-Môn học : **Viết nội dung đa phương tiện (MM104)**  
-Lớp : **MM104.Q21**  
-Phòng : **B4.12**  
-Thời gian :  
-\- Tiết bắt đầu : **8**  
-\- Tiết kết thúc : **10**  
-Thứ : **2 , ngày 20/04/2026**
-
-*   [Xem thêm về Thông báo học bù Viết nội dung đa phương tiện (MM104.Q21) ngày 20/04/2026](https://daa.uit.edu.vn/node/38894 "Thông báo học bù Viết nội dung đa phương tiện (MM104.Q21) ngày 20/04/2026")
-    
-
-[Thông báo học bù Công nghệ Java (IE303.Q22) ngày 02/06/2026](https://daa.uit.edu.vn/node/38893)
-
--------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 07:16
-
-CBGD : **Nguyễn Thành Luân**  
-Khoa/ Bộ môn : **KTTT**  
-Môn học : **Công nghệ Java (IE303)**  
-Lớp : **IE303.Q22**  
-Phòng : **B1.04**  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **4**  
-Thứ : **3 , ngày 02/06/2026**
-
-*   [Xem thêm về Thông báo học bù Công nghệ Java (IE303.Q22) ngày 02/06/2026](https://daa.uit.edu.vn/node/38893 "Thông báo học bù Công nghệ Java (IE303.Q22) ngày 02/06/2026")
-    
-
-[Thông báo học bù Kỹ thuật phát triển hệ thống web (IE213.Q22) ngày 18/04/2026](https://daa.uit.edu.vn/node/38892)
-
--------------------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 07:15
-
-CBGD : **Phạm Nhật Duy**  
-Khoa/ Bộ môn : **KTTT**  
-Môn học : **Kỹ thuật phát triển hệ thống web (IE213)**  
-Lớp : **IE213.Q22**  
-Phòng : **B1.10**  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **4**  
-Thứ : **7 , ngày 18/04/2026**
-
-*   [Xem thêm về Thông báo học bù Kỹ thuật phát triển hệ thống web (IE213.Q22) ngày 18/04/2026](https://daa.uit.edu.vn/node/38892 "Thông báo học bù Kỹ thuật phát triển hệ thống web (IE213.Q22) ngày 18/04/2026")
-    
-
-[Thông báo nghỉ lớp Hoạch định nguồn lực doanh nghiệp (IS336.Q21) ngày 15/04/2026](https://daa.uit.edu.vn/node/38891)
-
-----------------------------------------------------------------------------------------------------------------------
-
-T4, 15/04/2026 - 04:41
-
-CBGD : **Văn Đức Sơn Hà**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Hoạch định nguồn lực doanh nghiệp (IS336)**  
-Lớp : **IS336.Q21**  
-Phòng :  
-Thời gian :  
-\- Tiết bắt đầu : **1**  
-\- Tiết kết thúc : **4**  
-Thứ : **4 , ngày 15/04/2026**
-
-*   [Xem thêm về Thông báo nghỉ lớp Hoạch định nguồn lực doanh nghiệp (IS336.Q21) ngày 15/04/2026](https://daa.uit.edu.vn/node/38891 "Thông báo nghỉ lớp Hoạch định nguồn lực doanh nghiệp (IS336.Q21) ngày 15/04/2026")
-    
-
-[Thông báo nghỉ lớp Dữ liệu lớn (IS405.Q22) ngày 15/04/2026](https://daa.uit.edu.vn/node/38890)
+[Thông báo học bù Thiết kế mạng (NT113.Q21) ngày 06/06/2026](https://daa.uit.edu.vn/node/39667)
 
 ------------------------------------------------------------------------------------------------
 
-T4, 15/04/2026 - 00:10
+T3, 02/06/2026 - 08:44
 
-CBGD : **Nguyễn Hồ Duy Tri**  
-Khoa/ Bộ môn : **HTTT**  
-Môn học : **Dữ liệu lớn (IS405)**  
-Lớp : **IS405.Q22**  
-Phòng :  
+CBGD : **Lê Anh Tuấn**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Thiết kế mạng (NT113)**  
+Lớp : **NT113.Q21**  
+Phòng : **B1.12**  
 Thời gian :  
-\- Tiết bắt đầu : **6**  
-\- Tiết kết thúc : **9**  
-Thứ : **4 , ngày 15/04/2026**
+\- Tiết bắt đầu : **4**  
+\- Tiết kết thúc : **5**  
+Thứ : **7 , ngày 06/06/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Dữ liệu lớn (IS405.Q22) ngày 15/04/2026](https://daa.uit.edu.vn/node/38890 "Thông báo nghỉ lớp Dữ liệu lớn (IS405.Q22) ngày 15/04/2026")
+*   [Xem thêm về Thông báo học bù Thiết kế mạng (NT113.Q21) ngày 06/06/2026](https://daa.uit.edu.vn/node/39667 "Thông báo học bù Thiết kế mạng (NT113.Q21) ngày 06/06/2026")
     
 
-[Thông báo nghỉ lớp Cơ chế hoạt động của mã độc (NT230.Q22.ANTT) ngày 15/04/2026](https://daa.uit.edu.vn/node/38889)
+[Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q216) ngày 27/06/2026](https://daa.uit.edu.vn/node/39666)
 
----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
-T3, 14/04/2026 - 23:04
+T3, 02/06/2026 - 08:44
 
-CBGD : **Phan Thế Duy**  
+CBGD : **Nguyễn Ngọc Thừa**  
+Khoa/ Bộ môn : **KHMT**  
+Môn học : **Cấu trúc dữ liệu và giải thuật (IT003)**  
+Lớp : **IT003.Q216**  
+Phòng : **B1.18**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **8**  
+Thứ : **7 , ngày 27/06/2026**
+
+*   [Xem thêm về Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q216) ngày 27/06/2026](https://daa.uit.edu.vn/node/39666 "Thông báo học bù Cấu trúc dữ liệu và giải thuật (IT003.Q216) ngày 27/06/2026")
+    
+
+[Thông báo học bù Công nghệ DevOps và ứng dụng (NT548.Q21) ngày 06/06/2026](https://daa.uit.edu.vn/node/39665)
+
+---------------------------------------------------------------------------------------------------------------
+
+T3, 02/06/2026 - 08:40
+
+CBGD : **Lê Anh Tuấn**  
 Khoa/ Bộ môn : **MMT&TT**  
-Môn học : **Cơ chế hoạt động của mã độc (NT230)**  
-Lớp : **NT230.Q22.ANTT**  
+Môn học : **Công nghệ DevOps và ứng dụng (NT548)**  
+Lớp : **NT548.Q21**  
+Phòng : **B1.12**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **3**  
+Thứ : **7 , ngày 06/06/2026**
+
+*   [Xem thêm về Thông báo học bù Công nghệ DevOps và ứng dụng (NT548.Q21) ngày 06/06/2026](https://daa.uit.edu.vn/node/39665 "Thông báo học bù Công nghệ DevOps và ứng dụng (NT548.Q21) ngày 06/06/2026")
+    
+
+[Thông báo học bù An toàn mạng (NT140.Q21.ANTT) ngày 03/06/2026](https://daa.uit.edu.vn/node/39664)
+
+----------------------------------------------------------------------------------------------------
+
+T3, 02/06/2026 - 08:38
+
+CBGD : **Nguyễn Duy**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **An toàn mạng (NT140)**  
+Lớp : **NT140.Q21.ANTT**  
+Phòng : **C305**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **4 , ngày 03/06/2026**
+
+*   [Xem thêm về Thông báo học bù An toàn mạng (NT140.Q21.ANTT) ngày 03/06/2026](https://daa.uit.edu.vn/node/39664 "Thông báo học bù An toàn mạng (NT140.Q21.ANTT) ngày 03/06/2026")
+    
+
+[Thông báo học bù An toàn mạng máy tính (NT101.Q21) ngày 05/06/2026](https://daa.uit.edu.vn/node/39663)
+
+--------------------------------------------------------------------------------------------------------
+
+T3, 02/06/2026 - 08:36
+
+CBGD : **Tô Nguyễn Nhật Quang**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **An toàn mạng máy tính (NT101)**  
+Lớp : **NT101.Q21**  
+Phòng : **C307**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **8**  
+Thứ : **6 , ngày 05/06/2026**
+
+*   [Xem thêm về Thông báo học bù An toàn mạng máy tính (NT101.Q21) ngày 05/06/2026](https://daa.uit.edu.vn/node/39663 "Thông báo học bù An toàn mạng máy tính (NT101.Q21) ngày 05/06/2026")
+    
+
+[Thông báo lịch học HT2 Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21.1) ngày 05/06/2026](https://daa.uit.edu.vn/node/39662)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 01/06/2026 - 14:22
+
+CBGD : **Nguyễn Duy Khánh**  
+Khoa/ Bộ môn : **CNPM**  
+Môn học : **Phát triển phần mềm theo kiến trúc Microservices (SE361)**  
+Lớp : **SE361.Q21.1**  
+Phòng : **C314**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **6 , ngày 05/06/2026**
+
+*   [Xem thêm về Thông báo lịch học HT2 Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21.1) ngày 05/06/2026](https://daa.uit.edu.vn/node/39662 "Thông báo lịch học HT2 Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21.1) ngày 05/06/2026")
+    
+
+[Thông báo lịch học HT2 Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21.1) ngày 06/06/2026](https://daa.uit.edu.vn/node/39661)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 01/06/2026 - 14:21
+
+CBGD : **Nguyễn Duy Khánh**  
+Khoa/ Bộ môn : **CNPM**  
+Môn học : **Phát triển phần mềm theo kiến trúc Microservices (SE361)**  
+Lớp : **SE361.Q21.1**  
+Phòng : **C314**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **7 , ngày 06/06/2026**
+
+*   [Xem thêm về Thông báo lịch học HT2 Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21.1) ngày 06/06/2026](https://daa.uit.edu.vn/node/39661 "Thông báo lịch học HT2 Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21.1) ngày 06/06/2026")
+    
+
+[Thông báo học bù Dữ liệu lớn (IS405.Q23.1) ngày 05/06/2026](https://daa.uit.edu.vn/node/39660)
+
+------------------------------------------------------------------------------------------------
+
+T2, 01/06/2026 - 08:50
+
+CBGD : **Nguyễn Hồ Duy Trí**  
+Khoa/ Bộ môn : **HTTT**  
+Môn học : **Dữ liệu lớn (IS405)**  
+Lớp : **IS405.Q23.1**  
+Phòng : **B2.16**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **5**  
+Thứ : **6 , ngày 05/06/2026**
+
+*   [Xem thêm về Thông báo học bù Dữ liệu lớn (IS405.Q23.1) ngày 05/06/2026](https://daa.uit.edu.vn/node/39660 "Thông báo học bù Dữ liệu lớn (IS405.Q23.1) ngày 05/06/2026")
+    
+
+[Thông báo nghỉ lớp Nhập môn mạng máy tính (IT005.Q21) ngày 01/06/2026](https://daa.uit.edu.vn/node/39658)
+
+-----------------------------------------------------------------------------------------------------------
+
+T2, 01/06/2026 - 01:02
+
+CBGD : **Đỗ Thị Hương Lan**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Nhập môn mạng máy tính (IT005)**  
+Lớp : **IT005.Q21**  
 Phòng :  
 Thời gian :  
-\- Tiết bắt đầu : **2**  
+\- Tiết bắt đầu : **1**  
 \- Tiết kết thúc : **3**  
-Thứ : **4 , ngày 15/04/2026**
+Thứ : **2 , ngày 01/06/2026**
 
-*   [Xem thêm về Thông báo nghỉ lớp Cơ chế hoạt động của mã độc (NT230.Q22.ANTT) ngày 15/04/2026](https://daa.uit.edu.vn/node/38889 "Thông báo nghỉ lớp Cơ chế hoạt động của mã độc (NT230.Q22.ANTT) ngày 15/04/2026")
+*   [Xem thêm về Thông báo nghỉ lớp Nhập môn mạng máy tính (IT005.Q21) ngày 01/06/2026](https://daa.uit.edu.vn/node/39658 "Thông báo nghỉ lớp Nhập môn mạng máy tính (IT005.Q21) ngày 01/06/2026")
+    
+
+[Thông báo học bù Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21) ngày 03/06/2026](https://daa.uit.edu.vn/node/39657)
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+T6, 29/05/2026 - 14:12
+
+CBGD : **Nguyễn Duy Khánh**  
+Khoa/ Bộ môn : **CNPM**  
+Môn học : **Phát triển phần mềm theo kiến trúc Microservices (SE361)**  
+Lớp : **SE361.Q21**  
+Phòng : **B4.16**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **5**  
+Thứ : **4 , ngày 03/06/2026**
+
+*   [Xem thêm về Thông báo học bù Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21) ngày 03/06/2026](https://daa.uit.edu.vn/node/39657 "Thông báo học bù Phát triển phần mềm theo kiến trúc Microservices (SE361.Q21) ngày 03/06/2026")
