@@ -1,0 +1,199 @@
+Phương thức, thủ đoạn hoạt động lừa đảo thông qua mạng mà sinh viên hay gặp phải
+================================================================================
+
+Fri, 30/05/2025 - 19:19
+
+**Bài 1: [Cảnh báo về tình trạng SV bị kẻ gian lừa đảo, thao túng tâm lý](https://ctsv.uit.edu.vn/bai-viet/canh-bao-ve-tinh-trang-sv-bi-ke-gian-lua-dao-thao-tung-tam-ly)
+**
+
+**Bài 2:**
+
+Chào các bạn!
+
+Thời gian gần đây, Phòng Công tác Sinh viên (CTSV) vẫn ghi nhận tình trạng lừa đảo nhắm vào sinh viên UIT vẫn tiếp diễn. Phòng CTSV xin giới thiệu bài viết thứ 2 từ Đại úy Bồ Quốc Dũng – Phó Trưởng Công an Phường Đông Hòa
+
+Mặc dù trong thời gian qua, các cơ quan chức năng đã có nhiều cảnh báo về việc lừa đảo, chiếm đoạt tài sản qua các ứng dụng trên mạng xã hội nhưng trên thực tế với những thủ đoạn vô cùng tinh vi của các đối tượng lừa đảo thì số người “sập bẫy” vẫn không ngừng gia tăng. Thời gian gần đây, trên địa bàn thành phố Dĩ An nói chung và trên địa bàn phường Đông Hòa nói riêng, xảy ra nhiều vụ lừa đảo thông qua các ứng dụng trên mạng xã hội, gây ra thiệt hại cho nạn nhân hàng trăm triệu đồng.
+
+Qua các vụ việc, Công an Phường Đông Hòa đã xác định các phương thức, thủ đoạn mà các đối tượng sử dụng để hoạt động như sau:
+
+\- Thường là nhóm đối tượng có tổ chức, hoạt động chuyên nghiệp, có kiến thức về lĩnh vực tài chính, công nghệ.
+
+\- Các đối tượng thông qua các kênh truyền thông, mạng xã hội để thực hiện thủ đoạn lừa đảo với nhiều phương thức, thủ đoạn như:
+
+1/ Phương thức, thủ đoạn cho vay “Cho vay tiền tín chấp thủ tục rút gọn, giải ngân nhanh, lãi suất ưu đãi…”.
+
+\*Phương thức, thủ đoạn:
+
+\- Khi có khách liên hệ vay tiền, đối tượng sẽ phân công đối tượng “Tư vấn viên, hỗ trợ viên” dẫn khách đến các trang website hoặc ứng dụng (app) cho vay của họ có các giao diện, nút chức năng, biểu giá vay và lãi suất… đã được xây dựng công phu, chuyên nghiệp hòng gây dựng niềm tin.
+
+\- Sau khi khách nhập các thông tin cá nhân, số điện thoại, số tài khoản ngân hàng và chọn gói vay theo nhu cầu, sẽ buộc khách phải chuyển khoản tiền lệ phí hồ sơ, tiền bảo hiểm khoản vay, tiền chứng minh khả năng chi trả.
+
+\- Tiếp đó, đối tượng sẽ can thiệp vào hệ thống của website hoặc ứng dụng (app) cho vay để tạo ra các thông báo lỗi hệ thống hoặc đổ lỗi cho khách nhập sai thông tin (mặc dù khách điền đúng thông tin vẫn bị sửa thành sai) rồi yêu cầu khách nộp tiền để khắc phục lỗi hoặc để đảm bảo uy tín của khách rằng khách không lừa đảo họ. Các khoản tiền khách nộp để sửa lỗi sẽ được tích luỹ trên hệ thống webiste hoặc ứng dụng (app) cho vay, đối tượng cam kết sẽ hoàn lại toàn bộ số tiền khách đã nộp kèm theo khoản tiền khách cần vay ngay sau khi kết thúc giao dịch; ngược lại, nếu khách không giao dịch tiếp thì sẽ mất toàn bộ số tiền đã nộp trước đó hoặc khách vẫn phải trả lãi số tiền đã vay nếu không thực hiện đóng các khoản phí hồ sơ, tiền bảo hiểm khoản vay, tiền chứng minh khả năng chi trả.
+
+\- Với tâm lý tiếc tiền khi đã  nộp vào thì nạn nhân sẽ liên tục nộp tiền vào cho đến khi biết mình bị lừa đảo thì mới dừng lại.
+
+\- Các rủi ro không lường trước vì bị lộ thông tin và hình ảnh cá nhân.
+
+\- Có thể bị gán vào các khoản vay mà bản thân không hề hay biết do đã cung cấp các loại giấy tờ tuỳ thân, thông báo cư trú tại địa phương trước đó cho các đối tượng xấu.
+
+\- Trường hợp có thể vay được tiền, nhưng khi chậm thanh toán tiền lãi và gốc sẽ bị các đối tượng bôi nhọ danh dự và đe doạ tinh thần, quấy nhiễu bản thân và những người thân.
+
+\* Biện pháp phòng ngừa:
+
+\- Tuyệt đối không giao dịch, vay mượn tiền qua các ứng dụng (app) trên mạng xã hội khi mình không biết rõ địa chỉ, nhân thân cụ thể của người cho vay vì các app cho vay trên mạng xã hội đều là các app có thông tin giả mạo, các app này đều là hoạt động cho vay nặng lãi và có dấu hiệu lừa đảo chiếm đoạt tài sản.
+
+\- Tuyệt đối không chuyển tiền dưới bất cứ hình thức nào khi nghi vấn đối tượng lừa đảo, chiếm đoạt tài sản (nếu đã chuyển phải báo ngân hàng phong tỏa ngay số tiền đã chuyển); Nếu gặp trường hợp nghi vấn lừa đảo, người dân cần tìm cách ghi lại thông tin của các đối tượng như số điện thoại, số tài khoản ngân hàng… và thông báo, cung cấp ngày cho cơ quan Công an để điều tra, xử lý và ngăn chặn.
+
+\- Mỗi khi thực hiện giao dịch trực tuyến, người dân cần kiểm tra chính xác thông tin của Website và chỉ thực hiện giao dịch tại các Website uy tín, có độ bảo mật cao.
+
+2/Phương thức thực hiện nhiệm vụ ảo
+
+\* Phương thức, thủ đoạn:
+
+\- Thường là nhóm đối tượng có tổ chức, hoạt động chuyên nghiệp, có kiến thức về lĩnh vực tài chính, công nghệ.
+
+\- Các đối tượng thông qua các kênh truyền thông, mạng xã hội để mời chào với các khẩu hiệu như: “Thông qua tính năng của Zalo, chỉ cần một chiếc điện thoại mỗi ngày có thể kiếm ngay 500 ngàn đến 3 triệu đồng/ngày”, “Web mới nên tranh thủ kiếm ạ, tháng 5 lãi 25 triệu rồi, mọi người nhanh tay hoặc có thể làm đại lý, cấp link riêng cho đại lý, làm đại lý 1 tháng không dưới 30 triệu… vốn chỉ cần 350-500 ngàn, ta có thể kiếm lãi mỗi ngày…
+
+\- Khi có khách liên hệ nhận nhiệm vụ, đối tượng sẽ phân công người “Tư vấn viên, hỗ trợ viên” dẫn khách đến các trang website hoặc ứng dụng (app) do các đối tượng tạo ra… đã được xây dựng công phu, chuyên nghiệp hòng gây dựng niềm tin.
+
+\- Sau khi khách nhập các thông tin cá nhân, số điện thoại, số tài khoản ngân hàng và bắt đầu thực hiện các nhiệm vụ, các nhiệm vụ thường xem, like các clip trên Youtube, Tiktok... các nhiệm vụ đầu các đối tượng chuyển tiền cho khách rất nhanh. Các nhiệm vụ tiếp theo thường là chuyển tiền để nhận hoa hồng, thường là 30% hoặc 50% số tiền chuyển đi và sẽ được nhận trực tiếp trong tài khoản của khách trên ứng dụng (app) hoặc trang website của các đối tượng tạo ra. Ngoài ra, các đồng bọn trong các group của các đối tượng cũng thường xuyên khoe đã nhận được tiền từ làm nhiệm vụ, tạo lòng tin cho khách.
+
+\- Khi khách yêu cầu rút tiền, đối tượng sẽ can thiệp vào hệ thống của website hoặc ứng dụng (app) để tạo ra các thông báo lỗi hệ thống hoặc đổ lỗi cho khách nhập sai thông tin (mặc dù khách điền đúng thông tin vẫn bị sửa thành sai) rồi yêu cầu khách tiếp tục làm nhiệm vụ trong khi chờ sửa.
+
+\- Với tâm lý tiếc tiền khi đã nộp vào thì nạn nhân sẽ liên tục nộp tiền vào cho đến khi biết mình bị lừa đảo thì mới dừng lại.
+
+\*Biện pháp phòng ngừa:
+
+\- Người dân cần tỉnh táo khi đọc các bài đăng tuyển việc làm trên mạng xã hội. Không cài đặt những ứng dụng không rõ nguồn gốc, truy cập vào website lạ, tên miền không rõ ràng.
+
+\- Tuyệt đối không tham gia, thực hiện các nhiệm vụ qua các ứng dụng (app) trên mạng xã hội khi mình không biết rõ địa chỉ, thông tin về các đối tượng.
+
+\- Tuyệt đối không chuyển tiền dưới bất cứ hình thức nào khi nghi vấn đối tượng lừa đảo, chiếm đoạt tài sản (nếu đã chuyển phải báo ngân hàng phong tỏa ngay số tiền đã chuyển); Nếu gặp trường hợp nghi vấn lừa đảo, người dân cần tìm cách ghi lại thông tin của các đối tượng như số điện thoại, số tài khoản ngân hàng… và thông báo, cung cấp ngày cho cơ quan Công an để điều tra, xử lý và ngăn chặn.
+
+\- Mỗi khi thực hiện giao dịch trực tuyến, người dân cần kiểm tra chính xác thông tin của Website và chỉ thực hiện giao dịch tại các Website uy tín, có độ bảo mật cao.
+
+3/ Phương thức “chuyển nhầm tiền”
+
+\*Phương thức, thủ đoạn.
+
+\- Các đối tượng phạm tội thường nhắm tới những người nhẹ dạ cả tin, những người để lộ thông tin cá nhân (họ tên, địa chỉ, số điện thoại, số CMND, CCCD), số tài khoản ngân hàng. Sau khi xác định được nạn nhân, các đối tượng lừa đảo cố tình chuyển khoản nhầm, sau đó tiếp tục thực hiện các kịch bản sau:
+
+\+ Đối tượng (thường là người nữ gọi điện) nói là người chủ tài khoản chuyển nhầm tiền và yêu cầu nạn nhân chuyển lại tiền qua một tài khoản khác (lý do tài khoản chuyển đang bị tạm khóa nên không chuyển vào tài khoản đó được). Khi nạn nhân đã chuyển tiền vào tài khoản khác thì người chủ thật sự của tài khoản (đồng bọn khác trong nhóm) chuyển nhầm mới gọi điện yêu cầu nạn nhân gửi lại số tiền mình đã chuyển nhầm. Nếu nạn nhân không trả lại số tiền chuyển nhầm sẽ kiện lên công an về hành vi chiếm giữ tài sản trái phép.
+
+\+ Đối tượng mạo danh nhân viên ngân hàng gọi điện hoặc gửi tin nhắn thông báo về việc có người chuyển nhầm và yêu cầu khách hàng truy cập đường link website do các đối tượng tạo ra (có giao diện gần giống với website của ngân hàng thật) nhằm dẫn dụ lấy thông tin của nạn nhân như: tên truy cập, mật khẩu, mã OTP để chiếm đoạt tiền trong tài khoản. Ngoài ra, các đối tượng tạo ra website còn gửi tin nhắn, thông báo cho các khách hàng có sai thông tin về tài khoản, phát sinh giao dịch ở nước ngoài,… đề nghị truy cập đường link, website trên nhằm để chiếm đoạt tiền trong tài khoản.
+
+\+ Đối tượng sẽ giả danh là người thu hồi nợ của một công ty tài chính nào đó để liên hệ với nạn nhân và yêu cầu người này trả lại số tiền kia như một khoản vay cùng với một khoản lãi suất cao.
+
+Thậm chí, nhiều đối tượng còn đe dọa, khủng bố tin nhắn, điện thoại của nạn nhân khiến họ hoảng sợ và lo lắng mà thực hiện theo yêu cầu.
+
+Đặc biệt, còn có các trường hợp người nhận được tiền chuyển nhầm vào tài khoản của mình và người nhận tiền tự ý sử dụng số tiền trên vào mục đích cá nhân, sau đó không có khả năng thanh toán có thể bị xử lý hành chính (điểm đ khoản 2 Điều 15 Nghị định 144/2021 hành vi chiếm hữu tài sản người khác không có căn cứ pháp luật, người thực hiện hành vi này có thể bị phạt tiền từ 03 - 05 triệu đồng), hoặc có thể bị truy cứu trách nhiệm hình sự về Tội chiếm giữ trái phép tài sản (Điều 176 Bộ luật Hình sự 2015, sửa đổi 2017).
+
+\*Biện pháp phòng ngừa:
+
+\- Khi nhận được tiền chuyển khoản nhầm, dù chưa có ai liên hệ cũng tuyệt đối không được tiêu vào số tiền này. Dù vô tình hay cố ý chuyển khoản nhầm, người nhận được số tiền này có nghĩa vụ phải trả lại tiền.
+
+\- Người nhận được tiền chuyển nhầm cần chủ động liên hệ sớm với ngân hàng để thông báo, phía ngân hàng sẽ cung cấp thông tin cần thiết để đối chiếu với số tài khoản chuyển tiền. Lưu ý, khi chuyển lại tiền phải có sự chứng kiến của bên thứ ba, lưu giữ lại chứng từ về việc chuyển tiền. Hoặc, nếu xét thấy vụ việc có tính chất lừa đảo, người nhận có thể trình báo vụ việc tới cơ quan công an nơi cư trú để được giải quyết kịp thời.
+
+\- Tuyệt đối không thực hiện các hoạt động như: truy cập vào đường link, website có trong tin nhắn (thường là các trang web giả do các đối tượng tạo ra) để lấy cắp thông tin khách hàng, mã OTP sau đó chiếm đoạt tiền có trong tài khoản. Đặc biệt không bao giờ cung cấp mã OTP, tên đăng nhập, password của tài khoản ngân hàng cho bất cứ ai kể cả họ có tự xưng là người thân, bạn bè, nhân viên ngân hàng hay cơ quan chức năng... đề nghị được làm việc trực tiếp tại ngân hàng khi có các yêu cầu trên. Không cung cấp thông tin qua mạng xã hội.
+
+4/ Phương thức  “lừa đảo qua lời mời bình chọn trên Facebook”
+
+\*Phương thức, thủ đoạn
+
+Lợi dụng các cuộc thi trên mạng, mà người tham gia càng được nhiều lượt bình chọn thì khả năng thắng giải càng cao nên nhiều người nhờ bạn bè, người quen trên mạng xã hội (MXH) tham gia bình chọn. Các đối tượng phạm tội công nghệ cao tìm cách đưa những đường link giả mạo, xâm nhập vào một tài khoản cá nhân và gửi lời mời bình chọn cho hàng trăm tài khoản khác là bạn bè, người quen của “khổ chủ”. Và nếu ai chấp nhận lời yêu cầu tham gia bình chọn, tài khoản của họ tiếp tục bị hack, bị dùng để đi lừa đảo.
+
+Sau khi hack xong, các đối tượng nhắn tin cho bạn bè, người thân của họ để mượn tiền với nhiều lý do khác nhau, yêu cầu chuyển tiền vào các tài khoản ngân hàng do đối tượng cung cấp để chiếm đoạt.
+
+Không những vậy, bọn tội phạm còn lợi dụng nhu cầu cần được nhận “tick xanh” (xác nhận chính chủ trên trang cá nhân) của một số cá nhân để lừa đảo. Với phương thức cung cấp dịch vụ, hứa giúp xin dấu tích xanh Facebook, bọn tội phạm yêu cầu nhiều tài khoản chuyển tiền cọc, chụp ảnh giấy tờ cá nhân (căn cước công dân, giấy phép lái xe...), từ đó chiếm đoạt trang Fanpage, tài khoản MXH của họ để tống tiền, lừa đảo hoặc xâm nhập vào tài khoản ngân hàng…
+
+\*Biện pháp phòng ngừa:
+
+Người dân dùng mạng xã hội tuyệt đối không nhập thông tin cá nhân vào những trang đáng nghi ngờ. Nếu lỡ nhập và cảm thấy bất thường, người dùng nên lập tức đổi mật khẩu hay khóa tài khoản, thẻ ngân hàng… Khi sử dụng MXH, mỗi người nên cảnh giác với mọi chiêu trò, khi thấy có bất cứ điều gì bất thường nên kiểm tra trước khi truy cập, cũng như cung cấp thông tin cá nhân, tài khoản Facebook…
+
+Người dân thường xuyên kiểm tra và cập nhật các tính năng bảo mật, quyền riêng tư trên các tài khoản MXH. Không nên chia sẻ thông tin cá nhân trên MXH; tuyệt đối không cung cấp thông tin cá nhân, số thẻ ngân hàng, mã OTP, không chuyển tiền cho người khác khi chưa xác thực. Đặc biệt, không nên kết bạn với người lạ, người nước ngoài mà sau đó được đề nghị đóng phí tặng quà, nhận bưu phẩm đều là lừa đảo.
+
+5/ Phương thức  “giả danh Công an yêu cầu chuyển tiền để chứng minh tài chính”
+
+\*Phương thức, thủ đoạn
+
+Lợi dụng sự thiếu hiểu biết về pháp luật của một số người dân, đặc biệt là các bạn sinh viên, các đối tượng sử dụng hình ảnh lực lượng Công an (hình ảnh có thể do đối tượng sử dụng trang phục Công an nhân dân giả danh, hoặc dùng công nghệ cắt, ghép các đoạn clip giống như văn phòng làm việc của cơ quan Công an) để thông báo người dân đang liên quan đến đường dây phạm tội như rửa tiền, ma túy, ......
+
+Sau khi chiếm được lòng tin của người dân là đang làm việc với cơ quan Công an, thì đối tượng sẽ yêu cầu người dân chứng minh khả năng tài chính để xác minh nguồn gốc, các đối tượng sẽ hướng dẫn người dân vay, mượn tiền người thân... để chuyển khoản vào một số tài khoản do các đối tượng cung cấp, suốt thời gian này các đối tượng luôn hướng dẫn người dân tìm nơi vắng, không để người thứ 3 biết việc, không được báo gia đình.....
+
+Ngay sau khi người dân chuyển tiền vào số tài khoản do các đối tượng cung cấp, cảm thấy người dân không còn khả năng mượn vay thêm được tiền, hoặc nghi ngờ thì các đối tượng sẽ cắt liên lạc và chiếm đoạt số tiền .
+
+\*Biện pháp phòng ngừa:
+
+Người dân dùng mạng xã hội tuyệt đối không tin tưởng vào nội dung các đối tượng giả danh Công an thuyết phục, vì cơ quan Công an không làm việc với người liên quan vụ án, vụ việc qua mạng xã hội, qua phòng chát, không yêu cầu phải chuyển tiền để chứng minh tài chính....., mỗi người nên cảnh giác với mọi chiêu trò, khi thấy có bất cứ điều gì bất thường thì nên trao đổi ngay nội dung với người thân, người xung quanh…
+
+Không nghe, tin vào các nội dung mà đối tượng đe dọa, không chuyển tiền cho người khác theo lời hướng dẫn của các đối tượng. Đặc biệt, không nên kết bạn với người lạ.
+
+Khi phát hiện vụ việc lừa đảo thông qua các ứng dụng trên mạng xã hội, mọi người cần thu thập các thông tin và nhanh chóng báo cho cơ quan Công an nơi gần nhất để xử lý theo quy định của pháp luật (số điện thoại trực ban Công an phường Đông Hòa: 0274.3750.872./.
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fphuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai&title=Ph%C6%B0%C6%A1ng%20th%E1%BB%A9c%2C%20th%E1%BB%A7%20%C4%91o%E1%BA%A1n%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20th%C3%B4ng%20qua%20m%E1%BA%A1ng%20m%C3%A0%20sinh%20vi%C3%AAn%20hay%20g%E1%BA%B7p%20ph%E1%BA%A3i)
+
+------------------
+
+* [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+(09-07-2026)
+* [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+(08-07-2026)
+* [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+(08-07-2026)
+* [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+(07-07-2026)
+* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+(02-07-2026)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai?page=330 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai#)
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai#)
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/phuong-thuc-thu-doan-hoat-dong-lua-dao-thong-qua-mang-ma-sinh-vien-hay-gap-phai#addtoany "Show all")

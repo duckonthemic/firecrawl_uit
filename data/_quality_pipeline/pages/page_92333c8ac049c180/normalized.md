@@ -1,0 +1,110 @@
+Kiểm tra danh sách nộp hồ sơ chế độ chính sách HK2 năm học 2022-2023
+====================================================================
+
+Thu, 27/04/2023 - 10:58
+
+Phòng Công tác Sinh viên thông báo danh sách sinh viên nộp hồ sơ chế độ chính sách học kỳ 2 năm học 2022-2023 như sau:
+
+Sinh viên kiểm tra các thông tin: **đối tượng, MSSV, cột ghi chú.**
+
+Sinh viên bổ sung hồ sơ còn thiếu về Phòng CTSV (A.101). Hạn chót bổ sung hồ sơ cũng như phản hồi những sai sót: **16 giờ ngày 05/5/2023.**
+
+Sinh viên phản hồi, trao đổi thắc mắc tại **[https://forum.uit.edu.vn/node/563771](https://forum.uit.edu.vn/node/563771)**
+
+Sau thời gian trên nếu sinh viên không phản hồi, bổ sung đầy đủ hồ sơ xem như sinh viên từ chối quyền lợi và chấp nhận thông tin mà Phòng CTSV công bố.
+
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| MIỄN GIẢM HỌC PHÍ | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 18520439 | Tô Thành An | CNTT0001 | Sinh viên khuyết tật | Đơn đề nghị MGHP; <br>Bản sao chứng thực Giấy xác nhận khuyết tật do UBND cấp xã cấp hoặc Quyết định về việc trợ cấp xã hội của Chủ tịch UBND cấp huyện; <br>Giấy cam kết. | Đủ hồ sơ |
+| 2 | 22520044 | Gia Bảo Anh | KTPM2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | Đơn đề nghị; <br>Bản sao trích lục Giấy khai sinh: dân tộc Chứt <br>Sổ hộ khẩu có công chứng; <br>Đơn cam kết. | Đủ hồ sơ <br>KP Tân Thành, thị trấn Lạc Tánh theo quyết định 612/QĐ-UBDT ngày 16/9/2021 (thôn đặc biệt khó khăn) |
+| 3 | 22520239 | Trần Tiến Đạt | KTPM2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | Đơn đề nghị; <br>Bản sao trích lục Giấy khai sinh: dân tộc Chứt <br>Sổ hộ khẩu có công chứng; <br>Đơn cam kết. | Đủ hồ sơ <br>Xã Bù Gia Mập thuộc khu vực III theo quyết định 861/QĐ-TTg ngày 04/6/2021 |
+| TRỢ CẤP XÃ HỘI | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 20521048 | Lê Đức Hồng Ân | MTCL2020.1 | Sinh viên thuộc diện nghèo vượt khó học tập | Đơn xin nhận TCXH <br>Sổ hộ nghèo 2023 <br>Bảng điểm học kỳ HK1 (8.27) <br>Bảng ĐRL sinh viên HK1 (90) | SV bổ sung đơn xin hưởng TCXH |
+| 2 | 21520578 | Nguyễn Thị Vân Anh | CNTT2021 | Sinh viên thuộc diện nghèo vượt khó học tập | Đơn xin nhận TCXH <br>Sổ hộ nghèo 2023 <br>Bảng điểm học kỳ HK1 (7.47) <br>Bảng ĐRL sinh viên HK1 () | SV bổ sung ĐRL HK1 năm học 2022-2023 |
+| 3 | 21522775 | Phạm Thanh Tường | KTPM2021 | Sinh viên thuộc diện nghèo vượt khó học tập | Đơn xin nhận TCXH <br>Sổ hộ nghèo 2023 <br>Bảng điểm học kỳ HK1 (8.43) <br>Bảng ĐRL sinh viên HK1 (100) | Đủ hồ sơ |
+| 4 | 22521417 | Nguyễn Trịnh Vĩnh Thịnh | KTPM2022.3 | Sinh viên thuộc diện nghèo vượt khó học tập | Đơn xin nhận TCXH <br>Sổ hộ nghèo 2023 <br>Bảng điểm học kỳ HK1 (8.99) <br>Bảng ĐRL sinh viên HK1 (90) | SV bổ sung ĐRL HK1 năm học 2022-2023 <br>Bảng điểm học tập HK1 năm học 2022-2023 |
+| HỖ TRỢ KINH PHÍ MUA PHƯƠNG TIÊN, ĐỒ DÙNG HỌC TẬP DÀNH SINH VIÊN KHUYẾT TẬT THUỘC HỘ NGHÈO/CẬN NGHÈO | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 18520439 | Tô Thành An | CNTT2018 | Sinh viên khuyết tật | Đơn đề nghị <br>Bản sao chứng thực khuyết tật do cơ quan có thẩm quyền cấp, khuyết tật vận động, đặc biệt nặng <br>Giấy chứng nhận hộ nghèo/hộ cận nghèo 2023 | Đủ hồ sơ |
+| 2 | 20521190 | Lê Quang Đông | HTTT2020 | Sinh viên khuyết tật | Đơn đề nghị <br>Bản sao chứng thực khuyết tật do cơ quan có thẩm quyền cấp, khuyết tật vận động, đặc biệt nặng <br>Giấy chứng nhận hộ nghèo/hộ cận nghèo 2023 | Đủ hồ sơ |
+| HỖ TRỢ CHI PHÍ HỌC TẬP CHO SV DÂN TỘC THIỂU SỐ THUỘC HỘ NGHÈO/CẬN NGHÈO | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 19521371 | Châu Minh Đức | MTCL2019.1 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ cận nghèo 2023 <br>Giấy khai sinh, dân tộc Chăm | Đủ hồ sơ |
+| 2 | 19522189 | Nguyễn Quang Thái | CNTT2019 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ cận nghèo 2023 <br>Giấy khai sinh, dân tộc Mường | Đủ hồ sơ |
+| 3 | 20521529 | Hà Văn Linh | KHMT2020 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ nghèo 2023 <br>Giấy khai sinh, dân tộc Nùng | Đủ hồ sơ |
+| 4 | 21521779 | Trượng Văn Quốc | CNTT2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN cận nghèo 2023 <br>Giấy khai sinh, dân tộc Chăm | Không đủ điều kiện. Vì SV cử tuyển không được xét theo thông báo này. |
+| 5 | 21521894 | Ma Văn Chương | CNTT2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN cận nghèo 2023 <br>Giấy khai sinh, dân tộc H'Mông | Đủ hồ sơ |
+| 6 | 21522105 | Nông Hồng Hoạt | MTCL2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN cận nghèo 2023 <br>Giấy khai sinh, dân tộc Tày | Đủ hồ sơ |
+| 7 | 21522244 | Hà Đinh Kiên | CNTT2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ cận nghèo 2023 <br>Giấy khai sinh, dân tộc Tày | Đủ hồ sơ |
+| 8 | 21522548 | Ma Seo Sầu | CNTT2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ cận nghèo 2023 <br>Giấy khai sinh, dân tộc H'Mông | SV bổ sung GXN hộ nghèo/cận nghèo 2023 |
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023&title=Ki%E1%BB%83m%20tra%20danh%20s%C3%A1ch%20n%E1%BB%99p%20h%E1%BB%93%20s%C6%A1%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20ch%C3%ADnh%20s%C3%A1ch%20HK2%20n%C4%83m%20h%E1%BB%8Dc%202022-2023)
+
+------------------
+
+* [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+(09-07-2026)
+* [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+(08-07-2026)
+* [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+(08-07-2026)
+* [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+(07-07-2026)
+* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+(02-07-2026)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023?page=317 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023#)
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023#)
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2022-2023#addtoany "Show all")

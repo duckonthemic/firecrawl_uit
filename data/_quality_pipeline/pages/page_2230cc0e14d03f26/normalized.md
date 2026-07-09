@@ -1,0 +1,83 @@
+Nhiệm vụ
+========
+
+Mon, 26/03/2012 - 06:48
+
+\-  Xây dựng, trình Hiệu trưởng phê duyệt chương trình kế hoạch công tác giáo dục chính trị, tư tưởng, phẩm chất đạo đức cho người học; công tác quản lý SV, học viên.
+\-  Xây dựng và trình Hiệu trưởng ban hành quy định cụ thể hoá quy chế quản lý học sinh, SV của Bộ Giáo dục và Đào tạo áp dụng trong Trường.
+\-  Xây dựng môi trường văn hoá văn minh, lịch sự trong Trường. Tuyên truyền, phổ biến, giáo dục, tư vấn pháp luật cho SV và học viên.
+\-  Tổ chức, triển khai công tác giáo dục chính trị - tư tưởng, đạo đức, lối sống cho SV; tổ chức, tuyên truyền trong SV các chủ trương, đường lối của Đảng và chính sách, pháp luật của Nhà nước, các chỉ thị của ngành Giáo dục và Đào tạo.
+\-  Phối hợp với các đơn vị chức năng tiếp nhận SV, học viên trúng tuyển cho các hệ đào tạo. Thông tin, phổ biến quy chế, quy định của Nhà trường đến SV. Phối hợp với Phòng Đào tạo Đại học cấp và quản lý thẻ SV.
+\-  Chủ trì và phối hợp với các đơn vị chức năng tổ chức lễ khai giảng, lễ tốt nghiệp cho các hệ đào tạo của Trường.
+\-  Tổ chức “Tuần sinh hoạt công dân - sinh viên” cho SV vào đầu năm, đầu khóa và cuối khóa học.
+\-  Quản lý hồ sơ của SV, thống kê, tổng hợp dữ liệu (thuộc Phòng quản lý). Xác nhận các giấy tờ cho SV, học viên. Cung cấp các tài liệu, thông tin về công tác SV cho các cơ quan, đơn vị ngoài Trường khi có ý kiến chỉ đạo của Hiệu trưởng.
+\-  Tìm kiếm, tiếp nhận, quản lý, khai thác và phân bổ các nguồn học bổng, hỗ trợ dành cho SV. Thực hiện các chế độ, chính sách của Nhà nước quy định đối với SV về học bổng, trợ cấp xã hội, ưu đãi giáo dục, tín dụng đào tạo và các chế độ khác liên quan đến SV.
+\-  Đầu mối hướng dẫn và tổ chức đánh giá kết quả rèn luyện của SV theo năm học tổ chức. Phối hợp với Phòng Đào tạo Đại học thực hiện theo dõi tiến độ học tập của từng SV, thống kê số liệu SV… phục vụ công tác báo cáo và đánh giá trong quá trình đào tạo.
+\-  Đầu mối đề xuất khen thưởng và đề nghị kỷ luật đối với SV theo đúng Quy chế Công tác sinh viên. Phối hợp với các đơn vị có liên quan để giải quyết các vụ việc xảy ra có liên quan đến SV.
+\-  Tổ chức cho SV tham gia các hoạt động nghiên cứu khoa học, Olympic các môn học và các hoạt động khuyến khích học tập khác.
+\-  Tạo điều kiện thuận lợi cho SV tham gia tổ chức Đảng, đoàn thể trong Trường; phối hợp với Đoàn TNCS Hồ Chí Minh, Hội sinh viên và các tổ chức chính trị - xã hội khác có liên quan trong các hoạt động phong trào của SV, tạo điều kiện cho SV có môi trường rèn luyện, phấn đấu.
+\-  Tổ chức các buổi nói chuyện, đối thoại định kỳ giữa SV và lãnh đạo Trường về hoạt động đào tạo của Trường. Nắm bắt và tổng hợp tình hình tư tưởng của SV, phản ánh kịp thời với Đảng ủy, Ban giám hiệu và chủ động đề xuất chủ trương và biện pháp hợp lý giải quyết những vấn đề liên quan.
+\-  Tổ chức các hoạt động tư vấn tuyển sinh, hướng nghiệp; tư vấn, hỗ trợ nghề nghiệp, kỹ năng, việc làm cho SV. Phối hợp với đội ngũ cố vấn học tập để giúp SV trong việc lập và kiểm soát kế hoạch học tập nhằm đạt mục tiêu, chuẩn đầu ra của Trường.
+\-  Chủ động quan hệ hợp tác với các cơ quan, doanh nghiệp để nắm bắt nhu cầu tuyển dụng, việc làm; theo dõi tình hình SV có việc làm sau khi tốt nghiệp.
+\-  Xây dựng và phát triển tổ chức cựu SV của Trường.
+\-  Thực hiện công tác SV nội trú, ngoại trú theo quy định nhằm đảm bảo người học có điều kiện ăn, ở, đi lại, học tập tốt. Chủ trì triển khai các hoạt động dịch vụ phục vụ SV như các loại hình hoạt động bảo hiểm, chăm sóc sức khỏe đối với SV..v.v…
+\-  Tổ chức và tạo điều kiện cho SV tham gia các hoạt động văn thể mỹ.
+\-  Tổ chức tuyên truyền trong các ngày lễ lớn với nhiều hình thức phong phú, thiết thực có tác dụng giáo dục truyền thống, giáo dục lý tưởng cách mạng một cách sâu sắc cho SV
+\-  Quản lý và khai thác phòng truyền thống của Trường.
+\-  Tổ chức triển khai, thực hiện các dự án liên quan công tác SV khi được Hiệu trưởng giao.
+\-  In ấn thẻ cán bộ-viên chức, thẻ SV.
+\-  Theo dõi công tác y tế học đường, bảo hiểm cho SV.
+\-  Đầu mối thực hiện công tác đánh giá công tác SV hằng năm theo quy định của Bộ GD&ĐT và ĐHQG-HCM.
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnhiem-vu&title=Nhi%E1%BB%87m%20v%E1%BB%A5)
+
+------------------
+
+* [Forum đã hoạt động trở lại và thông báo về tài khoản SV trên forum](https://ctsv.uit.edu.vn/bai-viet/forum-da-hoat-dong-tro-lai-va-thong-bao-ve-tai-khoan-sv-tren-forum)
+(02-10-2019)
+* [Mời SV tham gia cuộc thi ICPC Bắc Trung Nam và Toàn quốc](https://ctsv.uit.edu.vn/bai-viet/moi-sv-tham-gia-cuoc-thi-icpc-bac-trung-nam-va-toan-quoc)
+(30-09-2019)
+* [Lịch sinh hoạt Công dân Sinh viên đầu Khóa 2015](https://ctsv.uit.edu.vn/node/586)
+(28-08-2015)
+* [Liên hệ](https://ctsv.uit.edu.vn/bai-viet/lien-he)
+(28-03-2013)
+* [Giới thiệu chương trình đào tạo khoa HTTT](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-chuong-trinh-dao-tao-khoa-httt)
+(06-12-2012)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu?page=1 "Go to page 2")
+
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu?page=1 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu#)
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu#)
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/nhiem-vu#addtoany "Show all")

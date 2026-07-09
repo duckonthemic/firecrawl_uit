@@ -1,0 +1,119 @@
+Học bổng Panasonic
+==================
+
+Tue, 25/04/2017 - 10:56
+
+**Điều kiện tham gia:**
+• Là công dân Việt Nam
+• Sinh viên đang theo học chính quy các ngành khoa học, kỹ thuật và công nghệ tại các trường đại học tại Việt Nam
+• Thành tích học tập đáp ứng một trong hai điều kiện sau :
+\-Đối với sinh viên giỏi : Có tổng điểm trung bình tích lũy các năm học đại học : từ 8.0 ( theo thang điểm 10) hoặc 3,2 ( theo thang điểm 4) trở lên
+\-Đối với sinh viên có hoàn cảnh gia đình khó khăn : có tổng điểm trung bình tích lũy các năm học đại học : từ 7,0 ( theo thang điểm 10) hoặc 2,5 ( theo thang điểm 4) trở lên. Gia đình có hoàn cảnh kinh tế khó khăn với tổng thu nhập dưới 42 triệu VND/ năm
+• Sau khi nhận học bổng Panasonic, KHÔNG nhận sự hỗ trợ tài chính (học bổng, tài trợ…) từ bất kỳ tổ chức, doanh nghiệp nào
+• Tại thời điểm nộp hồ sơ không phải là sinh viên năm cuối
+
+**Số lượng học bổng:** 8
+
+**Nội dung học bổng:**
+• 30,000,000 VNĐ / 1 năm học
+• Học bổng sẽ được tiếp tục trao vào các năm học tiếp theo đến khi sinh viên nhận học bổng tốt nghiệp đại học nếu sinh viên đáp ứng được tiêu chuẩn của chương trình như trong Bản thỏa thuận
+
+**Hồ sơ dự tuyển:**
+1\. Đơn xin cấp học bổng ( Mẫu 1)
+2\. Thư giới thiệu của Khoa/Trường Đại học (Mẫu 2)
+3\. Bảng điểm của tất cả các năm học ( có xác nhận của nhà trường)
+4\. Bản sao có công chứng các văn bằng,giấy khen, giấy chứng nhận các giải thưởng (nếu có)
+5\. 01 (một) bản sao CMT hoặc hộ chiếu
+6\. 02 (hai) ảnh 4x6 (được chụp trong vòng 6 tháng trở lại đây)
+7\. Đối với trường hợp sinh viên có hoàn cảnh khó khăn, hồ sơ yêu cầu thêm: Giấy tờ chứng minh tổng thu nhập gia đình dưới 42 triệu VND/ năm ( hoặc 3,5 triệu VND/tháng) từ địa phương hoặc bản sao có công chứng sổ hộ nghèo/ hộ cận nghèo
+
+**Cách thức nộp hồ sơ dự tuyển** ( một trong hai cách thức sau):
+• Nộp hồ sơ về Văn phòng Học bổng Panasonic Việt Nam
+• Nộp hồ sơ trực tuyến qua email: [Scholarship.pv@vn.panasonic.com](mailto:Scholarship.pv@vn.panasonic.com)
+( nén hồ sơ dưới định dạng zip hoặc rar trước khi gửi)
+**Thời hạn nộp hồ sơ: trước ngày 25/5/2017**
+
+**Thông tin chi tiết vui lòng liên hệ:**
+Văn phòng học bổng Panasonic Việt Nam
+Công ty TNHH Panasonic Việt Nam
+Địa chỉ: Lô J1-J2, Khu công nghiệp Thăng Long, Huyện Đông Anh, Hà Nội
+Điện thoại: 04-3955-0111, số máy lẻ: 1310
+Email: [Scholarship.pv@vn.panasonic.com](mailto:Scholarship.pv@vn.panasonic.com)
+
+Fanpage: [https://www.facebook.com/risupiavietnam](https://www.facebook.com/risupiavietnam)
+
+Website: [http://www.panasonic.com/vn/corporat...inability.html](http://www.panasonic.com/vn/corporate/sustainability.html)
+
+File đính kèm:
+
+![Microsoft Office document icon](https://ctsv.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_1\_don-xin-cap-hoc-bong-panasonic-2017.doc](https://ctsv.uit.edu.vn/sites/default/files/201704/mau_1_don-xin-cap-hoc-bong-panasonic-2017.doc)
+
+![Microsoft Office document icon](https://ctsv.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_2\_thu-gioi-thieu\_hoc-bong-panasonic-2017.doc](https://ctsv.uit.edu.vn/sites/default/files/201704/mau_2_thu-gioi-thieu_hoc-bong-panasonic-2017.doc)
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-bong-panasonic&title=H%E1%BB%8Dc%20b%E1%BB%95ng%20Panasonic)
+
+------------------
+
+* [Hội thảo "AUN-KU Winter Seminar"](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-aun-ku-winter-seminar)
+(06-08-2021)
+* [TB Xét khen thưởng Bằng khen Giám đốc ĐHQG năm học 2020-2021](https://ctsv.uit.edu.vn/bai-viet/tb-xet-khen-thuong-bang-khen-giam-doc-dhqg-nam-hoc-2020-2021)
+(06-08-2021)
+* [Chương trình tư vấn trực tuyến "VƯỢT QUA TRỞ NGẠI TÂM LÝ TRONG ĐẠI DỊCH"](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-tu-van-truc-tuyen-vuot-qua-tro-ngai-tam-ly-trong-dai-dich)
+(28-07-2021)
+* [\[Hỗ trợ truyền thông\] - Quỹ máy tính hỗ trợ sinh viên có hoàn cảnh khó khăn](https://ctsv.uit.edu.vn/bai-viet/ho-tro-truyen-thong-quy-may-tinh-ho-tro-sinh-vien-co-hoan-canh-kho-khan)
+(27-07-2021)
+* [Đăng ký nhận học bổng ngoài ngân sách HKII NH 2020-2021](https://ctsv.uit.edu.vn/bai-viet/dang-ky-nhan-hoc-bong-ngoai-ngan-sach-hkii-nh-2020-2021)
+(26-07-2021)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic?page=40 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic#)
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic#)
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-panasonic#addtoany "Show all")

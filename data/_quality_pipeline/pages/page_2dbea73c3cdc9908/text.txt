@@ -1,0 +1,108 @@
+Khóa học - Lớp sinh viên - Thời gian tiết học
+=============================================
+
+Fri, 08/10/2021 - 06:52
+
+**Khóa học - Lớp sinh viên - Thời gian tiết học**
+
+**1\. Khóa học**
+
+Khóa học của sinh viên được đặt tên theo năm của sinh viên trúng tuyển vào Trường.
+
+**2\. Lớp sinh viên (hay còn gọi là lớp sinh hoạt)**
+
+\- Lớp sinh viên được tổ chức theo khóa, khoa, chương trình, ngành và chuyên ngành đào tạo. Lớp sinh viên được ổn định trong suốt các năm học để triển khai các hoạt động có liên quan đến công tác học tập, rèn luyện SV.
+
+\- Lớp sinh viên được quyền tổ chức các hoạt động hợp pháp để có thêm nguồn kinh phí góp phần duy trì và nâng cao chất lượng hoạt động của lớp.
+
+\- Ban cán sự lớp gồm: Lớp trưởng, 1 hoặc 2 lớp phó hoặc các tổ trưởng (nếu cần). Ban cán sự lớp do Trường bổ nhiệm từ phiếu tín nhiệm giới thiệu của tập thể SV trong lớp và ý kiến của Cố vấn học tập.
+
+### **Tên của lớp sinh hoạt được đánh số theo quy tắc sau:**
+
+<Mã (Chuyên)Ngành/Tên Chương Trình><Khóa>\[.<Số thứ tự>\]
+
+Trong đó:
+
+\+ Mã Ngành/Tên chương trình: viết tắt như danh mục bên dưới
+
+\+ Khóa: Khóa học - năm SV trúng tuyển vào Trường.
+
+\+ Số thứ tự: Nếu số SV mỗi Lớp sinh viên đông thì Khoa có thể tách thành nhiều lớp nhỏ.
+
+Lớp sinh viên do Phòng Công tác Sinh viên thành lập và tồn tại theo thời gian học tập theo thiết kế của chương trình đào tạo.
+
+Các sinh viên học quá thời gian thiết kế của chương trình đào tạo sẽ tự động được gán vào các lớp có tên **<Tên Khoa quản lý><0001>**
+
+**Danh mục Mã Ngành/Tên chương trình**
+
+| | |
+| --- | --- |
+| ATTN | Kỹ sư tài năng ngành An toàn Thông tin |
+| KHTN | Cử nhân tài năng ngành Khoa học Máy tính |
+| ATBC | Ngành Mạng máy tính và An toàn thông tin – Chương trình liên kết BCU |
+| ATCL | Ngành An toàn Thông tin – Chương trình Chất lượng cao |
+| ATTT | Ngành An toàn Thông tin |
+| CNCL | Ngành Công nghệ Thông tin – Chương trình Chất lượng cao định hướng Nhật Bản |
+| CNTT | Ngành Công nghệ Thông tin |
+| CTTT | Ngành Hệ thống Thông tin – Chương trình tiên tiến |
+| HTCL | Ngành Hệ thống Thông tin |
+| HTTT | Ngành Hệ thống Thông tin |
+| KHBC | Ngành Khoa học Máy tính – Chương trình liên kết BCU |
+| KHCL | Ngành Khoa học Máy tính – Chương trình Chất lượng cao |
+| KHDL | Ngành Khoa học Dữ liệu |
+| KHMT | Ngành Khoa học Máy tính |
+| KHNT | Ngành Khoa học Máy tính – Chuyên ngành Trí tuệ Nhân tạo |
+| KTMT | Ngành Kỹ thuật Máy tính |
+| KTPM | Ngành Kỹ thuật Phần mềm |
+| MMCL | Ngành Mạng máy tính và truyền thông dữ liệu – Chương trình Chất lượng cao |
+| MMTT | Ngành Mạng máy tính và truyền thông dữ liệu |
+| MTCL | Ngành Kỹ thuật Máy tính – Chương trình Chất lượng cao |
+| MTIO | Ngành Kỹ thuật Máy tính – Chuyên ngành Hệ thống nhúng và IoT |
+| PMCL | Ngành Kỹ thuật Phần mềm – Chương trình Chất lượng cao |
+| TMCL | Ngành Thương mại Điện tử – Chương trình Chất lượng cao |
+| TMĐT | Ngành Thương mại Điện tử |
+
+**3\. Thời gian tiết học**
+
+| | | | |
+| --- | --- | --- | --- |
+| **Tiết học** | **Giờ học** | **Ca** | **Buổi** |
+| 1 | 7h30-8h15 | Ca 1 | **Sáng** |
+| 2 | 8h15-9h00 |
+| 3 | 9h00-9h45 |
+| 4 | 10h00-10h45 | Ca 2 |
+| 5 | 10h45-11h30 |
+| 6 | 13h00-13h45 | Ca 3 | **Chiều** |
+| 7 | 13h45-14h30 |
+| 8 | 14h30-15h15 | Ca 4 |
+| 9 | 15h30-16h15 |
+| 10 | 16h15-17h00<br><br>(khi có nhu cầu) | |
+
+* 
+
+
+
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+
+

@@ -1,0 +1,60 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#main-nav)
+
+Ban liên lạc Cựu sinh viên UIT
+==============================
+
+Thu, 31/03/2022 - 21:54
+
+**Ban liên lạc Cựu sinh viên UIT**
+
+Thông tin Ban liên lạc
+
+Phòng Công tác Sinh viên UIT
+
+Địa chỉ: Khu phố 6, P.Linh Trung, Q.Thủ Đức, Tp. Hồ Chí Minh.
+
+Điện thoại: (028) 37252002 Ext: 116
+
+Email: [ctsv@uit.edu.vn](mailto:ctsv@uit.edu.vn)
+
+Các hoạt động Cựu sinh viên UIT
+
+Kết nối hoạt động Cựu sinh viên
+
+Giới thiệu các cựu sinh viên đến sinh viên
+
+Quỹ học bổng Cựu sinh viên
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fban-lien-lac-cuu-sinh-vien-uit&title=Ban%20li%C3%AAn%20l%E1%BA%A1c%20C%E1%BB%B1u%20sinh%20vi%C3%AAn%20UIT)
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#)
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#)
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#addtoany "Show all")

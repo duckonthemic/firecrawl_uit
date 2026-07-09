@@ -1,0 +1,338 @@
+Danh sách sinh viên được gia hạn thêm thời gian đóng học phí HK2 năm học 2021-2022
+==================================================================================
+
+Mon, 18/04/2022 - 12:18
+
+Nhằm giúp những sinh viên có hoàn cảnh khó khăn và đã được Nhà trường cho gia hạn thời gian đóng học phí đến 15/4/2022 nhưng chưa thể hoàn thành học phí đúng hạn.
+
+Được sự đồng ý của Ban Giám Hiệu, Phòng Công tác Sinh viên thông báo kết quả gia hạn thêm thời gian đóng học phí học kỳ 2 cho **256 sinh viên được gia hạn thêm thời gian đóng học phí học kỳ 2 năm học 2021-2022 đến ngày 25/5/2022.**
+
+| | | | |
+| --- | --- | --- | --- |
+| DANH SÁCH GIA HẠN THÊM THỜI GIAN ĐÓNG HỌC PHÍ <br>HỌC KỲ 2 NĂM HỌC 2021-2022 | | | |
+| STT | MÃ SV | HỌ TÊN | Gia hạn đã được BGH phê duyệt |
+| 1 | 16520177 | Lê Trường Danh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 2 | 16520467 | Bùi Lê Hưng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 3 | 16520493 | Vũ Đoàn Ngọc Hưng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 4 | 16520546 | Dương Lâm Kha | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 5 | 16520564 | Lưu Hoàng Khang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 6 | 16520867 | Huỳnh Hữu Nhân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 7 | 16521371 | Lưu Văn Tuấn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 8 | 16521572 | Nguyễn Viết Hưng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 9 | 16521597 | Phùng Thị Mỹ Hạnh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 10 | 16521697 | Đào Duy Khang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 11 | 16521708 | Nguyễn Sơn Lâm | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 12 | 16521765 | Đạo Trọng Phiên | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 13 | 16521766 | Lê Trung Phong | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 14 | 17520209 | Lê Nguyễn Tri Ân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 15 | 17520223 | Trần Hồng Ân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 16 | 17520225 | Trần Thị Duy An | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 17 | 17520229 | Đào Chung Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 18 | 17520236 | Lê Tấn Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 19 | 17520320 | Nguyễn Thế Đăng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 20 | 17520496 | Võ Thái Hòa | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 21 | 17520519 | Phan Thanh Hoàng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 22 | 17520544 | Nguyễn Nam Hùng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 23 | 17520634 | Trần Vĩnh Khiêm | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 24 | 17520677 | Hoàng Phan Lê | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 25 | 17520682 | Đoàn Tưởng Linh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 26 | 17520706 | Dương Trần Sơn Long | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 27 | 17520712 | Nguyễn Hải Long | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 28 | 17520826 | Nguyễn Quách Nguyên | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 29 | 17520940 | Nguyễn Văn Quân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 30 | 17520971 | Lâm Thái Sang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 31 | 17520989 | Nguyễn Hồng Sơn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 32 | 17521038 | Lê Ngọc Thắng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 33 | 17521124 | Huỳnh Phúc Tiến | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 34 | 17521138 | Lê Như Toàn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 35 | 17521149 | Nguyễn Ngọc Trân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 36 | 17521157 | Trương Minh Trí | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 37 | 17521159 | Võ Đình Triết | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 38 | 17521173 | Lê Viết Trung | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 39 | 17521235 | Lê Tiến Tùng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 40 | 18520050 | Lữ Thị Ngọc Hiền | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 41 | 18520083 | Nguyễn Phương Lan | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 42 | 18520293 | Trần Cao Viết Khoa | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 43 | 18520323 | Vũ Nguyễn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 44 | 18520328 | Trần Ngọc Yến Nhi | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 45 | 18520356 | Lê Việt Thắng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 46 | 18520412 | Hoàng Văn Lộc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 47 | 18520414 | Lường Thị Thu Nguyệt | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 48 | 18520416 | Huỳnh Văn Sơn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 49 | 18520419 | Võ Duy Ái | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 50 | 18520427 | Lê Văn An | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 51 | 18520439 | Tô Thành An | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 52 | 18520449 | Lê Hoàng Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 53 | 18520461 | Nguyễn Thị Lan Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 54 | 18520478 | Tô Thị Mỹ Âu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 55 | 18520486 | Nguyễn Đình Thiên Bảo | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 56 | 18520494 | Nguyễn Văn Bảo | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 57 | 18520540 | Nguyễn Sỹ Thành Công | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 58 | 18520566 | Hoàng Tiến Đạt | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 59 | 18520596 | Nguyễn Thị Bích Diễm | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 60 | 18520605 | Nguyễn Văn Đô | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 61 | 18520616 | Nguyễn Văn Thành Đức | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 62 | 18520628 | Đặng Trung Dũng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 63 | 18520641 | Võ Thành Trung Dũng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 64 | 18520651 | Từ Thanh Dương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 65 | 18520678 | Võ Thành Duy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 66 | 18520686 | Nguyễn Trường Giang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 67 | 18520692 | Nguyễn Thị Khánh Hà | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 68 | 18520705 | Phan Thanh Hải | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 69 | 18520724 | Phạm Gia Hiển | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 70 | 18520735 | Đồng Hữu Hiếu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 71 | 18520856 | Tô Quang Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 72 | 18520859 | Trần Quang Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 73 | 18520874 | Trần Đình Kha | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 74 | 18520908 | Trần Quốc Khánh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 75 | 18520925 | Nguyễn Lê Khoa | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 76 | 18520965 | Trương Công Khánh Kỳ | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 77 | 18520978 | Trương Thị Ý Lan | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 78 | 18520985 | Lê Huy Linh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 79 | 18520990 | Nguyễn Thị Khánh Linh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 80 | 18520992 | Phạm Ngọc Linh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 81 | 18521045 | Nguyễn Thanh Long | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 82 | 18521049 | Phạm Gia Long | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 83 | 18521057 | Trần Đắc Long | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 84 | 18521074 | Ngân Văn Luyện | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 85 | 18521086 | Huỳnh Xuân Min | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 86 | 18521098 | Lê Anh Minh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 87 | 18521103 | Lê Hải Minh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 88 | 18521129 | Nguyễn Văn Hoài Nam | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 89 | 18521198 | A Nguyễn Thị Yến Nhi | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 90 | 18521211 | Phạm Văn Nhơn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 91 | 18521214 | Nguyễn Thị Huỳnh Như | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 92 | 18521246 | Nguyễn Trí Phú | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 93 | 18521276 | Nguyễn Duy Phương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 94 | 18521294 | Hoàng Đình Quang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 95 | 18521319 | Đỗ Thanh Quyền | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 96 | 18521356 | Phạm Tiến Sỹ | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 97 | 18521359 | Lê Minh Tài | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 98 | 18521364 | Phan Hoàng Anh Tài | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 99 | 18521379 | Bùi Xuân Thái | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 100 | 18521380 | Huỳnh Quang Thái | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 101 | 18521439 | Ngô Phúc Thịnh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 102 | 18521464 | Trần Anh Thư | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 103 | 18521506 | Nguyễn Đức Toàn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 104 | 18521514 | Vũ Đức Tới | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 105 | 18521531 | Võ Hữu Trí | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 106 | 18521578 | Đỗ Minh Tú | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 107 | 18521598 | Lê Tử Tuấn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 108 | 18521635 | Võ Trọng Văn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 109 | 18521645 | Đỗ Quốc Vinh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 110 | 18521649 | Lê Thị Kim Vinh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 111 | 18521669 | Nguyễn Anh Vũ | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 112 | 18521692 | Nguyễn Phước Duy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 113 | 18521698 | Trương Văn Sỹ | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 114 | 19520257 | Hứa Thanh Tân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 115 | 19520387 | Nguyễn Tuấn Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 116 | 19520467 | Đào Minh Đức | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 117 | 19520524 | Phan Vỹ Hào | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 118 | 19520530 | Trần Trung Hậu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 119 | 19520589 | Đinh Gia Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 120 | 19520596 | Nguyễn Đức Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 121 | 19520635 | Lương Trung Khoa | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 122 | 19520655 | Nguyễn Anh Khôi | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 123 | 19520781 | Võ Thị Bích Ngọc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 124 | 19520804 | Đỗ Phương Long Nhật | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 125 | 19520886 | Nguyễn Bá Quốc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 126 | 19521110 | Dương Công Vũ | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 127 | 19521176 | Lê Ngọc Thúy An | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 128 | 19521193 | Hoàng Ngọc Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 129 | 19521204 | Nguyễn Việt Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 130 | 19521205 | Nông Viết Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 131 | 19521207 | Phạm Nhật Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 132 | 19521221 | Trần Thị Ngọc Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 133 | 19521224 | Trương Hồng Phương Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 134 | 19521291 | Nguyễn Đoàn Thanh Chương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 135 | 19521296 | Võ Thị Thu Cúc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 136 | 19521321 | Võ Huỳnh Hải Đăng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 137 | 19521356 | Triều Quốc Đạt | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 138 | 19521440 | Nguyễn Văn Duyên | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 139 | 19521450 | Trang Trường Giang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 140 | 19521470 | Hồ Mỹ Hạnh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 141 | 19521475 | Đinh Việt Hào | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 142 | 19521477 | Nguyễn Anh Hào | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 143 | 19521483 | Bùi Thị Bích Hậu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 144 | 19521503 | Nguyễn Hoàng Hiệu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 145 | 19521542 | Phạm Đức Hoàng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 146 | 19521571 | Nguyễn Hữu Hưng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 147 | 19521598 | Bùi Quốc Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 148 | 19521629 | Nguyễn Văn Quốc Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 149 | 19521678 | Lâm Gia Khánh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 150 | 19521680 | Lê Quốc Khanh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 151 | 19521760 | Vũ Tiến Linh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 152 | 19521770 | Ngô Đắc Lợi | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 153 | 19521798 | Phạm Như Long | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 154 | 19521818 | Nguyễn Thị Ly | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 155 | 19521867 | Đoàn Đông Nam | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 156 | 19521886 | Nguyễn Đặng Quốc Ngân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 157 | 19522012 | Phan Thanh Phong | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 158 | 19522019 | Đào Văn Phú | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 159 | 19522049 | Nguyễn Minh Phụng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 160 | 19522071 | Vũ Ngọc Mỹ Phương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 161 | 19522087 | Tô Minh Quân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 162 | 19522113 | Nguyễn Hữu Quyến | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 163 | 19522124 | Nguyễn Thanh Sang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 164 | 19522141 | Nguyễn Xuân Son | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 165 | 19522147 | Cát Văn Tài | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 166 | 19522172 | Huỳnh Đức Tân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 167 | 19522222 | Đoàn Tiến Thành | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 168 | 19522236 | Nguyễn Hữu Thành | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 169 | 19522247 | Vũ Phú Thành | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 170 | 19522254 | Bùi Thị Thêu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 171 | 19522330 | Lê Thế Tiệm | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 172 | 19522346 | Vương Minh Tiến | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 173 | 19522349 | Lê Quốc Tín | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 174 | 19522406 | Phan Thúc Trình | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 175 | 19522417 | Nguyễn Thanh Trúc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 176 | 19522423 | Lê Đức Trung | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 177 | 19522474 | Nguyễn Quang Tuấn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 178 | 19522485 | Trương Minh Tuấn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 179 | 19522550 | Lã Mai Win | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 180 | 20520168 | Phan Nguyễn Văn Duy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 181 | 20520237 | Trần Tấn Lộc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 182 | 20520322 | Nguyễn Thị Mỹ Trân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 183 | 20520352 | Nguyễn Quang Vũ | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 184 | 20520461 | Huỳnh Thái Dương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 185 | 20520527 | Nguyễn Phúc Hưng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 186 | 20520556 | Trịnh Gia Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 187 | 20520569 | Nguyễn Phúc Khang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 188 | 20520720 | Nguyễn Đỗ Quang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 189 | 20520799 | Trần Tot Ti | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 190 | 20520816 | Đỗ Thị Thu Trang | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 191 | 20520829 | Nguyễn Thanh Thanh Trúc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 192 | 20521063 | Hồ Viết Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 193 | 20521072 | Nguyễn Thị Kim Anh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 194 | 20521097 | Đoàn Quốc Bảo | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 195 | 20521101 | Lê Gia Bảo | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 196 | 20521125 | Lê Khánh Châu | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 197 | 20521135 | Trần Trọng Chinh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 198 | 20521152 | Võ Cao Cường | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 199 | 20521190 | Lê Quang Đông | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 200 | 20521203 | Thái Tăng Đức | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 201 | 20521204 | Trần Nhân Đức | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 202 | 20521214 | Phạm Thùy Dung | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 203 | 20521216 | Lê Dương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 204 | 20521247 | Tô Thái Duy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 205 | 20521271 | Nguyễn Trần Lưỡng Hà | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 206 | 20521277 | Hứa Long Hải | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 207 | 20521296 | Trương Trí Hào | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 208 | 20521331 | Lê Quang Hòa | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 209 | 20521376 | Võ Đông Hưng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 210 | 20521380 | Đỗ Văn Hưởng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 211 | 20521383 | Nguyễn Thị Quỳnh Hương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 212 | 20521385 | Hà Gia Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 213 | 20521393 | Lê Nguyễn Công Huy | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 214 | 20521452 | Nguyễn Quốc Khánh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 215 | 20521456 | Phạm Văn Khánh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 216 | 20521478 | Ngô Quốc Khôi | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 217 | 20521491 | Phan Trung Kiên | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 218 | 20521515 | Nguyễn Bảo Lâm | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 219 | 20521542 | Nguyễn Thị Minh Loan | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 220 | 20521543 | Trần Đặng Hồng Loan | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 221 | 20521551 | Phạm Hữu Lộc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 222 | 20521579 | Dương Thị Lụa | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 223 | 20521585 | Phan Hữu Luân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 224 | 20521642 | Phạm Thị Bích Nga | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 225 | 20521662 | Dương Khánh Ngọc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 226 | 20521665 | Nguyễn Tú Ngọc | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 227 | 20521717 | Phan Ngọc Yến Nhi | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 228 | 20521723 | Doãn Yến Nhung | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 229 | 20521775 | Lê Trần Hữu Phước | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 230 | 20521786 | Đặng Minh Quân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 231 | 20521821 | Nguyễn Thị Thảo Quyên | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 232 | 20521847 | Nguyễn Thanh Sơn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 233 | 20521847 | Nguyễn Thanh Sơn | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 234 | 20521880 | Nguyễn Văn Tân | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 235 | 20521903 | Phạm Văn Thắng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 236 | 20521924 | Trần Thành | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 237 | 20521937 | Nguyễn Thị Thanh Thảo | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 238 | 20521957 | Vũ Hoàng Thạch Thiết | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 239 | 20521996 | Võ Thị Mỹ Thuận | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 240 | 20521999 | Huỳnh Hoài Thương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 241 | 20522002 | Võ Xuân Thương | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 242 | 20522005 | Phan Phi Thuyền | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 243 | 20522022 | Phan Ngọc Tính | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 244 | 20522054 | Phan Minh Trí | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 245 | 20522062 | Nguyễn Bảo Trọng | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 246 | 20522071 | Nguyễn Hoàng Trung | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 247 | 20522105 | Võ Thành Tú | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 248 | 20522140 | Phạm Nguyễn Tố Uyên | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 249 | 20522158 | Lê Vinh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 250 | 20522185 | Trần Như Ý | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 251 | 21521524 | Lương Mạnh Tiến | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 252 | 21521870 | Nguyễn Lê Won Bin | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 253 | 21522059 | Lê Thị Thu Hiền | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 254 | 21522459 | Nguyễn Thanh Phong | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 255 | 21522530 | Hoàng Tất Quý | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| 256 | 21522820 | Nguyễn Mỹ Hạnh | GIA HẠN ĐẾN NGÀY 25/5/2022 |
+| Tổng số sinh viên được gia hạn thêm thời gian đóng học phí: 256 sinh viên./. | | | |
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdanh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022&title=Danh%20s%C3%A1ch%20sinh%20vi%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20gia%20h%E1%BA%A1n%20th%C3%AAm%20th%E1%BB%9Di%20gian%20%C4%91%C3%B3ng%20h%E1%BB%8Dc%20ph%C3%AD%20HK2%20n%C4%83m%20h%E1%BB%8Dc%202021-2022)
+
+------------------
+
+* [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+(09-07-2026)
+* [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+(08-07-2026)
+* [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+(08-07-2026)
+* [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+(07-07-2026)
+* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+(02-07-2026)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022?page=317 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-them-thoi-gian-dong-hoc-phi-hk2-nam-hoc-2021-2022#addtoany "Show all")

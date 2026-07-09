@@ -1,0 +1,248 @@
+Kiểm tra danh sách nộp hồ sơ chế độ chính sách HK2 năm học 2023-2024
+====================================================================
+
+Wed, 28/02/2024 - 09:40
+
+Phòng Công tác Sinh viên đề nghị sinh viên kiểm tra danh sách chế độ chính sách học kỳ 2 năm học 2023-2024, cụ thể:
+
+\- Sinh viên kiểm tra danh sách xét tiếp miễn giảm học phí học kỳ 2 (HK1 chuyển sang xét tiếp HK2).
+
+\- Sinh viên kiểm tra danh sách xét tiếp trợ cấp xã hội HK1 (HK1 chuyển sang xét tiếp HK2).
+
+\- Sinh viên kiểm tra danh sách nộp hồ sơ mới bắt đầu xét các chế độ từ học kỳ 2.
+
+Sinh viên phản hồi tại **[https://forum.uit.edu.vn/node/563771](https://forum.uit.edu.vn/node/563771)**
+
+**Thời gian phản hồi: trước 16 giờ 30 ngày 01/3/2024.**
+
+**Sau thời gian trên nếu sinh viên không phản hồi, bổ sung đầy đủ hồ sơ xem như sinh viên từ chối quyền lợi và chấp nhận thông tin mà Phòng CTSV đã công bố.**
+
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| DANH SÁCH SINH VIÊN XÉT MIỄN, GIẢM HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2023-2024 | | | | | | |
+| | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Tỉ lệ <br>MG | GHI CHÚ |
+| 1 | 19521519 | Phạm Khánh Hòa | CTTT2019.1 | Con của người hoạt động kháng chiến bị nhiễm CĐHH | 100% | Không xét HK2 - Hết CTĐT chính thức (4.5 năm) |
+| 2 | 21522066 | Hoàng Văn Hiệp | CNTT2021 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Không xét HK2 - SV không nộp giấy chứng nhận HN |
+| 3 | 22521097 | Chí Nhịt Phú | CNTT2022.2 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Thoát nghèo không xét tiếp HK2 |
+| 4 | 20520864 | Huỳnh Hoàng Vũ | KHTN2020 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Không xét HK2 - Hết CTĐT chính thức (3.5 năm) |
+| 5 | 20521182 | Đinh Phúc Diên | KHMT2020 | Con bệnh binh | 100% | Không xét HK2 - Hết CTĐT chính thức (3.5 năm) |
+| 6 | 20521490 | Phạm Kiên | KHCL2020.2 | Con bệnh binh | 100% | Không xét HK2 - Hết CTĐT chính thức (3.5 năm) |
+| 7 | 20521529 | Hà Văn Linh | KHMT2020 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Không xét HK2 - Hết CTĐT chính thức (3.5 năm) |
+| 8 | 20521605 | Ngô Thị Hiền Minh | KHMT2020 | Con liệt sĩ | 100% | Không xét HK2 - Hết CTĐT chính thức (3.5 năm) |
+| 9 | 21522548 | Ma Seo Sầu | CNTT2021 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Thoát nghèo không xét tiếp HK2 |
+| 10 | 22521048 | Lạc Ngọc Như | TMĐT2022.2 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Thoát nghèo không xét tiếp HK2 |
+| 11 | 20520360 | Nguyễn Thái Hoàng | KTPM2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 12 | 20520361 | Nay Khai | CNTT2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 13 | 20520363 | Danh Hữu Nghĩa | ATTT2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 14 | 20520364 | Lý Hồng Phong | KTPM2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 15 | 20520365 | Vòng Nguyễn Phú | ATTT2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 16 | 20520366 | Lương Minh Tân | KTMT2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 17 | 20520367 | Hoàng Anh Tuấn | CNTT2020 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 18 | 20520422 | Nguyễn Minh Cường | HTTT2020 | Sinh viên mồ côi | 100% | Đủ điều kiện xét tiếp HK2 |
+| 19 | 20520814 | Đỗ Thành Tôn | KTMT2020 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 20 | 20521095 | Bùi Chí Bảo | ATTT2020 | Con bệnh binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 21 | 20521154 | Sa Đam | KTPM2020 | Sinh viên là DTTS ở vùng KTXH đặc biệt khó khăn | 70% | Đủ điều kiện xét tiếp HK2 |
+| 22 | 20521190 | Lê Quang Đông | HTTT2020 | Sinh viên bị khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 23 | 20521230 | Hoàng Ngọc Duy | MMCL2020 | Sinh viên là DTTS ở vùng KTXH đặc biệt khó khăn | 70% | Đủ điều kiện xét tiếp HK2 |
+| 24 | 20521368 | Nguyễn Minh Hùng | CNTT2020 | Con bệnh binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 25 | 20521541 | Vũ Thị Phương Linh | HTTT2020 | Con bệnh binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 26 | 20521549 | Nguyễn Tiến Lộc | KTPM2020 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 27 | 20521608 | Nguyễn Hải Minh | MTCL2020.1 | Con bệnh binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 28 | 20521784 | Bùi Sỹ Quân | KTMT2020 | Con bệnh binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 29 | 20521841 | Ngô Trần Thái Sơn | ATCL2020 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 30 | 20522082 | Huỳnh Minh Trường | ATTT2020 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 31 | 20522172 | Nguyễn Quốc Vương | MTCL2020.2 | Con bệnh binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 32 | 21520097 | Trần Siêu | KHMT2021 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 33 | 21520308 | Lê Trung Kiên | MMTT2021 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 34 | 21520935 | Phan Quốc Huy | MMTT2021 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 35 | 21521031 | Lê Quốc Kiệt | CNTT2021 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 36 | 21521335 | Phù Đức Quân | KTPM2021 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 37 | 21521360 | Trần Phước Anh Quốc | PMCL2021.1 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 38 | 21521776 | Chu Văn Cường | KTPM2021 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 39 | 21521777 | RaLan Jimmy | MMTT2021 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 40 | 21521778 | Huỳnh Thanh Nguyên | KTMT2021 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 41 | 21521779 | Trượng Văn Quốc | CNTT2021 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 42 | 21521780 | Hứa Văn Sương | CNTT2021 | Sinh viên hệ cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 43 | 21521886 | Nguyễn Thiện Bảo Châu | CTTT2021 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 44 | 21521894 | Ma Văn Chương | CNTT2021 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 45 | 21521896 | Nguyễn Minh Công | HTCL2021 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 46 | 21521954 | Hà Thị Hồng Diệu | TMĐT2021 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 47 | 21521968 | Trần Nhật Đức | KHCL2021.2 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 48 | 21522003 | Nguyễn Khánh Duy | CNTT2021 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 49 | 21522074 | Lý Gia Hiếu | TMCL2021 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 50 | 21522105 | Nông Hồng Hoạt | MTCL2021 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 51 | 21522165 | Thi Vĩnh Huy | KHCL2021.2 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 52 | 21522178 | Sơn Men Kâl | CNTT2021 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 53 | 21522244 | Hà Đinh Kiên | CNTT2021 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 54 | 21522344 | Nguyễn Quang Minh | CNCL2021.2 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 55 | 21522386 | Cầm Bá Nguyễn | KHMT2021 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 56 | 21522530 | Hoàng Tất Quý | MMTT2021 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 57 | 21522536 | Nguyễn Phan Trúc Quỳnh | CNCL2021.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 58 | 21522546 | Thạch Sang | KTPM2021 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 59 | 21522559 | Trương Hữu Trường Sơn | MTCL2021 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 60 | 22520005 | Nguyễn Văn Thắng | HTTT2022.1 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 61 | 22520035 | Võ Đức Phước An | KHNT2022 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 62 | 22520044 | Gia Bảo Anh | KTPM2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 63 | 22520239 | Trần Tiến Đạt | KTPM2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 64 | 22520318 | Lương Văn Duy | KHMT2022.1 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 65 | 22520371 | Nguyễn Quốc Hà | ATTT2022.1 | Sinh viên là DTTS rất ít người ở vùng kinh tế- xã hội khó khăn hoặc đặc biệt khó khăn | 100% | Đủ điều kiện xét tiếp HK2 |
+| 66 | 22520373 | Nguyễn Trần Mỹ Hà | HTTT2022.1 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 67 | 22520374 | Phạm Thị Hà | TMĐT2022.1 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 68 | 22520433 | Hồ Công Hiếu | MMTT2022.1 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 69 | 22520507 | Lê Nguyễn Hưng | KHMT2022.2 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 70 | 22520582 | Trương Quang Huy | ATTT2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 71 | 22520583 | Trương Quốc Huy | CNTT2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 72 | 22520665 | Bùi Minh Khoa | KHMT2022.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 73 | 22520760 | Lê Hồ Thanh Linh | MTIO2022 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 74 | 22520904 | Sử Bùi Lê Na | TMĐT2022.1 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 75 | 22520919 | Nguyễn Ngô Hải Nam | MMTT2022.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 76 | 22520924 | Danh Nat | MTIO2022 | Sinh viên cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 77 | 22520948 | Nguyễn Hiếu Nghĩa | TMĐT2022.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 78 | 22520970 | Lê Cao Nguyên | KHMT2022.3 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 79 | 22521012 | Dương Vi Khắc Nhật | CNTT2022.2 | Sinh viên cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 80 | 22521057 | Lăng Thị Cẩm Nhung | ATTT2022.2 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 81 | 22521177 | Hà Minh Quân | ATTT2022.2 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 82 | 22521210 | Huỳnh Tấn Quốc | MTIO2022 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 83 | 22521256 | Phạm Ngọc Sơn | MMTT2022.3 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 84 | 22521267 | Dương Văn Súa | HTTT2022.2 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 85 | 22521393 | Tăng Thanh Thiện | KTPM2022.3 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 86 | 22521426 | Ngụy Ngọc Thoáng | CNTT2022.2 | Sinh viên cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 87 | 22521450 | Alăng Minh Thuật | KTPM2022.3 | Sinh viên cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 88 | 22521590 | Nguyễn Anh Tú | KTPM2022.3 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 89 | 22521615 | Triệu Minh Tuấn | KTPM2022.3 | Sinh viên là DTTS thuộc hộ nghèo/hộ cận nghèo | 100% | Đủ điều kiện xét tiếp HK2 |
+| 90 | 22521641 | Nguyễn Đăng Hương Uyên | CNTT2022.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 91 | 22521667 | Hứa Xuân Vinh | CNTT2022.2 | Sinh viên cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 92 | 22521699 | Hoa Phạm Chấn Vương | CNTT2022.2 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 93 | 22521712 | Pơloong Xim | CNTT2022.2 | Sinh viên cử tuyển | 100% | Đủ điều kiện xét tiếp HK2 |
+| 94 | 23520023 | Nguyễn Xuân An | KHMT2023.1 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 95 | 23520080 | Trần Thị Ngọc Anh | TMĐT2023.1 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 96 | 23520217 | Nguyễn Dương Đại | TMĐT2023.1 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 97 | 23520254 | Ngô Tiến Đạt | KTMT2023.1 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 98 | 23520287 | Trần Ngọc Điểm | HTTT2023.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 99 | 23520294 | Phùng Quốc Đoàn | CNTT2023.1 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 100 | 23520375 | Nguyễn Hữu Khánh Duy | TTNT2023 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 101 | 23520417 | Nguyễn Minh Hải | KHMT2023.1 | Sinh viên khuyết tật | 100% | Đủ điều kiện xét tiếp HK2 |
+| 102 | 23520463 | Nguyễn Thị Thanh Hiền | HTTT2023.1 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 103 | 23520500 | Phạm Kim Ngân Hmŏk | TMĐT2023.1 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 104 | 23520661 | Tô Hữu Huỳnh | HTTT2023.1 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 105 | 23520710 | Thiên Phúc Khang | CNTT2023.1 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 106 | 23520874 | Hán Dương Long | CNTT2023.1 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 107 | 23520877 | Lê Bảo Long | TTNT2023 | Cha (mẹ) bị TNLĐ/TNNN | 50% | Đủ điều kiện xét tiếp HK2 |
+| 108 | 23520966 | Thạch Via Sa Na | KTMT2023.2 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 109 | 23520992 | Lê Ngọc Phương Nga | CNNB2023.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 110 | 23521131 | Trần Thị Hoàng Nhung | CNNB2023.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 111 | 23521152 | Đặng Dương Phi | TTNT2023 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 112 | 23521189 | Triệu Đại Phú | KTPM2023.2 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 113 | 23521234 | Nguyễn Huy Phước | KHTN2023 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 114 | 23521332 | Đỗ Như Quỳnh | TMĐT2023.2 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 115 | 23521420 | Đinh Phan Quốc Thắng | KTPM2023.3 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | 70% | Đủ điều kiện xét tiếp HK2 |
+| 116 | 23521521 | Sơn Ngọc Thone | KTPM2023.3 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 117 | 23521686 | Phú Nữ Quốc Trung | CNTT2023.2 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+| 118 | 23521737 | Cao Đăng Tùng | KTMT2023.2 | Con thương binh | 100% | Đủ điều kiện xét tiếp HK2 |
+| 119 | 23521767 | Siêm Phi Va | KTPM2023.3 | Sinh viên cử tuyển theo Quyết định số 05/QĐ-HĐTS ngày 22/8/2023 | 100% | Đủ điều kiện xét tiếp HK2 |
+
+| | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| DANH SÁCH SINH VIÊN XÉT TRỢ CẤP XÃ HỘI <br> HỌC KỲ 2 NĂM HỌC 2023-2024 | | | | | |
+| | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Ghi chú |
+| 1 | 20521509 | Triệu Văn Kim | KTPM2020 | Sinh viên là dân tộc ít người thường trú trên 3 năm tại vùng cao | Xét tiếp HK2 |
+| 2 | 21521894 | Ma Văn Chương | CNTT2021 | Sinh viên là dân tộc ít người thường trú trên 3 năm tại vùng cao | Xét tiếp HK2 |
+| 3 | 21522443 | Lường Đại Phát | KHNT2021 | Sinh viên là dân tộc ít người thường trú trên 3 năm tại vùng cao | Xét tiếp HK2 |
+| 4 | 21522548 | Ma Seo Sầu | CNTT2021 | Sinh viên là dân tộc ít người thường trú trên 3 năm tại vùng cao | Xét tiếp HK2 |
+| 5 | 23520500 | Phạm Kim Ngân Hmŏk | TMĐT2023.1 | Sinh viên là dân tộc ít người thường trú trên 3 năm tại vùng cao | Xét tiếp HK2 |
+| 6 | 23520609 | Lâm Quang Huy | TTNT2023 | Sinh viên là dân tộc ít người thường trú trên 3 năm tại vùng cao | Xét tiếp HK2 |
+
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| DANH SÁCH SINH VIÊN NỘP HỒ SƠ MIỄN GIẢM HỌC PHÍ, TRỢ CẤP XÃ HỘI, <br>HỖ TRỢ CHI PHÍ MUA PHƯƠNG TIỆN, ĐỒ DÙNG HỌC TẬP CHO SINH VIÊN KHUYẾT TẬT, <br> HỖ TRỢ CHI PHÍ HỌC TẬP CHO SINH VIÊN DÂN TỘC THIỂU SỐ, HỌC KỲ 2 NĂM HỌC 2023-2024 | | | | | | |
+| MIỄN GIẢM HỌC PHÍ | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 21522548 | Ma Seo Sầu | CNTT2021 | Sinh viên là DTTS ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo | Đơn đề nghị; <br>Bản sao trích lục Giấy khai sinh: dân tộc Hán <br>Giấy xác nhận thông tin cư trú; <br>Đơn cam kết. | Đủ hồ sơ <br>Xã Cư Bông theo quyết định 861/QĐ-TTg ngày 04/6/2021 (xã thuộc khu vực III) |
+| 2 | 22521052 | Nguyễn Ngô Hoài Như | HTTT2022.2 | Cha (mẹ) bị TNLĐ/TNNN | Đơn đề nghị; <br>Bản sao trích lục Giấy khai sinh; <br>Bản sao sổ hưởng trợ cấp hàng tháng; <br>Đơn cam kết. | Đủ hồ sơ |
+| 3 | 23520356 | Thái Bình Dương | HTTT2023.1 | Cha (mẹ) bị TNLĐ/TNNN | Đơn đề nghị; <br>Bản sao trích lục Giấy khai sinh; <br>Bản sao sổ hưởng trợ cấp hàng tháng; <br>Đơn cam kết. | Đủ hồ sơ |
+| 4 | 23521626 | Lê Nữ Khánh Trang | KTPM2023.3 | Cha (mẹ) bị TNLĐ/TNNN | Đơn đề nghị; <br>Bản sao trích lục Giấy khai sinh; <br>Bản sao sổ hưởng trợ cấp hàng tháng; <br>Đơn cam kết. | Đủ hồ sơ |
+| TRỢ CẤP XÃ HỘI | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 22520746 | Trần Đồng Trúc Lam | KTMT2022.2 | Sinh viên thuộc diện nghèo vượt khó học tập | Đơn xin nhận TCXH <br>Sổ hộ nghèo năm 2024 <br>Bảng điểm học kỳ HK2 (7.83) <br>Bảng ĐRL sinh viên HK1 | Đủ hồ sơ |
+| HỖ TRỢ KINH PHÍ MUA PHƯƠNG TIÊN, ĐỒ DÙNG HỌC TẬP DÀNH SINH VIÊN KHUYẾT TẬT THUỘC HỘ NGHÈO/CẬN NGHÈO | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 20521190 | Lê Quang Đông | HTTT2020 | Sinh viên khuyết tật | Đơn đề nghị <br>Bản sao chứng thực khuyết tật do cơ quan có thẩm quyền cấp, khuyết tật vận động, đặc biệt nặng <br>Giấy chứng nhận hộ nghèo/hộ cận nghèo 2024 | Đủ hồ sơ |
+| HỖ TRỢ CHI PHÍ HỌC TẬP CHO SV DÂN TỘC THIỂU SỐ THUỘC HỘ NGHÈO/CẬN NGHÈO | | | | | | |
+| STT | MSSV | Họ tên | Lớp | Đối tượng | Các loại giấy sv phải nộp | Ghi chú |
+| 1 | 20521529 | Hà Văn Linh | KHMT2020 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ nghèo 2024 <br>Giấy khai sinh, dân tộc Nùng | Không xét HK2 - Hết CTĐT (3.5 năm) |
+| 2 | 21521894 | Ma Văn Chương | CNTT2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ cận nghèo 2024 <br>Giấy khai sinh, dân tộc Mông | Đủ hồ sơ |
+| 3 | 21522105 | Nông Hồng Hoạt | MTCL2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN cận nghèo 2024 <br>Giấy khai sinh, dân tộc Tày | Đủ hồ sơ |
+| 4 | 21522244 | Hà Đinh Kiên | CNTT2021 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN cận nghèo 2024 <br>Giấy khai sinh, dân tộc Tày | Đủ hồ sơ |
+| 5 | 22520318 | Lương Văn Duy | KHMT2022.1 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ cận nghèo 2024 <br>Giấy khai sinh, dân tộc Thái | Đủ hồ sơ |
+| 6 | 22521267 | Dương Văn Súa | HTTT2022.2 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ nghèo 2024 <br>Giấy khai sinh, dân tộc Mông | Đủ hồ sơ |
+| 7 | 22521615 | Triệu Minh Tuấn | KTPM2022.3 | SV DTTT hộ nghèo/hộ cận nghèo | Đơn đề nghị hỗ trợ CPHT <br>GCN hộ nghèo 2024 <br>Giấy khai sinh, dân tộc Nùng | Đủ hồ sơ |
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024&title=Ki%E1%BB%83m%20tra%20danh%20s%C3%A1ch%20n%E1%BB%99p%20h%E1%BB%93%20s%C6%A1%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20ch%C3%ADnh%20s%C3%A1ch%20HK2%20n%C4%83m%20h%E1%BB%8Dc%202023-2024)
+
+------------------
+
+* [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+(09-07-2026)
+* [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+(08-07-2026)
+* [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+(08-07-2026)
+* [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+(07-07-2026)
+* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+(02-07-2026)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024?page=319 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024#)
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024#)
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/kiem-tra-danh-sach-nop-ho-so-che-do-chinh-sach-hk2-nam-hoc-2023-2024#addtoany "Show all")

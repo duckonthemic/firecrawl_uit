@@ -1,0 +1,286 @@
+Đại Học Chính Quy
+
+Các thông báo dành cho hệ đại học chính quy.
+
+Thông báo nghỉ học lớp ENGL1113.E11.CTTT ngày 18/11/2013
+
+T7, 16/11/2013 - 14:41
+
+Lớp ENGL1113.E11.CTTT ngày 18/11/2013.
+
+CBGD : Nguyễn Thị Tuyết Vinh
+
+Khoa/ Bộ môn : Anh văn
+
+Môn học : Tiếng Anh 1
+
+Lớp : ENGL1113.E11.CTTT
+
+Phòng : A106
+
+Thời gian : Tiết bắt đầu : 6
+
+Tiết kết thúc : 9
+
+Thứ : 2 -  Ngày : 18/11/2013
+
+Lý do: GV họp tại ĐHQG-HCM
+
+Xem thêm
+về Thông báo nghỉ học lớp ENGL1113.E11.CTTT ngày 18/11/2013
+
+Thông báo thay đổi phòng thi của Chương trình tiên tiến và Chất lượng cao Kỹ thuật Máy tính vào ngày 16 & 23 /11/2013
+
+T7, 16/11/2013 - 12:32
+
+Sinh viên Chương trình tiên tiến và Chất lượng cao Kỹ thuật Máy tính chú ý việc thay đổi phòng thi C101 và C104 vào ngày thứ 7, 16&23/11/2013.
+Các phòng thi tại đây vào ngày thứ 7 sẽ chuyển sang phòng như sau: C101-> C201 và C104 -> C301. (file đính kèm)
+
+CV. Nguyễn Lai Hồng Ân
+
+Xem thêm
+về Thông báo thay đổi phòng thi của Chương trình tiên tiến và Chất lượng cao Kỹ thuật Máy tính vào ngày 16 & 23 /11/2013
+
+Thông báo lớp EN001.E11.ANTT đổi phòng học ngày 18/11/2013
+
+T7, 16/11/2013 - 10:35
+
+Lớp EN001.E11.ANTT của Cô Nguyễn Thị Thảo Quỳnh học phòng A106
+sẽ đổi sang học phòng C106 vào ngày 18/11/2013 (Sáng thứ Hai).
+
+Lý do: Tổ chức tổng kết và trao giải Hội thao SV năm 2013
+
+Thân báo.
+
+CV. Nguyễn Lai Hồng Ân
+
+Xem thêm
+về Thông báo lớp EN001.E11.ANTT đổi phòng học ngày 18/11/2013
+
+Tổ chức sự kiện "Đêm nhạc Phú Quang"
+
+T6, 15/11/2013 - 21:41
+
+Chào mừmg kỷ niệm 31 năm ngày Nhà giáo Việt Nam 20/11/1982-20/11/2013 Đại học Quốc gia Hồ Chí Minh (ĐHQG-HCM) phối hợp với nhà tài trợ Mobiphone tổ chức chương trình ca nhac
+"Về lại phố xưa"
+với những tác phẩm trữ tình sâu lắng của nhạc sỹ Phú Quang , thời gian:
+lúc 18:00 ngày 20/11/2013
+tại
+Khu B Ký túc xá ĐHQG-HCM
+. Chương trình ca nhạc này phục vụ miễn phí cho đối tượng giảng viên, sinh viên ĐHQG-HCM và một số cư dân lân cận.
+
+Xem thêm
+về Tổ chức sự kiện "Đêm nhạc Phú Quang"
+
+Thông báo nghỉ học lớp CS323.E11 ngày 19/11/2013
+
+T6, 15/11/2013 - 15:05
+
+CBGD :
+Nguyễn Tuấn Đăng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+CS323
+
+Lớp :
+CS323.E11
+
+Phòng :
+C205
+
+Thời gian : Tiết bắt đầu :
+6
+
+Tiết kết thúc :
+8
+
+Thứ :
+3
+Ngày :
+19/11/2013
+
+Xem thêm
+về Thông báo nghỉ học lớp CS323.E11 ngày 19/11/2013
+
+Thông báo học bù lớp IT001.E11.CNTN ngày 25/11/2013
+
+T5, 14/11/2013 - 17:05
+
+CBGD : Nguyễn Lưu Thuỳ Ngân
+
+Khoa/ Bộ môn : KHMT
+
+Môn học : IT001
+
+Lớp :  IT001.E11.CNTN
+
+Sĩ số : 46
+
+Thời gian : Tiết bắt đầu : 2
+
+Tiết kết thúc : 4
+
+Thứ : 2 Ngày : 25/11/2013
+
+Phòng : C201
+
+-----------------------------------
+
+Xem thêm
+về Thông báo học bù lớp IT001.E11.CNTN ngày 25/11/2013
+
+Thông báo nghỉ học lớp CS3423.E11.CTTT.1 ngày 14/11/2013 (Chiều thứ sáu)
+
+T5, 14/11/2013 - 14:33
+
+Lớp
+CS3423.E11.CTTT.1
+của GV.
+Lê Hữu Khôi Nguyên
+thông báo nghỉ học.
+
+Ngày:
+14/11/2013
+(Chiều thứ sáu)
+
+Tiết : 2345
+
+Phòng:
+A120(PM CTTT)
+
+Lý do:
+Bận sắp xếp giấy tờ cao học
+
+Lịch học bù sẽ thông báo sau.
+
+CV. Nguyễn Lai Hồng Ân
+
+Xem thêm
+về Thông báo nghỉ học lớp CS3423.E11.CTTT.1 ngày 14/11/2013 (Chiều thứ sáu)
+
+Thông báo lớp IT001.E11.CNTN nghỉ học ngày 15/11/2013
+
+T5, 14/11/2013 - 14:25
+
+Lớp
+IT001.E11.CNTN
+của GV. Nguyễn Lưu Thùy Ngân thông báo nghỉ học.
+
+Ngày: 15/11/2013 (Chiều thứ sáu)
+
+Thời gian : Tiết bắt đầu : 6 - Tiết kết thúc : 8
+
+Phòng: A106
+
+Lý do : Bận họp
+
+Lịch học bù sẽ thông báo sau.
+
+CV. Nguyễn Lai Hồng Ân
+
+Xem thêm
+về Thông báo lớp IT001.E11.CNTN nghỉ học ngày 15/11/2013
+
+Thông báo học bù lớp SE344.E11 ngày 20/11/2013
+
+T5, 14/11/2013 - 14:09
+
+CBGD :
+Cáp Phạm Đình Thăng
+
+Khoa/ Bộ môn :
+CNPM
+
+Môn học :
+SE344
+
+Lớp :
+SE344.E11
+
+Sĩ số :
+64
+
+Thời gian : Tiết bắt đầu :
+1
+
+Tiết kết thúc :
+3
+
+Thứ :
+4
+Ngày :
+20/11/2013
+
+Phòng :
+C308
+
+Xem thêm
+về Thông báo học bù lớp SE344.E11 ngày 20/11/2013
+
+Thông báo nghỉ lớp NT103.E12.1 ngày 14/11/2013
+
+T5, 14/11/2013 - 09:39
+
+CBGD :
+Trần Mạnh Hùng
+
+Khoa/ Bộ môn :
+MMT&TT
+
+Môn học :
+NT103
+
+Lớp :
+NT103.E12.1
+
+Phòng :
+C209(PM MMT)
+
+Thời gian : Tiết bắt đầu :
+1
+
+Tiết kết thúc :
+3
+
+Thứ :
+5
+Ngày :
+14/11/2013
+
+Xem thêm
+về Thông báo nghỉ lớp NT103.E12.1 ngày 14/11/2013
+
+Trang
+
+« đầu
+
+‹ trước
+
+…
+
+1859
+
+1860
+
+1861
+
+1862
+
+1863
+
+1864
+
+1865
+
+1866
+
+1867
+
+…
+
+sau ›
+
+cuối »

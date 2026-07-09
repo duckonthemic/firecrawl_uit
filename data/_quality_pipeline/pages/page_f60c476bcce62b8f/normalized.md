@@ -1,0 +1,75 @@
+Kế hoạch
+========
+
+1. [Kế hoạch số 08/2018 - Tổ chức lễ tốt nghiệp và trao bằng tiến sĩ, thạc sĩ, kỹ sư, cử nhân Đợt 1 năm 2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-082018-chuc-le-tot-nghiep-va-trao-bang-tien-si-thac-si-ky-su-cu-nhan-dot-1-nam)
+
+2. [Kế hoạch số 07/2018 - Chương trình giao lưu tác giả sách](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-072018-chuong-trinh-giao-luu-tac-gia-sach)
+
+3. [Kế hoạch số 06/2018 - Tuần sinh hoạt công dân sinh viên cuối khóa năm 2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-062018-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-2018)
+
+4. [Kết hoạch số 05/2018 - Tổ chức Hội nghị Sinh viên năm học 2017-2018](https://ctsv.uit.edu.vn/bai-viet/ket-hoach-so-052018-chuc-hoi-nghi-sinh-vien-nam-hoc-2017-2018)
+
+5. [Kế hoạch số 03/2018 - Tổ chức các hoạt động Cựu sinh viên năm 2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-032018-chuc-cac-hoat-dong-cuu-sinh-vien-nam-2018)
+
+6. [Kế hoạch số 02/2018 - Tổ chức các hoạt động cho lớp trưởng năm 2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-022018-chuc-cac-hoat-dong-cho-lop-truong-nam-2018)
+
+7. [Kế hoạch số 32/2017 - Tổ chức gặp gỡ sinh hoạt cựu sinh viên năm 2017](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-322017-chuc-gap-go-sinh-hoat-cuu-sinh-vien-nam-2017)
+
+8. [Kế hoạch số 30/2017 - Tập huấn kỹ năng và tổng kết CLB Lớp trưởng năm học 2017-2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-302017-tap-huan-ky-nang-va-tong-ket-clb-lop-truong-nam-hoc-2017-2018)
+
+9. [Kế hoạch số 26/2017 - Ngày hội Sinh viên và Doanh nghiệp năm 2017](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-262017-ngay-hoi-sinh-vien-va-doanh-nghiep-nam-2017)
+
+10. [Kế hoạch số 25/2017 - Tổ chức Lễ tốt nghiệp và trao bằng Thạc sĩ, Kỹ sư, cử nhân đợt 2 năm 2017](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-252017-chuc-le-tot-nghiep-va-trao-bang-thac-si-ky-su-cu-nhan-dot-2-nam-2017)
+
+11. [Kế hoạch số 23/2017 - Phối hợp triển khai đào tạo kỹ năm mềm cho sinh viên Đợt 1 - Năm học 2017-2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-232017-phoi-hop-trien-khai-dao-tao-ky-nam-mem-cho-sinh-vien-dot-1-nam-hoc-2017)
+
+12. [Kế hoạch số 22/2017 - Tổ chức vòng thi khu vực phía Nam cuộc thi SV với ATTT 2017](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-222017-chuc-vong-thi-khu-vuc-phia-nam-cuoc-thi-sv-voi-attt-2017)
+
+13. [Kế hoạch số 19/2017 - Hội nghị CTSV năm 2017](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-192017-hoi-nghi-ctsv-nam-2017)
+
+14. [Kế hoạch số 18/2017 - Tuần sinh hoạt công dân - sinh viên đầu năm lần 2 năm học 2017-2018](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-182017-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam-lan-2-nam-hoc-2017-2018)
+
+15. [Kế hoạch số 16/2017 - Hội thao sinh viên trường ĐHCNTT lần XI - Năm 2017](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-162017-hoi-thao-sinh-vien-truong-dhcntt-lan-xi-nam-2017)
+
+Pages
+-----
+
+* [« first](https://ctsv.uit.edu.vn/van-ban/ke-hoach "Go to first page")
+
+* [‹ previous](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=4 "Go to previous page")
+
+* …
+* [2](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=4 "Go to page 5")
+
+* 6
+* [7](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=8 "Go to page 9")
+
+* [10](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=9 "Go to page 10")
+
+* [next ›](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=6 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=9 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Previous")
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Next")
+
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5#)
+
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Previous")
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Next")
+
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Close")
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5#)
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5#)
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Play Slideshow")

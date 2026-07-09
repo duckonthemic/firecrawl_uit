@@ -1,0 +1,149 @@
+Văn bằng 2
+
+Thông báo lịch thi cuối học kỳ 1 năm học 2025-2026 các lớp VB2_đợt 1
+
+T3, 28/10/2025 - 08:51
+
+Chào các bạn sinh viên VB2.
+
+- P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link:
+https://docs.google.com/spreadsheets/d/1Lh7KgavPPyoDkXh67bnnkeRRqUsd0NN5...
+
+- Mọi thắc mắc và phản hồi về lịch thi các bạn vui lòng gửi về ĐC mail:
+phongld@uit.edu.vn
+.
+
+Trân trọng.
+
+LDP.
+
+Xem thêm
+về Thông báo lịch thi cuối học kỳ 1 năm học 2025-2026 các lớp VB2_đợt 1
+
+Kế hoạch xét tốt nghiệp đợt 04 năm 2025
+
+T3, 30/09/2025 - 09:57
+
+Xem thêm
+về Kế hoạch xét tốt nghiệp đợt 04 năm 2025
+
+Thông báo Thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1) cập nhật ngày 8/9/2025.
+
+T6, 29/08/2025 - 10:40
+
+Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1), thông tin chi tiết các bạn xem tại link:
+
+Xem thêm
+về Thông báo Thời khóa biểu học kỳ 1 năm học 2025-2026 các lớp VB2 (đợt 1) cập nhật ngày 8/9/2025.
+
+Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2_đợt 2
+
+T5, 03/07/2025 - 08:41
+
+Chào các bạn sinh viên VB2.
+
+P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link:
+https://docs.google.com/spreadsheets/d/1itXlXvQcZkFlsHv-JIvk30wgAt6c8B9p...
+các bạn có thể đăng nhập hệ thống để xem lịch thi các nhân.
+
+Trân trọng.
+
+LDP.
+
+Xem thêm
+về Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2_đợt 2
+
+Thông báo về việc tham dự lễ tốt nghiệp đợt 1 Năm 2025 và Danh sách xếp chỗ
+
+T3, 03/06/2025 - 11:10
+
+Chào các bạn sinh viên,
+
+Xem thêm
+về Thông báo về việc tham dự lễ tốt nghiệp đợt 1 Năm 2025 và Danh sách xếp chỗ
+
+Thông báo Thời khóa biểu học kỳ 2 năm học 2024-2025 các lớp VB2 (đợt 2)
+
+T3, 29/04/2025 - 11:18
+
+Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 2 năm học 2024-2025 các lớp VB2 (đợt 2), thông tin chi tiết các bạn xem tại link:
+https://docs.google.com/spreadsheets/d/1ekqXJcNK007DbkcYgWg3L7SokMSunrhA...
+
+Xem thêm
+về Thông báo Thời khóa biểu học kỳ 2 năm học 2024-2025 các lớp VB2 (đợt 2)
+
+Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2_đợt 1 (cập nhật 17/4/2025)
+
+T5, 10/04/2025 - 09:18
+
+Chào các bạn sinh viên VB2.
+
+P.ĐTĐH thông báo lịch thi cuối kỳ đợt 1, thông tin chi tiết tại link:
+https://docs.google.com/spreadsheets/d/1DyM8au2dOP_uTKIlk-ZU0Sg8urzsqAuk...
+các bạn có thể đăng nhập hệ thống để xem lịch thi các nhân (do hệ thống khôn có lịch thi buổi tối nên P.ĐTĐH để ca 4 nhé các bạn).
+
+Trân trọng.
+
+LDP.
+
+Xem thêm
+về Thông báo lịch thi cuối học kỳ 2 năm học 2024-2025 các lớp VB2_đợt 1 (cập nhật 17/4/2025)
+
+Kế hoạch xét tốt nghiệp đợt 01 năm 2025
+
+T3, 11/02/2025 - 08:43
+
+Xem thêm
+về Kế hoạch xét tốt nghiệp đợt 01 năm 2025
+
+Thông báo Thời khóa biểu học kỳ 2 năm học 2024-2025 các lớp VB2 (đợt 1)
+
+T3, 21/01/2025 - 10:28
+
+Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 2 năm học 2024-2025 các lớp VB2 (đợt 1 ), thông tin chi tiết các bạn xem tại link:
+
+https://docs.google.com/spreadsheets/d/1oaRA3-JEQszI3ngrD2D_-CE3VZwu7l-4...
+
+Xem thêm
+về Thông báo Thời khóa biểu học kỳ 2 năm học 2024-2025 các lớp VB2 (đợt 1)
+
+Thông báo lịch thi cuối học kỳ 1 năm học 2024-2025 các lớp VB2_đợt 2
+
+T4, 25/12/2024 - 10:24
+
+Chào các bạn sinh viên VB2.
+
+P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link:
+https://docs.google.com/spreadsheets/d/1bI3vgXHrN88L6jVLfANFdpfM0MVy_1Q_...
+bạn có thể đăng nhập daa để xem lịch thi các nhân.
+
+Trân trọng.
+
+LDP.
+
+Xem thêm
+về Thông báo lịch thi cuối học kỳ 1 năm học 2024-2025 các lớp VB2_đợt 2
+
+Trang
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+sau ›
+
+cuối »

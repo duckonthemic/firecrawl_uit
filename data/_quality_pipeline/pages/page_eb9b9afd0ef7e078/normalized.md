@@ -1,0 +1,184 @@
+Học phí - Học bổng - Miễn giảm học phí - Các chế độ chính sách khác
+===================================================================
+
+Fri, 08/10/2021 - 07:04
+
+**Học phí - Học bổng - Miễn giảm học phí - Các chế độ chính sách khác**
+
+**1\. Học phí**
+
+\- Trường ĐH CNTT là Trường Đại học công lập – tự chủ tài chính. Sinh viên tham khảo thông tin học phí ở Thông báo/Đề án tuyển sinh của năm sinh viên xét tuyển vào Trường. Đầu mỗi năm học, Nhà Trường sẽ thông báo mức tiền cụ thể của học phí học kỳ chính, học kỳ hè, học phí cho từng tín chỉ học lại, học cải thiện …..
+
+\- SV Trường ĐH CNTT học theo học chế tín chỉ nhưng đóng tiền học phí trọn gói. Nghĩa là SV đăng ký học các môn học mới với số tín chỉ khác nhau nhưng được đóng số tiền như nhau (gọi là học phí học kỳ). Điều này khuyến khích SV nỗ lực học tập và tốt nghiệp đúng hạn.
+
+\- SV học trễ hạn so với thiết kế của chương trình đào tạo sẽ bị tính học phí gia hạn.
+
+\- Nếu SV đồng ý cam kết tham gia học một số lớp môn học có sỉ số dưới chuẩn thì sẽ có mức học phí riêng.
+
+\- SV thuộc chương trình tài năng được áp dụng mức học phí như chương trình đại trà.
+
+_**\- Qui trình đóng học phí**_
+
+Sinh viên chú ý theo dõi thông báo của Trường để biết thời hạn đóng học phí. Trường không thu tiền học phí trực tiếp nên SV phải đóng thông qua ngân hàng.
+
+\+ Thông thường, mỗi khi sắp kết thúc học kỳ này, SV phải đăng ký học phần cho học kỳ kế tiếp.
+
+\+ Trước khi SV đăng ký học phần cho học kỳ kế tiếp, Sinh viên phải đóng học phí học kỳ hoặc học phí gia hạn cho học kỳ kế tiếp. Học phí này  gọi là học phí đợt 1.
+
+\- Sau khi có kết quả đăng ký học phần cho học kỳ kế tiếp, hệ thống sẽ tính toán số tiền học phí SV phải đóng thêm (nếu có), SV phải đóng học phí thêm này. Học phí này gọi là học phí đợt 2.
+
+\-  Sinh viên không thanh toán học phí đợt 1 đầy đủ và đúng hạn sẽ bị xóa thông tin đăng ký học phần học kỳ. Sinh viên không thanh toán học phí đợt 2 đầy đủ và đúng hạn sẽ bị cấm thi.
+
+\- Nếu chưa có khả năng đóng học phí trong thời gian quy định, SV phải làm đơn xin gia hạn thời gian đóng học phí gởi phòng Công tác Sinh viên (Thời gian hạn chót P.CTSV nhận đơn đề nghị gia hạn học phí sẽ trước thời gian đóng học phí cỡ  2-4 tuần). SV được đóng thiếu tối đa 10% học phí mà vẫn không bị cấm thi (theo thông báo số 31/TB-BGH ngày 23/12/2013). SV đóng học phí thiếu hay dư sẽ được tính vào học kỳ sau.
+
+**2\. Học bổng**
+
+Tất cả các học bổng sẽ được thông báo trên website CTSV hoặc trên forum.
+
+_**2.1. Học bổng khuyến khích học tập**_
+
+Đây là học bổng được qui định trong luật Giáo dục. Mỗi năm Trường dành 8% nguồn thu từ học phí (8 tỉ đồng) cho quỹ học bổng này. Học bổng KKHT cho những sinh viên có kết quả học tập và rèn luyện từ khá trở lên. Học bổng KKHT được xét theo học kỳ chính và có 3 mức:
+
+* Học bổng loại Khá (loại K): Mức học bổng bằng với học phí học kỳ; mức này dành cho SV có ĐHT và ĐRL đều đạt loại khá trở lên.
+* Học bổng loại Giỏi (loại G): Mức học bổng cao hơn loại Khá; mức này dành cho SV có ĐHT đạt loại giỏi và ĐRL đạt loại tốt trở lên.
+* Học bổng loại Xuất sắc (loại X): Mức học bổng cao hơn loại Giỏi; mức này dành cho SV có ĐHT và ĐRL đều đạt loại xuất sắc.
+
+Nguyên tắc phân bổ: Học bổng được phân bổ theo Khoá, Ngành, Chương trình. Các SV thỏa các điều kiện được xếp thứ tự ưu tiên từ Học bổng loại Xuất sắc, Giỏi, Khá.
+
+Nếu số lượng SV thuộc diện được cấp học bổng nhiều hơn số suất học bổng được cấp cho Lớp thì sẽ tiến hành xét, cấp học bổng theo thứ tự danh sách từ trên xuống đến hết số suất học bổng đã được xác định cho mỗi Lớp.
+
+Cách thức để được nhận: vào đầu mỗi học kỳ, sinh viên được thông báo đăng ký học bổng này và căn cứ vào kết quả học tập và rèn luyện của học kỳ trước đó, Nhà trường sẽ tổ chức xét cấp học bổng cho sinh viên.
+
+Chú ý: nếu SV rơi vào một trong các trường hợp sau sẽ không được xét cấp HB KKHT:
+
+* Số tín chỉ đăng ký mới trong học kỳ tính điểm < 14
+* Vi phạm pháp luật: không đóng BHYT, bị kỷ luật từ khiển trách trở lên
+* Có một môn dưới 5.0
+
+Chi tiết Quy định về việc xét cấp HB  KKHT sinh viên xem tại website CTSV.
+
+_**2.2. Học bổng tài trợ**_
+
+Mỗi năm, UIT nhận nhiều học bổng từ các nhà tài trợ, doanh nghiệp...
+
+Nguyên tắc mỗi năm học, một SV chỉ được chọn để trao một học bổng tài trợ (trừ trường hợp còn dư chỉ tiêu).
+
+Cách thức để được nhận: Vào đầu mỗi học kỳ, sinh viên được thông báo đăng ký. Mỗi khi có thông tin học bổng, Trường sẽ chọn trong danh sách SV đã đăng ký – sinh viên sẽ được hỏi ý kiến trước khi được chọn.
+
+Chi tiết Quy định về việc xét cấp học bổng tài trợ sinh viên xem tại website CTSV.
+
+**3\. Miễn giảm học phí**
+
+Việc miễn giảm học phí cho sinh viên diện chế độ chính sách từ năm học 2021-2022 được thực hiện theo Nghị định 81/2021/NĐ-CP, ngày 27/8/2021 của Chính phủ.
+
+_**3.1. Đối tượng được miễn, giảm học phí**_
+
+1. _Con của người hoạt động cách mạng trước ngày 01/01/1945; con của người hoạt động cách mạng từ ngày 01/01/1945 đến ngày khởi nghĩa tháng Tám năm 1945;_
+2. _Con của liệt sỹ;_
+3. _Con của anh hùng lực lượng vũ trang nhân dân;_
+4. _Con của anh hùng lao động trong thời kỳ kháng chiến;_
+5. _Con của thương binh, con của người hưởng chính sách như thương binh;_
+6. _Con của bệnh binh;_
+7. _Con của người hoạt động kháng chiến bị nhiễm chất độc hoá học;_
+8. _Sinh viên khuyết tật;_
+9. _Sinh viên từ 16 đến 22 tuổi không có nguồn nuôi dưỡng đang học đại học văn bằng thứ nhất thuộc đối tượng hưởng trợ cấp xã hội hàng tháng theo quy định tại khoản 1 và 2 Điều 5 Nghị định số 20/2021/NĐ-CP ngày 15/3/2021 của Chính phủ;_
+10. _Sinh viên hệ cử tuyển;_
+11. _Sinh viên là người dân tộc thiểu số có cha hoặc mẹ hoặc cả cha và mẹ hoặc ông bà (trong trường hợp ở với ông bà) thuộc hộ nghèo và hộ cận nghèo;_
+12. _Sinh viên là người dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn;_
+13. _Sinh viên là người dân tộc thiểu số (ngoài đối tượng dân tộc thiểu số rất ít người) ở thôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi, xã đặc biệt khó khăn vùng bãi ngang ven biển hải đảo;_
+14. _Sinh viên là con cán bộ, công chức, viên chức, công nhân mà cha hoặc mẹ bị tai nạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên._
+
+_**3.2. Mức miễn giảm học phí**_
+
+* Đối tượng từ 1 đến 12: Được miễn học phí.
+* Đối tượng 13: Được giảm 70% học phí.
+* Đối tượng 14: Được giảm 50% học phí.
+* Mức miễn giảm học phí
+
+_**3.3. Hồ sơ miễn, giảm học phí**_
+
+Tất cả  các SV đăng ký phải nộp 2 đơn
+
+1. Đơn đề nghị miễn, giảm học phí: website CTSV([https://ctsv.uit.edu.vn/bai-viet/mau-don-mien-giam-hoc-phi-don-cam-ket-t...](https://ctsv.uit.edu.vn/bai-viet/mau-don-mien-giam-hoc-phi-don-cam-ket-theo-nghi-dinh-812021-cua-chinh-phu)
+)
+2. Đơn cam kết: website CTSV ([https://ctsv.uit.edu.vn/bai-viet/mau-don-mien-giam-hoc-phi-don-cam-ket-t...](https://ctsv.uit.edu.vn/bai-viet/mau-don-mien-giam-hoc-phi-don-cam-ket-theo-nghi-dinh-812021-cua-chinh-phu)
+)
+
+Và tùy thuộc SV thuộc đối tượng nào thì nộp thêm
+
+_1\. Đối tượng 1, 2, 3, 4, 5, 6, 7:_
+
+a) Bản sao chứng thực giấy xác nhận của cơ quan quản lý đối tượng là người có công với cách mạng có con thuộc diện miễn, giảm học phí (Giấy xác nhận thuộc của cơ quan quản lý đối tượng thân nhân người có công với cách mạng được xác định theo Pháp lệnh Ưu đãi người có công với cách mạng được hợp nhất tại văn bản số 01/VBHN-VPQH ngày 30 tháng 7 năm 2012 của Văn phòng Quốc hội);
+
+b) Bản sao chứng thực giấy khai sinh của sinh viên.
+
+_2\. Đối tượng 8:_
+
+a) Bản sao chứng thực Giấy xác nhận khuyết tật do Ủy ban nhân dân cấp xã cấp hoặc bản sao chứng thực Quyết định của Chủ tịch Ủy ban nhân dân cấp huyện về việc trợ cấp xã hội;
+
+b) Bản sao chứng thực giấy khai sinh của sinh viên.
+
+_3\. Đối tượng 9:_
+
+a) Bản sao chứng thực Quyết định của Chủ tịch Ủy ban nhân dân cấp huyện về việc trợ cấp xã hội;
+
+b) Bản sao chứng thực giấy khai sinh của sinh viên.
+
+_4\. Đối tượng 10:_ <không cần nộp thêm>
+
+_5\. Đối tượng 11:_
+
+a) Bản sao chứng thực giấy khai sinh của sinh viên;
+
+b) Bản sao chứng thực sổ hộ nghèo, hộ cận nghèo hoặc giấy chứng nhận hộ nghèo, hộ cận nghèo.
+
+_6\. Đối tượng 12, 13:_
+
+a) Bản sao chứng thực sổ hộ khẩu (trong vòng 6 tháng kể từ ngày tiếp nhận hồ sơ) sổ hộ khẩu hoặc giấy xác nhận của cơ quan công an về việc đăng ký thường trú (trường hợp không còn sổ hộ khẩu );
+
+b) Bản sao chứng thực giấy khai sinh của sinh viên.
+
+_8\. Đối tượng 14:_
+
+a) Bản sao chứng thực sổ hưởng trợ cấp hang tháng của Cha hoặc mẹ bị tai nạn lao động hoặc bệnh nghề nghiệp;
+
+d) Bản sao chứng thực giấy khai sinh của sinh viên.
+
+_**Lưu ý:**_
+
+* Sinh viên thuộc đối tượng 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13 và 14 chỉ phải làm 01 bộ hồ sơ nộp lần đầu cho cả thời gian học tập;
+* Sinh viên thuộc đối tượng 11 phải nộp phải nộp bổ sung giấy chứng nhận hộ nghèo, hộ cận nghèo để làm căn cứ, xem xét MGHP cho học kỳ tiếp theo.
+
+**4\. Các chế độ chính sách khác:**
+
+SV có thể đề nghị Nhà Trường cấp các Giấy Xác nhận, Giấy Ưu đãi Giáo dục… bằng cách đăng nhập và đăng ký trên website CTSV.
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac&title=H%E1%BB%8Dc%20ph%C3%AD%20-%20H%E1%BB%8Dc%20b%E1%BB%95ng%20-%20Mi%E1%BB%85n%20gi%E1%BA%A3m%20h%E1%BB%8Dc%20ph%C3%AD%20-%20C%C3%A1c%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%A1c)
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#)
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#)
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#addtoany "Show all")

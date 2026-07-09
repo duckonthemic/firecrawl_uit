@@ -1,0 +1,4722 @@
+-->
+Danh sách sinh viên đăng ký gia hạn học phí HK1 năm học 2025-2026 | Phòng Công tác Sinh viên
+Phòng Công tác Sinh viên
+Đăng nhập | Sơ đồ website
+trung tâm bảo hành oppo tại hà nội , sửa ipad tại hà nội , trung tâm bảo hành iphone , cho thuê xe 16 chỗ , thue xe du lich o ha noi
+Search form
+Search
+Navigation menu
+Trang chủ
+Giới thiệu Chức năng
+Nhiệm vụ
+Nhân sự
+Hành chính Văn bản Quy chế - quy định
+Quyết định
+Thông báo
+Kế hoạch
+Quy trình
+Biểu mẫu
+Hỗ trợ sinh viên Sổ tay sinh viên
+Hướng dẫn
+Học bổng
+Việc làm - thực tập
+Kỹ năng
+Sổ tay của TT hỗ trợ HSSV
+Lịch trình chi tiết dành cho tân sinh viên - Khóa 2025
+Nội dung Sinh hoạt Công dân sinh viên đầu khóa 2025
+Cố vấn học tập
+Cựu sinh viên Ban liên lạc cựu sinh viên
+UIT Productions
+Dành cho Doanh nghiệp
+Sức khỏe - Tâm lý Sức khoẻ
+Tâm lý
+Bảo hiểm y tế
+Thông báo mới
+Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM -
+09/07/2026
+Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027 -
+08/07/2026
+Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027 -
+08/07/2026
+Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026 -
+07/07/2026
+Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026 -
+02/07/2026
+WeTalk Số 04/2026 – “Chậm một nhịp có phải thất bại” -
+18/06/2026
+Quyết định số 666/2026 - Cấp học bổng học tập cho sinh viên chương trình tiên tiến HK1 - NH 2025-2026 -
+15/06/2026
+Xem tất cả
+Danh sách sinh viên đăng ký gia hạn học phí HK1 năm học 2025-2026
+Tue, 23/09/2025 - 09:51
+Phòng Công tác Sinh viên công bố danh sách sinh viên đăng ký gia hạn thời gian nộp học phí học kỳ 1 năm học 2025-2026.
+Sinh viên kiểm tra danh sách nếu có sai sót và phản hồi về Phòng Công tác Sinh viên (email: ctsv@uit.edu.vn ) trước 15 giờ 30 ngày 24/9/2025 .
+Nếu sau thời gian trên sinh viên không phản hồi, Phòng Công tác Sinh viên không giải quyết trường hợp bổ sung.
+STT
+MÃ SV
+HỌ TÊN
+KHOÁ
+KHOAQL
+HỆ ĐT
+1
+205211XX
+Lê Hoàng Chương
+15
+MMT&TT
+CLC
+2
+215204XX
+Đinh Bạch Kiều Phương
+16
+MMT&TT
+CQUI
+3
+215204XX
+Hoàng Nguyên Thái
+16
+HTTT
+CQUI
+4
+215205XX
+Trần Ngọc Nhật Vy
+16
+CNPM
+CLC
+5
+215208XX
+Nguyễn Hoàng Hưng
+16
+KTTT
+CQUI
+6
+215210XX
+Nguyễn Văn Kiên
+16
+KTMT
+CLC
+7
+215210XX
+Lê Trọng Tuấn Kiệt
+16
+KTTT
+CQUI
+8
+215213XX
+Nguyễn Gia Quân
+16
+MMT&TT
+CLC
+9
+215213XX
+Huỳnh Phước Tài
+16
+CNPM
+CLC
+10
+215214XX
+Vũ Hữu Thành
+16
+MMT&TT
+CLC
+11
+215215XX
+Nguyễn Thanh Quỳnh Tiên
+16
+HTTT
+CTTT
+12
+215215XX
+Nguyễn Dũng Mạnh Toàn
+16
+HTTT
+CLC
+13
+215218XX
+Nguyễn Thị Vân Anh
+16
+HTTT
+CTTT
+14
+215218XX
+Từ Quốc Anh
+16
+KTTT
+CLC
+15
+215218XX
+Nguyễn Lương Gia Bảo
+16
+HTTT
+CTTT
+16
+215218XX
+Nguyễn Lê Won Bin
+16
+HTTT
+CLC
+17
+215219XX
+Đặng Thành Đạt
+16
+HTTT
+CTTT
+18
+215219XX
+Đỗ Quốc Đạt
+16
+HTTT
+CLC
+19
+215220XX
+Vũ Bảo Hân
+16
+HTTT
+CTTT
+20
+215220XX
+Nguyễn Quốc Hào
+16
+KTTT
+CQUI
+21
+215220XX
+Lê Thị Thu Hiền
+16
+CNPM
+CLC
+22
+215220XX
+Nguyễn Văn Hiển
+16
+KTTT
+CQUI
+23
+215220XX
+Hoàng Văn Hiệp
+16
+KTTT
+CQUI
+24
+215221XX
+Trần Duy Hưng
+16
+KTTT
+CLC
+25
+215222XX
+Lê Đình Lâm
+16
+KTMT
+CLC
+26
+215223XX
+Nguyễn Thị Quỳnh Mai
+16
+HTTT
+CTTT
+27
+215223XX
+Trần Hữu Mạnh
+16
+HTTT
+CTTT
+28
+215223XX
+Nguyễn Anh Tuấn Ngọc
+16
+KTTT
+CQUI
+29
+215224XX
+Lê Thành Phát
+16
+KTTT
+CLC
+30
+215224XX
+Ngô Thuận Phát
+16
+HTTT
+CTTT
+31
+215225XX
+Châu Nguyễn Thanh Tài
+16
+HTTT
+CTTT
+32
+215226XX
+Nguyễn Hữu Thiện
+16
+HTTT
+CTTT
+33
+215226XX
+Phạm Thị Thùy Trang
+16
+HTTT
+CTTT
+34
+215227XX
+Ngô Minh Trí
+16
+HTTT
+CTTT
+35
+215227XX
+Lê Văn Tuấn
+16
+HTTT
+CQUI
+36
+215227XX
+Nguyễn Đại Anh Tuấn
+16
+HTTT
+CTTT
+37
+215227XX
+Đỗ Lập Trường Vũ
+16
+HTTT
+CTTT
+38
+225200XX
+Huỳnh Trọng Nghĩa
+17
+KHMT
+CQUI
+39
+225200XX
+Võ Quốc Thịnh
+17
+KHMT
+CQUI
+40
+225200XX
+Đào Đặng Thanh An
+17
+KTMT
+CQUI
+41
+225200XX
+Đinh Thiên Ân
+17
+KHMT
+CQUI
+42
+225200XX
+Đỗ Huỳnh An
+17
+MMT&TT
+CQUI
+43
+225200XX
+Hà Thế An
+17
+HTTT
+CQUI
+44
+225200XX
+Lê Tùng Bảo Ân
+17
+KTTT
+CQUI
+45
+225200XX
+Nguyễn Quốc An
+17
+MMT&TT
+CQUI
+46
+225200XX
+Phạm Đăng An
+17
+KTTT
+CQUI
+47
+225200XX
+Phạm Trường Thiên Ân
+17
+MMT&TT
+CQUI
+48
+225200XX
+Trần Thúy An
+17
+HTTT
+CQUI
+49
+225200XX
+Dương Phạm Hoàng Anh
+17
+KHMT
+CNTN
+50
+225200XX
+Lê Nguyễn Quỳnh Anh
+17
+KTTT
+CQUI
+51
+225200XX
+Lê Quốc Anh
+17
+MMT&TT
+CQUI
+52
+225200XX
+Nguyễn Bảo Minh Anh
+17
+HTTT
+CQUI
+53
+225200XX
+Nguyễn Duy Tâm Anh
+17
+KHMT
+CQUI
+54
+225200XX
+Nguyễn Nguyên Ngọc Anh
+17
+CNPM
+CQUI
+55
+225200XX
+Nguyễn Thị Quỳnh Anh
+17
+MMT&TT
+CNTN
+56
+225200XX
+Phạm Thị Phương Anh
+17
+HTTT
+CQUI
+57
+225200XX
+Phan Nguyễn Tuấn Anh
+17
+CNPM
+CQUI
+58
+225201XX
+Huỳnh Gia Bảo
+17
+CNPM
+CQUI
+59
+225201XX
+Nguyễn Phan Tú Bình
+17
+HTTT
+CQUI
+60
+225201XX
+Phạm Hoàng Châu
+17
+HTTT
+CQUI
+61
+225201XX
+Nguyễn Lâm Chí
+17
+KTMT
+CQUI
+62
+225201XX
+Hoàng Công Chiến
+17
+KHMT
+CQUI
+63
+225201XX
+Trần Văn Chiến
+17
+MMT&TT
+CQUI
+64
+225201XX
+Nguyễn Chu Nguyên Chương
+17
+HTTT
+CTTT
+65
+225201XX
+Lưu Quốc Cường
+17
+MMT&TT
+CQUI
+66
+225201XX
+Nguyễn Mạnh Cường
+17
+KTMT
+CQUI
+67
+225201XX
+Phạm Hồng Đăng
+17
+KHMT
+CQUI
+68
+225201XX
+Phan Thanh Đăng
+17
+KHMT
+CQUI
+69
+225201XX
+Trần Duy Hải Đăng
+17
+HTTT
+CTTT
+70
+225202XX
+Trần Ngọc Danh
+17
+MMT&TT
+CQUI
+71
+225202XX
+Lê Tiến Đạt
+17
+HTTT
+CQUI
+72
+225202XX
+Nguyễn Phan Quốc Đạt
+17
+MMT&TT
+CQUI
+73
+225202XX
+Nguyễn Vĩnh Đạt
+17
+HTTT
+CTTT
+74
+225202XX
+Ya Đạt
+17
+CNPM
+CQUI
+75
+225202XX
+Phan Trọng Đĩnh
+17
+KHMT
+CQUI
+76
+225202XX
+Đinh Nguyễn Duy Đông
+17
+MMT&TT
+CQUI
+77
+225202XX
+Đoàn Danh Dự
+17
+CNPM
+CQUI
+78
+225202XX
+Nguyễn Ngọc Du
+17
+KTMT
+CQUI
+79
+225202XX
+Nguyễn An Đức
+17
+HTTT
+CTTT
+80
+225202XX
+Vũ Minh Đức
+17
+HTTT
+CQUI
+81
+225202XX
+Nguyễn Thị Mỹ Dung
+17
+HTTT
+CQUI
+82
+225202XX
+Trần Quang Dũng
+17
+KTMT
+CQUI
+83
+225202XX
+Vũ Quang Dũng
+17
+CNPM
+CQUI
+84
+225202XX
+Lê Trần Tùng Dương
+17
+KTMT
+CQUI
+85
+225203XX
+Nguyễn Đức Anh Dương
+17
+KTMT
+CQUI
+86
+225203XX
+Nguyễn Tùng Dương
+17
+KTMT
+CQUI
+87
+225203XX
+Lương Văn Duy
+17
+KHMT
+CQUI
+88
+225203XX
+Nguyễn Hoàng Duy
+17
+KTTT
+CQUI
+89
+225203XX
+Trần Nguyễn Thanh Duy
+17
+KTMT
+CQUI
+90
+225203XX
+Lê Văn Giáp
+17
+KHMT
+CQUI
+91
+225203XX
+Nguyễn Thị Hải Hà
+17
+HTTT
+CQUI
+92
+225203XX
+Lý Chí Hải
+17
+KTMT
+CQUI
+93
+225203XX
+Đỗ Duy Hào
+17
+KTMT
+CQUI
+94
+225204XX
+Tiền Đức Anh Hào
+17
+MMT&TT
+CQUI
+95
+225204XX
+Đào Công Hậu
+17
+KTMT
+CQUI
+96
+225204XX
+Đào Trung Hiếu
+17
+HTTT
+CQUI
+97
+225204XX
+Lê Nguyễn Minh Hiếu
+17
+MMT&TT
+CQUI
+98
+225204XX
+Ngô Trung Hiếu
+17
+MMT&TT
+CQUI
+99
+225204XX
+Nguyễn Thị Thanh Hiếu
+17
+HTTT
+CQUI
+100
+225204XX
+Trương Quang Hiếu
+17
+KTMT
+CQUI
+101
+225204XX
+Nguyễn Văn Hoà
+17
+HTTT
+CQUI
+102
+225204XX
+Nguyễn Thanh Hoàng
+17
+KTMT
+CQUI
+103
+225204XX
+Phan Châu Hoàng
+17
+CNPM
+CQUI
+104
+225204XX
+Võ Tấn Hoàng
+17
+CNPM
+CQUI
+105
+225204XX
+Ngô Thị Lễ Hội
+17
+KTTT
+CQUI
+106
+225204XX
+Đào Tiến Hùng
+17
+KTMT
+CQUI
+107
+225205XX
+Hồ Đăng Mạnh Hưng
+17
+KTMT
+CQUI
+108
+225205XX
+Lê Trung Hưng
+17
+MMT&TT
+CQUI
+109
+225205XX
+Nguyễn Thanh Hùng
+17
+KHMT
+CQUI
+110
+225205XX
+Phan Trần Tiến Hưng
+17
+CNPM
+CQUI
+111
+225205XX
+Nguyễn Kim Bằng Hữu
+17
+KTMT
+CQUI
+112
+225205XX
+Đinh Quốc Huy
+17
+KTTT
+CQUI
+113
+225205XX
+Đoàn Quang Huy
+17
+CNPM
+CQUI
+114
+225205XX
+Nguyễn Anh Huy
+17
+KTMT
+CQUI
+115
+225205XX
+Trần Quang Huy
+17
+KTMT
+CQUI
+116
+225205XX
+Võ Hà Minh Huy
+17
+HTTT
+CTTT
+117
+225206XX
+Huỳnh Quang Khải
+17
+MMT&TT
+CQUI
+118
+225206XX
+Đỗ Thiện Khang
+17
+MMT&TT
+CQUI
+119
+225206XX
+Đoàn Minh Khang
+17
+MMT&TT
+CQUI
+120
+225206XX
+Dương Hiển Gia Khang
+17
+KTMT
+CQUI
+121
+225206XX
+Trần Vỹ Khang
+17
+MMT&TT
+CNTN
+122
+225206XX
+Bùi Nguyễn Thục Khanh
+17
+HTTT
+CQUI
+123
+225206XX
+Hồ Vỉ Khánh
+17
+MMT&TT
+CQUI
+124
+225206XX
+Nguyễn Hoàn Khánh
+17
+KTMT
+CQUI
+125
+225206XX
+Phạm Quốc Khánh
+17
+HTTT
+CQUI
+126
+225206XX
+Phạm Quốc Khánh
+17
+CNPM
+CQUI
+127
+225206XX
+Trần Nhật Khánh
+17
+CNPM
+CQUI
+128
+225206XX
+Lê Anh Khoa
+17
+MMT&TT
+CQUI
+129
+225206XX
+Nguyễn Tuấn Khoa
+17
+KTMT
+CQUI
+130
+225206XX
+Phan Nguyên Khoa
+17
+CNPM
+CQUI
+131
+225206XX
+Trần Đình Khoa
+17
+MMT&TT
+CNTN
+132
+225206XX
+Trần Nhật Khoa
+17
+KHMT
+CNTN
+133
+225206XX
+Trần Tuấn Khoa
+17
+KHMT
+CQUI
+134
+225206XX
+Dương Anh Khôi
+17
+KTMT
+CQUI
+135
+225207XX
+Trương Duy Khôi
+17
+MMT&TT
+CQUI
+136
+225207XX
+Lê Trung Kiên
+17
+CNPM
+CQUI
+137
+225207XX
+Phan Trung Kiên
+17
+KHMT
+CQUI
+138
+225207XX
+Huỳnh Chấn Kiệt
+17
+KHMT
+CQUI
+139
+225207XX
+Huỳnh Ngọc Anh Kiệt
+17
+MMT&TT
+CQUI
+140
+225207XX
+Ngô Tuấn Kiệt
+17
+KTTT
+CQUI
+141
+225207XX
+Trần Đồng Trúc Lam
+17
+MMT&TT
+CQUI
+142
+225207XX
+Trần Nhật Quang Lâm
+17
+MMT&TT
+CQUI
+143
+225207XX
+Nguyễn Thị Kim Liên
+17
+HTTT
+CTTT
+144
+225207XX
+Châu Trần Vỹ Linh
+17
+KTTT
+CQUI
+145
+225207XX
+Đặng Quang Khánh Linh
+17
+HTTT
+CQUI
+146
+225207XX
+Đặng Thị Bảo Linh
+17
+CNPM
+CQUI
+147
+225207XX
+Đoàn Thị Khánh Linh
+17
+MMT&TT
+CQUI
+148
+225207XX
+Lê Phước Linh
+17
+MMT&TT
+CQUI
+149
+225207XX
+Lý Nguyên Thùy Linh
+17
+KHMT
+CNTN
+150
+225207XX
+Nguyễn Thị Huyền Linh
+17
+HTTT
+CTTT
+151
+225207XX
+Nguyễn Xuân Linh
+17
+KHMT
+CQUI
+152
+225207XX
+Phạm Gia Linh
+17
+MMT&TT
+CQUI
+153
+225207XX
+Phan Văn Thiên Lộc
+17
+KTMT
+CQUI
+154
+225208XX
+Nguyễn Tấn Lợi
+17
+KHMT
+CQUI
+155
+225208XX
+Đặng Thế Long
+17
+MMT&TT
+CQUI
+156
+225208XX
+Dương Hoàng Long
+17
+HTTT
+CQUI
+157
+225208XX
+Hoàng Phạm Bảo Long
+17
+KHMT
+CQUI
+158
+225208XX
+Huỳnh Ngọc Bảo Long
+17
+KHMT
+CQUI
+159
+225208XX
+Huỳnh Thanh Long
+17
+MMT&TT
+CQUI
+160
+225208XX
+Lê Trần Kim Long
+17
+MMT&TT
+CQUI
+161
+225208XX
+Trần Hiển Long
+17
+KTMT
+CQUI
+162
+225208XX
+Văn Công Gia Luật
+17
+KTMT
+CQUI
+163
+225208XX
+Võ Đại Lượng
+17
+KHMT
+CQUI
+164
+225208XX
+Lê Thị Lý
+17
+KTTT
+CQUI
+165
+225208XX
+Nguyễn Thị Cẩm Ly
+17
+HTTT
+CQUI
+166
+225208XX
+Châu Đức Mạnh
+17
+KTTT
+CQUI
+167
+225208XX
+Nguyễn Đức Mạnh
+17
+MMT&TT
+CQUI
+168
+225208XX
+Trần Thiện Mạnh
+17
+MMT&TT
+CQUI
+169
+225208XX
+Đỗ Hoàng Minh
+17
+KHMT
+CQUI
+170
+225208XX
+Lê Ngọc Bảo Minh
+17
+CNPM
+CQUI
+171
+225208XX
+Nguyễn Đặng Bình Minh
+17
+MMT&TT
+CQUI
+172
+225208XX
+Nguyễn Lê Thanh Minh
+17
+KTTT
+CQUI
+173
+225208XX
+Nguyễn Nhật Minh
+17
+KTMT
+CQUI
+174
+225208XX
+Nguyễn Viết Anh Minh
+17
+KHMT
+CQUI
+175
+225208XX
+Phạm Công Minh
+17
+CNPM
+CQUI
+176
+225208XX
+Trần Bình Minh
+17
+HTTT
+CQUI
+177
+225208XX
+Trần Văn Minh
+17
+CNPM
+CQUI
+178
+225208XX
+Hồ Thị Huỳnh My
+17
+MMT&TT
+CQUI
+179
+225208XX
+Nguyễn Hiền My
+17
+KTMT
+CQUI
+180
+225209XX
+Bùi Thanh Nam
+17
+KHMT
+CQUI
+181
+225209XX
+Đoàn Phương Nam
+17
+CNPM
+CQUI
+182
+225209XX
+Lê Hoàng Nam
+17
+MMT&TT
+CQUI
+183
+225209XX
+Lê Xuân Nam
+17
+CNPM
+CQUI
+184
+225209XX
+Nguyễn Hữu Nam
+17
+KHMT
+CQUI
+185
+225209XX
+Nguyễn Tiến Nam
+17
+KTTT
+CQUI
+186
+225209XX
+Nguyễn Văn Nam
+17
+KTTT
+CQUI
+187
+225209XX
+Lê Ngọc Ngà
+17
+CNPM
+CQUI
+188
+225209XX
+Nguyễn Thị Kiều Nga
+17
+MMT&TT
+CQUI
+189
+225209XX
+Trần Thị Mộng Trúc Ngân
+17
+CNPM
+CQUI
+190
+225209XX
+Đào Trọng Nghĩa
+17
+HTTT
+CTTT
+191
+225209XX
+Trần Thị Bích Ngọc
+17
+HTTT
+CQUI
+192
+225209XX
+Hồng Khải Nguyên
+17
+KHMT
+CQUI
+193
+225209XX
+Nguyễn Thái Nguyên
+17
+KTMT
+CQUI
+194
+225209XX
+Nguyễn Trung Nguyên
+17
+HTTT
+CQUI
+195
+225209XX
+Phạm Anh Nguyên
+17
+KTMT
+CQUI
+196
+225209XX
+Phan Trần Anh Nguyên
+17
+MMT&TT
+CQUI
+197
+225209XX
+Trương Lê Hoàng Thanh Nguyên
+17
+KTMT
+CQUI
+198
+225210XX
+Lương Lê Công Nhẫn
+17
+KTMT
+CQUI
+199
+225210XX
+Nguyễn Trọng Nhân
+17
+KHMT
+CQUI
+200
+225210XX
+Võ Thanh Nhàn
+17
+HTTT
+CQUI
+201
+225210XX
+Đỗ Long Nhật
+17
+CNPM
+CQUI
+202
+225210XX
+Nguyễn Minh Nhật
+17
+KTMT
+CQUI
+203
+225210XX
+Phạm Trần Anh Nhật
+17
+CNPM
+CQUI
+204
+225210XX
+Tô Hoàng Nhật
+17
+HTTT
+CQUI
+205
+225210XX
+Trần Tiễn Nhật
+17
+MMT&TT
+CQUI
+206
+225210XX
+Dương Yến Nhi
+17
+HTTT
+CQUI
+207
+225210XX
+Huỳnh Ngọc Nhi
+17
+HTTT
+CTTT
+208
+225210XX
+Huỳnh Yến Nhi
+17
+HTTT
+CQUI
+209
+225210XX
+Lê Thiện Nhi
+17
+KTTT
+CQUI
+210
+225210XX
+Nguyễn Ngọc Yến Nhi
+17
+HTTT
+CQUI
+211
+225210XX
+Lạc Ngọc Như
+17
+HTTT
+CQUI
+212
+225210XX
+Phạm Thuỵ Thảo Như
+17
+HTTT
+CQUI
+213
+225210XX
+Trần Thị Kiều Oanh
+17
+HTTT
+CQUI
+214
+225210XX
+Đặng Đạt Phát
+17
+CNPM
+CQUI
+215
+225210XX
+Hà Hữu Phát
+17
+KHMT
+CQUI
+216
+225210XX
+Nguyễn Hồng Phát
+17
+KTMT
+CQUI
+217
+225210XX
+Võ Trần Phi
+17
+MMT&TT
+CQUI
+218
+225210XX
+Huỳnh Văn Tuấn Phong
+17
+KTMT
+CQUI
+219
+225210XX
+Lê Hoàng Thiên Phú
+17
+HTTT
+CTTT
+220
+225211XX
+Đào Thanh Phúc
+17
+KTTT
+CQUI
+221
+225211XX
+Lê Bá Phúc
+17
+MMT&TT
+CQUI
+222
+225211XX
+Lê Dương Minh Phúc
+17
+MMT&TT
+CQUI
+223
+225211XX
+Nguyễn Hoàng Phúc
+17
+MMT&TT
+CQUI
+224
+225211XX
+Nguyễn Hoàng Gia Phúc
+17
+KTMT
+CQUI
+225
+225211XX
+Nguyễn Lê Bảo Phúc
+17
+MMT&TT
+CQUI
+226
+225211XX
+Nguyễn Thiên Hoàn Phúc
+17
+KTMT
+CQUI
+227
+225211XX
+Tạ Duy Phúc
+17
+KTTT
+CQUI
+228
+225211XX
+Trần Mạnh Phúc
+17
+KTTT
+CQUI
+229
+225211XX
+Trương Lê Vĩnh Phúc
+17
+CNPM
+CQUI
+230
+225211XX
+Trần Dương Tấn Phước
+17
+KTTT
+CQUI
+231
+225211XX
+Hồ Văn Phương
+17
+CNPM
+CQUI
+232
+225211XX
+Nguyễn Võ Đăng Phương
+17
+HTTT
+CQUI
+233
+225211XX
+Hà Minh Quân
+17
+MMT&TT
+CQUI
+234
+225211XX
+Lê Hoàng Quân
+17
+HTTT
+CTTT
+235
+225212XX
+Nguyễn Đình Quang
+17
+MMT&TT
+CQUI
+236
+225212XX
+Trương Nhật Quang
+17
+KTTT
+CQUI
+237
+225212XX
+Phan Thị Bích Quyên
+17
+HTTT
+CQUI
+238
+225212XX
+Đỗ Nhật Quỳnh
+17
+HTTT
+CQUI
+239
+225212XX
+Nguyễn Thị Như Quỳnh
+17
+KTMT
+CQUI
+240
+225212XX
+Bùi Văn Sáng
+17
+KTTT
+CQUI
+241
+225212XX
+Ngô Trần Quang Sang
+17
+CNPM
+CQUI
+242
+225212XX
+Nguyễn Hoàng Trọng Sơn
+17
+KTTT
+CQUI
+243
+225212XX
+Nguyễn Minh Sơn
+17
+KHMT
+CQUI
+244
+225212XX
+Tăng Kim Sơn
+17
+HTTT
+CTTT
+245
+225212XX
+Dương Văn Súa
+17
+HTTT
+CQUI
+246
+225212XX
+Nguyễn Thị Thanh Sương
+17
+CNPM
+CQUI
+247
+225212XX
+Đoàn Công Tài
+17
+KHMT
+CQUI
+248
+225212XX
+Hoàng Thế Anh Tài
+17
+MMT&TT
+CQUI
+249
+225212XX
+Lê Khấu Hữu Tài
+17
+MMT&TT
+CQUI
+250
+225212XX
+Nguyễn Thành Tài
+17
+CNPM
+CQUI
+251
+225212XX
+Phạm Tấn Tài
+17
+MMT&TT
+CQUI
+252
+225212XX
+Phan Văn Tài
+17
+MMT&TT
+CQUI
+253
+225212XX
+Võ Tấn Tài
+17
+MMT&TT
+CQUI
+254
+225213XX
+Nguyễn Duy Tân
+17
+HTTT
+CQUI
+255
+225213XX
+Trần Tuệ Tánh
+17
+CNPM
+CQUI
+256
+225213XX
+Hà Nhật Thái
+17
+HTTT
+CTTT
+257
+225213XX
+Phạm Văn Thái
+17
+KHMT
+CQUI
+258
+225213XX
+Dương Văn Thắng
+17
+MMT&TT
+CQUI
+259
+225213XX
+Nguyễn Việt Thắng
+17
+KTTT
+CQUI
+260
+225213XX
+Đặng Chí Thành
+17
+MMT&TT
+CQUI
+261
+225213XX
+Năng Tiến Thành
+17
+HTTT
+CQUI
+262
+225213XX
+Phạm Trung Thành
+17
+MMT&TT
+CQUI
+263
+225213XX
+Trịnh Thu Thanh
+17
+KTMT
+CQUI
+264
+225213XX
+Trần Thị Phương Thảo
+17
+KTTT
+CQUI
+265
+225213XX
+Huỳnh Công Thiên
+17
+KTMT
+CQUI
+266
+225213XX
+Lại Quan Thiên
+17
+MMT&TT
+CQUI
+267
+225213XX
+Nguyễn Huỳnh Như Thiện
+17
+CNPM
+CQUI
+268
+225213XX
+Trần Ỷ Thiên
+17
+HTTT
+CQUI
+269
+225214XX
+Đào Lê Duy Thịnh
+17
+KHMT
+CQUI
+270
+225214XX
+Huỳnh Quang Thịnh
+17
+HTTT
+CTTT
+271
+225214XX
+Lâm Tuấn Thịnh
+17
+HTTT
+CQUI
+272
+225214XX
+Nguyễn Quang Thịnh
+17
+MMT&TT
+CQUI
+273
+225214XX
+Phan Ngọc Đức Thọ
+17
+KTMT
+CQUI
+274
+225214XX
+Bùi Châu Thống
+17
+MMT&TT
+CQUI
+275
+225214XX
+Võ Văn Phi Thông
+17
+KTTT
+CQUI
+276
+225214XX
+Trần Hoàng Anh Thư
+17
+HTTT
+CQUI
+277
+225214XX
+Nguyễn Văn Thuật
+17
+KHMT
+CQUI
+278
+225214XX
+Tăng Hoàng Thức
+17
+KTMT
+CQUI
+279
+225214XX
+Đường Thị Mộng Thúy
+17
+KTTT
+CQUI
+280
+225214XX
+Hoàng Dương Ngọc Thủy
+17
+HTTT
+CQUI
+281
+225214XX
+Hoàng Xuân Thủy
+17
+HTTT
+CQUI
+282
+225214XX
+Huỳnh Dương Tiến
+17
+KHMT
+CQUI
+283
+225214XX
+Phạm Minh Tiến
+17
+KTTT
+CQUI
+284
+225214XX
+Trần Quốc Tiến
+17
+KTMT
+CQUI
+285
+225214XX
+Nguyễn Đức Toàn
+17
+MMT&TT
+CQUI
+286
+225214XX
+Nguyễn Quang Trãi
+17
+HTTT
+CQUI
+287
+225215XX
+Bùi Thị Bảo Trân
+17
+HTTT
+CQUI
+288
+225215XX
+Lê Thị Thùy Trang
+17
+MMT&TT
+CQUI
+289
+225215XX
+Nguyễn Nhật Khánh Trang
+17
+HTTT
+CQUI
+290
+225215XX
+Nguyễn Phương Minh Trí
+17
+MMT&TT
+CQUI
+291
+225215XX
+Phạm Ngọc Trí
+17
+KTTT
+CQUI
+292
+225215XX
+Trần Vũ Anh Trí
+17
+MMT&TT
+CQUI
+293
+225215XX
+Bùi Lê Phương Trinh
+17
+HTTT
+CQUI
+294
+225215XX
+Nguyễn Thị Trinh
+17
+HTTT
+CQUI
+295
+225215XX
+Trần Quốc Trinh
+17
+KTMT
+CQUI
+296
+225215XX
+Nguyễn Xuân Trí
+17
+KTMT
+CQUI
+297
+225215XX
+Đỗ Tuấn Trực
+17
+KTTT
+CQUI
+298
+225215XX
+Hoàng Đinh Trung
+17
+MMT&TT
+CQUI
+299
+225215XX
+Huỳnh Trung
+17
+CNPM
+CQUI
+300
+225215XX
+Ngụy Công Vũ Trung
+17
+KTTT
+CQUI
+301
+225215XX
+Nguyễn Chí Trung
+17
+HTTT
+CQUI
+302
+225215XX
+Nguyễn Duy Trung
+17
+HTTT
+CQUI
+303
+225215XX
+Phạm Đức Trung
+17
+KTTT
+CQUI
+304
+225215XX
+Nguyễn Thanh Trường
+17
+KHMT
+CQUI
+305
+225215XX
+Tống Viết Trường
+17
+KTMT
+CQUI
+306
+225215XX
+Trần Nhật Trường
+17
+KTTT
+CQUI
+307
+225215XX
+Huỳnh Trần Quốc Tú
+17
+KTMT
+CQUI
+308
+225215XX
+Nguyễn Anh Tú
+17
+CNPM
+CQUI
+309
+225215XX
+Phạm Nguyên Tú
+17
+HTTT
+CQUI
+310
+225216XX
+Lê Phát Anh Tuấn
+17
+MMT&TT
+CQUI
+311
+225216XX
+Nguyễn Khánh Tuấn
+17
+HTTT
+CTTT
+312
+225216XX
+Nguyễn Thanh Tuấn
+17
+HTTT
+CQUI
+313
+225216XX
+Trần Khoa Tuấn
+17
+KHMT
+CQUI
+314
+225216XX
+Võ Hoàng Tuấn
+17
+CNPM
+CQUI
+315
+225216XX
+Võ Minh Tùng
+17
+MMT&TT
+CQUI
+316
+225216XX
+Bùi Công Khánh Tường
+17
+KHMT
+CQUI
+317
+225216XX
+Nguyễn Mạnh Tường
+17
+KHMT
+CQUI
+318
+225216XX
+Lâm Mai Tuyền
+17
+HTTT
+CTTT
+319
+225216XX
+Lê Thị Bích Tuyền
+17
+MMT&TT
+CQUI
+320
+225216XX
+Đào Thị Hạnh Uyên
+17
+HTTT
+CQUI
+321
+225216XX
+Lê Thị Tú Uyên
+17
+MMT&TT
+CQUI
+322
+225216XX
+Châu Thế Vĩ
+17
+KHMT
+CNTN
+323
+225216XX
+Lê Yến Vi
+17
+HTTT
+CQUI
+324
+225216XX
+Nguyễn Ái Vi
+17
+HTTT
+CQUI
+325
+225216XX
+Phạm Thanh Thúy Vi
+17
+HTTT
+CQUI
+326
+225216XX
+Huỳnh Nguyễn Quang Vinh
+17
+MMT&TT
+CQUI
+327
+225216XX
+Nguyễn Trí Vĩnh
+17
+HTTT
+CQUI
+328
+225216XX
+Dương Anh Vũ
+17
+KTTT
+CQUI
+329
+225216XX
+Hồ Nguyễn Thiên Vũ
+17
+KTTT
+CQUI
+330
+225216XX
+Nguyễn Hoàng Vũ
+17
+MMT&TT
+CQUI
+331
+225216XX
+Trương Đoàn Vũ
+17
+MMT&TT
+CQUI
+332
+225216XX
+Võ Văn Vũ
+17
+MMT&TT
+CQUI
+333
+225216XX
+Hoa Phạm Chấn Vương
+17
+KTTT
+CQUI
+334
+225217XX
+Đỗ Mai Tường Vy
+17
+KTTT
+CQUI
+335
+225217XX
+Lê Hoài Yến Vy
+17
+KHMT
+CQUI
+336
+225217XX
+Trần Thị Thúy Vy
+17
+MMT&TT
+CQUI
+337
+225217XX
+Pơloong Xim
+17
+KTTT
+CQUI
+338
+225217XX
+Lê Nguyễn Đông Xuân
+17
+CNPM
+CQUI
+339
+235200XX
+Đặng Công An
+18
+KTTT
+CQUI
+340
+235200XX
+Đặng Thiên Ân
+18
+HTTT
+CQUI
+341
+235200XX
+Nguyễn Quốc An
+18
+KHMT
+CQUI
+342
+235200XX
+Nguyễn Tấn An
+18
+MMT&TT
+CQUI
+343
+235200XX
+Phạm Ngọc Thuý An
+18
+HTTT
+CQUI
+344
+235200XX
+Phạm Trường An
+18
+KTTT
+CQUI
+345
+235200XX
+Vũ Duy An
+18
+MMT&TT
+CQUI
+346
+235200XX
+Vũ Hải An
+18
+KTMT
+CQUI
+347
+235200XX
+Đậu Thị Diệu Anh
+18
+HTTT
+CQUI
+348
+235200XX
+Đoàn Thị Ngọc Anh
+18
+KTTT
+CQUI
+349
+235200XX
+Lê Ngọc Anh
+18
+CNPM
+CQUI
+350
+235200XX
+Nguyễn Lê Bảo Anh
+18
+HTTT
+CQUI
+351
+235200XX
+Nguyễn Lê Hoàng Duy Anh
+18
+MMT&TT
+CQUI
+352
+235200XX
+Phan Hữu Việt Anh
+18
+HTTT
+CQUI
+353
+235200XX
+Trương Nguyễn Thuỳ Anh
+18
+CNPM
+CQUI
+354
+235201XX
+Lê Chí Bảo
+18
+KTMT
+CQUI
+355
+235201XX
+Lê Trần Gia Bảo
+18
+HTTT
+CTTT
+356
+235201XX
+Nguyễn Bảo
+18
+HTTT
+CTTT
+357
+235201XX
+Nguyễn Đỗ Gia Bảo
+18
+KHMT
+CQUI
+358
+235201XX
+Nguyễn Gia Bảo
+18
+HTTT
+CQUI
+359
+235201XX
+Nguyễn Gia Bảo
+18
+HTTT
+CQUI
+360
+235201XX
+Trần Quốc Bảo
+18
+HTTT
+CQUI
+361
+235201XX
+Trương Quốc Bảo
+18
+MMT&TT
+CQUI
+362
+235201XX
+Lê Ngọc Bình
+18
+CNPM
+CQUI
+363
+235201XX
+Nguyễn Trần Thanh Bình
+18
+KTTT
+CQUI
+364
+235201XX
+Nguyễn Đình Chiến
+18
+KTTT
+CQUI
+365
+235201XX
+Nguyễn Hữu Minh Chiến
+18
+KTMT
+CQUI
+366
+235201XX
+Đặng Ngọc Trường Chinh
+18
+KTMT
+CQUI
+367
+235201XX
+Huỳnh Nguyễn Chuyễn
+18
+CNPM
+CQUI
+368
+235201XX
+Dương Chí Cường
+18
+KTTT
+CQUI
+369
+235202XX
+Nguyễn Hoàng Quốc Cường
+18
+KTMT
+CQUI
+370
+235202XX
+Nguyễn Hữu Cường
+18
+KTMT
+CQUI
+371
+235202XX
+Phạm Hùng Cường
+18
+MMT&TT
+CQUI
+372
+235202XX
+Võ Chí Cường
+18
+CNPM
+CQUI
+373
+235202XX
+Vũ Việt Cương
+18
+KHMT
+CQUI
+374
+235202XX
+Lê Cao Hữu Đang
+18
+KTTT
+CQUI
+375
+235202XX
+Nguyễn Khắc Hải Đăng
+18
+HTTT
+CQUI
+376
+235202XX
+Võ Hồ Thiên Đăng
+18
+KTMT
+CQUI
+377
+235202XX
+Lê Thành Thắng Đạt
+18
+KHMT
+CQUI
+378
+235202XX
+Phạm Chí Đạt
+18
+KTMT
+CQUI
+379
+235202XX
+Phan Hồng Đạt
+18
+MMT&TT
+CQUI
+380
+235202XX
+Trương Trọng Đạt
+18
+KTTT
+CQUI
+381
+235203XX
+Phạm Viết Đức
+18
+KTTT
+CQUI
+382
+235203XX
+Hồ Tấn Dũng
+18
+KTTT
+CQUI
+383
+235203XX
+Nguyễn Ánh Dương
+18
+KTTT
+CQUI
+384
+235203XX
+Lê Anh Duy
+18
+KTMT
+CQUI
+385
+235203XX
+Phạm Trần Khánh Duy
+18
+CNPM
+CQUI
+386
+235204XX
+Nguyễn Thế Duyệt
+18
+KTTT
+CQUI
+387
+235204XX
+Trần Hoàng Giang
+18
+MMT&TT
+CQUI
+388
+235204XX
+Nguyễn Hoàng Hải
+18
+KTTT
+CQUI
+389
+235204XX
+Trần Quốc Hải
+18
+HTTT
+CTTT
+390
+235204XX
+Lê Nguyễn Gia Hân
+18
+HTTT
+CQUI
+391
+235204XX
+Võ Thị Ngọc Hân
+18
+KTMT
+CQUI
+392
+235204XX
+Lê Bá Hậu
+18
+KTMT
+CQUI
+393
+235204XX
+Lê Vũ Minh Hiển
+18
+KTMT
+CQUI
+394
+235204XX
+Nguyễn Hoàng Hiến
+18
+CNPM
+CQUI
+395
+235204XX
+Đặng Quang Hiếu
+18
+KTMT
+CQUI
+396
+235204XX
+Nguyễn Vương Hiếu
+18
+KTMT
+CQUI
+397
+235205XX
+Phạm Kim Ngân Hmŏk
+18
+HTTT
+CQUI
+398
+235205XX
+Lày Ngọc Hoa
+18
+KTMT
+CQUI
+399
+235205XX
+Nguyễn Thị Phương Hoa
+18
+HTTT
+CQUI
+400
+235205XX
+Trần Ngọc Quỳnh Hoa
+18
+HTTT
+CQUI
+401
+235205XX
+Đào Huy Hoàn
+18
+HTTT
+CTTT
+402
+235205XX
+Đoàn Thái Hoàng
+18
+KHMT
+CQUI
+403
+235205XX
+Hà Xuân Hoàng
+18
+KTTT
+CQUI
+404
+235205XX
+Trần Văn Hoàng
+18
+KHMT
+CQUI
+405
+235205XX
+Hồ Quốc Hưng
+18
+KHMT
+CQUI
+406
+235205XX
+Phạm Hoàng Hùng
+18
+KTMT
+CQUI
+407
+235205XX
+Phạm Mạnh Hùng
+18
+HTTT
+CTTT
+408
+235205XX
+Cao Thành Huy
+18
+CNPM
+CQUI
+409
+235205XX
+Công Minh Huy
+18
+MMT&TT
+CQUI
+410
+235206XX
+Lê Quốc Huy
+18
+MMT&TT
+CQUI
+411
+235206XX
+Mạc Nguyễn Gia Huy
+18
+KTTT
+CQUI
+412
+235206XX
+Nguyễn Đoàn Hồng Huy
+18
+MMT&TT
+CQUI
+413
+235206XX
+Nguyễn Gia Huy
+18
+KTMT
+CQUI
+414
+235206XX
+Nguyễn Nhật Huy
+18
+KTMT
+CQUI
+415
+235206XX
+Nguyễn Văn Huy
+18
+MMT&TT
+CQUI
+416
+235206XX
+Trần Gia Huy
+18
+KTMT
+CQUI
+417
+235206XX
+Trịnh Xuân Khải
+18
+HTTT
+CTTT
+418
+235206XX
+Huỳnh Minh Khang
+18
+KTTT
+CQUI
+419
+235206XX
+Huỳnh Vỹ Khang
+18
+KTMT
+CQUI
+420
+235207XX
+Phạm Duy Khang
+18
+KTMT
+CQUI
+421
+235207XX
+Phạm Lê Hoàng Khang
+18
+HTTT
+CQUI
+422
+235207XX
+Dương Gia Khiêm
+18
+MMT&TT
+CQUI
+423
+235207XX
+Huỳnh Đăng Khoa
+18
+MMT&TT
+CQUI
+424
+235207XX
+Võ Đăng Khoa
+18
+HTTT
+CQUI
+425
+235207XX
+Lê Quốc Khôi
+18
+MMT&TT
+CQUI
+426
+235207XX
+Phạm Nguyễn Anh Khôi
+18
+HTTT
+CTTT
+427
+235207XX
+Thân Thành Khởi
+18
+KTMT
+CQUI
+428
+235208XX
+Trần Anh Kiệt
+18
+KTTT
+CQUI
+429
+235208XX
+Võ Tuấn Kiệt
+18
+CNPM
+CQUI
+430
+235208XX
+Nguyễn Chí Lâm
+18
+HTTT
+CTTT
+431
+235208XX
+Nguyễn Thị Ngọc Lan
+18
+KTTT
+CQUI
+432
+235208XX
+Phạm Thị Khánh Linh
+18
+MMT&TT
+CQUI
+433
+235208XX
+Đỗ Hữu Lộc
+18
+KTTT
+CQUI
+434
+235208XX
+Huỳnh Tấn Lộc
+18
+MMT&TT
+CQUI
+435
+235208XX
+Nguyễn Hoàng Lộc
+18
+MMT&TT
+CQUI
+436
+235208XX
+Nguyễn Văn Lộc
+18
+MMT&TT
+CQUI
+437
+235208XX
+Nguyễn Ngọc Lợi
+18
+HTTT
+CQUI
+438
+235208XX
+Nguyễn Gia Cát Long
+18
+KTTT
+CQUI
+439
+235208XX
+Nguyễn Thành Long
+18
+KHMT
+CQUI
+440
+235208XX
+Phan Văn Long
+18
+KTMT
+CQUI
+441
+235208XX
+Trần Hoàng Long
+18
+HTTT
+CQUI
+442
+235208XX
+Đinh Nhật Luân
+18
+HTTT
+CQUI
+443
+235209XX
+Lê Quốc Mạnh
+18
+KTMT
+CQUI
+444
+235209XX
+Lê Minh
+18
+MMT&TT
+CQUI
+445
+235209XX
+Ngô Nhật Minh
+18
+MMT&TT
+CQUI
+446
+235209XX
+Nguyễn Hoàng Nhựt Minh
+18
+KTTT
+CQUI
+447
+235209XX
+Nguyễn Nhữ Hoàng Minh
+18
+HTTT
+CQUI
+448
+235209XX
+Phạm Vũ Gia Minh
+18
+HTTT
+CTTT
+449
+235209XX
+Phan Duy Minh
+18
+CNPM
+CQUI
+450
+235209XX
+Trần Nguyễn Duy Minh
+18
+CNPM
+CQUI
+451
+235209XX
+Phạm Quốc Nam
+18
+KHMT
+CQUI
+452
+235209XX
+Lê Minh Năng
+18
+HTTT
+CQUI
+453
+235209XX
+Nguyễn Thảo Nga
+18
+KTTT
+CQUI
+454
+235209XX
+Mã Hoài Ngân
+18
+HTTT
+CQUI
+455
+235209XX
+Phạm Minh Ngân
+18
+HTTT
+CQUI
+456
+235210XX
+Dương Trọng Nghĩa
+18
+KTMT
+CQUI
+457
+235210XX
+Huỳnh Hữu Nghĩa
+18
+CNPM
+CQUI
+458
+235210XX
+Nguyễn Trọng Nghĩa
+18
+KTTT
+CQUI
+459
+235210XX
+Huỳnh Bích Ngọc
+18
+HTTT
+CQUI
+460
+235210XX
+Trần Khánh Ngọc
+18
+KTTT
+CQUI
+461
+235210XX
+Ngô Trí Ngữ
+18
+KTMT
+CQUI
+462
+235210XX
+Bùi Bách Nguyên
+18
+CNPM
+CQUI
+463
+235210XX
+Đỗ Ngọc Thảo Nguyên
+18
+MMT&TT
+CQUI
+464
+235210XX
+Nguyễn Đình Nhật Nguyên
+18
+KTMT
+CQUI
+465
+235210XX
+Nguyễn Hồ Minh Nguyên
+18
+KTTT
+CQUI
+466
+235210XX
+Nguyễn Minh Nguyễn
+18
+MMT&TT
+CQUI
+467
+235210XX
+Bùi Lê Hoàng Nhẩn
+18
+HTTT
+CQUI
+468
+235210XX
+Trần Lê Minh Nhật
+18
+KHMT
+CNTN
+469
+235211XX
+Trần Quang Nhất
+18
+KTMT
+CQUI
+470
+235211XX
+Vũ Đình Nhật
+18
+KTTT
+CQUI
+471
+235211XX
+Nguyễn Thị Quỳnh Nhi
+18
+HTTT
+CTTT
+472
+235211XX
+Nguyễn Thị Yến Nhi
+18
+CNPM
+CQUI
+473
+235211XX
+Nguyễn Minh Phi
+18
+HTTT
+CQUI
+474
+235211XX
+Lê Trần Huỳnh Phong
+18
+KTMT
+CQUI
+475
+235211XX
+Lê Văn Phong
+18
+KTMT
+CQUI
+476
+235211XX
+Bùi Thiên Phú
+18
+MMT&TT
+CQUI
+477
+235211XX
+Đỗ Xuân Phú
+18
+KTMT
+CQUI
+478
+235211XX
+Triệu Đại Phú
+18
+CNPM
+CQUI
+479
+235212XX
+Nguyễn Thanh Phúc
+18
+MMT&TT
+CQUI
+480
+235212XX
+Hồ Ngọc Thiên Phước
+18
+KTMT
+CQUI
+481
+235212XX
+Cao Phan Hoàng Phương
+18
+HTTT
+CQUI
+482
+235212XX
+Nguyễn Xuân Phương
+18
+MMT&TT
+CQUI
+483
+235212XX
+Huỳnh Quang Minh Quân
+18
+HTTT
+CQUI
+484
+235212XX
+Nguyễn Minh Quân
+18
+MMT&TT
+CQUI
+485
+235212XX
+Nguyễn Thanh Quân
+18
+HTTT
+CTTT
+486
+235212XX
+Võ Hồ Trung Quân
+18
+HTTT
+CQUI
+487
+235212XX
+Võ Minh Quân
+18
+HTTT
+CTTT
+488
+235212XX
+Hồ Thanh Quang
+18
+KTMT
+CQUI
+489
+235212XX
+Nguyễn Cao Quang
+18
+CNPM
+CQUI
+490
+235212XX
+Nguyễn Tài Quang
+18
+MMT&TT
+CQUI
+491
+235212XX
+Trần Minh Quang
+18
+CNPM
+CQUI
+492
+235212XX
+Nguyễn Trọng Quí
+18
+KTMT
+CQUI
+493
+235213XX
+Huỳnh Anh Quốc
+18
+CNPM
+CQUI
+494
+235213XX
+Lê Bá Quốc
+18
+KHMT
+CQUI
+495
+235213XX
+Phạm Tấn Gia Quốc
+18
+MMT&TT
+CQUI
+496
+235213XX
+Lê Gia Quyền
+18
+HTTT
+CQUI
+497
+235213XX
+Đoàn Thanh Sang
+18
+MMT&TT
+CNTN
+498
+235213XX
+Hoàng Đình Sáng
+18
+KTMT
+CQUI
+499
+235213XX
+Huỳnh Quốc Sang
+18
+CNPM
+CQUI
+500
+235213XX
+Hồ Hoàng Sơn
+18
+HTTT
+CTTT
+501
+235213XX
+Nguyễn Nhật Sơn
+18
+KHMT
+CQUI
+502
+235213XX
+Phạm Đức Sơn
+18
+KTTT
+CQUI
+503
+235213XX
+Phạm Nguyễn Thanh Sơn
+18
+HTTT
+CQUI
+504
+235213XX
+Phạm Thái Sơn
+18
+HTTT
+CQUI
+505
+235213XX
+Thiều Đinh Nam Tài
+18
+HTTT
+CQUI
+506
+235213XX
+Ngô Đức Nhật Tâm
+18
+KTMT
+CQUI
+507
+235213XX
+Trần Hữu Tâm
+18
+HTTT
+CQUI
+508
+235214XX
+Lục Duy Tân
+18
+KTMT
+CQUI
+509
+235214XX
+Hồ Phương Tây
+18
+KHMT
+CQUI
+510
+235214XX
+Nguyễn Ngô Tây
+18
+KTMT
+CQUI
+511
+235214XX
+Kha Di Thái
+18
+KTMT
+CQUI
+512
+235214XX
+Nguyễn Văn Hồng Thái
+18
+KHMT
+CNTN
+513
+235214XX
+Đinh Phan Quốc Thắng
+18
+CNPM
+CQUI
+514
+235214XX
+Huỳnh Lê Đại Thắng
+18
+MMT&TT
+CQUI
+515
+235214XX
+Nguyễn Đức Thắng
+18
+CNPM
+CQUI
+516
+235214XX
+Phạm Quốc Thắng
+18
+KTTT
+CQUI
+517
+235214XX
+Trần Đại Thắng
+18
+CNPM
+CQUI
+518
+235214XX
+Trương Nguyên Đại Thắng
+18
+HTTT
+CQUI
+519
+235214XX
+Hồ Nhật Thành
+18
+KHMT
+CQUI
+520
+235214XX
+Lê Ngọc Thành
+18
+KTMT
+CQUI
+521
+235214XX
+Lê Thị Thanh Thanh
+18
+CNPM
+CQUI
+522
+235214XX
+Nguyễn Đắc Thành
+18
+HTTT
+CQUI
+523
+235214XX
+Nguyễn Nhựt Thành
+18
+KHMT
+CQUI
+524
+235214XX
+Nguyễn Quang Thành
+18
+HTTT
+CTTT
+525
+235214XX
+Phan Tấn Thành
+18
+HTTT
+CQUI
+526
+235214XX
+Đinh Công Thảo
+18
+MMT&TT
+CQUI
+527
+235214XX
+Nguyễn Anh Thi
+18
+CNPM
+CQUI
+528
+235214XX
+Đặng Phú Thiện
+18
+CNPM
+CQUI
+529
+235214XX
+Phạm Ngọc Thiện
+18
+HTTT
+CTTT
+530
+235214XX
+Đào Đức Thịnh
+18
+MMT&TT
+CQUI
+531
+235215XX
+Ngô Văn Thịnh
+18
+KTTT
+CQUI
+532
+235215XX
+Nguyễn Phúc Thịnh
+18
+CNPM
+CQUI
+533
+235215XX
+Nguyễn Phước Thịnh
+18
+KTTT
+CQUI
+534
+235215XX
+Trần Hữu Thịnh
+18
+HTTT
+CQUI
+535
+235215XX
+Trương Quốc Thông
+18
+CNPM
+CQUI
+536
+235215XX
+Võ Sĩ Trí Thông
+18
+CNPM
+CQUI
+537
+235215XX
+Huỳnh Trần Anh Thư
+18
+HTTT
+CQUI
+538
+235215XX
+Huỳnh Ngọc Thuận
+18
+MMT&TT
+CQUI
+539
+235215XX
+Nguyễn Lê Như Thuận
+18
+MMT&TT
+CQUI
+540
+235215XX
+Bùi Trần Tiến
+18
+HTTT
+CTTT
+541
+235215XX
+Lê Quang Tiến
+18
+MMT&TT
+CQUI
+542
+235215XX
+Ngô Quang Tiến
+18
+CNPM
+CQUI
+543
+235215XX
+Nguyễn Cao Thủy Tiên
+18
+HTTT
+CQUI
+544
+235215XX
+Nguyễn Thanh Tín
+18
+HTTT
+CQUI
+545
+235216XX
+Lê Trần Thanh Toàn
+18
+KTMT
+CQUI
+546
+235216XX
+Nguyễn Hoàng Quí Trâm
+18
+KTMT
+CQUI
+547
+235216XX
+Nguyễn Thị Ngọc Trâm
+18
+HTTT
+CQUI
+548
+235216XX
+Bùi Quang Triệu
+18
+KTMT
+CQUI
+549
+235216XX
+Bùi Minh Bảo Trung
+18
+HTTT
+CTTT
+550
+235216XX
+Đoàn Đức Trung
+18
+CNPM
+CQUI
+551
+235216XX
+Nguyễn Đức Trung
+18
+MMT&TT
+CQUI
+552
+235216XX
+Phạm Đức Trung
+18
+HTTT
+CQUI
+553
+235216XX
+Hà Minh Trường
+18
+KHMT
+CQUI
+554
+235217XX
+Nguyễn Quang Tú
+18
+HTTT
+CTTT
+555
+235217XX
+Đào Nguyên Tuấn
+18
+KTMT
+CQUI
+556
+235217XX
+Lê Anh Tuấn
+18
+CNPM
+CQUI
+557
+235217XX
+Nguyễn Hoàng Tuấn
+18
+KHMT
+CQUI
+558
+235217XX
+Nguyễn Minh Tuấn
+18
+KTTT
+CQUI
+559
+235217XX
+Phạm Nguyễn Anh Tuấn
+18
+HTTT
+CQUI
+560
+235217XX
+Đinh Thanh Tùng
+18
+CNPM
+CQUI
+561
+235217XX
+Hồ Thanh Tùng
+18
+MMT&TT
+CQUI
+562
+235217XX
+Nguyễn Quang Tùng
+18
+MMT&TT
+CQUI
+563
+235217XX
+Huỳnh Ngọc Ngân Tuyền
+18
+MMT&TT
+CQUI
+564
+235217XX
+Tô Trần Nhã Uyên
+18
+HTTT
+CQUI
+565
+235217XX
+Nguyễn Thế Vĩ
+18
+KTMT
+CQUI
+566
+235217XX
+Đặng Quang Vinh
+18
+KHMT
+CNTN
+567
+235217XX
+Dương Phát Vĩnh
+18
+HTTT
+CQUI
+568
+235217XX
+Nguyễn Quang Vinh
+18
+CNPM
+CQUI
+569
+235217XX
+Phạm Quốc Vĩnh
+18
+HTTT
+CTTT
+570
+235218XX
+Hồ Vương Tường Vy
+18
+KTTT
+CQUI
+571
+235218XX
+Văn Thị Tường Vy
+18
+KHMT
+CQUI
+572
+235218XX
+Ngô Nhật Xuân
+18
+HTTT
+CQUI
+573
+245200XX
+Trịnh Duy Hưng
+19
+KHMT
+CNTN
+574
+245200XX
+Hà Thanh Phong
+19
+KHMT
+CNTN
+575
+245200XX
+Châu Gia An
+19
+HTTT
+CQUI
+576
+245200XX
+Huỳnh Phước An
+19
+MMT&TT
+CQUI
+577
+245200XX
+Nguyễn Phước An
+19
+HTTT
+CQUI
+578
+245200XX
+Nguyễn Quốc An
+19
+KTTT
+CQ-VN
+579
+245200XX
+Vũ Thiên An
+19
+KTTT
+CQUI
+580
+245200XX
+Vưu Thanh Bảo An
+19
+KTTT
+CQUI
+581
+245200XX
+Giảng Thế Anh
+19
+KHMT
+CQUI
+582
+245200XX
+Hoàng Thị Ngọc Ánh
+19
+MMT&TT
+CQUI
+583
+245200XX
+Ngô Quốc Anh
+19
+MMT&TT
+CQUI
+584
+245201XX
+Nguyễn Ngọc Tuấn Anh
+19
+HTTT
+CQUI
+585
+245201XX
+Nguyễn Nhật Anh
+19
+KTTT
+CQUI
+586
+245201XX
+Nguyễn Quang Thế Anh
+19
+MMT&TT
+CQUI
+587
+245201XX
+Nguyễn Thế Anh
+19
+HTTT
+CQUI
+588
+245201XX
+Nguyễn Văn Anh
+19
+KTMT
+CQUI
+589
+245201XX
+Nguyễn Việt Anh
+19
+KTMT
+CNTN
+590
+245201XX
+Trần Thế Anh
+19
+HTTT
+CQUI
+591
+245201XX
+Trang Tuấn Anh
+19
+MMT&TT
+CNTN
+592
+245201XX
+Đinh Văn Thái Bảo
+19
+KTMT
+CNTN
+593
+245201XX
+Mai Gia Bảo
+19
+KTTT
+CQ-VN
+594
+245201XX
+Nguyễn Hồ Phúc Bảo
+19
+KTTT
+CQUI
+595
+245201XX
+Trần Lê Thiên Bảo
+19
+KTTT
+CQUI
+596
+245201XX
+Trần Thái Bảo
+19
+KTMT
+CQUI
+597
+245202XX
+Nguyễn Minh Chính
+19
+KHMT
+CQUI
+598
+245202XX
+Nguyễn Tiến Đạt
+19
+HTTT
+CQUI
+599
+245202XX
+Phan Tiến Đạt
+19
+KHMT
+CQUI
+600
+245203XX
+Đặng Bá Đông
+19
+HTTT
+CQUI
+601
+245203XX
+Lê Minh Đức
+19
+HTTT
+CQUI
+602
+245203XX
+Lý Phương Đức
+19
+KTTT
+CQUI
+603
+245203XX
+Hồ Thị Thùy Dung
+19
+HTTT
+CQUI
+604
+245203XX
+Võ Thanh Dũng
+19
+KTMT
+CQUI
+605
+245203XX
+Hồ Nhật Duy
+19
+MMT&TT
+CQUI
+606
+245203XX
+Hoàng Quốc Duy
+19
+KHMT
+CQUI
+607
+245203XX
+Mai Vũ Xuân Duy
+19
+KTTT
+CQUI
+608
+245203XX
+Ngô Bá Duy
+19
+KHMT
+CQUI
+609
+245203XX
+Nguyễn Tấn Duy
+19
+KTTT
+CQ-VN
+610
+245204XX
+Nguyễn Hoàng Gia
+19
+KTMT
+CQUI
+611
+245204XX
+Nguyễn Nữ Trà Giang
+19
+HTTT
+CQUI
+612
+245204XX
+Nguyễn Thị Thu Giang
+19
+KTMT
+CQUI
+613
+245204XX
+Vũ Đình Hải
+19
+KTTT
+CQ-VN
+614
+245204XX
+Châu Hải Hàm
+19
+HTTT
+CQUI
+615
+245204XX
+Hà Phụng Hảo
+19
+HTTT
+CQUI
+616
+245204XX
+Nguyễn Trung Hậu
+19
+KTMT
+CQUI
+617
+245204XX
+Trần Minh Hậu
+19
+KHMT
+CQUI
+618
+245205XX
+Nguyễn Duy Hiếu
+19
+KHMT
+CQUI
+619
+245205XX
+Vũ Thị Hiếu
+19
+CNPM
+CQUI
+620
+245205XX
+Heo Myeong Ho
+19
+MMT&TT
+CQUI
+621
+245205XX
+Nguyễn Phi Hoàng
+19
+KTTT
+CQ-VN
+622
+245205XX
+Phạm Việt Hoàng
+19
+KTMT
+CQUI
+623
+245205XX
+Trần Nguyễn Huy Hoàng
+19
+KTMT
+CQUI
+624
+245205XX
+Huỳnh Quang Hưng
+19
+KHMT
+CQUI
+625
+245205XX
+Ngô Võ Tuấn Hùng
+19
+KTMT
+CQUI
+626
+245206XX
+Nguyễn Gia Hưng
+19
+CNPM
+CQUI
+627
+245206XX
+Nguyễn Khánh Hưng
+19
+KHMT
+CQUI
+628
+245206XX
+Phạm Duy Hưng
+19
+KTMT
+CQUI
+629
+245206XX
+Phạm Quốc Hùng
+19
+KTTT
+CQ-VN
+630
+245206XX
+Phạm Ngọc Hương
+19
+HTTT
+CQUI
+631
+245206XX
+Cao Minh Huy
+19
+KTTT
+CQ-VN
+632
+245206XX
+Đinh Võ Gia Huy
+19
+MMT&TT
+CQUI
+633
+245206XX
+Lai Mộc Huy
+19
+HTTT
+CQUI
+634
+245206XX
+Lê Minh Huy
+19
+KHMT
+CQUI
+635
+245206XX
+Nguyễn Hoàng Huy
+19
+HTTT
+CQUI
+636
+245206XX
+Phạm Nguyễn Gia Huy
+19
+KHMT
+CQUI
+637
+245206XX
+Phan Gia Quốc Huy
+19
+KTTT
+CQ-VN
+638
+245206XX
+Phan Ngọc Đức Huy
+19
+HTTT
+CQUI
+639
+245206XX
+Trần Gia Huy
+19
+KTMT
+CQUI
+640
+245207XX
+Trần Quang Huy
+19
+HTTT
+CQUI
+641
+245207XX
+Trần Thành Huy
+19
+KHMT
+CQUI
+642
+245207XX
+Vũ Đức Gia Huy
+19
+KTTT
+CQUI
+643
+245207XX
+Huỳnh Quốc Khái
+19
+HTTT
+CQUI
+644
+245207XX
+Dương Đăng Khang
+19
+HTTT
+CQUI
+645
+245207XX
+Hà Nam Khang
+19
+HTTT
+CQUI
+646
+245207XX
+Nguyễn Bảo Khang
+19
+KTMT
+CQUI
+647
+245207XX
+Nguyễn Nhan Quốc Khang
+19
+MMT&TT
+CQUI
+648
+245207XX
+Lương Lâm Khánh
+19
+HTTT
+CQUI
+649
+245207XX
+Nguyễn Thị Lệ Khanh
+19
+HTTT
+CQUI
+650
+245208XX
+Đỗ Đăng Khoa
+19
+CNPM
+CQUI
+651
+245208XX
+Nguyễn Đăng Khoa
+19
+HTTT
+CTTT
+652
+245208XX
+Phạm Anh Khoa
+19
+CNPM
+CQUI
+653
+245208XX
+Phạm Đăng Khoa
+19
+HTTT
+CQUI
+654
+245208XX
+Phạm Hữu Anh Khoa
+19
+KTMT
+CQUI
+655
+245208XX
+Trần Minh Khoa
+19
+KTMT
+CQUI
+656
+245208XX
+Nguyễn Mai Anh Khôi
+19
+HTTT
+CQUI
+657
+245208XX
+Trần Minh Khôi
+19
+KTTT
+CQUI
+658
+245208XX
+Nguyễn Nhất Khương
+19
+MMT&TT
+CQUI
+659
+245208XX
+Nguyễn Đỗ Nhật Khuyên
+19
+KTMT
+CQUI
+660
+245209XX
+Huỳnh Tấn Kiệt
+19
+KHMT
+CQUI
+661
+245209XX
+Trần Quốc Kiệt
+19
+HTTT
+CTTT
+662
+245209XX
+Nguyễn Hiểu Lam
+19
+MMT&TT
+CQUI
+663
+245209XX
+Nguyễn Thanh Hoàng Lâm
+19
+KHMT
+CQUI
+664
+245209XX
+Huỳnh Văn Lên
+19
+KTTT
+CQ-VN
+665
+245209XX
+Hà Yến Linh
+19
+HTTT
+CQUI
+666
+245209XX
+Vũ Thị Khánh Linh
+19
+HTTT
+CQUI
+667
+245209XX
+Dương Đức Lộc
+19
+HTTT
+CQUI
+668
+245209XX
+Phạm Tấn Lợi
+19
+KTTT
+CQ-VN
+669
+245209XX
+Trần Lê Đức Lợi
+19
+CNPM
+CQUI
+670
+245210XX
+Tạ Đức Long
+19
+MMT&TT
+CQUI
+671
+245210XX
+Trần Ngọc Long
+19
+KHMT
+CQUI
+672
+245210XX
+Trần Văn Long
+19
+KTMT
+CQUI
+673
+245210XX
+Châu Gia Lương
+19
+HTTT
+CQUI
+674
+245210XX
+Nguyễn Lương
+19
+CNPM
+CQUI
+675
+245210XX
+Đoàn Phương Minh
+19
+HTTT
+CTTT
+676
+245210XX
+Nguyễn Trọng Minh
+19
+CNPM
+CQUI
+677
+245211XX
+Lê Hoàng Nam
+19
+MMT&TT
+CQUI
+678
+245211XX
+Nguyễn Văn Nam
+19
+MMT&TT
+CQUI
+679
+245211XX
+Lưu Bích Ngân
+19
+CNPM
+CQUI
+680
+245211XX
+Phan Thị Kim Ngân
+19
+HTTT
+CQUI
+681
+245211XX
+Tô Việt Ngân
+19
+HTTT
+CQUI
+682
+245211XX
+Nguyễn Hữu Nghĩa
+19
+MMT&TT
+CQUI
+683
+245211XX
+Phạm Chí Nghĩa
+19
+HTTT
+CQUI
+684
+245211XX
+Trần Quý Nghĩa
+19
+KTMT
+CQUI
+685
+245211XX
+Trần Như Ngọc
+19
+HTTT
+CQUI
+686
+245211XX
+Bùi Trần Trọng Nguyên
+19
+CNPM
+CQUI
+687
+245211XX
+Đỗ Hoàng Nguyên
+19
+KTMT
+CQUI
+688
+245211XX
+Đoàn Phúc Nguyên
+19
+KTTT
+CQUI
+689
+245211XX
+Nguyễn Chí Nguyên
+19
+CNPM
+CQUI
+690
+245211XX
+Nguyễn Quốc Nguyên
+19
+CNPM
+CQUI
+691
+245211XX
+Nguyễn Trung Nguyên
+19
+KTMT
+CQUI
+692
+245212XX
+Phạm Minh Nguyên
+19
+KTTT
+CQUI
+693
+245212XX
+Trần Phú Nguyên
+19
+KTTT
+CQUI
+694
+245212XX
+Lê Phong Nhã
+19
+HTTT
+CQUI
+695
+245212XX
+Đoàn Thành Nhân
+19
+KTTT
+CQUI
+696
+245212XX
+Nguyễn Đức Nhân
+19
+HTTT
+CQUI
+697
+245212XX
+Trần Thiện Nhân
+19
+MMT&TT
+CQUI
+698
+245212XX
+Hồ Ngọc Bảo Như
+19
+HTTT
+CQUI
+699
+245212XX
+Huỳnh Xuân Như
+19
+KTMT
+CQUI
+700
+245212XX
+Lương Cao Pháp
+19
+KTMT
+CQUI
+701
+245212XX
+Cao Tiến Phát
+19
+KTTT
+CQUI
+702
+245213XX
+Mã Tấn Phát
+19
+HTTT
+CQUI
+703
+245213XX
+Nguyễn Tấn Phát
+19
+HTTT
+CQUI
+704
+245213XX
+Phạm Trương Phát
+19
+KHMT
+CQUI
+705
+245213XX
+Trần Nguyễn Thuận Phát
+19
+KTTT
+CQ-VN
+706
+245213XX
+Nguyễn Thanh Phú
+19
+KTMT
+CQUI
+707
+245213XX
+Lê Văn Hữu Phúc
+19
+HTTT
+CQUI
+708
+245213XX
+Phan Ngọc Phúc
+19
+HTTT
+CTTT
+709
+245213XX
+Trần Hồng Phúc
+19
+MMT&TT
+CQUI
+710
+245214XX
+Lê Văn Phước
+19
+CNPM
+CQUI
+711
+245214XX
+Nguyễn Đặng Ân Phước
+19
+KHMT
+CQUI
+712
+245214XX
+Trần Thu Phương
+19
+HTTT
+CQUI
+713
+245214XX
+Hoàng Minh Quân
+19
+KTMT
+CQUI
+714
+245214XX
+Nguyễn Đông Quân
+19
+KTMT
+CQUI
+715
+245214XX
+Nguyễn Minh Quân
+19
+HTTT
+CQUI
+716
+245214XX
+Nguyễn Nhựt Quốc
+19
+MMT&TT
+CQUI
+717
+245214XX
+Nguyễn Phú Quốc
+19
+HTTT
+CQUI
+718
+245214XX
+Bích Kim Quyên
+19
+HTTT
+CQUI
+719
+245215XX
+Thái Thị Kim Quyên
+19
+MMT&TT
+CQUI
+720
+245215XX
+Bùi Nữ Xuân Quỳnh
+19
+HTTT
+CQUI
+721
+245215XX
+Đặng Thị Trúc Quỳnh
+19
+HTTT
+CQUI
+722
+245215XX
+Dương Thúy Quỳnh
+19
+HTTT
+CQUI
+723
+245215XX
+Trương Đỗ Như Quỳnh
+19
+KTTT
+CQ-VN
+724
+245215XX
+Võ Thị Xuân Quỳnh
+19
+KHMT
+CQUI
+725
+245215XX
+Lê Minh Sang
+19
+MMT&TT
+CQUI
+726
+245215XX
+Nguyễn Tài
+19
+KTTT
+CQUI
+727
+245215XX
+Ngô Minh Tân
+19
+KTMT
+CQUI
+728
+245215XX
+Nhan Minh Tân
+19
+KTMT
+CQUI
+729
+245215XX
+Văn Nhật Tân
+19
+KTMT
+CQUI
+730
+245215XX
+Võ Đình Tân
+19
+KTTT
+CQ-VN
+731
+245215XX
+Bùi Huỳnh Tây
+19
+KHMT
+CNTN
+732
+245215XX
+Lê Hữu Thạch
+19
+MMT&TT
+CQUI
+733
+245216XX
+Lê Hữu Thắng
+19
+KTTT
+CQUI
+734
+245216XX
+Trần Quang Thắng
+19
+KTTT
+CQ-VN
+735
+245216XX
+Nguyễn Nhật Thanh
+19
+MMT&TT
+CQUI
+736
+245216XX
+Phùng Ngọc Thi
+19
+MMT&TT
+CQUI
+737
+245216XX
+Hà Võ Đức Thiện
+19
+MMT&TT
+CQUI
+738
+245216XX
+Đỗ Toàn Thịnh
+19
+MMT&TT
+CQUI
+739
+245216XX
+Huỳnh Nguyễn Hoàng Thịnh
+19
+HTTT
+CQUI
+740
+245216XX
+Ngô Gia Thịnh
+19
+KTTT
+CQ-VN
+741
+245216XX
+Nguyễn Thành Phúc Thịnh
+19
+MMT&TT
+CQUI
+742
+245217XX
+Võ Lê Ngọc Thịnh
+19
+KHMT
+CNTN
+743
+245217XX
+Đào Nguyễn Minh Thư
+19
+KTTT
+CQUI
+744
+245217XX
+Đoàn Nguyễn Minh Thư
+19
+KHMT
+CQUI
+745
+245217XX
+Lương Thị Anh Thư
+19
+MMT&TT
+CQUI
+746
+245217XX
+Phạm Thị Anh Thư
+19
+HTTT
+CQUI
+747
+245217XX
+Lương Quốc Thuận
+19
+KTTT
+CQ-VN
+748
+245217XX
+Thạch Thanh Thủy
+19
+HTTT
+CQUI
+749
+245217XX
+Võ Phương Thùy
+19
+HTTT
+CQUI
+750
+245217XX
+Hồ Nguyễn Mai Thy
+19
+HTTT
+CQUI
+751
+245217XX
+Lê Anh Tiến
+19
+KHMT
+CQUI
+752
+245217XX
+Mai Danh Tiến
+19
+HTTT
+CTTT
+753
+245217XX
+Nguyễn Kế Toàn
+19
+KTMT
+CQUI
+754
+245217XX
+Trần Thanh Toàn
+19
+KTMT
+CQUI
+755
+245218XX
+Võ Lê Uyên Trang
+19
+MMT&TT
+CQUI
+756
+245218XX
+Nguyễn Trần Minh Trí
+19
+KTTT
+CQUI
+757
+245218XX
+Nguyễn Minh Triết
+19
+KTTT
+CQUI
+758
+245218XX
+Nguyễn Kế Trực
+19
+MMT&TT
+CQUI
+759
+245218XX
+Nguyễn Mai Trúc
+19
+KTMT
+CQUI
+760
+245218XX
+Lê Phi Trường
+19
+CNPM
+CQUI
+761
+245219XX
+Ngô Minh Tuấn
+19
+KHMT
+CQUI
+762
+245219XX
+Lê Vĩnh Tường
+19
+HTTT
+CQUI
+763
+245219XX
+Nguyễn Thị Phương Tuyền
+19
+KTTT
+CQUI
+764
+245219XX
+Trần Ngọc Minh Tuyền
+19
+HTTT
+CQUI
+765
+245219XX
+Mai Thị Ánh Tuyết
+19
+MMT&TT
+CQUI
+766
+245219XX
+Nguyễn Ngọc Thảo Uyên
+19
+HTTT
+CQUI
+767
+245219XX
+Đặng Anh Văn
+19
+MMT&TT
+CQUI
+768
+245219XX
+Nguyễn Ngọc Tường Vân
+19
+KTTT
+CQUI
+769
+245220XX
+Nguyễn Quốc Việt
+19
+MMT&TT
+CQUI
+Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM
+(09-07-2026)
+Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027
+(08-07-2026)
+Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027
+(08-07-2026)
+Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026
+(07-07-2026)
+Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026
+(02-07-2026)
+Pages
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+Tin tức & sự kiện
+Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026
+[An ninh sinh viên] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!
+[An ninh Sinh viên] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!
+Xem thêm
+Hình ảnh - Video
+Xem thêm
+Website liên kết
+Website Trường
+Forum Trường
+Website Đoàn - Hội
+Website ĐH Quốc gia
+Website ký túc xá
+Kết nối với chúng tôi
+Facebook
+Google plus
+Youtube
+Liên hệ
+Địa chỉ: Khu phố 34, Phường Linh Xuân, Thành phố Hồ Chí Minh.
+Điện thoại: (028) 37252002 Ext: 116
+Email: ctsv@uit.edu.vn
+Đăng ký Email của bạn để nhận thông tin mới nhất từ Phòng CTSV.
+E-mail *
+Copyright © 2014 Phòng Công tác Sinh viên
+Đầu trang

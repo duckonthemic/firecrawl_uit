@@ -1,0 +1,59 @@
+Các vấn đề khác (Địa chỉ nhận thư, xe buýt,....)
+================================================
+
+Fri, 08/10/2021 - 07:16
+
+**Các vấn đề khác**
+
+**(Địa chỉ nhận thư, xe buýt, ....)**
+
+**Địa chỉ nhận thư**
+
+Khi có nhu cầu nhận thư bằng địa chỉ Trường, SV ghi rõ ngoài bìa thư như ví dụ sau:
+
+> Sinh viên Nguyễn Văn A, MSSV: 21520114
+>
+> Lớp MMTT2021, Khoa Mạng máy tính và truyền thông
+>
+> Trường Đại học Công nghệ thông tin – ĐHQG.HCM
+>
+> Khu phố 6, Phường Linh Trung, Quận Thủ Đức, TP.HCM
+
+**Xe buýt**
+
+Với sinh viên của Trường thì xe buýt là phương tiện di chuyển rẻ, tiện lợi và an toàn. Trường cách trạm xe buýt Suối Tiên, trạm xe buýt của Trường ĐH Công nghệ Thông tin, bến xe buýt ĐHQG chưa đến 500m, đây là 2 bến/trạm xe buýt trên có nhiều tuyến xe buýt đi qua.
+
+\- Đối với hành khách là SV: SV sử dụng thẻ SV để mua vé xe buýt cho mỗi chuyến đi để được trợ giá (giá vé 3.000đ/SV/lượt).
+
+\- Các tuyến xe buýt có đi qua Trường ĐH CNTT (bến xe buýt ĐHQG-HCM và trạm xe buýt Suối Tiên): 08, 10, 19, 30, 33, 50,52, 53, 99, 109 và 12, 76, 150, 601, 602, 603, 604 … SV có thể xem thông tin chi tiết tại website [http://buyttphcm.com.vn/](http://buyttphcm.com.vn/)
+hoặc hệ thống ứng dụng BusMap
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fcac-van-de-khac-dia-chi-nhan-thu-xe-buyt&title=C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20kh%C3%A1c%20(%C4%90%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20th%C6%B0%2C%20xe%20bu%C3%BDt%2C....))
+
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#)
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#)
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#addtoany "Show all")

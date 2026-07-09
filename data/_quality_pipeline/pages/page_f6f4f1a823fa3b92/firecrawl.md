@@ -1,0 +1,228 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021#main-nav)
+
+DANH SÁCH SINH VIÊN ĐƯỢC GIA HẠN HỌC PHÍ HỌC KỲ 1 NĂM HỌC 2021 – 2021 (Lần 4 đến ngày 29/12/2021)
+=================================================================================================
+
+Mon, 13/12/2021 - 10:42
+
+**Phòng Kế hoạch Tài chính có thông tin về thời gian gia hạn, sinh viên chỉ được gia hạn đến ngày 25/12/2021. Thời gian gia hạn có trong thông tin học phí, sinh viên phải thường xuyên kiểm tra.** 
+
+Gia hạn học phí là chương trình Trường ĐH Công nghệ Thông tin hỗ trợ sinh viên có hoàn cảnh khó khăn chưa thể đóng học phí đúng hạn quy định, nhất là trong thời điểm dịch Covid-19 đang diễn biến phức tạp như hiện nay. Học kì 1 năm học 2021 - 2022, Trường đã cho phép 2.416 sinh viên gia hạn học phí học kỳ 1 năm học 2021 - 2022, tổng giá trị gia hạn hơn 30 tỷ đồng và sinh viên phải hoàn thành học phí trước ngày 30/9/2021. Theo sau đó, các bạn cho phép 333 sinh viên được gia hạn học phí đến 31/10/2021 tăng thời gian gia hạn học phí học kỳ 1 năm học 2021-2022 đến ngày 29/11/2021. 
+
+Tuy nhiên, Diễn biến phức tạp của dịch COVID-19 đã ảnh hưởng nhiều đến nền kinh tế cũng như cuộc sống của mọi người; và hiện nay  một số địa phương vẫn còn tiếp tục thực hiện giãn cách xã hội theo chỉ thị 16/CT-TTg; Nhằm giúp những sinh viên đã được Nhà trường duyệt gia hạn học phí đến 29/12/2021 nhưng chưa thể hoàn thành đúng hạn, được sự đồng ý của Ban Giám Hiệu, Phòng Công tác Sinh viên cho phép **131 sinh viên tăng thời gian gia hạn học phí học kỳ 1 năm học 2021-2022 (lần 5) đến ngày 29/12/2021.**
+
+  
+  
+  
+  
+
+|     |     |     |     |
+| --- | --- | --- | --- |   
+| DANH SÁCH SINH VIÊN XIN TĂNG THỜI GIAN ĐÓNG HỌC PHÍ LẦN 4 |     |     |     |
+|     |     |     |     |
+| STT | MSSV | Họ tên | Gia hạn đã được BGH duyệt |
+| 1   | 155208x4 | Đỗ Văn Thịnh | GIA HẠN ĐẾN 29/12/2021 |
+| 2   | 165204x3 | Vũ Đoàn Ngọc Hưng | GIA HẠN ĐẾN 29/12/2021 |
+| 3   | 165206x9 | Nguyễn Kim Long | GIA HẠN ĐẾN 29/12/2021 |
+| 4   | 165215x1 | Phạm Văn Phong | GIA HẠN ĐẾN 29/12/2021 |
+| 5   | 165215x8 | Hoàng Anh Minh | GIA HẠN ĐẾN 29/12/2021 |
+| 6   | 165217x9 | Nguyễn Thịnh Sơn Lâm | GIA HẠN ĐẾN 29/12/2021 |
+| 7   | 165217x5 | ĐẠO TRỌNG PHIÊN | GIA HẠN ĐẾN 29/12/2021 |
+| 8   | 175202x5 | Trần Thị Duy An | GIA HẠN ĐẾN 29/12/2021 |
+| 9   | 175203x8 | Nguyễn Hải Đăng | GIA HẠN ĐẾN 29/12/2021 |
+| 10  | 175203x9 | Nguyễn Huỳnh Nhật Đang | GIA HẠN ĐẾN 29/12/2021 |
+| 11  | 175203x0 | Nguyễn Thế Đăng | GIA HẠN ĐẾN 29/12/2021 |
+| 12  | 175206x5 | Hoàng Thanh Lập | GIA HẠN ĐẾN 29/12/2021 |
+| 13  | 175206x2 | Đoàn Tưởng Linh | GIA HẠN ĐẾN 29/12/2021 |
+| 14  | 175207x2 | Nguyễn Hải Long | GIA HẠN ĐẾN 29/12/2021 |
+| 15  | 175207x7 | Đặng Vũ Luân | GIA HẠN ĐẾN 29/12/2021 |
+| 16  | 175210x6 | Nguyễn Minh Thao | GIA HẠN ĐẾN 29/12/2021 |
+| 17  | 175212x6 | Nguyễn Thanh Đức | GIA HẠN ĐẾN 29/12/2021 |
+| 18  | 175212x9 | Vũ Ngọc Hào | GIA HẠN ĐẾN 29/12/2021 |
+| 19  | 185201x7 | Lương Tú Tài | GIA HẠN ĐẾN 29/12/2021 |
+| 20  | 185201x3 | Lê Phước Thành | GIA HẠN ĐẾN 29/12/2021 |
+| 21  | 185201x3 | Ngô Bảo Trân | GIA HẠN ĐẾN 29/12/2021 |
+| 22  | 185204x9 | Tô Thành An | GIA HẠN ĐẾN 29/12/2021 |
+| 23  | 185204x4 | đinh ngọc sơn anh | GIA HẠN ĐẾN 29/12/2021 |
+| 24  | 185204x1 | Tô Viết Anh | GIA HẠN ĐẾN 29/12/2021 |
+| 25  | 185205x4 | Trần Hữu Cảnh | GIA HẠN ĐẾN 29/12/2021 |
+| 26  | 185205x1 | Trần Nguyên Chiến | GIA HẠN ĐẾN 29/12/2021 |
+| 27  | 185205x8 | Nguyễn Văn Chương | GIA HẠN ĐẾN 29/12/2021 |
+| 28  | 185205x0 | Nguyễn Xuân Đà | GIA HẠN ĐẾN 29/12/2021 |
+| 29  | 185205x2 | Nguyễn Bá Đắc | GIA HẠN ĐẾN 29/12/2021 |
+| 30  | 185206x0 | Nguyễn Thanh Điền | GIA HẠN ĐẾN 29/12/2021 |
+| 31  | 185206x5 | Nguyễn Văn Đô | GIA HẠN ĐẾN 29/12/2021 |
+| 32  | 185206x0 | Hồ Việt Đức | GIA HẠN ĐẾN 29/12/2021 |
+| 33  | 185206x6 | Nguyễn Văn Thành Đức | GIA HẠN ĐẾN 29/12/2021 |
+| 34  | 185206x1 | Từ Thanh Dương | GIA HẠN ĐẾN 29/12/2021 |
+| 35  | 185206x2 | Võ Đại Dương | GIA HẠN ĐẾN 29/12/2021 |
+| 36  | 185207x8 | Nguyễn Quang Hiếu | GIA HẠN ĐẾN 29/12/2021 |
+| 37  | 185208x6 | Võ Thị Thu Hương | GIA HẠN ĐẾN 29/12/2021 |
+| 38  | 185209x7 | Trần Quốc Khánh | GIA HẠN ĐẾN 29/12/2021 |
+| 39  | 185209x5 | Nguyễn Lương Kiên | GIA HẠN ĐẾN 29/12/2021 |
+| 40  | 185210x6 | Thái Hoàng Long | GIA HẠN ĐẾN 29/12/2021 |
+| 41  | 185210x8 | Lê Anh Minh | GIA HẠN ĐẾN 29/12/2021 |
+| 42  | 185211x3 | Lê Hải Minh | GIA HẠN ĐẾN 29/12/2021 |
+| 43  | 185211x9 | Nguyễn Văn Hoài Nam | GIA HẠN ĐẾN 29/12/2021 |
+| 44  | 185211x2 | Võ Nguyễn Hoàng Nghĩa | GIA HẠN ĐẾN 29/12/2021 |
+| 45  | 185212x4 | Nguyễn Huỳnh Nhi | GIA HẠN ĐẾN 29/12/2021 |
+| 46  | 185212x8 | Nguyễn Thị Hồng Nhung | GIA HẠN ĐẾN 29/12/2021 |
+| 47  | 185212x6 | Huỳnh Long Pháp | GIA HẠN ĐẾN 29/12/2021 |
+| 48  | 185212x8 | Trần Phú | GIA HẠN ĐẾN 29/12/2021 |
+| 49  | 185212x4 | Trần Hoàng Phước | GIA HẠN ĐẾN 29/12/2021 |
+| 50  | 185213x4 | Nguyễn Minh Sang | GIA HẠN ĐẾN 29/12/2021 |
+| 51  | 185213x9 | Lê Minh Tài | GIA HẠN ĐẾN 29/12/2021 |
+| 52  | 185213x6 | Đoàn Văn Minh Tâm | GIA HẠN ĐẾN 29/12/2021 |
+| 53  | 185214x0 | Nguyễn Lê Thành | GIA HẠN ĐẾN 29/12/2021 |
+| 54  | 185214x3 | Vũ Song Thiên | GIA HẠN ĐẾN 29/12/2021 |
+| 55  | 185214x1 | Tiêu Thị Kiều Tiên | GIA HẠN ĐẾN 29/12/2021 |
+| 56  | 185214x8 | Ngô Hiếu Tín | GIA HẠN ĐẾN 29/12/2021 |
+| 57  | 185215x4 | Nguyễn Thị Trang | GIA HẠN ĐẾN 29/12/2021 |
+| 58  | 185215x6 | Đặng Võ Bảo Trung | GIA HẠN ĐẾN 29/12/2021 |
+| 59  | 185215x9 | Hà Minh Tú | GIA HẠN ĐẾN 29/12/2021 |
+| 60  | 185216x5 | Võ Trọng Văn | GIA HẠN ĐẾN 29/12/2021 |
+| 61  | 195201x0 | Nguyễn Minh Huy | GIA HẠN ĐẾN 29/12/2021 |
+| 62  | 195204x1 | Lê Thị Thúy Diễm | GIA HẠN ĐẾN 29/12/2021 |
+| 63  | 195205x0 | Trần Trung Hậu | GIA HẠN ĐẾN 29/12/2021 |
+| 64  | 195205x9 | Đinh Gia Huy | GIA HẠN ĐẾN 29/12/2021 |
+| 65  | 195206x5 | Lương Trung Khoa | GIA HẠN ĐẾN 29/12/2021 |
+| 66  | 195208x5 | Nguyễn Lưu Phong | GIA HẠN ĐẾN 29/12/2021 |
+| 67  | 195208x6 | Nguyễn Bá Quốc | GIA HẠN ĐẾN 29/12/2021 |
+| 68  | 195211x3 | Hoàng Ngọc Anh | GIA HẠN ĐẾN 29/12/2021 |
+| 69  | 195212x5 | Nông Minh Anh | GIA HẠN ĐẾN 29/12/2021 |
+| 70  | 195212x1 | Nguyễn Đoàn Thanh Chương | GIA HẠN ĐẾN 29/12/2021 |
+| 71  | 195213x1 | Võ Huỳnh Hải Đăng | GIA HẠN ĐẾN 29/12/2021 |
+| 72  | 195213x4 | Trần Quốc Đạt | GIA HẠN ĐẾN 29/12/2021 |
+| 73  | 195213x3 | Phạm Thanh Dinh | GIA HẠN ĐẾN 29/12/2021 |
+| 74  | 195214x3 | Bùi Thị Bích Hậu | GIA HẠN ĐẾN 29/12/2021 |
+| 75  | 195215x1 | Nguyễn Hữu Hưng | GIA HẠN ĐẾN 29/12/2021 |
+| 76  | 195217x6 | Lê Hữu Kiên | GIA HẠN ĐẾN 29/12/2021 |
+| 77  | 195217x4 | Nguyễn Trần Phước Lộc | GIA HẠN ĐẾN 29/12/2021 |
+| 78  | 195217x8 | Phạm Như Long | GIA HẠN ĐẾN 29/12/2021 |
+| 79  | 195218x2 | Nguyễn Hoàng My | GIA HẠN ĐẾN 29/12/2021 |
+| 80  | 195218x1 | Nguyễn Thị Thúy Nga | GIA HẠN ĐẾN 29/12/2021 |
+| 81  | 195218x7 | Nguyễn Hoàng Kim Ngân | GIA HẠN ĐẾN 29/12/2021 |
+| 82  | 195219x7 | Nguyễn Ngọc Thái Nguyên | GIA HẠN ĐẾN 29/12/2021 |
+| 83  | 195219x4 | Ngô Thành Phát | GIA HẠN ĐẾN 29/12/2021 |
+| 84  | 195220x3 | Võ Thành Phát | GIA HẠN ĐẾN 29/12/2021 |
+| 85  | 195220x9 | Đào Văn Phú | GIA HẠN ĐẾN 29/12/2021 |
+| 86  | 195220x3 | Nguyễn Đức Phú | GIA HẠN ĐẾN 29/12/2021 |
+| 87  | 195221x3 | Nguyễn Hữu Quyến | GIA HẠN ĐẾN 29/12/2021 |
+| 88  | 195221x1 | Nguyễn Huỳnh Tuấn Sang | GIA HẠN ĐẾN 29/12/2021 |
+| 89  | 195221x3 | Nguyễn Thanh Sang | GIA HẠN ĐẾN 29/12/2021 |
+| 90  | 195221x2 | Huỳnh Đức Tân | GIA HẠN ĐẾN 29/12/2021 |
+| 91  | 195222x2 | Đoàn Tiến Thành | GIA HẠN ĐẾN 29/12/2021 |
+| 92  | 195222x2 | Mai Long Thành | GIA HẠN ĐẾN 29/12/2021 |
+| 93  | 195222x6 | Nguyễn Hữu Thành | GIA HẠN ĐẾN 29/12/2021 |
+| 94  | 195224x6 | Phan Thúc Trình | GIA HẠN ĐẾN 29/12/2021 |
+| 95  | 195224x7 | Nguyễn Thanh Trúc | GIA HẠN ĐẾN 29/12/2021 |
+| 96  | 195224x8 | Trần Văn Truyền | GIA HẠN ĐẾN 29/12/2021 |
+| 97  | 195224x0 | Nguyễn Lê Anh Tuấn | GIA HẠN ĐẾN 29/12/2021 |
+| 98  | 195225x0 | Lê triệu vĩ | GIA HẠN ĐẾN 29/12/2021 |
+| 99  | 195225x0 | Lã Mai Win | GIA HẠN ĐẾN 29/12/2021 |
+| 100 | 205204x2 | Nguyễn Minh Cường | GIA HẠN ĐẾN 29/12/2021 |
+| 101 | 205204x2 | Tạ Nhật Hào | GIA HẠN ĐẾN 29/12/2021 |
+| 102 | 205205x4 | Võ Trọng Huân | GIA HẠN ĐẾN 29/12/2021 |
+| 103 | 205206x6 | Trần Ngọc Thiên Kim | GIA HẠN ĐẾN 29/12/2021 |
+| 104 | 205207x0 | Nguyễn Đỗ Quang | GIA HẠN ĐẾN 29/12/2021 |
+| 105 | 205207x9 | Nguyễn Hoàng Phú Sỹ | GIA HẠN ĐẾN 29/12/2021 |
+| 106 | 205207x9 | Trần Tot Ti | GIA HẠN ĐẾN 29/12/2021 |
+| 107 | 205208x9 | Nguyễn Thanh Thanh Trúc | GIA HẠN ĐẾN 29/12/2021 |
+| 108 | 205209x5 | Nguyễn Duy Kiên | GIA HẠN ĐẾN 29/12/2021 |
+| 109 | 205210x6 | Lê Sỹ Đức Anh | GIA HẠN ĐẾN 29/12/2021 |
+| 110 | 205210x2 | Nguyễn Thị Kim Anh | GIA HẠN ĐẾN 29/12/2021 |
+| 111 | 205212x8 | Lương Phúc Hậu | GIA HẠN ĐẾN 29/12/2021 |
+| 112 | 205213x4 | Ngô Đức Học | GIA HẠN ĐẾN 29/12/2021 |
+| 113 | 205214x5 | Nguyễn Phi Hùng | GIA HẠN ĐẾN 29/12/2021 |
+| 114 | 205215x1 | Phạm Hữu Lộc | GIA HẠN ĐẾN 29/12/2021 |
+| 115 | 205215x9 | Dương Thị Lụa | GIA HẠN ĐẾN 29/12/2021 |
+| 116 | 205215x5 | Phan Hữu Luân | GIA HẠN ĐẾN 29/12/2021 |
+| 117 | 205216x5 | Phạm Quốc Nghĩa | GIA HẠN ĐẾN 29/12/2021 |
+| 118 | 205216x5 | Nguyễn Tú Ngọc | GIA HẠN ĐẾN 29/12/2021 |
+| 119 | 205217x3 | Doãn Yến Nhung | GIA HẠN ĐẾN 29/12/2021 |
+| 120 | 205217x2 | Lê Hoàng Phúc | GIA HẠN ĐẾN 29/12/2021 |
+| 121 | 205218x0 | Trần Hoài Rin | GIA HẠN ĐẾN 29/12/2021 |
+| 122 | 205219x4 | Trần Thành | GIA HẠN ĐẾN 29/12/2021 |
+| 123 | 205219x7 | Nguyễn Thị Thanh Thảo | GIA HẠN ĐẾN 29/12/2021 |
+| 124 | 205219x4 | Nguyễn Phan Hiếu Thuận | GIA HẠN ĐẾN 29/12/2021 |
+| 125 | 205220x3 | Dương Thanh Thủy | GIA HẠN ĐẾN 29/12/2021 |
+| 126 | 205220x4 | Nguyễn Thị Kim Thùy | GIA HẠN ĐẾN 29/12/2021 |
+| 127 | 205220x8 | Đỗ Công Trình | GIA HẠN ĐẾN 29/12/2021 |
+| 128 | 205220x1 | Nguyễn Hoàng Trung | GIA HẠN ĐẾN 29/12/2021 |
+| 129 | 205221x6 | Phan Trọng Tuấn | GIA HẠN ĐẾN 29/12/2021 |
+| 130 | 205221x0 | Nguyễn Quốc Vinh | GIA HẠN ĐẾN 29/12/2021 |
+| 131 | 205221x5 | Trần Như Ý | GIA HẠN ĐẾN 29/12/2021 |
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdanh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021&title=DANH%20S%C3%81CH%20SINH%20VI%C3%8AN%20%C4%90%C6%AF%E1%BB%A2C%20GIA%20H%E1%BA%A0N%20H%E1%BB%8CC%20PH%C3%8D%20H%E1%BB%8CC%20K%E1%BB%B2%201%20N%C4%82M%20H%E1%BB%8CC%202021%20%E2%80%93%202021%20(L%E1%BA%A7n%204%20%C4%91%E1%BA%BFn%20ng%C3%A0y%2029%2F12%2F2021))
+    
+
+Bài viết liên quan
+------------------
+
+*   [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+     (09-07-2026)
+*   [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+     (08-07-2026)
+*   [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+     (08-07-2026)
+*   [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+     (07-07-2026)
+*   [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+     (02-07-2026)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021?page=317 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-1-nam-hoc-2021-2021-lan-4-den-ngay-29122021#addtoany "Show all")

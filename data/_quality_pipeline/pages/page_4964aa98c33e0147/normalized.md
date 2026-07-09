@@ -1,0 +1,174 @@
+Tuyên truyền vệ sinh an toàn thực phẩm trong trường học
+=======================================================
+
+Thu, 09/05/2024 - 16:38
+
+**I. VỆ SINH AN TOÀN THỰC PHẨM LÀ GÌ?**
+
+Thực phẩm là nguồn cung cấp chất dinh dưỡng cho sự phát triển của cơ thể, đảm bảo sức khỏe con người, đồng thời cũng là nguồn có thể gây bệnh nếu không đảm bảo vệ sinh.
+
+Vệ sinh an toàn thực phẩm là tất cả điều kiện, biện pháp cần thiết từ khâu sản xuất, chế biến, bảo quản, phân phối, vận chuyển cũng như sử dụng nhằm bảo đảm cho thực phẩm sạch sẽ, an toàn, không gây hại cho sức khỏe, tính mạng người tiêu dùng. Thực hành vệ sinh an toàn thực phẩm (VSATTP) là việc bảo vệ sức khỏe cho chính chúng ta.
+
+**II. TÌNH HÌNH VỆ SINH AN TOÀN THỰC PHẨM HIỆN NAY**
+
+Trong những năm gần đây, các loại thực phẩm sản xuất, chế biến trong nước và nước ngoài nhập vào Việt Nam ngày càng nhiều. Việc sử dụng các chất phụ gia trong sản xuất trở nên phổ biến. Các loại phẩm màu, đường hóa học đang bị lạm dụng trong pha chế nước giải khác, sản xuất bánh kẹo, chế biến thức ăn sẵn như thịt quay, giò chả, ô mai… Tình hình sản xuất thức ăn, đồ uống giả, không đảm bảo chất lượng đang diễn ra hàng ngày. Các loại thực phẩm tươi sống như thịt… bày bán trên thị trường không qua kiểm duyệt thú y, các loại thực phẩm như rau, củ, quả… dư lượng thuốc bảo vệ thực vật quá cao…
+
+**III. NGUYÊN NHÂN GÂY Ô NHIỄM THỰC PHẨM**
+
+– Do quá trình chăn nuôi, gieo trồng, sản xuất thực phẩm, lương thực:
+
+\+ Đó là việc sử dụng hóa chất bảo vệ thực vật, hóa chất kích thích tăng trưởng, tăng trọng, các loại kháng sinh, thuốc bảo quản không đúng quy trình, không đảm bảo vệ sinh.
+
+– Do quá trình chế biến không đúng:
+
+\+ Quá trình giết mổ, chế biến gia súc, gia cầm, quá trình thu hái lương thực, rau, quả, thực phẩm chế biến không đúng quy trình, không đảm bảo vệ sinh.
+
+\+ Dùng chất phụ gia không đúng quy định của Bộ Y tế để chế biến thực phẩm.
+
+\+ Dùng chung dao thớt hoặc để thực phẩm sống với thực phẩm chín.
+
+\+ Người chế biến thực phẩm đang bị bệnh truyền nhiễm hoặc dụng cụ ăn uống nhiễm bẩn.
+
+\+ Rửa thực phẩm, dụng cụ ăn uống bằng nước nhiễm bẩn.
+
+\+ Nấu thực phẩm chưa chín hoặc không đun lại trước khi ăn.
+
+– Do quá trình sử dụng và bảo quản không đúng:
+
+\+ Sử dụng dụng cụ bị nhiễm chất chì để chứa đựng thực phẩm như thức ăn đóng hộp hay thực phẩm được nuôi trồng từ những vùng đất nước ô nhiễm kim loại nặng.
+
+\+ Để thức ăn qua đêm hoặc bày bán cả ngày ở nhiệt độ thường; thức ăn không được đậy kỹ, để bụi bẩn, các loại côn trùng gặm nhấm, ruồi và các động vật khác tiếp xúc gây ô nhiễm.
+
+**IV. HƯỚNG DẪN THỰC HÀNH VỆ SINH AN TOÀN THỰC PHẨM**
+
+– Chọn thực phẩm tươi sạch
+
+\+ Kiểm tra thực phẩm trước khi mua, không sử dụng thực phẩm đã bị mốc, ôi thiu, hết hạn sử dụng hay không rõ nguồn gốc xuất xứ.
+
+– Giữ vệ sinh nơi ăn uống và chế biến thực phẩm sạch sẽ
+
+\+ Nơi ăn uống phải cao ráo, thoáng mát
+
+\+ Thực phẩm, dụng cụ trước khi chế biến phải được rửa, xử lí sạch sẽ
+
+– Sử dụng đồ dùng nấu nướng và ăn uống sạch sẽ
+
+\+ Không để dụng cụ bẩn qua đêm.
+
+\+ Dụng cụ tiếp xúc với thức ăn chín và sống phải để riêng biệt.
+
+– Chuẩn bị thực phẩm sạch sẽ và nấu chín kỹ.
+
+– Bảo quản cẩn thận thức ăn đã nấu chín và đun kỹ lại trước khi ăn
+
+\+ Đậy kỹ thức ăn tránh ruồi, côn trùng xâm nhập.
+
+\+ Không để lẫn thực phẩm sống với thức ăn chín.
+
+\+ Không dùng tay để bốc thức ăn chín hay đá để pha nước uống.
+
+\+ Đun lại thức ăn ở nhiệt độ sôi đồng đều ngay trước khi ăn.
+
+\+ Không nên ăn các thức ăn sống như gỏi cá, thịt bò tái, gỏi …
+
+– Giữ vệ sinh cá nhân tốt
+
+\+ Rửa tay bằng xà phòng và nước sạch trước khi ăn, sau khi đi vệ sinh, sau khi tiếp xúc với thực phẩm tươi sống.
+
+\+ Giữ móng tay ngắn và sạch sẽ.
+
+– Sử dụng nước sạch trong ăn uống
+
+\+ Dùng nước đã đun sôi để uống hoặc chế nước giải khát, làm kem, đá.
+
+– Sử dụng vật liệu bao gói thực phẩm sạch sẽ, thích hợp và đạt tiêu chuẩn vệ sinh
+
+\+ Không sử dụng sách, báo cũ, bao ni lông màu để gói thức ăn chín.
+
+\+ Đồ bao gói phải đảm bảo sạch, không thấm chất độc vào thực phẩm.
+
+– Thực hiện các biện pháp vệ sinh phòng bệnh, giữ gìn môi trường sống sạch sẽ
+
+\+ Thực hiện các biện pháp diệt ruồi, gián, chuột … và hướng dẫn vệ sinh phòng chống các dịch bệnh theo chỉ đạo của ngành Y tế.
+
+\* _Ðể đề phòng các hậu quả xấu của việc ngộ độc thực phẩm, mỗi học sinh, sinh viên chúng ta cần thực hiện các yêu cầu sau đây về vệ sinh an toàn thực phẩm:_
+
+_– Dùng nước sạch, an toàn để làm đồ uống, chế biến thức ăn và rửa dụng cụ. Ăn uống phải đảm bảo vệ sinh sạch sẽ._
+
+_– Thực hiện ăn chín uống sôi, không ăn những thức ăn bị ôi thiu và hết hạn, không ăn những thức ăn không rõ nguồn gốc sản xuất_
+
+_– Giữ gìn vệ sinh cá nhân: rửa tay kỹ bằng xà phòng và nước sạch trước khi ăn và sau khi đi vệ sinh. Cắt ngắn móng tay, không dùng tay để bốc và chia thức ăn._
+
+_– Giữ gìn về sinh môi trường, vệ sinh lớp học…_
+
+_– Có chế độ ăn uống, học tập, nghĩ ngơi hợp lý._
+
+_Nguồn: sưu tầm._
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Ftuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc&title=Tuy%C3%AAn%20truy%E1%BB%81n%20v%E1%BB%87%20sinh%20an%20to%C3%A0n%20th%E1%BB%B1c%20ph%E1%BA%A9m%20trong%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc)
+
+------------------
+
+* [Các bước sơ cứu khi say nắng, say nóng](https://ctsv.uit.edu.vn/bai-viet/cac-buoc-so-cuu-khi-say-nang-say-nong)
+(09-04-2026)
+* [Ai có nguy cơ bị say nắng, say sóng](https://ctsv.uit.edu.vn/bai-viet/ai-co-nguy-co-bi-say-nang-say-song)
+(09-04-2026)
+* [Dấu hiệu nhận biết say nắng, say nóng](https://ctsv.uit.edu.vn/bai-viet/dau-hieu-nhan-biet-say-nang-say-nong)
+(09-04-2026)
+* [UIT SPORTS 2026 | Thông báo tổ chức giải thể thao sinh viên - Môn Bóng rổ](https://ctsv.uit.edu.vn/bai-viet/uit-sports-2026-thong-bao-chuc-giai-thao-sinh-vien-mon-bong-ro)
+(01-04-2026)
+* [UIT SPORTS 2026 | Mở màn sôi động: Lịch thi Bóng chuyền (Nam & Nữ)](https://ctsv.uit.edu.vn/bai-viet/uit-sports-2026-mo-man-soi-dong-lich-thi-bong-chuyen-nam-nu)
+(25-03-2026)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc?page=11 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/tuyen-truyen-ve-sinh-toan-thuc-pham-trong-truong-hoc#addtoany "Show all")

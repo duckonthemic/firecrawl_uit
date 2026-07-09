@@ -1,0 +1,196 @@
+Danh sách sinh viên Khóa 2024 chưa hoàn thành hồ sơ nhập học
+============================================================
+
+Mon, 16/09/2024 - 08:42
+
+Phòng Công tác Sinh viên thông báo danh sách sinh viên Khóa 2024 thiếu thông tin hồ sơ nhập học tính đến ngày 15/9/2024.
+
+Sinh viên nhanh chóng bổ sung/cập nhật hồ sơ nhập học còn thiếu theo quy định.
+
+Riêng hồ sơ giấy, sinh viên nộp tại Phòng Công tác Sinh viên
+
+**Thời gian: từ ngày 16/9/2024 đến 16 giờ 30 ngày 20/9/2024.**
+
+Sau thời gian trên, sinh viên không nộp, cập nhật hồ sơ hồ sơ nhập học còn thiếu sẽ **KHÔNG được xét tất cả các loại học bổng, vinh danh.**
+
+| | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| STT | MASV | HOTEN | T.T HS Giấy | T.T HS Online | T.T HS Sức khoẻ | Diện TT |
+| 1 | 24520068 | Nguyễn Tiến An | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 2 | 24520071 | Phạm Thị Thái An | Hoàn thành | Chưa hoàn thành | Hoàn thành | ƯT-ĐHQG |
+| 3 | 24520097 | Lê Quốc Anh | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 4 | 24520112 | Nguyễn Nhật Anh | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 5 | 24520190 | Trương Châu Duy Bảo | Chưa hoàn thành | Hoàn thành | Hoàn thành | THPT |
+| 6 | 24520210 | Nguyễn Trương Bảo Châu | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 7 | 24520298 | Vũ Văn Đạt | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 8 | 24520308 | Bùi Thành Đồng | Hoàn thành | Chưa hoàn thành | Hoàn thành | CCNN |
+| 9 | 24520310 | Nguyễn Quang Đông | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 10 | 24520335 | Hoàng Đức Dũng | Chưa hoàn thành | Hoàn thành | Hoàn thành | THPT |
+| 11 | 24520336 | Huỳnh Đức Dũng | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 12 | 24520354 | Trương Tiến Dũng | Hoàn thành | Chưa hoàn thành | Hoàn thành | TT-VNU |
+| 13 | 24520361 | Nguyễn Đại Dương | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 14 | 24520385 | Nguyễn Đức Duy | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 15 | 24520410 | Lý Hoàng Em | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 16 | 24520424 | Trần Nguyễn Ngân Giang | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 17 | 24520442 | Phạm Tuấn Hải | Chưa hoàn thành | Hoàn thành | Hoàn thành | THPT |
+| 18 | 24520465 | Nguyễn Văn Hậu | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 19 | 24520472 | Hoàng Vinh Hiển | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 20 | 24520533 | Hứa Cảnh Hoàng | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 21 | 24520563 | Phạm Việt Hoàng | Hoàn thành | Chưa hoàn thành | Hoàn thành | ƯT-ĐHQG |
+| 22 | 24520605 | Nguyễn Hồ Gia Hưng | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 23 | 24520618 | Nguyễn Xuân Hùng | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 24 | 24520625 | Phùng Khánh Hưng | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 25 | 24520662 | Hoàng Nhật Huy | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 26 | 24520699 | Trần Gia Huy | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 27 | 24520719 | Bùi Vạn Khải | Hoàn thành | Chưa hoàn thành | Hoàn thành | CCNN |
+| 28 | 24520722 | Huỳnh Quốc Khái | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 29 | 24520736 | Hoàng Phước Tất Khang | Hoàn thành | Chưa khai báo hồ sơ online | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 30 | 24520770 | Trần Thái Khang | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 31 | 24520796 | Nguyễn Thị Lệ Khanh | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ƯT-ĐHQG |
+| 32 | 24520845 | Trương Đăng Khoa | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 33 | 24520847 | Viên Đăng Khoa | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 34 | 24520863 | Nguyễn Mai Anh Khôi | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 35 | 24520866 | Phạm Đăng Khôi | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 36 | 24520911 | Quách Tuấn Kiệt | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 37 | 24520924 | Nguyễn Mai Kỳ | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 38 | 24520926 | Cao Phan Lâm | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 39 | 24520970 | Trần Hồng Lĩnh | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 40 | 24520982 | Lê Văn Lộc | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ƯT-ĐHQG |
+| 41 | 24520995 | Đặng Hoàng Long | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 42 | 24521002 | Nguyễn Bảo Long | Chưa hoàn thành | Hoàn thành | Hoàn thành | CCQT |
+| 43 | 24521011 | Phạm Nguyễn Thành Long | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 44 | 24521054 | Đoàn Phương Minh | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 45 | 24521086 | Trần Bình Minh | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 46 | 24521093 | Nguyễn Thế Mỹ | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 47 | 24521160 | Nguyễn Mỹ Ngọc | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 48 | 24521171 | Đặng Hoàng Nguyên | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 49 | 24521176 | Hoàng Khôi Nguyên | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 50 | 24521199 | Nguyễn Trung Nguyên | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 51 | 24521264 | Nguyễn Yến Nhi | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 52 | 24521299 | Lê Huy Phát | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 53 | 24521305 | Nguyễn Tấn Phát | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 54 | 24521359 | Nguyễn Huy Phú | Chưa hoàn thành | Hoàn thành | Hoàn thành | ĐGNL |
+| 55 | 24521378 | Lâm Ngọc Quang Phúc | Hoàn thành | Chưa hoàn thành | Hoàn thành | ƯT-ĐHQG |
+| 56 | 24521456 | Trần Văn Quân | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 57 | 24521491 | Lê Quang Quy | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 58 | 24521498 | Lâm Đoàn Hạ Quyên | Hoàn thành | Chưa hoàn thành | Hoàn thành | CCNN |
+| 59 | 24521518 | Lê Minh Sang | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 60 | 24521521 | Nguyễn Đình Sang | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 61 | 24521545 | Đỗ Tuấn Tài | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 62 | 24521599 | Trương Minh Thái | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 63 | 24521611 | Nguyễn Trần Nhật Thắng | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ƯT-ĐHQG |
+| 64 | 24521615 | Trần Quang Thắng | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 65 | 24521636 | Phạm Việt Thành | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 66 | 24521664 | Phạm Thanh Thiên | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 67 | 24521665 | Phan Công Thiện | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 68 | 24521666 | Phan Viết Thiện | Chưa hoàn thành | Hoàn thành | Hoàn thành | ĐGNL |
+| 69 | 24521712 | Vũ Đức Thịnh | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 70 | 24521741 | Nguyễn Lê Minh Thuận | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 71 | 24521757 | Võ Phương Thùy | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 72 | 24521768 | Lê Minh Tiến | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 73 | 24521772 | Nguyễn Đắc Nam Tiến | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 74 | 24521818 | Nguyễn Thụy Vân Trang | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 75 | 24521884 | Lê Quốc Trung | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 76 | 24521948 | Nguyễn Công Tùng | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 77 | 24521956 | Bùi Thị Thanh Tuyền | Hoàn thành | Chưa hoàn thành | Hoàn thành | ĐGNL |
+| 78 | 24521972 | Cún Thế Và | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 79 | 24521998 | Lê Anh Việt | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | ĐGNL |
+| 80 | 24522029 | Vũ Quang Vinh | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | THPT |
+| 81 | 24522038 | Nguyễn Tấn Vũ | Hoàn thành | Chưa hoàn thành | Hoàn thành | THPT |
+| 82 | 24522051 | Lê Gia Anh Vũ | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | TT-VNU |
+| 83 | 24560001 | Trịnh Minh Hoàng | Chưa nộp hồ sơ nhập học | Chưa khai báo hồ sơ online | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 84 | 24560003 | Đào Trí Cường | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 85 | 24560009 | Hoàng Quốc Khánh | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 86 | 24560014 | Đỗ Như Quân | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 87 | 24560015 | Nguyễn Đức Minh Quân | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 88 | 24560016 | Phạm Hoàng Đăng Quang | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 89 | 24560017 | Vũ Minh Thành | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 90 | 24560019 | Đoàn Phan Quỳnh Thi | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 91 | 24560025 | Đào Minh Châu | Hoàn thành | Chưa hoàn thành | Hoàn thành | BCU |
+| 92 | 24560028 | Nguyễn Hoàng Khang | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 93 | 24560029 | Trương Trung Kiên | Chưa hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 94 | 24560030 | Phạm Duy Mạnh | Hoàn thành | Chưa khai báo hồ sơ online | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 95 | 24560031 | Võ Hồng Phúc | Chưa hoàn thành | Hoàn thành | Hoàn thành | BCU |
+| 96 | 24560032 | Trần Thanh Thế | Hoàn thành | Chưa hoàn thành | Hoàn thành | BCU |
+| 97 | 24560034 | Trần Nguyễn Thiên Ân | Hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 98 | 24560038 | Lâm Thị Thùy Dung | Chưa hoàn thành | Hoàn thành | Hoàn thành | BCU |
+| 99 | 24560044 | Đặng Nguyễn Hồng Phúc | Chưa hoàn thành | Hoàn thành | Hoàn thành | BCU |
+| 100 | 24560050 | Mai Ngọc Trâm | Hoàn thành | Chưa hoàn thành | Hoàn thành | BCU |
+| 101 | 24560059 | Trương Hoàng Ngọc Nhi | Hoàn thành | Chưa hoàn thành | Hoàn thành | BCU |
+| 102 | 24560060 | Đỗ Võ Trọng Phước | Chưa nộp hồ sơ nhập học | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 103 | 24560064 | Huỳnh Ân | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 104 | 24560070 | Lâm Tuấn Minh | Chưa hoàn thành | Chưa hoàn thành | Hoàn thành | BCU |
+| 105 | 24560072 | Nguyễn Thành Nhân | Chưa nộp hồ sơ nhập học | Chưa hoàn thành | Hoàn thành | BCU |
+| 106 | 24560074 | Hoàng Nhật Tiến | Hoàn thành | Hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 107 | 24560077 | Đặng Ngọc Thanh Vân | Hoàn thành | Chưa hoàn thành | Hoàn thành | BCU |
+| 108 | 24560078 | Phùng Gia Bảo | Chưa nộp hồ sơ nhập học | Hoàn thành | Hoàn thành | BCU |
+| 109 | 24560080 | Vũ Nguyễn Tiến Đạt | Chưa hoàn thành | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+| 110 | 24560082 | Võ Sỹ Nguyên | Chưa nộp hồ sơ nhập học | Chưa hoàn thành | Chưa khai báo hồ sơ sức khỏe | BCU |
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)
+[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdanh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc&title=Danh%20s%C3%A1ch%20sinh%20vi%C3%AAn%20Kh%C3%B3a%202024%20ch%C6%B0a%20ho%C3%A0n%20th%C3%A0nh%20h%E1%BB%93%20s%C6%A1%20nh%E1%BA%ADp%20h%E1%BB%8Dc)
+
+------------------
+
+* [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+(09-07-2026)
+* [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+(08-07-2026)
+* [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+(08-07-2026)
+* [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+(07-07-2026)
+* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+(02-07-2026)
+
+Pages
+-----
+
+* 1
+* [2](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=1 "Go to page 2")
+
+* [3](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=2 "Go to page 3")
+
+* [4](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=3 "Go to page 4")
+
+* [5](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=4 "Go to page 5")
+
+* [6](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=5 "Go to page 6")
+
+* [7](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=6 "Go to page 7")
+
+* [8](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=7 "Go to page 8")
+
+* [9](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=8 "Go to page 9")
+
+* …
+* [next ›](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=1 "Go to next page")
+
+* [last »](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc?page=317 "Go to last page")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-khoa-2024-chua-hoan-thanh-ho-so-nhap-hoc#addtoany "Show all")

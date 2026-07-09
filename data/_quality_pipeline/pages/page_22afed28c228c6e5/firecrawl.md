@@ -1,0 +1,96 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33#main-nav)
+
+Không gian chia sẻ - Buổi trò chuyện truyền cảm hứng số 33
+==========================================================
+
+Wed, 12/05/2021 - 09:27
+
+Bạn thường xuyên cảm thấy mệt mỏi, chán nản vì bố mẹ không hiểu mình? Muốn cải thiện tình hình, chính bạn phải tự thay đổi thôi…Nhưng thay đổi bằng cách nào, ra sao, thì không phải bạn nào cũng biết cách đâu nhé.
+
+ Nhưng vấn đề ở đây là bạn chẳng bao giờ tạo cơ hội để bố mẹ hiểu bạn hơn. Những gì bố mẹ làm chung quy cũng chỉ vì muốn tốt cho bạn, muốn quan tâm đến bạn và hiểu bạn. Vậy mà chỉ vì những lí do cá nhân, bạn lại lấy đó làm khó chịu và phản ứng mạnh. Chính từ những biểu hiện ấy, bố mẹ cảm thấy buồn vì bạn, vì quan tâm đến bạn nhưng bạn lại khó chịu vì điều đó và tỏ ra hỗn - thế là mâu thuẫn giữa bố mẹ và con cái bắt đầu. 
+
+Họ cảm thấy bố mẹ không hiểu mình, có khoảng cách, rồi giữa họ và bố mẹ có một bức tường vô hình lúc nào không hay. Vì vậy, để tránh những mâu thuẫn không đáng có, bạn phải thay đổi mình từ bây giờ thôi. Muốn hiểu được bố mẹ không khó, quan trọng là sự kiên nhẫn và thay đổi trong cách ứng xử của bạn. 
+
+Hãy đến với WeTalk số 32 chủ đề "Làm gì để bố mẹ hiểu mình?" vào lúc:  
+Thời gian từ 19:30 - 20:30, Thứ Sáu ngày 14/5/2021  
+                     15:00 - 16:00, Thứ Ba ngày 18/5/2021  
+Tại: Online trên Microsoft Teams                  
+Link đăng ký: [https://forms.gle/LUxq2q6pJ8DS9zyMA](https://forms.gle/LUxq2q6pJ8DS9zyMA)
+
+File đính kèm: 
+
+ ![Image icon](https://ctsv.uit.edu.vn/modules/file/icons/image-x-generic.png "image/png") [wetalk33.png](https://ctsv.uit.edu.vn/sites/default/files/202105/wetalk33.png)
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkhong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33&title=Kh%C3%B4ng%20gian%20chia%20s%E1%BA%BB%20-%20Bu%E1%BB%95i%20tr%C3%B2%20chuy%E1%BB%87n%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20s%E1%BB%91%2033)
+    
+
+Bài viết liên quan
+------------------
+
+*   [\[Phòng ngừa lừa đảo\] Bài 06 | Cảnh báo sinh viên về các thủ đoạn lừa đảo việc làm sau tết](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet)
+     (13-03-2026)
+*   [\[Phòng ngừa lừa đảo\] Bài 07 | "Lôi kéo" sinh viên mở tài khoản ngân hàng, tiếp tay cho tội phạm](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-07-loi-keo-sinh-vien-mo-tai-khoan-ngan-hang-tiep-tay-cho-toi-pham)
+     (13-03-2026)
+*   [Thông báo về thời gian hoạt động của Không gian Chia sẻ UIT và cập nhật thông tin hotline hỗ trợ sinh viên (từ tháng 03/2026)](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-uit-va-cap-nhat-thong-tin-hotline)
+     (13-03-2026)
+*   [WeTalk Số 01/2026 – “Mất động lực – phải làm gì tiếp theo?”](https://ctsv.uit.edu.vn/bai-viet/wetalk-so-012026-mat-dong-luc-phai-lam-gi-tiep-theo)
+     (11-03-2026)
+*   [Thông báo Về việc tổ chức Chương trình Sinh hoạt Công dân Sinh viên đầu năm học 2025–2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-chuc-chuong-trinh-sinh-hoat-cong-dan-sinh-vien-dau-nam-hoc-2025-2026)
+     (18-12-2025)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33?page=19 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33#)
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33#)
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-33#addtoany "Show all")

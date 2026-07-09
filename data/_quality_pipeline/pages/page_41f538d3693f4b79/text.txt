@@ -1,0 +1,131 @@
+Cảnh báo trang web giả mạo Cổng dịch vụ công ngành BHXH Việt Nam
+================================================================
+
+Wed, 26/07/2023 - 09:00
+
+Qua công tác theo dõi, giám sát, BHXH Việt Nam đã phát hiện trên không gian mạng có trang web giả mạo Cổng dịch vụ công của BHXH Việt Nam với tên miền là dichvucongbaohiemxahoi.com. Trang web này có tên miền và giao diện gần giống với Cổng dịch vụ công ngành BHXH tại địa chỉ dichvucong.baohiemxahoi.gov.vn.
+
+Trang web giả mạo hiện đang sử dụng địa chỉ IP nước ngoài và nguy hiểm hơn là trên trang web này có nội dung tự công nhận đây là trang web của BHXH Việt Nam và đặc điểm nhận diện như logo, giao diện các chức năng,… có sự tương đồng lớn với trang web chính thức của BHXH Việt Nam.
+
+Để kịp thời ngăn chặn và xử lý nghiêm hành vi giả mạo, tránh gây hiểu lầm cho người dân, doanh nghiệp, BHXH Việt Nam đã thực hiện báo cáo trang web giả mạo (đường link lừa đảo) nêu trên đến địa chỉ 
+của Cục An toàn thông tin – Bộ Thông tin và Truyền thông để đề nghị khóa chặn và cảnh báo sớm cho cộng đồng mạng theo quy định, giúp người dân cảnh giác, không trở thành nạn nhân của các chiêu trò lừa đảo, gây hậu quả đáng tiếc.
+
+Hiện nay, Cổng dịch vụ công BHXH Việt Nam chỉ có một tên miền và địa chỉ là 
+, trong cấu trúc tên miền có .GOV.VN dành cho các cơ quan nhà nước (BHXH Việt Nam không sử dụng tên miền có cấu trúc .COM.VN hoặc .COM mà trang web giả mạo đang sử dụng)
+
+**1\. Trang web giả mạo**
+
+_a) Giao diện_
+
+Trang web dùng IP nước ngoài có tên miền, giao diện giả mạo Bảo hiểm xã hội Việt Nam để lừa đảo người dùng.
+-----------------------------------------------------------------------------------------------------------
+
+](https://cdn.tuoitre.vn/471584752817336320/2023/7/25/h1-1690273496595372465722.jpg)
+
+_b) Tên miền:_ **dichvucongbaohiemxahoi\[.\]com**
+
+**2\. Cổng dịch vụ công BHXH Việt Nam**
+
+_a) Giao diện_
+
+!
+
+_b) Tên miền:_ 
+
+_c) Tín nhiệm mạng_
+
+\- Nhãn chứng nhận Tín nhiệm mạng do Bộ Thông tin và Truyền thông cấp ở cuối trang web (tra cứu thông tin tại địa chỉ 
+tin-nhiem/):
+
+_d) Chứng chỉ bảo mật quốc tế_
+
+\- Chứng chỉ bảo mật quốc tế của GlobalSign, nội dung thông tin chứng chỉ số được cấp là “CN = \*.baohiemxahoi.gov.vn, O = Bảo hiểm Xã hội Việt Nam”:
+
+Hiện nay BHXH Việt Nam chỉ cung cấp thông tin chính thức về chính sách BHXH, BHYT, BHTN và các dịch vụ tư vấn, hỗ trợ người tham gia qua các kênh sau:
+
+1- Cổng dịch vụ công: 
+
+2- Cổng Thông tin điện tử BHXH Việt Nam: 
+;
+
+3- Các trang mạng xã hội của BHXH Việt Nam:
+
+Fanpage Facebook tại địa chỉ: 
+;
+
+4- Ứng dụng “VssID - Bảo hiểm xã hội số”:
+
+5- Số hotline 1900.9068.
+
+6- Cơ quan BHXH cấp huyện/tỉnh.
+
+BHXH Việt Nam khuyến cáo, người lao động, người dân các đơn vị, tổ chức lưu ý các kênh cung cấp thông tin, dịch vụ công, hỗ trợ tư vấn của ngành BHXH Việt Nam nêu trên; không nên tìm hiểu thông tin tại các Fanpage, các diễn đàn,… không chính thống, tránh bị kẻ gian lợi dụng, lừa đảo. Trường hợp nghi ngờ bị lừa đảo, người lao động có thể báo ngay cho cơ quan công an để xử lý hoặc thông báo cho cơ quan BHXH trên địa bàn để được tư vấn, hỗ trợ kịp thời./.
+
+**Nguồn: Bảo hiểm xã hội Thành phố Hồ Chí Minh.**
+
+* 
+
+
+
+------------------
+
+* 
+(09-07-2026)
+* 
+(08-07-2026)
+* 
+(08-07-2026)
+* 
+(07-07-2026)
+* 
+(02-07-2026)
+
+Pages
+-----
+
+* 1
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+* …
+* 
+
+* 
+
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam#)
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam#)
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/canh-bao-trang-web-gia-mao-cong-dich-vu-cong-nganh-bhxh-viet-nam# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+
+

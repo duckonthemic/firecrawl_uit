@@ -1,0 +1,147 @@
+Đại Học Chính Quy
+
+Các thông báo dành cho hệ đại học chính quy.
+
+Xem thêm
+về Chuong trinh dao tao 3 hoc ky dau cho khoa 07
+
+Thông Báo ĐKHP- Quy Định ĐKHP
+
+T2, 10/12/2012 - 08:17
+
+PĐT Thông báo ĐKHP- Quy Định ĐKHP , yêu cầu sinh viên đọc kỹ để giúp cho việc ĐKHP đúng và đạt kết quả tốt nhất.
+
+Xem thêm
+về Thông Báo ĐKHP- Quy Định ĐKHP
+
+Thông Báo Kế Hoạch Đào Tạo HK 2 2012-2013
+
+T5, 06/12/2012 - 10:08
+
+PĐT thông báo Kế hoạch Đào tạo học kỳ 2, Thời Khóa biểu học kỳ 2(dự kiến).
+
+Đề nghị sinh viên xem thời khóa biểu và lên kế hoạch học tập học kỳ 2 để chuẩn bị cho đợt đăng ký học phần học kỳ 2 năm học 2012-2013.
+
+Xem thêm
+về Thông Báo Kế Hoạch Đào Tạo HK 2 2012-2013
+
+Công ty Renesas tuyển dụng sinh viên tốt nghiệp
+
+T4, 05/12/2012 - 14:47
+
+Renesas Design Vietnam Co., Ltd. announces:
+
++ Recruitment:
+10 Analog Design Engineers
+
++ Target candidates:
+Engineers/ University students graduating in 2012 or up to March 2013 with major in:
+Electronics, Telecoms & Computer Engineering
+
++ Expected written test:
+08h00, Sunday, December 23, 2012 at RVC office building
+
++ Register for written test at:
+
+Xem thêm
+về Công ty Renesas tuyển dụng sinh viên tốt nghiệp
+
+Thời gian ĐKHP: (điều chỉnh):
+
+T4, 05/12/2012 - 07:50
+
+Thời gian ĐKHP: (điều chỉnh): bắt đầu từ ngày 10/12/2012 đến hết ngày 23/12/2012.
+
+Xem thêm
+về Thời gian ĐKHP: (điều chỉnh):
+
+Khoa HTTT xin gửi lịch thi kết thúc HK I năm học 2012-2013
+
+T3, 04/12/2012 - 09:49
+
+Khoa HTTT xin gửi lịch thi kết thúc HK I năm học 2012-2013, đây là lịch thi tương đối hoàn chỉnh, chỉ có 1 số môn tô màu vàng là chưa chắc chắn, nếu có thay đổi khoa sẽ gửi thông báo sau.
+
+Xem thêm
+về Khoa HTTT xin gửi lịch thi kết thúc HK I năm học 2012-2013
+
+Thi kết thúc môn học Cơ sở dữ liệu lớp DBSS1.D13 và lớp DBSS1.D14 (học vào thứ 3 và thứ 4, lớp Cô Thuỷ)
+
+T3, 04/12/2012 - 09:42
+
+Lớp DBSS1.D13 sẽ thi kết thúc môn học vào thứ 3 ngày 11/12/2012
+
+Thi lý thuyết: 8h00 P.304
+
+Thực hành: 13h00 Phòng Lab THCB2
+
+Lớp DBSS1.D14 sẽ thi kết thúc môn CSDL vào thứ 4 ngày 12/12/2012
+
+Thi thực hành: 8h00 Phòng Lab THCB2
+
+Thi lý thuyết: 13h00 Phòng 304
+
+Xem thêm
+về Thi kết thúc môn học Cơ sở dữ liệu lớp DBSS1.D13 và lớp DBSS1.D14 (học vào thứ 3 và thứ 4, lớp Cô Thuỷ)
+
+Thông báo nghỉ học Hệ điều hành OSYS1.D16 ngày 05/12/2012
+
+T3, 04/12/2012 - 09:39
+
+Lớp Hệ điều hành OSYS1.D16 do thầy Thiều Xuân Khánh phụ trách giảng dạy tại phòng 108, nghỉ học thứ 4 ngày 05/12/2012 do thầy thi biên chế. tuần sau lớp học bình thưởng.
+
+Xem thêm
+về Thông báo nghỉ học Hệ điều hành OSYS1.D16 ngày 05/12/2012
+
+Phòng Đào tạo Thông báo:Nhận giấy CNTN tạm thời
+
+T6, 23/11/2012 - 08:34
+
+Phòng Đào tạo thông báo: Sinh viên có tên trong danh sách công nhận tốt nghiệp đợt 2 năm 2012 liên hệ Phòng Đào tạo để nhận giấy chứng nhận tốt nghiệp (CNTN) tạm thời.
+
+Lưu ý:  - Khi nhận giấy CNTN tạm thời, Sinh viên mang theo Chứng minh thư và biên lai đóng tiền Lệ phí xét và tổ chức lễ Tốt nghiệp. Những trường hợp nhận dùm: mang theo Chứng minh thư của sinh viên và của người đại diện nhận.
+
+- Lệ phí xét và tổ chức lễ tốt nghiệp là 275.000 đồng, đóng trực tiếp tại phòng KH - TC.
+
+Xem thêm
+về Phòng Đào tạo Thông báo:Nhận giấy CNTN tạm thời
+
+Thông Báo Danh Sách Tốt Nghiệp Đợt 2
+
+T2, 19/11/2012 - 09:15
+
+PĐT thông báo danh sách tốt nghiệp đợt 2(file đính kèm)
+
+Xem thêm
+về Thông Báo Danh Sách Tốt Nghiệp Đợt 2
+
+Trang
+
+« đầu
+
+‹ trước
+
+…
+
+1913
+
+1914
+
+1915
+
+1916
+
+1917
+
+1918
+
+1919
+
+1920
+
+1921
+
+…
+
+sau ›
+
+cuối »

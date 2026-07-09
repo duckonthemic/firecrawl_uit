@@ -1,0 +1,186 @@
+[Skip to content](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021#main)
+ [Skip to navigation](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021#main-nav)
+
+Danh sách sinh viên được gia hạn học phí học kỳ 2 năm học 2020 - 2021 đến ngày 30/8/2021
+========================================================================================
+
+Thu, 05/08/2021 - 20:18
+
+Chào các bạn sinh viên,
+
+Do tình hình Covid-19 diễn biến phức tạp, nhiều sinh viên có hoàn cảnh khó khăn dù đã xin gia hạn và được chấp nhận từ Nhà trường, tuy nhiên đến thời điểm còn 92 sinh viên không thể hoàn thành đúng hạn (có gửi lý do về phòng CTSV). Để tạo điều kiện và đồng hành cùng các bạn sinh viên cố gắng, vươn lên trong học, được sự đồng ý của Ban giám hiệu cho phép 92 sinh viên có tên trong danh sách được gia hạn thêm thời gian đóng học phí học kỳ 2 năm học 2020 - 2021 đến hết ngày 30/8/2021.
+
+Lưu ý: Trong thời gian gia hạn, sinh viên có thể đóng học phí bất cứ lúc nào và đến hết ngày 30/8/2021.
+
+**DANH SÁCH SINH VIÊN ĐƯỢC** **GIA HẠN HỌC PHÍ** **HỌC KỲ 2 NĂM HỌC 2020 – 2021**
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **STT** | **MSSV** | **HỌ TÊN** | **HỆ ĐÀO TẠO** | **THỜI GIAN GIA HẠN** |
+| 1   | 155200xx | Lâm Hà Tuấn Cảnh | CTTT | 30/08/2021 |
+| 2   | 155201xx | Nguyễn Nhật Duy | CLC | 30/08/2021 |
+| 3   | 165204xx | Trần Văn Hoàng | CTTT | 30/08/2021 |
+| 4   | 165205xx | Mai Thắng Đăng Khoa | CLC | 30/08/2021 |
+| 5   | 165209xx | Nguyễn Hồ Quang | CLC | 30/08/2021 |
+| 6   | 165215xx | Hoàng Anh Minh | CLC | 30/08/2021 |
+| 7   | 165215xx | Phùng Thị Mỹ Hạnh | CLC | 30/08/2021 |
+| 8   | 165216xx | Đào Duy Khang | CLC | 30/08/2021 |
+| 9   | 165217xx | Lê Công Nghị | CQUI | 30/08/2021 |
+| 10  | 165217xx | Trình Hoàng Nguyên | CTTT | 30/08/2021 |
+| 11  | 165218xx | Chu Tiến Trọng | CQUI | 30/08/2021 |
+| 12  | 175202xx | Nguyễn Văn Thái An | CLC | 30/08/2021 |
+| 13  | 175202xx | Lê Tấn Anh | CLC | 30/08/2021 |
+| 14  | 175202xx | Nguyễn Nhật Anh | CLC | 30/08/2021 |
+| 15  | 175202xx | Nguyễn Tài Bồi | CLC | 30/08/2021 |
+| 16  | 175202xx | Lê Tăng Có | CQUI | 30/08/2021 |
+| 17  | 175203xx | Nguyễn Hải Đăng | CLC | 30/08/2021 |
+| 18  | 175203xx | Lê Vàng Dũ | CQUI | 30/08/2021 |
+| 19  | 175204xx | Võ Đức Hậu | CLC | 30/08/2021 |
+| 20  | 175205xx | Trần Hoàng Huy | CLC | 30/08/2021 |
+| 21  | 175206xx | Trần Trọng Khiêm | CQUI | 30/08/2021 |
+| 22  | 175206xx | Hoàng Phan Lê | CLC | 30/08/2021 |
+| 23  | 175207xx | Trịnh Mạnh Lực | CQUI | 30/08/2021 |
+| 24  | 175207xx | Nguyễn Văn Minh | CLC | 30/08/2021 |
+| 25  | 175207xx | Nguyễn Văn Minh | CLC | 30/08/2021 |
+| 26  | 175208xx | Văn Công Tấn Phát | CLC | 30/08/2021 |
+| 27  | 175209xx | Đào Anh Quý | CQUI | 30/08/2021 |
+| 28  | 175209xx | Lâm Thái Sang | CQUI | 30/08/2021 |
+| 29  | 175209xx | Đặng Vĩnh Siêu | CQUI | 30/08/2021 |
+| 30  | 175209xx | Cao Thị Sin | CQUI | 30/08/2021 |
+| 31  | 175212xx | Lê Tiến Tùng | CLC | 30/08/2021 |
+| 32  | 175212xx | Ngô Hà Thế Vĩ | CLC | 30/08/2021 |
+| 33  | 185201xx | Trương Đức Vũ | CNTN | 30/08/2021 |
+| 34  | 185203xx | Nguyễn Phú Quốc | CNTN | 30/08/2021 |
+| 35  | 185203xx | Nguyễn Huỳnh Tấn Thành | CLC | 30/08/2021 |
+| 36  | 185204xx | Võ Duy Ái | CQUI | 30/08/2021 |
+| 37  | 185204xx | Nguyễn Văn Bảo | CTTT | 30/08/2021 |
+| 38  | 185204xx | Phù Hoài Bão | CQUI | 30/08/2021 |
+| 39  | 185206xx | Nguyễn Văn Đô | CQUI | 30/08/2021 |
+| 40  | 185206xx | Nguyễn Thị Thùy Dương | CQUI | 30/08/2021 |
+| 41  | 185208xx | Võ Thị Thu Hương | CQUI | 30/08/2021 |
+| 42  | 185208xx | Võ Quang Huy | CTTT | 30/08/2021 |
+| 43  | 185209xx | Nguyễn Thị Khánh Linh | CTTT | 30/08/2021 |
+| 44  | 185211xx | Lê Hải Minh | CLC | 30/08/2021 |
+| 45  | 185211xx | Trịnh Hiếu Nghĩa | CLC | 30/08/2021 |
+| 46  | 185212xx | Trần Xuân Nhơn | CLC | 30/08/2021 |
+| 47  | 185212xx | Trần Hoàng Phước | CLC | 30/08/2021 |
+| 48  | 185213xx | Hoàng Thái Sơn | CTTT | 30/08/2021 |
+| 49  | 185213xx | Đoàn Văn Minh Tâm | CLC | 30/08/2021 |
+| 50  | 185215xx | Nguyễn Nhật Trường | CQUI | 30/08/2021 |
+| 51  | 185216xx | Đỗ Quốc Vinh | CQUI | 30/08/2021 |
+| 52  | 195200xx | Đỗ Thị Thanh Hiền | CLC | 30/08/2021 |
+| 53  | 195206xx | Phạm Tuấn Kiệt | CLC | 30/08/2021 |
+| 54  | 195209xx | Nguyễn Văn Thoại | CQUI | 30/08/2021 |
+| 55  | 195210xx | Lê Nguyễn Minh Trung | CQUI | 30/08/2021 |
+| 56  | 195212xx | Trương Hồng Phương Anh | CQUI | 30/08/2021 |
+| 57  | 195213xx | Nguyễn Hữu Đạt | CTTT | 30/08/2021 |
+| 58  | 195213xx | Trần Thành Đạt | CLC | 30/08/2021 |
+| 59  | 195213xx | Châu Minh Đức | CQUI | 30/08/2021 |
+| 60  | 195215xx | Phạm Trung Hiếu | CTTT | 30/08/2021 |
+| 61  | 195215xx | Nguyễn An Mai Hưng | CLC | 30/08/2021 |
+| 62  | 195215xx | Nguyễn Thị Cẩm Hướng | CLC | 30/08/2021 |
+| 63  | 195217xx | Ngô Đắc Lợi | CTTT | 30/08/2021 |
+| 64  | 195218xx | Tăng Quốc Minh | CTTT | 30/08/2021 |
+| 65  | 195218xx | Đoàn Đông Nam | CTTT | 30/08/2021 |
+| 66  | 195221xx | Hoàng Thành Thái | CLC | 30/08/2021 |
+| 67  | 195223xx | Nguyễn Việt Thư | CLC | 30/08/2021 |
+| 68  | 195224xx | Chế Nguyễn Minh Tùng | CTTT | 30/08/2021 |
+| 69  | 205208xx | Trần Đình Gia Huy | CQUI | 30/08/2021 |
+| 70  | 205209xx | Nguyễn Duy Kiên | CLC | 30/08/2021 |
+| 71  | 205210xx | Nguyễn Đức Hương Bang | CLC | 30/08/2021 |
+| 72  | 205211xx | Trần Văn Diệu | CLC | 30/08/2021 |
+| 73  | 205212xx | Hoàng Ngọc Duy | CLC | 30/08/2021 |
+| 74  | 205212xx | Hứa Long Hải | CLC | 30/08/2021 |
+| 75  | 205213xx | Hà Gia Huy | CTTT | 30/08/2021 |
+| 76  | 205216xx | Tô Huỳnh Ngọc Ngân | CLC | 30/08/2021 |
+| 77  | 205217xx | Đoàn Trần Quỳnh Như | CLC | 30/08/2021 |
+| 78  | 205218xx | Phạm Duy Quang | CTTT | 30/08/2021 |
+| 79  | 205219xx | Nguyễn Thị Thanh Thảo | CLC | 30/08/2021 |
+| 80  | 205220xx | Đỗ Công Trình | CTTT | 30/08/2021 |
+| 81  | 205221xx | Trần Phú Vinh | CLC | 30/08/2021 |
+| 82  | 205221xx | Hoàng Nguyên Vũ | CLC | 30/08/2021 |
+| 83  | 165216xx | Nguyễn Trung Hiếu | CQUI | 30/08/2021 |
+| 84  | 175208xx | Nguyễn Quách Nguyên | CLC | 30/08/2021 |
+| 85  | 175211xx | Võ Đình Triết | CLC | 30/08/2021 |
+| 86  | 185201xx | Lương Tú Tài | CQUI | 30/08/2021 |
+| 87  | 185203xx | Trần Ngọc Yến Nhi | CQUI | 30/08/2021 |
+| 88  | 185209xx | Trương Công Khánh Kỳ | CLC | 30/08/2021 |
+| 89  | 195218xx | Nguyễn Thị Thúy Nga | CLC | 30/08/2021 |
+| 90  | 195220xx | Nguyễn Đức Phú | CLC | 30/08/2021 |
+| 91  | 195221xx | Nguyễn Huỳnh Tuấn Sang | CLC | 30/08/2021 |
+| 92  | 195221xx | Đỗ Tài | CLC | 30/08/2021 |
+
+_Danh sách bao gồm 92 SV./._
+
+*   [Facebook](https://ctsv.uit.edu.vn/#facebook)
+     [Twitter](https://ctsv.uit.edu.vn/#twitter)
+     [Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdanh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021&title=Danh%20s%C3%A1ch%20sinh%20vi%C3%AAn%20%C4%91%C6%B0%E1%BB%A3c%20gia%20h%E1%BA%A1n%20h%E1%BB%8Dc%20ph%C3%AD%20h%E1%BB%8Dc%20k%E1%BB%B3%202%20n%C4%83m%20h%E1%BB%8Dc%202020%20-%202021%20%C4%91%E1%BA%BFn%20ng%C3%A0y%2030%2F8%2F2021)
+    
+
+Bài viết liên quan
+------------------
+
+*   [Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-8022026-ban-hanh-quy-dinh-chuc-hoat-dong-duc-thao-sinh-vien-tai-truong-dh)
+     (09-07-2026)
+*   [Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ve-qui-dinh-hoc-bong-khuyen-khich-hoc-tap-moi-tu-hk1-2026-2027)
+     (08-07-2026)
+*   [Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027](https://ctsv.uit.edu.vn/bai-viet/thong-bao-trien-khai-hoc-bong-uit-global-tu-hoc-ky-1-nam-hoc-2026-2027)
+     (08-07-2026)
+*   [Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cap-nhat-bao-hiem-y-te-phuc-vu-cong-tac-cham-diem-ren-luyen-hk2-nam-hoc-2025-2026)
+     (07-07-2026)
+*   [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
+     (02-07-2026)
+
+Pages
+-----
+
+*   1
+*   [2](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=1 "Go to page 2")
+    
+*   [3](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=2 "Go to page 3")
+    
+*   [4](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=3 "Go to page 4")
+    
+*   [5](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=4 "Go to page 5")
+    
+*   [6](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=5 "Go to page 6")
+    
+*   [7](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=6 "Go to page 7")
+    
+*   [8](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=7 "Go to page 8")
+    
+*   [9](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=8 "Go to page 9")
+    
+*   …
+*   [next ›](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=1 "Go to next page")
+    
+*   [last »](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021?page=319 "Go to last page")
+    
+
+Back to top
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021#)
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Previous")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Next")
+
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Close")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021#)
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Pause Slideshow")
+[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021# "Play Slideshow")
+
+Copy link
+
+✓
+
+Thanks for sharing!
+
+Find any service
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-duoc-gia-han-hoc-phi-hoc-ky-2-nam-hoc-2020-2021-den-ngay-3082021#addtoany "Show all")

@@ -1,0 +1,365 @@
+Đại Học Chính Quy
+
+Các thông báo dành cho hệ đại học chính quy.
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q22.1) ngày 05/06/2026
+
+T2, 23/02/2026 - 15:16
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q22.1
+
+Phòng :
+B3.12
+
+Thời gian :
+
+- Tiết bắt đầu :
+9
+
+- Tiết kết thúc :
+10
+
+Thứ :
+6 , ngày 05/06/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q22.1) ngày 05/06/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q23.1) ngày 03/06/2026
+
+T2, 23/02/2026 - 15:14
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q23.1
+
+Phòng :
+E41
+
+Thời gian :
+
+- Tiết bắt đầu :
+9
+
+- Tiết kết thúc :
+10
+
+Thứ :
+4 , ngày 03/06/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q23.1) ngày 03/06/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 04/04/2026
+
+T2, 23/02/2026 - 15:13
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q21.1
+
+Phòng :
+B1.08
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+4
+
+Thứ :
+7 , ngày 04/04/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 04/04/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 21/03/2026
+
+T2, 23/02/2026 - 15:11
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q21.1
+
+Phòng :
+B1.08
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+4
+
+Thứ :
+7 , ngày 21/03/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 21/03/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 14/03/2026
+
+T2, 23/02/2026 - 15:10
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q21.1
+
+Phòng :
+B1.08
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+4
+
+Thứ :
+7 , ngày 14/03/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 14/03/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 07/03/2026
+
+T2, 23/02/2026 - 15:07
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q21.1
+
+Phòng :
+B1.08
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+4
+
+Thứ :
+7 , ngày 07/03/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 07/03/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 30/05/2026
+
+T2, 23/02/2026 - 15:05
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q21.1
+
+Phòng :
+B1.08
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+5
+
+Thứ :
+7 , ngày 30/05/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 30/05/2026
+
+Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 06/06/2026
+
+T2, 23/02/2026 - 15:03
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Trí tuệ nhân tạo (CS106)
+
+Lớp :
+CS106.Q21.1
+
+Phòng :
+B1.08
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+5
+
+Thứ :
+7 , ngày 06/06/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Trí tuệ nhân tạo (CS106.Q21.1) ngày 06/06/2026
+
+Thông báo lịch học HT2 Mạng neural và thuật giải di truyền (CS410.Q21.1) ngày 19/03/2026
+
+T2, 23/02/2026 - 15:02
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Mạng neural và thuật giải di truyền (CS410)
+
+Lớp :
+CS410.Q21.1
+
+Phòng :
+B6.04
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+4
+
+Thứ :
+5 , ngày 19/03/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Mạng neural và thuật giải di truyền (CS410.Q21.1) ngày 19/03/2026
+
+Thông báo lịch học HT2 Mạng neural và thuật giải di truyền (CS410.Q21.1) ngày 12/03/2026
+
+T2, 23/02/2026 - 14:54
+
+CBGD :
+Lương Ngọc Hoàng
+
+Khoa/ Bộ môn :
+KHMT
+
+Môn học :
+Mạng neural và thuật giải di truyền (CS410)
+
+Lớp :
+CS410.Q21.1
+
+Phòng :
+B6.04
+
+Thời gian :
+
+- Tiết bắt đầu :
+4
+
+- Tiết kết thúc :
+4
+
+Thứ :
+5 , ngày 12/03/2026
+
+Xem thêm
+về Thông báo lịch học HT2 Mạng neural và thuật giải di truyền (CS410.Q21.1) ngày 12/03/2026
+
+Trang
+
+« đầu
+
+‹ trước
+
+…
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+…
+
+sau ›
+
+cuối »
