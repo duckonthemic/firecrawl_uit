@@ -10,5 +10,7 @@
     "markdown_path"
   ],
   "notification_lookback_days": 30,
+  "notification_policy": "30-day lookback applies to notification pages and non-PDF attachments; PDF attachments are retained regardless of parent notification date",
+  "pdf_recency_exempt": true,
   "resolution_rule": "resolve each path against the directory containing document_manifest.jsonl"
 }
