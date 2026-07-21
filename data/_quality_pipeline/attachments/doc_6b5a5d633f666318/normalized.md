@@ -1,0 +1,15 @@
+# huong_dan_nop_ho_so_huong_che_do_uu_tien_tuyen_sinh_2018-0e8c64aa.docx
+
+Hướng dẫn hồ sơ cho đối tượng ưu tiên – TSĐH 2018
+
+| STT | ĐỐI TƯỢNG,<br>KHU VỰC | DIỄN GIẢI | HỒ SƠ NỘP |
+| --- | --- | --- | --- |
+| 1 | ĐỐI TƯỢNG 01 | Công dân Việt Nam là người dân tộc thiểu số có hộ khẩu thường trú (trong thời gian học THPT hoặc trung cấp) trên 18 tháng tại Khu vực 1 | Bản trích lục giấy khai sinh trên đó ghi rõ dân tộc thuộc dân tộc thiểu số<br>Hoặc bản photo hộ khẩu có công chứng hoặc giấy tờ hợp pháp minh chứng thí sinh có hộ khẩu thường trú trên 18 tháng (tính đến ngày thi đầu tiên của Kỳ thi THPT Quốc gia) tại Khu vực 1 trong thời gian học THPT. |
+| 2 | ĐỐI TƯỢNG 06 | Công dân Việt Nam là người dân tộc thiểu số có hộ khẩu thường trú ở ngoài khu vực đã quy định thuộc đối tượng 01 | Bản trích lục giấy khai sinh trên đó ghi rõ dân tộc thuộc dân tộc thiểu số |
+| 2 | ĐỐI TƯỢNG 06 | Con thương binh, con bệnh binh, con của người được hưởng chính sách như thương binh bị suy giảm khả năng lao động dưới 81%. | Giấy xác nhận của Phòng Lao động TB-XH hoặc nơi quản lý đối tượng chính sách. Sinh viên không nộp bản photo |
+| 2 | ĐỐI TƯỢNG 06 | Con của người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ suy giảm khả năng lao động dưới 81% | Bản sao chứng thực Quyết định trợ cấp hoặc phụ cấp (ghi rõ phụ cấp cho đối tượng bị nhiễm chất độc hoá học có tỷ lệ suy giảm khả năng lao động dưới 81% trở lên hoặc mức 2). Sinh viên không nộp bản photo |
+| 2 | ĐỐI TƯỢNG 06 | Con của người hoạt động kháng chiến giải phóng dân tộc, bảo vệ Tổ quốc và làm nghĩa vụ quốc tế có giấy chứng nhận được hưởng chế độ ưu tiên theo quy định tại Nghị định số 31/2013/NĐ-CP ngày 09 tháng 4 năm 2013 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Pháp lệnh Ưu đãi người có công với cách mạng | Bản sao chứng thực Quyết định trợ cấp một lần của Giám đốc Sở LĐTB&XH. Sinh viên không nộp bản photo |
+| 2 | ĐỐI TƯỢNG 06 | Con của người hoạt động cách mạng, hoạt động kháng chiến bị địch bắt tù, đày | |
+| 2 | ĐỐI TƯỢNG 06 | Con của người có công giúp đỡ cách mạng | Đối với thí sinh thuộc đối tượng người có công với cách mạng hoặc con của người có công với cách mạng, giấy chứng nhận để hưởng ưu tiên là Bản photocopy Quyết định trợ cấp, phụ cấp đối với người có công của Sở Lao động-Thương binh và Xã hội. Sinh viên không nộp bản photo |
+| 3 | ĐỐI TƯỢNG 07 | Người khuyết tật nặng | Giám định y khoa với mức khuyết tật từ 5-11 điểm (Mẫu số 5 hoặc số 7 theo Thông tư số 37/2012/TTLT-BLĐTBXH-BYT-BTC-BGDĐT); |
+| 4 | KHU VỰC 1 | Học sinh có hộ khẩu thường trú (trong thời gian học THPT hoặc trung cấp) trên 18 tháng tại các xã khu vực III và các xã có thôn đặc biệt khó khăn thuộc vùng dân tộc và miền núi theo quy định của Bộ trưởng, Chủ nhiệm Ủy ban Dân tộc; các xã đặc biệt khó khăn vùng bãi ngang ven biển và hải đảo; các xã đặc biệt khó khăn, xã biên giới, xã an toàn khu vào diện đầu tư của Chương trình 135 theo quy định của Thủ tướng Chính phủ nếu học THPT (hoặc trung cấp) tại địa điểm thuộc huyện, thị xã có ít nhất một trong các xã thuộc diện nói trên | Bản photo sổ hộ khẩu có công chứng hợp lệ |

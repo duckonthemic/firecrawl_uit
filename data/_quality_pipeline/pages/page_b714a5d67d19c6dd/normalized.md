@@ -13,6 +13,5 @@ The requested page "/bai-viet/hoc-bong-bff-danh-cho-tan-sinh-vien-khoa-2015" cou
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-bff-danh-cho-tan-sinh-vien-khoa-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-bff-danh-cho-tan-sinh-vien-khoa-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-bff-danh-cho-tan-sinh-vien-khoa-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-bff-danh-cho-tan-sinh-vien-khoa-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-bff-danh-cho-tan-sinh-vien-khoa-2015# "Play Slideshow")

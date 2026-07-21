@@ -11,7 +11,6 @@ Tập tin đính kèm: [Viettel\_Thong bao tuyen dung.pdf](https://ctsv.uit.edu.
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Ftuyen-dung-cong-ty-viettel&title=Tuy%E1%BB%83n%20d%E1%BB%A5ng%20C%C3%B4ng%20ty%20Viettel)
 
 [](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel# "Next")
@@ -23,18 +22,9 @@ Tập tin đính kèm: [Viettel\_Thong bao tuyen dung.pdf](https://ctsv.uit.edu.
 
 [](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel#)
-[](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel#)
 [](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/tuyen-dung-cong-ty-viettel#addtoany "Show all")

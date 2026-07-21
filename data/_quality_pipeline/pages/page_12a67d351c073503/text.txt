@@ -13,6 +13,5 @@ The requested page "/bai-viet/quy-trinh-huong-dan-danh-gia-diem-ren-luyen-sinh-v
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-danh-gia-diem-ren-luyen-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-danh-gia-diem-ren-luyen-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-danh-gia-diem-ren-luyen-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-danh-gia-diem-ren-luyen-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-danh-gia-diem-ren-luyen-sinh-vien# "Play Slideshow")

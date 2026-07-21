@@ -13,6 +13,5 @@ The requested page "/bai-viet/mghp-vung-co-dieu-kien-kt-xh-kho-khan-va-dac-biet-
 
 [](https://ctsv.uit.edu.vn/bai-viet/mghp-vung-co-dieu-kien-kt-xh-kho-khan-va-dac-biet-kho-khan# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/mghp-vung-co-dieu-kien-kt-xh-kho-khan-va-dac-biet-kho-khan#)
-[](https://ctsv.uit.edu.vn/bai-viet/mghp-vung-co-dieu-kien-kt-xh-kho-khan-va-dac-biet-kho-khan#)
 [](https://ctsv.uit.edu.vn/bai-viet/mghp-vung-co-dieu-kien-kt-xh-kho-khan-va-dac-biet-kho-khan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/mghp-vung-co-dieu-kien-kt-xh-kho-khan-va-dac-biet-kho-khan# "Play Slideshow")

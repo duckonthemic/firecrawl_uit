@@ -13,6 +13,5 @@ The requested page "/bai-viet/nhung-sinh-vien-5-tot-voi-thanh-tich-hoc-tap-ren-l
 
 [](https://ctsv.uit.edu.vn/bai-viet/nhung-sinh-vien-5-tot-voi-thanh-tich-hoc-tap-ren-luyen-dang-ne# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/nhung-sinh-vien-5-tot-voi-thanh-tich-hoc-tap-ren-luyen-dang-ne#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhung-sinh-vien-5-tot-voi-thanh-tich-hoc-tap-ren-luyen-dang-ne#)
 [](https://ctsv.uit.edu.vn/bai-viet/nhung-sinh-vien-5-tot-voi-thanh-tich-hoc-tap-ren-luyen-dang-ne# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/nhung-sinh-vien-5-tot-voi-thanh-tich-hoc-tap-ren-luyen-dang-ne# "Play Slideshow")

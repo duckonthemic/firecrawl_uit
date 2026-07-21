@@ -29,7 +29,6 @@ Lưu ý: SV ở KTX phải mua BHYT tại KTX, sinh viên không ở KTX sẽ mu
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fbao-hiem-y-te-bao-hiem-tai-nan&title=B%E1%BA%A3o%20hi%E1%BB%83m%20y%20t%E1%BA%BF%20-%20B%E1%BA%A3o%20hi%E1%BB%83m%20tai%20n%E1%BA%A1n)
 
 [](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan# "Next")
@@ -41,18 +40,9 @@ Lưu ý: SV ở KTX phải mua BHYT tại KTX, sinh viên không ở KTX sẽ mu
 
 [](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan#)
-[](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan#)
 [](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/bao-hiem-y-te-bao-hiem-tai-nan#addtoany "Show all")

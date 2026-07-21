@@ -13,6 +13,5 @@ The requested page "/bai-viet/cuoc-thi-khoanh-khac-do-thi-dai-hoc-nam-2014" coul
 
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-khoanh-khac-do-thi-dai-hoc-nam-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-khoanh-khac-do-thi-dai-hoc-nam-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-khoanh-khac-do-thi-dai-hoc-nam-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-khoanh-khac-do-thi-dai-hoc-nam-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-khoanh-khac-do-thi-dai-hoc-nam-2014# "Play Slideshow")

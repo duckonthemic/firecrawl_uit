@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-tin-ve-thi-kiem-tra-ket-thuc-tuan-le-sinh-ho
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-ve-thi-kiem-tra-ket-thuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-dau-khoa-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-ve-thi-kiem-tra-ket-thuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-dau-khoa-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-tin-ve-thi-kiem-tra-ket-thuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-dau-khoa-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-ve-thi-kiem-tra-ket-thuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-dau-khoa-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-ve-thi-kiem-tra-ket-thuc-tuan-le-sinh-hoat-cong-dan-sinh-vien-dau-khoa-2014# "Play Slideshow")

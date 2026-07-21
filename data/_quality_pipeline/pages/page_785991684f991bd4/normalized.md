@@ -74,6 +74,5 @@ Sơ đồ website
 
 [](https://ctsv.uit.edu.vn/sitemap# "Close")
 [](https://ctsv.uit.edu.vn/sitemap#)
-[](https://ctsv.uit.edu.vn/sitemap#)
 [](https://ctsv.uit.edu.vn/sitemap# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/sitemap# "Play Slideshow")

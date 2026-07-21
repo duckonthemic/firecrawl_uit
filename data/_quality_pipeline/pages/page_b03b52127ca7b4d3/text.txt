@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-diem-danh-tuan-sinh-hoat-cong-dan-cuoi-k
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-diem-danh-tuan-sinh-hoat-cong-dan-cuoi-khoa-ngay-1072014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-diem-danh-tuan-sinh-hoat-cong-dan-cuoi-khoa-ngay-1072014#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-diem-danh-tuan-sinh-hoat-cong-dan-cuoi-khoa-ngay-1072014#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-diem-danh-tuan-sinh-hoat-cong-dan-cuoi-khoa-ngay-1072014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-diem-danh-tuan-sinh-hoat-cong-dan-cuoi-khoa-ngay-1072014# "Play Slideshow")

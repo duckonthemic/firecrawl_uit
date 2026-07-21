@@ -27,7 +27,6 @@ Link đăng ký tham gia: [https://link.uit.edu.vn/Wetalk](https://l.facebook.c
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkhong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54&title=Kh%C3%B4ng%20gian%20chia%20s%E1%BA%BB%20-%20Bu%E1%BB%95i%20tr%C3%B2%20chuy%E1%BB%87n%20truy%E1%BB%81n%20c%E1%BA%A3m%20h%E1%BB%A9ng%20s%E1%BB%91%2054)
 
 [](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54# "Next")
@@ -39,18 +38,9 @@ Link đăng ký tham gia: [https://link.uit.edu.vn/Wetalk](https://l.facebook.c
 
 [](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54#)
-[](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54#)
 [](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/khong-gian-chia-se-buoi-tro-chuyen-truyen-cam-hung-so-54#addtoany "Show all")

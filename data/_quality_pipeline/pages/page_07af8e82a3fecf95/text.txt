@@ -37,15 +37,12 @@ Kênh thông tin liên hệ chính thức của Phòng Đào tạo Đại học 
 
 **Bước 1:** CBGD đăng ký coi thi tại Khoa/Bộ môn/P.ĐTĐH sau khi P.ĐTĐH công bố lịch thi.
 
-**Bước 2:** CBGD đăng nhập vào hệ thống để kiểm tra lịch coi thi của mình sau khi có thông báo của Khoa/Bộ môn/P.ĐTĐH.
-
 **Bước 3:** CBGD sẽ nhận đề thi, vật tư thi của môn thi tại Khoa/Bộ môn/P.ĐTĐH quản lý (theo danh mục môn học).
 
 **_Ghi chú:_** nếu CBGD đã đăng ký coi thi nhưng không thể coi thi được vì lý do cá nhân thì CBGD đó có trách nhiệm tìm người coi thi thay thế và thông báo cho Khoa/Bộ môn/P.ĐTĐH trước ngày thi ít nhất 1 ngày làm việc.
 
 ### **2\. BÁO NGHỈ**
 
-**Bước 1:** CBGD đăng nhập vào 
 để báo nghỉ trước giờ học.
 
 **Bước 2:** Hệ thống sẽ tự động thông báo cho sinh viên tại mục Thông báo nghỉ, bù trên 
@@ -61,7 +58,6 @@ Kênh thông tin liên hệ chính thức của Phòng Đào tạo Đại học 
 
 ### **3\. BÁO BÙ**
 
-**Bước 1:** CBGD đăng nhập vào 
 để báo bù. P.ĐTĐH sắp xếp phòng học duyệt cho CBGD dạy bù sau đó hệ thống sẽ gửi email xác nhận lịch dạy bù đến tài khoản email của CBGD, P.TTPC&ĐBCL và thông báo cho sinh viên biết tại mục Thông báo nghỉ, bù trên 
 .
 
@@ -75,7 +71,6 @@ Kênh thông tin liên hệ chính thức của Phòng Đào tạo Đại học 
 
 ### **4\. XEM THỜI KHÓA BIỂU**
 
-\- CBGD đăng nhập vào 
 vào mục Giảng viên, tiếp theo chọn Lịch dạy sau đó chọn học kỳ, năm học hệ thống quản lý đào tạo sẽ thể hiện tất cả kế hoạch, lịch giảng dạy của CBGD.
 
 ### **5\. NỘP ĐIỂM GIỮA KỲ - CUỐI KỲ**
@@ -101,8 +96,6 @@ Dành cho Giảng viên thỉnh giảng (GVTG) để sử dụng các dịch v�
 **Bước 2:** Sau khi nhận được thông báo của P.ĐTĐH, GVTG đến nhận thẻ tại Phòng A120.
 
 ### **8\. QUY TRÌNH GIẢNG DẠY TRỰC TUYẾN**
-
-**Bước 1:** Cài và đăng nhập Microsoft Teams 
 
 **Bước 2:** Tạo lớp trên MS Team, lưu ý add tài khoản: 
 , 

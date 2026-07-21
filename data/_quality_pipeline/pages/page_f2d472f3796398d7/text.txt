@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-danh-gia-drl-hk1-2014-2015" could not be 
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-danh-gia-drl-hk1-2014-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-danh-gia-drl-hk1-2014-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-danh-gia-drl-hk1-2014-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-danh-gia-drl-hk1-2014-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-danh-gia-drl-hk1-2014-2015# "Play Slideshow")

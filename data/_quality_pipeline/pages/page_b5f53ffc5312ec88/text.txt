@@ -33,6 +33,5 @@ Buổi gặp gỡ giữa Ban Giám hiệu Nhà trường và Phụ huynh Tân Si
 
 [](https://ctsv.uit.edu.vn/node/363# "Close")
 [](https://ctsv.uit.edu.vn/node/363#)
-[](https://ctsv.uit.edu.vn/node/363#)
 [](https://ctsv.uit.edu.vn/node/363# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/node/363# "Play Slideshow")

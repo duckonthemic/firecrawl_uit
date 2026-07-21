@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-lich-hoc-tuan-sinh-hoat-cong-dan-sinh-vi
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-lich-hoc-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-lich-hoc-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-lich-hoc-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-lich-hoc-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-lich-hoc-tuan-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa# "Play Slideshow")

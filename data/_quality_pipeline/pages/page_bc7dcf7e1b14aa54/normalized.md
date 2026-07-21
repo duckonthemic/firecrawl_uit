@@ -28,7 +28,6 @@ T5, 03/07/2025 - 08:41
 Chào các bạn sinh viên VB2.
 
 P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link: [https://docs.google.com/spreadsheets/d/1itXlXvQcZkFlsHv-JIvk30wgAt6c8B9p...](https://docs.google.com/spreadsheets/d/1itXlXvQcZkFlsHv-JIvk30wgAt6c8B9p/edit?usp=sharing&ouid=114077922023477416924&rtpof=true&sd=true,%C2%A0)
-các bạn có thể đăng nhập hệ thống để xem lịch thi các nhân.
 
 Trân trọng.
 
@@ -65,7 +64,6 @@ T5, 10/04/2025 - 09:18
 Chào các bạn sinh viên VB2.
 
 P.ĐTĐH thông báo lịch thi cuối kỳ đợt 1, thông tin chi tiết tại link: [https://docs.google.com/spreadsheets/d/1DyM8au2dOP\_uTKIlk-ZU0Sg8urzsqAuk...](https://docs.google.com/spreadsheets/d/1DyM8au2dOP_uTKIlk-ZU0Sg8urzsqAuk/edit?gid=2033712974#gid=2033712974%C2%A0)
-các bạn có thể đăng nhập hệ thống để xem lịch thi các nhân (do hệ thống khôn có lịch thi buổi tối nên P.ĐTĐH để ca 4 nhé các bạn).
 
 Trân trọng.
 
@@ -102,7 +100,6 @@ T4, 25/12/2024 - 10:24
 Chào các bạn sinh viên VB2.
 
 P.ĐTĐH thông báo lịch thi cuối kỳ đợt 2, thông tin chi tiết tại link: [https://docs.google.com/spreadsheets/d/1bI3vgXHrN88L6jVLfANFdpfM0MVy\_1Q\_...](https://docs.google.com/spreadsheets/d/1bI3vgXHrN88L6jVLfANFdpfM0MVy_1Q_/edit?pli=1&gid=1969376097#gid=1969376097C%C3%A1c)
-bạn có thể đăng nhập daa để xem lịch thi các nhân.
 
 Trân trọng.
 

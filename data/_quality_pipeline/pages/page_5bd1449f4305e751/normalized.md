@@ -21,7 +21,6 @@ ID : 22111")](https://forum.uit.edu.vn/attachment.php?attachmentid=22111&d=14950
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fchuong-trinh-gioi-thieu-va-trinh-dien-yoga&title=Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%C3%A0%20tr%C3%ACnh%20di%E1%BB%85n%20YOGA)
 
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga# "Next")
@@ -33,18 +32,9 @@ ID : 22111")](https://forum.uit.edu.vn/attachment.php?attachmentid=22111&d=14950
 
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga#)
-[](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga#)
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-gioi-thieu-va-trinh-dien-yoga#addtoany "Show all")

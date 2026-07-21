@@ -51,6 +51,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/quy-che-quy-dinh# "Close")
 [](https://ctsv.uit.edu.vn/quy-che-quy-dinh#)
-[](https://ctsv.uit.edu.vn/quy-che-quy-dinh#)
 [](https://ctsv.uit.edu.vn/quy-che-quy-dinh# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/quy-che-quy-dinh# "Play Slideshow")

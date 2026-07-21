@@ -29,7 +29,6 @@ hoặc gọi điện thoại cho thầy Trương Quốc Dũng (số điện tho�
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022&title=Th%C3%B4ng%20b%C3%A1o%20v%E1%BB%81%20th%E1%BB%9Di%20gian%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng%20c%E1%BB%A7a%20Kh%C3%B4ng%20gian%20chia%20s%E1%BA%BB%20(t%E1%BB%AB%2001%2F03%2F2022))
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022# "Next")
@@ -41,18 +40,9 @@ hoặc gọi điện thoại cho thầy Trương Quốc Dũng (số điện tho�
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-thoi-gian-hoat-dong-cua-khong-gian-chia-se-tu-01032022#addtoany "Show all")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-01022015-cap-hoc-bong-kkht-hoc-ky-2-
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-01022015-cap-hoc-bong-kkht-hoc-ky-2-nam-hoc-2013-2014-cho-sv-he-chinh-quy# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-01022015-cap-hoc-bong-kkht-hoc-ky-2-nam-hoc-2013-2014-cho-sv-he-chinh-quy#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-01022015-cap-hoc-bong-kkht-hoc-ky-2-nam-hoc-2013-2014-cho-sv-he-chinh-quy#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-01022015-cap-hoc-bong-kkht-hoc-ky-2-nam-hoc-2013-2014-cho-sv-he-chinh-quy# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-01022015-cap-hoc-bong-kkht-hoc-ky-2-nam-hoc-2013-2014-cho-sv-he-chinh-quy# "Play Slideshow")

@@ -58,8 +58,6 @@ Nhiều trường hợp bị đe dọa, đánh đập hoặc yêu cầu gia đì
 * Xuất cảnh lao động phải thông qua đơn vị được cấp phép hợp pháp.
 * Khi có dấu hiệu nghi ngờ, cần dừng lại để xác minh thay vì vội vàng quyết định.
 
-Sinh viên cần giữ tâm lý tỉnh táo, không vì áp lực tài chính sau Tết mà vội vàng nhận việc khi chưa kiểm chứng đầy đủ thông tin. Hãy đọc kỹ – lưu lại – chia sẻ bài viết này để nâng cao cảnh giác và bảo vệ bản thân cũng như bạn bè.
-
 Trong mọi tình huống nghi ngờ bị lừa đảo, bị đe dọa hoặc cần xác minh thông tin, sinh viên tuyệt đối không tự xử lý một mình. Hãy liên hệ ngay Cố vấn học tập (CVHT) hoặc Phòng Công tác Sinh viên (CTSV) để được hỗ trợ kịp thời và đúng quy trình.
 
 * PHÒNG CÔNG TÁC SINH VIÊN – UIT
@@ -68,68 +66,3 @@ Trong mọi tình huống nghi ngờ bị lừa đảo, bị đe dọa hoặc c�
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fphong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet&title=%5BPh%C3%B2ng%20ng%E1%BB%ABa%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%5D%20B%C3%A0i%2006%20%7C%20C%E1%BA%A3nh%20b%C3%A1o%20sinh%20vi%C3%AAn%20v%E1%BB%81%20c%C3%A1c%20th%E1%BB%A7%20%C4%91o%E1%BA%A1n%20l%E1%BB%ABa%20%C4%91%E1%BA%A3o%20vi%E1%BB%87c%20l%C3%A0m%20sau%20t%E1%BA%BFt)
-
-------------------
-
-* [Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026](https://ctsv.uit.edu.vn/bai-viet/muc-dong-bhyt-va-cac-chinh-sach-bao-hiem-y-te-co-hieu-luc-tu-0172026)
-(07-07-2026)
-* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
-(02-07-2026)
-* [\[An ninh sinh viên\] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-cao-diem-dau-tranh-phong-chong-toi-pham-ve-so-huu-tri-tue-sinh-vien-can-biet)
-(24-06-2026)
-* [\[An ninh Sinh viên\] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-toan-khong-gian-mang-canh-bao-lo-ma-so-sinh-vien-mssv-dung-de-du-lieu-ca)
-(18-06-2026)
-* [Hình ảnh Lễ tốt nghiệp đợt 1 năm 2026](https://ctsv.uit.edu.vn/bai-viet/hinh-anh-le-tot-nghiep-dot-1-nam-2026)
-(15-06-2026)
-
-Pages
------
-
-* 1
-* [2](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=1 "Go to page 2")
-
-* [3](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=2 "Go to page 3")
-
-* [4](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=3 "Go to page 4")
-
-* [5](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=4 "Go to page 5")
-
-* [6](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=5 "Go to page 6")
-
-* [7](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=6 "Go to page 7")
-
-* [8](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=7 "Go to page 8")
-
-* [9](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=8 "Go to page 9")
-
-* …
-* [next ›](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=1 "Go to next page")
-
-* [last »](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet?page=59 "Go to last page")
-
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet#)
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet#)
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/phong-ngua-lua-dao-bai-06-canh-bao-sinh-vien-ve-cac-thu-doan-lua-dao-viec-lam-sau-tet#addtoany "Show all")

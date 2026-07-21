@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-472014-cu-sv-tham-du-chuong-trinh-gi
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-472014-cu-sv-tham-du-chuong-trinh-giao-luu-khoa-hoc-va-cong-nghe-tai-nhat-ban# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-472014-cu-sv-tham-du-chuong-trinh-giao-luu-khoa-hoc-va-cong-nghe-tai-nhat-ban#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-472014-cu-sv-tham-du-chuong-trinh-giao-luu-khoa-hoc-va-cong-nghe-tai-nhat-ban#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-472014-cu-sv-tham-du-chuong-trinh-giao-luu-khoa-hoc-va-cong-nghe-tai-nhat-ban# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-472014-cu-sv-tham-du-chuong-trinh-giao-luu-khoa-hoc-va-cong-nghe-tai-nhat-ban# "Play Slideshow")

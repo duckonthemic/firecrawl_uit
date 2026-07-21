@@ -80,7 +80,6 @@ Các sinh viên học quá thời gian thiết kế của chương trình đào 
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkhoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc&title=Kh%C3%B3a%20h%E1%BB%8Dc%20-%20L%E1%BB%9Bp%20sinh%20vi%C3%AAn%20-%20Th%E1%BB%9Di%20gian%20ti%E1%BA%BFt%20h%E1%BB%8Dc)
 
 [](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Next")
@@ -92,18 +91,9 @@ Các sinh viên học quá thời gian thiết kế của chương trình đào 
 
 [](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc#)
-[](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc#)
 [](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/khoa-hoc-lop-sinh-vien-thoi-gian-tiet-hoc#addtoany "Show all")

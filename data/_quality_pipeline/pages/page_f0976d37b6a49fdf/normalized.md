@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-so-352014-chuc-tuan-sinh-hoat-cong-dan-si
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-352014-chuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam-nh-2014-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-352014-chuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam-nh-2014-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-352014-chuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam-nh-2014-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-352014-chuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam-nh-2014-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-352014-chuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam-nh-2014-2015# "Play Slideshow")

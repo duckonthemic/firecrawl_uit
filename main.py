@@ -97,6 +97,35 @@ logging.basicConfig(
 logger = logging.getLogger("firecrawl-uit")
 
 
+class HostRateLimiter:
+    """Reserve request slots independently for each source host."""
+
+    def __init__(self, delay_seconds: float):
+        self.delay_seconds = max(float(delay_seconds), 0.0)
+        self._next_request_by_host: Dict[str, float] = {}
+        self._lock = threading.Lock()
+
+    def wait(self, url: str):
+        if self.delay_seconds <= 0:
+            return
+        host = urlparse(url).netloc.lower()
+        if not host:
+            return
+        now = time.monotonic()
+        with self._lock:
+            request_at = max(now, self._next_request_by_host.get(host, now))
+            self._next_request_by_host[host] = request_at + self.delay_seconds
+        wait_seconds = request_at - now
+        if wait_seconds > 0:
+            logger.debug(f"Rate limit: waiting {wait_seconds:.2f}s for {host}")
+            time.sleep(wait_seconds)
+
+
+SOURCE_HOST_RATE_LIMITER = HostRateLimiter(
+    float(os.environ.get("SOURCE_HOST_DELAY_SECONDS", "10"))
+)
+
+
 class CrawlStats:
     """Track crawl statistics and performance metrics"""
     
@@ -605,7 +634,7 @@ def load_seed_urls_from_jobs(path: Path, limit: int = 0) -> List[str]:
 
     JOB_STRATEGY_OVERRIDES.clear()
     seed_urls = []
-    with open(path, "r", encoding="utf-8") as f:
+    with open(path, "r", encoding="utf-8-sig") as f:
         for line in f:
             line = line.strip()
             if not line:
@@ -779,6 +808,7 @@ def html_to_basic_markdown(html: str) -> str:
 
 def fetch_seed_page_via_http(url: str, strategy: str) -> Dict[str, Any]:
     timeout = 120 if strategy == "slow_lane" else 90
+    SOURCE_HOST_RATE_LIMITER.wait(url)
     response = requests.get(
         url,
         timeout=timeout,
@@ -1386,6 +1416,7 @@ def download_file(
             append_jsonl(metadata)
             return result
 
+        SOURCE_HOST_RATE_LIMITER.wait(url)
         response = requests.get(url, stream=True, timeout=30, verify=False)
         response.raise_for_status()
 
@@ -1692,7 +1723,7 @@ def save_content_hash_cache():
         logger.warning(f"Failed to save content hash cache: {e}")
 
 def is_duplicate_content(content: str, url: str) -> bool:
-    """Check if content is duplicate based on MD5 hash. Returns True if duplicate."""
+    """Record duplicate content for diagnostics without dropping source URLs."""
     if not content:
         return False
     
@@ -1714,7 +1745,7 @@ def is_duplicate_content(content: str, url: str) -> bool:
     if content_hash in CONTENT_HASH_CACHE:
         original_url = CONTENT_HASH_CACHE[content_hash]
         if original_url != url:
-            logger.info(f"Skipping duplicate content: {url} (identical to {original_url})")
+            logger.info(f"Duplicate content observed: {url} (identical to {original_url}); preserving artifact")
             return True
     else:
         # First time seeing this content
@@ -1863,9 +1894,6 @@ def save_content(
     title = data.get("metadata", {}).get("title", "")
     content_folder = get_content_folder(url, title, seed_context_url=seed_context_url)
     
-    if not skip_global_cache:
-        mark_url_crawled(url)
-    
     html_content = data.get("html", "")
     
     # Check if this URL is in the numbered docs cache (from listing page)
@@ -1936,14 +1964,9 @@ def save_content(
     
     safe_name = build_safe_url_basename(url)
     
-    # Check for duplicate content BEFORE saving anything
+    # Track duplicate content for QC. Every source URL still keeps its raw artifact.
     if data.get("markdown"):
-        markdown_content = data["markdown"]
-        if is_duplicate_content(markdown_content, url):
-            crawl_stats.add_skipped(seed_context_url)
-            logger.info(f"Skipping all files (duplicate detected): {url}")
-            result["skipped"] = True
-            return result  # Skip saving duplicate content (HTML, MD, PDFs)
+        is_duplicate_content(data["markdown"], url)
     
     total_size = 0
     download_count = 0
@@ -2066,6 +2089,8 @@ def save_content(
     result["saved"] = total_size > 0
     result["downloads"] = download_count
     result["size_bytes"] = total_size
+    if result["saved"] and not skip_global_cache:
+        mark_url_crawled(url)
     return result
 
 def merge_execution_summary(target: Dict[str, Any], source: Dict[str, Any]):
@@ -2270,7 +2295,7 @@ def crawl_ctdt_program_details(
 
 def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], crawled_urls: set) -> dict:
     """Crawl a single seed URL using the reviewed seed-aware routing strategy."""
-    max_retries = 5
+    max_retries = max(int(os.environ.get("MAX_RETRIES", "3")), 1)
     retry_delay = 10
     strategy = classify_seed_strategy(seed_url, cfg)
     result = {
@@ -2287,6 +2312,7 @@ def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], cra
 
     for attempt in range(max_retries):
         try:
+            SOURCE_HOST_RATE_LIMITER.wait(seed_url)
             logger.info(
                 f"Starting {strategy} crawl for: {seed_url} "
                 f"(attempt {attempt + 1}/{max_retries})"
@@ -2395,6 +2421,21 @@ def crawl_single_seed(app: FirecrawlApp, seed_url: str, cfg: Dict[str, Any], cra
     result["duration_seconds"] = crawl_stats.finish_seed(seed_url, result["success"])
     return result
 
+
+def interleave_seed_urls_by_host(seed_urls: List[str]) -> List[str]:
+    buckets: Dict[str, List[str]] = {}
+    for seed_url in seed_urls:
+        host = urlparse(seed_url).netloc.lower()
+        buckets.setdefault(host, []).append(seed_url)
+
+    ordered: List[str] = []
+    while any(buckets.values()):
+        for host in sorted(buckets):
+            if buckets[host]:
+                ordered.append(buckets[host].pop(0))
+    return ordered
+
+
 def crawl_with_firecrawl(
     app: FirecrawlApp,
     seed_urls: List[str],
@@ -2426,7 +2467,9 @@ def crawl_with_firecrawl(
     if completed_seed_urls:
         logger.info(f"Loaded {len(completed_seed_urls)} completed seeds from resume state")
 
-    seeds_to_crawl = [seed_url for seed_url in seed_urls if seed_url not in completed_seed_urls]
+    seeds_to_crawl = interleave_seed_urls_by_host(
+        [seed_url for seed_url in seed_urls if seed_url not in completed_seed_urls]
+    )
     logger.info(
         f"Crawling {len(seeds_to_crawl)} remaining seeds "
         f"({len(completed_seed_urls)} already complete, mode={crawl_mode})"

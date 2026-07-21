@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-442015-khen-thuong-sv-tot-nghiep-thu
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-442015-khen-thuong-sv-tot-nghiep-thu-khoa-cap-khoa# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-442015-khen-thuong-sv-tot-nghiep-thu-khoa-cap-khoa#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-442015-khen-thuong-sv-tot-nghiep-thu-khoa-cap-khoa#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-442015-khen-thuong-sv-tot-nghiep-thu-khoa-cap-khoa# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-442015-khen-thuong-sv-tot-nghiep-thu-khoa-cap-khoa# "Play Slideshow")

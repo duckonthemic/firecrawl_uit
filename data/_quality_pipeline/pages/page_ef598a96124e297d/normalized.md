@@ -12,7 +12,6 @@ Tân sinh viên xem hướng dẫn (có thể nhấn vào các link sau để x
 * [Tra cứu thời hạn sử dụng thẻ Bảo hiểm y tế](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt#TraCuuThoiHanBHYT)
 
 _**Các thắc mắc về hồ sơ có thể trao đổi tại [https://forum.uit.edu.vn/hotrotansv](https://forum.uit.edu.vn/hotrotansv)
-. Sinh viên đăng nhập bằng tài khoản do Trường cấp để trao đổi trên Forum.**_
 
 * * *
 
@@ -60,55 +59,3 @@ _**Lưu ý: Kết quả tra cứu là thông tin được khoanh tròn màu đ�
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt&title=%5BNH%E1%BA%ACP%20H%E1%BB%8CC%5D%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20tra%20c%E1%BB%A9u%20BHXH%20v%C3%A0%20th%E1%BB%9Di%20h%E1%BA%A1n%20s%E1%BB%AD%20d%E1%BB%A5ng%20th%E1%BA%BB%20BHYT)
-
-------------------
-
-* [Đăng ký tham dự Lễ phát động chương trình “SINH VIÊN ĐHQG-HCM – CHUNG TAY VÌ GIAO THÔNG XANH”](https://ctsv.uit.edu.vn/bai-viet/dang-ky-tham-du-le-phat-dong-chuong-trinh-sinh-vien-dhqg-hcm-chung-tay-vi-giao-thong-xanh)
-(29-05-2026)
-* [Huy động sinh viên coi thi Kỳ thi Đánh giá năng lực đợt 2 năm 2026 (kỳ thi ngày 24/5/2026)](https://ctsv.uit.edu.vn/bai-viet/huy-dong-sinh-vien-coi-thi-ky-thi-danh-gia-nang-luc-dot-2-nam-2026-ky-thi-ngay-2452026)
-(14-05-2026)
-* [Thông báo về các khóa học Google Career Certificate (GCC) trên Coursera miễn phí năm 2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cac-khoa-hoc-google-career-certificate-gcc-tren-coursera-mien-phi-nam-2026-0)
-(26-03-2026)
-* [Huy động sinh viên coi thi Kỳ thi Đánh giá năng lực đợt 1 năm 2026 (kỳ thi ngày 05/4/2026)](https://ctsv.uit.edu.vn/bai-viet/huy-dong-sinh-vien-coi-thi-ky-thi-danh-gia-nang-luc-dot-1-nam-2026-ky-thi-ngay-0542026)
-(18-03-2026)
-* [Tết an toàn – Xuân trọn vẹn | Bỏ túi bí kíp đón Tết văn minh](https://ctsv.uit.edu.vn/bai-viet/tet-toan-xuan-tron-ven-bo-tui-bi-kip-don-tet-van-minh)
-(11-02-2026)
-
-Pages
------
-
-* 1
-* [2](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt?page=1 "Go to page 2")
-
-* [3](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt?page=2 "Go to page 3")
-
-* [next ›](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt?page=1 "Go to next page")
-
-* [last »](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt?page=2 "Go to last page")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tra-cuu-bhxh-va-thoi-han-su-dung-bhyt#addtoany "Show all")

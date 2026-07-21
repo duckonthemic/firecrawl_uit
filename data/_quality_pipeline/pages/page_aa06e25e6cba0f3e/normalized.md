@@ -31,7 +31,6 @@ Tân sinh viên chuẩn bị hồ sơ nhập học theo hướng dẫn sau (có 
 * [Giấy chứng nhận sức khỏe (theo quy định tại thông tư 32/2023/TT-BYT)](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien#GiayKhamSucKhoe)
 
 _**Các thắc mắc về hồ sơ có thể trao đổi tại [https://forum.uit.edu.vn](https://forum.uit.edu.vn/hotrotansv)
-. Sinh viên đăng nhập bằng tài khoản do Trường cấp để trao đổi trên Forum.**_
 
 * * *
 
@@ -57,7 +56,6 @@ Sinh viên nộp **bản photo CCCD hoặc CC** _**có công chứng hợp lệ
 **4\. LÝ LỊCH SINH VIÊN (theo mẫu của Trường)**
 
 Sinh viên nộp **Bản giấy Lý lịch sinh viên** sau khi khai báo lý lịch trong Hồ sơ sinh viên trực tuyến tại trang [https://nhaphoc.uit.edu.vn/](https://nhaphoc.uit.edu.vn/)
-. Sinh viên đăng nhập bằng tài khoản do Trường cấp.
 
 Sau khi khai báo đầy đủ, sinh viên nhấn vào nút **Lưu và Xuất File PDF**. **In file PDF, ký tên và nộp**
 
@@ -143,63 +141,3 @@ Hoặc sử dụng ứng dụng VssID - Bảo hiểm xã hội số
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien&title=%5BNH%E1%BA%ACP%20H%E1%BB%8CC%5D%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20chu%E1%BA%A9n%20b%E1%BB%8B%20H%E1%BB%93%20s%C6%A1%20sinh%20vi%C3%AAn%20(b%E1%BA%A3n%20gi%E1%BA%A5y)%20d%C3%A0nh%20cho%20t%C3%A2n%20sinh%20vi%C3%AAn)
-
-------------------
-
-* [Đăng ký tham dự Lễ phát động chương trình “SINH VIÊN ĐHQG-HCM – CHUNG TAY VÌ GIAO THÔNG XANH”](https://ctsv.uit.edu.vn/bai-viet/dang-ky-tham-du-le-phat-dong-chuong-trinh-sinh-vien-dhqg-hcm-chung-tay-vi-giao-thong-xanh)
-(29-05-2026)
-* [Huy động sinh viên coi thi Kỳ thi Đánh giá năng lực đợt 2 năm 2026 (kỳ thi ngày 24/5/2026)](https://ctsv.uit.edu.vn/bai-viet/huy-dong-sinh-vien-coi-thi-ky-thi-danh-gia-nang-luc-dot-2-nam-2026-ky-thi-ngay-2452026)
-(14-05-2026)
-* [Thông báo về các khóa học Google Career Certificate (GCC) trên Coursera miễn phí năm 2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cac-khoa-hoc-google-career-certificate-gcc-tren-coursera-mien-phi-nam-2026-0)
-(26-03-2026)
-* [Huy động sinh viên coi thi Kỳ thi Đánh giá năng lực đợt 1 năm 2026 (kỳ thi ngày 05/4/2026)](https://ctsv.uit.edu.vn/bai-viet/huy-dong-sinh-vien-coi-thi-ky-thi-danh-gia-nang-luc-dot-1-nam-2026-ky-thi-ngay-0542026)
-(18-03-2026)
-* [Tết an toàn – Xuân trọn vẹn | Bỏ túi bí kíp đón Tết văn minh](https://ctsv.uit.edu.vn/bai-viet/tet-toan-xuan-tron-ven-bo-tui-bi-kip-don-tet-van-minh)
-(11-02-2026)
-
-Pages
------
-
-* 1
-* [2](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=1 "Go to page 2")
-
-* [3](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=2 "Go to page 3")
-
-* [4](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=3 "Go to page 4")
-
-* [5](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=4 "Go to page 5")
-
-* [6](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=5 "Go to page 6")
-
-* [7](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=6 "Go to page 7")
-
-* [next ›](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=1 "Go to next page")
-
-* [last »](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien?page=6 "Go to last page")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-chuan-bi-ho-so-sinh-vien-ban-giay-danh-cho-tan-sinh-vien#addtoany "Show all")

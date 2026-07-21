@@ -12,10 +12,6 @@ Có lẽ, chưa khi nào các sàn cá cược, nhà cái tổ chức cá cượ
 
 **Giăng bẫy để lôi kéo người chơi**
 
-Thời gian gầy đây, các sàn cá cược, website cá cược bóng đá online lại nở rộ trên mạng xã hội. Chỉ cần gõ từ khóa “cá cược” trên Google là hàng loạt thông tin về hội nhóm cá cược, nhà cái uy tín hàng đầu, trò chơi đổi thưởng, tài xỉu... hiện ra dày đặc. Bất kỳ ai cũng có thể đăng nhập và tham gia chơi, chỉ cần có một chiếc máy tính hay điện thoại thông minh, sau đó người chơi đăng nhập theo hướng dẫn của nhân viên trang website.
-
-Qua tìm hiểu, các trang web cá cược này đều có tên tương tự nhau như: Fi 88, Fi88, M99, Fun88, Sodo779... Theo như lời giới thiệu, người chơi chỉ cần đăng nhập vào link dẫn, nạp tiền vào tài khoản là có thể chơi được. Đơn cử như trang Sodo779, khi chúng tôi truy cập web này là rất nhiều hình ảnh bắt mắt mời chào người chơi, cùng với đó là những lời quảng cáo vô cùng hấp dẫn như: “Sodo779 - Nhà cái cá cược online uy tín hàng đầu Việt Nam - châu Á, có trụ sở và được cấp phép hoạt động chính thức bởi Chính phủ Philippines, dưới sự quản lý của Cục Quản lý giải trí và trò chơi Pagcor”.
-
 ![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_01-1653530116821.png)
 
 Vì ham mê đỏ đen, anh Lâm đã mất 600 triệu đồng.
@@ -23,8 +19,6 @@ Vì ham mê đỏ đen, anh Lâm đã mất 600 triệu đồng.
 Tại đây, họ cung cấp cho các thành viên của mình những sản phẩm trò chơi như: Cá cược trực tuyến Thể thao (cá độ bóng đá, đua ngựa, đánh gofl, đua xe...); Thể thao điện tử (eSport), Thể thao ảo (Virtual Sport); Slot game nổ hũ; Đánh bài trực tuyến (Baccarat, Rồng hổ, Sicbo tài xỉu,...); lô đề, lô tô online; Game bài ăn tiền; Bắn cá và nhiều sản phẩm hấp dẫn khác.
 
 Cũng lấy tiêu chí “Khách hàng là thượng đế”, nhà cái này còn dụ người chơi bằng những lời “nổ” có cánh như: “Không đơn thuần chỉ là nơi giải trí. Với thâm niên hoạt động lâu năm trên thị trường trò chơi trực tuyến, Sodo779 được ví như một “trụ cột” vững chắc trên nền tảng giải trí ảo Việt Nam. Có tầm ảnh hưởng vô cùng mạnh mẽ đến nhiều sân chơi cá cược... Điều này phần nào chứng minh được nhà cái là sự lựa chọn hoàn hảo nhất dành cho người chơi. Việc xác định rõ tiêu chí hoạt động đã giúp chúng tôi có thể nâng tầm nhận biết thương hiệu Sodo779 trong mắt mỗi khách hàng”.
-
-Không những vậy, nhân viên còn xin số điện thoại của người chơi để hướng dẫn cụ thể cách đăng nhập, cách chơi và thanh toán khi thắng thua. Khi phóng viên hỏi nhân viên về cách thức thanh toán tiền, người này cho hay, toàn bộ tài khoản nhận tiền của web đều đến từ ngân hàng Việt Nam.
 
 ![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_02-1653530140070.png)
 
@@ -50,8 +44,6 @@ Theo kinh nghiệm của những người từng chơi cá độ online, thì đ
 
 **Chơi bạc online, bi kịch ngoài đời**
 
-Câu chuyện về những nạn nhân dính vào ma trận “cờ bạc online” không phải là hiếm. Như anh Nguyễn Thanh Lâm (Hà Đông, Hà Nội) đã phải trả giá rất đắt cho đam mê đỏ đen của mình. Sau khi lên mạng xem bóng đá online, anh vô tình click vào trang web chuyên cá độ bóng đá. Ban đầu chỉ là tò mò đăng ký rồi đăng nhập, sau anh nạp vài ba triệu vào để chơi. Anh Lâm kể: “Lúc đầu tôi click vào trang đó, họ bảo đăng ký tài khoản, nhập số điện thoại. Khi làm xong theo hướng dẫn, nhân viên của họ gọi điện chăm sóc rất chu đáo. Tôi có nạp 3 triệu để chơi linh tinh mấy trò, chỉ chơi có 1 đêm mà lãi được hơn chục triệu. Cứ thế ngấm dần có lần tôi nạp đến 100 triệu để chơi. Sau đó cứ như bị ma làm, ham lắm, cứ thua lại nạp, không có tiền thì đi vay. Tôi thua nặng nhất là đánh xóc đĩa online. Tổng cho lần dại dột này khoảng 600 triệu đồng”.
-
 ![Cảnh giác với ma trận cá cược online -0](https://img.cand.com.vn/resize/800x800/NewFiles/Images/2022/05/26/2_canh_04-1653530281102.png)
 
 Trang web lôi kéo được rất nhiều dân cá độ bóng đá.
@@ -64,68 +56,3 @@ Hay câu chuyện của Lê Văn B. (23 tuổi, Tp Thái Nguyên). B. vốn là 
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fcanh-giac-voi-ma-tran-ca-cuoc-online&title=C%E1%BA%A3nh%20gi%C3%A1c%20v%E1%BB%9Bi%20ma%20tr%E1%BA%ADn%20c%C3%A1%20c%C6%B0%E1%BB%A3c%20online)
-
-------------------
-
-* [Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026](https://ctsv.uit.edu.vn/bai-viet/muc-dong-bhyt-va-cac-chinh-sach-bao-hiem-y-te-co-hieu-luc-tu-0172026)
-(07-07-2026)
-* [\[An ninh sinh viên\] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-cao-diem-dau-tranh-phong-chong-toi-pham-ve-so-huu-tri-tue-sinh-vien-can-biet)
-(24-06-2026)
-* [\[An ninh Sinh viên\] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-toan-khong-gian-mang-canh-bao-lo-ma-so-sinh-vien-mssv-dung-de-du-lieu-ca)
-(18-06-2026)
-* [Hình ảnh Lễ tốt nghiệp đợt 1 năm 2026](https://ctsv.uit.edu.vn/bai-viet/hinh-anh-le-tot-nghiep-dot-1-nam-2026)
-(15-06-2026)
-* [Sinh viên UIT nỗ lực tranh tài ở các môn thi "Đầu tiên" tại Hội thao Sinh viên ĐHQG-HCM 2026](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-uit-no-luc-tranh-tai-o-cac-mon-thi-dau-tien-tai-hoi-thao-sinh-vien-dhqg-hcm-2026)
-(01-06-2026)
-
-Pages
------
-
-* 1
-* [2](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=1 "Go to page 2")
-
-* [3](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=2 "Go to page 3")
-
-* [4](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=3 "Go to page 4")
-
-* [5](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=4 "Go to page 5")
-
-* [6](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=5 "Go to page 6")
-
-* [7](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=6 "Go to page 7")
-
-* [8](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=7 "Go to page 8")
-
-* [9](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=8 "Go to page 9")
-
-* …
-* [next ›](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=1 "Go to next page")
-
-* [last »](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online?page=34 "Go to last page")
-
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online#)
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online#)
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/canh-giac-voi-ma-tran-ca-cuoc-online#addtoany "Show all")

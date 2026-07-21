@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "path_base": "manifest_dir",
+  "path_format": "posix_relative",
+  "absolute_paths_allowed": false,
+  "document_manifest": "document_manifest.jsonl",
+  "upload_plan": "upload_plan.jsonl",
+  "path_fields": [
+    "local_path",
+    "markdown_path"
+  ],
+  "notification_lookback_days": 30,
+  "resolution_rule": "resolve each path against the directory containing document_manifest.jsonl"
+}

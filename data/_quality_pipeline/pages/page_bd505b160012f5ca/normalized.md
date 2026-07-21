@@ -11,7 +11,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20684%2F2025%20-%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20vi%E1%BB%87c%20c%E1%BB%AD%20sinh%20vi%C3%AAn%20tham%20gia%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20DiscoverNUS)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus# "Next")
@@ -23,18 +22,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-6842025-quyet-dinh-ve-viec-cu-sinh-vien-tham-gia-chuong-trinh-discovernus#addtoany "Show all")

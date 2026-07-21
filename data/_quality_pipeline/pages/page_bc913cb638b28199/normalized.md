@@ -48,7 +48,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fchuong-trinh-hoc-bong-invitation-scholarship-2018&title=Ch%C6%B0%C6%A1ng%20tri%CC%80nh%20ho%CC%A3c%20b%C3%B4%CC%89ng%20Invitation%20Scholarship%202018)
 
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018# "Next")
@@ -60,18 +59,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018#)
-[](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018#)
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/chuong-trinh-hoc-bong-invitation-scholarship-2018#addtoany "Show all")

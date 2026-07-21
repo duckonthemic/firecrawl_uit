@@ -13,6 +13,5 @@ The requested page "/bai-viet/mau-don-ho-tro-chinh-sach-giao-duc-doi-voi-nguoi-k
 
 [](https://ctsv.uit.edu.vn/bai-viet/mau-don-ho-tro-chinh-sach-giao-duc-doi-voi-nguoi-khuyet-tat# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/mau-don-ho-tro-chinh-sach-giao-duc-doi-voi-nguoi-khuyet-tat#)
-[](https://ctsv.uit.edu.vn/bai-viet/mau-don-ho-tro-chinh-sach-giao-duc-doi-voi-nguoi-khuyet-tat#)
 [](https://ctsv.uit.edu.vn/bai-viet/mau-don-ho-tro-chinh-sach-giao-duc-doi-voi-nguoi-khuyet-tat# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/mau-don-ho-tro-chinh-sach-giao-duc-doi-voi-nguoi-khuyet-tat# "Play Slideshow")

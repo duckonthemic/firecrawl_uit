@@ -34,7 +34,6 @@ Sinh viên xem thêm ở **:** [www.vnuhcm.edu.vn](http://www.vnuhcm.edu.vn/)
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fgioi-thieu-dai-hoc-quoc-gia-tphcm-0&title=Gi%E1%BB%9Bi%20thi%E1%BB%87u%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20Tp.HCM)
 
 [](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0# "Next")
@@ -46,18 +45,9 @@ Sinh viên xem thêm ở **:** [www.vnuhcm.edu.vn](http://www.vnuhcm.edu.vn/)
 
 [](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0#)
-[](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0#)
 [](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/gioi-thieu-dai-hoc-quoc-gia-tphcm-0#addtoany "Show all")

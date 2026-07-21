@@ -13,6 +13,5 @@ The requested page "/bai-viet/sinh-vien-truong-dh-cong-nghe-thong-tin-danh-thu-h
 
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-truong-dh-cong-nghe-thong-tin-danh-thu-hang-cao-tai-cuoc-thi-imagine-cup-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-truong-dh-cong-nghe-thong-tin-danh-thu-hang-cao-tai-cuoc-thi-imagine-cup-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-truong-dh-cong-nghe-thong-tin-danh-thu-hang-cao-tai-cuoc-thi-imagine-cup-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-truong-dh-cong-nghe-thong-tin-danh-thu-hang-cao-tai-cuoc-thi-imagine-cup-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-truong-dh-cong-nghe-thong-tin-danh-thu-hang-cao-tai-cuoc-thi-imagine-cup-2015# "Play Slideshow")

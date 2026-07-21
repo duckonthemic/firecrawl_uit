@@ -1,0 +1,193 @@
+Đại Học Chính Quy
+=================
+
+**Các thông báo dành cho hệ đại học chính quy.**
+
+[Thông báo học bù Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542.Q21) ngày 23/04/2026](https://daa.uit.edu.vn/node/38847)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 13:47
+
+CBGD : **Trần Thị Dung**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542)**  
+Lớp : **NT542.Q21**  
+Phòng : **C206**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **8**  
+Thứ : **5 , ngày 23/04/2026**
+
+*   [Xem thêm về Thông báo học bù Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542.Q21) ngày 23/04/2026](https://daa.uit.edu.vn/node/38847 "Thông báo học bù Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542.Q21) ngày 23/04/2026")
+    
+
+[Thông báo nghỉ lớp Thiết kế hệ thống SoC (CE433.Q22) ngày 27/04/2026](https://daa.uit.edu.vn/node/38846)
+
+----------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 13:41
+
+CBGD : **Trần Thị Điểm**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Thiết kế hệ thống SoC (CE433)**  
+Lớp : **CE433.Q22**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **4**  
+Thứ : **2 , ngày 27/04/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Thiết kế hệ thống SoC (CE433.Q22) ngày 27/04/2026](https://daa.uit.edu.vn/node/38846 "Thông báo nghỉ lớp Thiết kế hệ thống SoC (CE433.Q22) ngày 27/04/2026")
+    
+
+[Thông báo nghỉ lớp Thiết kế hệ thống SoC (CE433.Q22) ngày 20/04/2026](https://daa.uit.edu.vn/node/38845)
+
+----------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 13:40
+
+CBGD : **Trần Thị Điểm**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Thiết kế hệ thống SoC (CE433)**  
+Lớp : **CE433.Q22**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **4**  
+Thứ : **2 , ngày 20/04/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Thiết kế hệ thống SoC (CE433.Q22) ngày 20/04/2026](https://daa.uit.edu.vn/node/38845 "Thông báo nghỉ lớp Thiết kế hệ thống SoC (CE433.Q22) ngày 20/04/2026")
+    
+
+[Thông báo nghỉ lớp Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542.Q21) ngày 17/04/2026](https://daa.uit.edu.vn/node/38844)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 11:02
+
+CBGD : **Trần Thị Dung**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542)**  
+Lớp : **NT542.Q21**  
+Phòng :  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **3**  
+Thứ : **6 , ngày 17/04/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542.Q21) ngày 17/04/2026](https://daa.uit.edu.vn/node/38844 "Thông báo nghỉ lớp Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng (NT542.Q21) ngày 17/04/2026")
+    
+
+[Thông báo nghỉ lớp Lập trình mạng căn bản (NT106.Q23.ANTT.1) ngày 14/04/2026](https://daa.uit.edu.vn/node/38843)
+
+------------------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 09:51
+
+CBGD : **Ngô Đức Hoàng Sơn**  
+Khoa/ Bộ môn : **MMT&TT**  
+Môn học : **Lập trình mạng căn bản (NT106)**  
+Lớp : **NT106.Q23.ANTT.1**  
+Phòng : **B2.02**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **3 , ngày 14/04/2026**
+
+*   [Xem thêm về Thông báo nghỉ lớp Lập trình mạng căn bản (NT106.Q23.ANTT.1) ngày 14/04/2026](https://daa.uit.edu.vn/node/38843 "Thông báo nghỉ lớp Lập trình mạng căn bản (NT106.Q23.ANTT.1) ngày 14/04/2026")
+    
+
+[Thông báo học bù Thiết kế vi mạch số (CE222.Q22) ngày 13/05/2026](https://daa.uit.edu.vn/node/38842)
+
+------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 08:48
+
+CBGD : **Ngô Hiếu Trường**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Thiết kế vi mạch số (CE222)**  
+Lớp : **CE222.Q22**  
+Phòng : **B1.22**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **4 , ngày 13/05/2026**
+
+*   [Xem thêm về Thông báo học bù Thiết kế vi mạch số (CE222.Q22) ngày 13/05/2026](https://daa.uit.edu.vn/node/38842 "Thông báo học bù Thiết kế vi mạch số (CE222.Q22) ngày 13/05/2026")
+    
+
+[Thông báo học bù Vật lý bán dẫn và ứng dụng (CE126.Q21) ngày 02/05/2026](https://daa.uit.edu.vn/node/38841)
+
+-------------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 08:46
+
+CBGD : **Trần Quang Nguyên**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vật lý bán dẫn và ứng dụng (CE126)**  
+Lớp : **CE126.Q21**  
+Phòng : **B1.02**  
+Thời gian :  
+\- Tiết bắt đầu : **2**  
+\- Tiết kết thúc : **5**  
+Thứ : **7 , ngày 02/05/2026**
+
+*   [Xem thêm về Thông báo học bù Vật lý bán dẫn và ứng dụng (CE126.Q21) ngày 02/05/2026](https://daa.uit.edu.vn/node/38841 "Thông báo học bù Vật lý bán dẫn và ứng dụng (CE126.Q21) ngày 02/05/2026")
+    
+
+[Thông báo học bù Vật lý bán dẫn và ứng dụng (CE126.Q22) ngày 06/05/2026](https://daa.uit.edu.vn/node/38840)
+
+-------------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 08:43
+
+CBGD : **Trần Quang Nguyên**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vật lý bán dẫn và ứng dụng (CE126)**  
+Lớp : **CE126.Q22**  
+Phòng : **C101**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **9**  
+Thứ : **4 , ngày 06/05/2026**
+
+*   [Xem thêm về Thông báo học bù Vật lý bán dẫn và ứng dụng (CE126.Q22) ngày 06/05/2026](https://daa.uit.edu.vn/node/38840 "Thông báo học bù Vật lý bán dẫn và ứng dụng (CE126.Q22) ngày 06/05/2026")
+    
+
+[Thông báo học bù Vi xử lý-vi điều khiển (CE103.Q25) ngày 11/05/2026](https://daa.uit.edu.vn/node/38839)
+
+---------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 08:40
+
+CBGD : **Phạm Minh Quân**  
+Khoa/ Bộ môn : **KTMT**  
+Môn học : **Vi xử lý-vi điều khiển (CE103)**  
+Lớp : **CE103.Q25**  
+Phòng : **C102**  
+Thời gian :  
+\- Tiết bắt đầu : **1**  
+\- Tiết kết thúc : **4**  
+Thứ : **2 , ngày 11/05/2026**
+
+*   [Xem thêm về Thông báo học bù Vi xử lý-vi điều khiển (CE103.Q25) ngày 11/05/2026](https://daa.uit.edu.vn/node/38839 "Thông báo học bù Vi xử lý-vi điều khiển (CE103.Q25) ngày 11/05/2026")
+    
+
+[Thông báo học bù Phân tích thiết kế hệ thống (IS201.Q22.2) ngày 08/05/2026](https://daa.uit.edu.vn/node/38838)
+
+----------------------------------------------------------------------------------------------------------------
+
+T2, 13/04/2026 - 08:15
+
+CBGD : **Lê Võ Đình Kha**  
+Khoa/ Bộ môn : **HTTT**  
+Môn học : **Phân tích thiết kế hệ thống (IS201)**  
+Lớp : **IS201.Q22.2**  
+Phòng : **B4.04**  
+Thời gian :  
+\- Tiết bắt đầu : **6**  
+\- Tiết kết thúc : **10**  
+Thứ : **6 , ngày 08/05/2026**
+
+*   [Xem thêm về Thông báo học bù Phân tích thiết kế hệ thống (IS201.Q22.2) ngày 08/05/2026](https://daa.uit.edu.vn/node/38838 "Thông báo học bù Phân tích thiết kế hệ thống (IS201.Q22.2) ngày 08/05/2026")

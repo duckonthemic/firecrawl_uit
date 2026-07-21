@@ -19,6 +19,5 @@ Mật khẩu chứng thực
 
 [](https://ctsv.uit.edu.vn/user# "Close")
 [](https://ctsv.uit.edu.vn/user#)
-[](https://ctsv.uit.edu.vn/user#)
 [](https://ctsv.uit.edu.vn/user# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/user# "Play Slideshow")

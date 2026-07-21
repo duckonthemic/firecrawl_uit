@@ -12,7 +12,6 @@ Chào các bạn sinh viên Văn bằng 2.
 Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1 ), thông tin chi tiết các bạn xem tại link:
 
 [https://link.uit.edu.vn/Hvv0c](https://link.uit.edu.vn/Hvv0c)
-hoặc các bạn có thể đăng nhập web: [https://daa.uit.edu.vn/](https://daa.uit.edu.vn/)
 vào mục thời khóa biểu cá nhân để xem lịch học.
 
 * [Xem thêm về Thông báo Thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1)](https://daa.uit.edu.vn/thong-bao-thoi-khoa-bieu-hoc-ky-2-nam-hoc-2023-2024-cac-lop-vb2-dot-1 "Thông báo Thời khóa biểu học kỳ 2 năm học 2023-2024 các lớp VB2 (đợt 1)")
@@ -104,7 +103,6 @@ T2, 07/08/2023 - 08:26
 Chào các bạn sinh viên Văn bằng 2.
 
 Phòng Đào tạo Đại học thông báo thời khóa biểu học kỳ 1 năm học 2023-2024 các lớp VB2 (đợt 1 ), thông tin chi tiết các bạn xem tại link: [https://link.uit.edu.vn/phongld](https://link.uit.edu.vn/phongld)
-hoặc các bạn có thể đăng nhập web: [https://daa.uit.edu.vn/](https://daa.uit.edu.vn/)
 vào mục thời khóa biểu cá nhân để xem lịch học.
 
 * [Xem thêm về Thông báo Thời khóa biểu học kỳ 1 năm học 2023-2024 các lớp VB2 (đợt 1) Cập nhật ngày 31/8/2023](https://daa.uit.edu.vn/thongbao/thong-bao-thoi-khoa-bieu-hoc-ky-1-nam-hoc-2023-2024-cac-lop-vb2-dot-1-cap-nhat-ngay-3182023 "Thông báo Thời khóa biểu học kỳ 1 năm học 2023-2024 các lớp VB2 (đợt 1) Cập nhật ngày 31/8/2023")

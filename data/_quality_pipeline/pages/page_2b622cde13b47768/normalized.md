@@ -19,6 +19,5 @@ Mật khẩu chứng thực
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ve-viec-xep-loai-tot-nghiep-doi-voi-sinh-vien-tot-nghiep# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ve-viec-xep-loai-tot-nghiep-doi-voi-sinh-vien-tot-nghiep#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ve-viec-xep-loai-tot-nghiep-doi-voi-sinh-vien-tot-nghiep#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ve-viec-xep-loai-tot-nghiep-doi-voi-sinh-vien-tot-nghiep# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ve-viec-xep-loai-tot-nghiep-doi-voi-sinh-vien-tot-nghiep# "Play Slideshow")

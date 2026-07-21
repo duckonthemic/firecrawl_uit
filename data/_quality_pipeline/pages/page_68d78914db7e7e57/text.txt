@@ -1,7 +1,6 @@
 -->
 Kết quả học bổng tuyển sinh 2019 | Phòng Công tác Sinh viên
 Phòng Công tác Sinh viên
-Đăng nhập | Sơ đồ website
 trung tâm bảo hành oppo tại hà nội , sửa ipad tại hà nội , trung tâm bảo hành iphone , cho thuê xe 16 chỗ , thue xe du lich o ha noi
 Search form
 Search
@@ -55,51 +54,3 @@ Các bạn sinh viên xem lại danh sách, nếu có ý kiến vui lòng commen
 Lưu ý: Danh sách này được lọc từ danh sách trúng truyển diện tuyển thẳng và ưu tiên xét tuyển, nếu các bạn trúng tuyển bằng điểm thi THPT QG và điểm thi ĐGQL, vui lòng liên hệ P.CTSV GẤP!!!
 File đính kèm:
 05_tb_dhcntt25_01_2019_scan.pdf
-Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM
-(09-07-2026)
-Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027
-(08-07-2026)
-Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027
-(08-07-2026)
-Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026
-(07-07-2026)
-Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026
-(02-07-2026)
-Pages
-1
-2
-3
-4
-5
-6
-7
-8
-9
-…
-next ›
-last »
-Tin tức & sự kiện
-Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026
-[An ninh sinh viên] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!
-[An ninh Sinh viên] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!
-Xem thêm
-Hình ảnh - Video
-Xem thêm
-Website liên kết
-Website Trường
-Forum Trường
-Website Đoàn - Hội
-Website ĐH Quốc gia
-Website ký túc xá
-Kết nối với chúng tôi
-Facebook
-Google plus
-Youtube
-Liên hệ
-Địa chỉ: Khu phố 34, Phường Linh Xuân, Thành phố Hồ Chí Minh.
-Điện thoại: (028) 37252002 Ext: 116
-Email: ctsv@uit.edu.vn
-Đăng ký Email của bạn để nhận thông tin mới nhất từ Phòng CTSV.
-E-mail *
-Copyright © 2014 Phòng Công tác Sinh viên
-Đầu trang

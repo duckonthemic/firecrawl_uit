@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-422014-khen-thuong-sv-tot-nghiep-loa
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-422014-khen-thuong-sv-tot-nghiep-loai-gioi# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-422014-khen-thuong-sv-tot-nghiep-loai-gioi#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-422014-khen-thuong-sv-tot-nghiep-loai-gioi#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-422014-khen-thuong-sv-tot-nghiep-loai-gioi# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-422014-khen-thuong-sv-tot-nghiep-loai-gioi# "Play Slideshow")

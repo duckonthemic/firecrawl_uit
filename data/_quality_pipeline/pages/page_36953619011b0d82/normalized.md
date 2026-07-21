@@ -20,7 +20,6 @@ _**
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022&title=Th%C3%B4ng%20b%C3%A1o%20n%E1%BB%99p%20h%E1%BB%93%20s%C6%A1%20MGHP%20HK1%20n%C4%83m%20h%E1%BB%8Dc%202021-2022)
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022# "Next")
@@ -32,18 +31,9 @@ _**
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nop-ho-so-mghp-hk1-nam-hoc-2021-2022#addtoany "Show all")

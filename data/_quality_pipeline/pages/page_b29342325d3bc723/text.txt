@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-sinh-vien-nhan-hoc-bong-khuyen-khich-hoc
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nhan-hoc-bong-khuyen-khich-hoc-tap-hk2-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nhan-hoc-bong-khuyen-khich-hoc-tap-hk2-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nhan-hoc-bong-khuyen-khich-hoc-tap-hk2-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nhan-hoc-bong-khuyen-khich-hoc-tap-hk2-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nhan-hoc-bong-khuyen-khich-hoc-tap-hk2-2013-2014# "Play Slideshow")

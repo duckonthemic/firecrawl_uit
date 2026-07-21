@@ -13,6 +13,5 @@ The requested page "/bai-viet/hoi-nghi-sinh-vien-nam-hoc-2013-2014" could not be
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-nghi-sinh-vien-nam-hoc-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-nghi-sinh-vien-nam-hoc-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoi-nghi-sinh-vien-nam-hoc-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-nghi-sinh-vien-nam-hoc-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-nghi-sinh-vien-nam-hoc-2013-2014# "Play Slideshow")

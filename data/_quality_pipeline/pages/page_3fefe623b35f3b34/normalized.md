@@ -11,7 +11,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%20209%2F2017%20-%20Khen%20th%C6%B0%E1%BB%9Fng%20gi%E1%BA%A3ng%20vi%C3%AAn%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20sinh%20vi%C3%AAn%20%C4%91%E1%BA%A1t%20th%C3%A0nh%20t%C3%ADch%20cao%20trong%20k%E1%BB%B3%20thi%20Olympic%20To%C3%A1n%20h%E1%BB%8Dc%20SV%20to%C3%A0n%20qu%E1%BB%91c%202017)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0# "Next")
@@ -23,18 +22,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-2092017-khen-thuong-giang-vien-huong-dan-sinh-vien-dat-thanh-tich-cao-trong-0#addtoany "Show all")

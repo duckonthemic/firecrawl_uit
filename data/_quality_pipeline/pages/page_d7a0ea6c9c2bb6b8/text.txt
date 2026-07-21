@@ -27,6 +27,5 @@ Hội thảo An toàn thông tin và Cơ hội nghề nghiệp trong lĩnh vực
 
 [](https://ctsv.uit.edu.vn/node/364# "Close")
 [](https://ctsv.uit.edu.vn/node/364#)
-[](https://ctsv.uit.edu.vn/node/364#)
 [](https://ctsv.uit.edu.vn/node/364# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/node/364# "Play Slideshow")

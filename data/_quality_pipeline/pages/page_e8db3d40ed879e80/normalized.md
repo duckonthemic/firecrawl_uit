@@ -35,6 +35,5 @@ Biểu mẫu
 
 [](https://ctsv.uit.edu.vn/bieu-mau# "Close")
 [](https://ctsv.uit.edu.vn/bieu-mau#)
-[](https://ctsv.uit.edu.vn/bieu-mau#)
 [](https://ctsv.uit.edu.vn/bieu-mau# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bieu-mau# "Play Slideshow")

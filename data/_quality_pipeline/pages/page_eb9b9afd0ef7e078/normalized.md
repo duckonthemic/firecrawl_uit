@@ -151,11 +151,8 @@ _**Lưu ý:**_
 
 **4\. Các chế độ chính sách khác:**
 
-SV có thể đề nghị Nhà Trường cấp các Giấy Xác nhận, Giấy Ưu đãi Giáo dục… bằng cách đăng nhập và đăng ký trên website CTSV.
-
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac&title=H%E1%BB%8Dc%20ph%C3%AD%20-%20H%E1%BB%8Dc%20b%E1%BB%95ng%20-%20Mi%E1%BB%85n%20gi%E1%BA%A3m%20h%E1%BB%8Dc%20ph%C3%AD%20-%20C%C3%A1c%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20ch%C3%ADnh%20s%C3%A1ch%20kh%C3%A1c)
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Next")
@@ -167,18 +164,9 @@ SV có thể đề nghị Nhà Trường cấp các Giấy Xác nhận, Giấy �
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/hoc-phi-hoc-bong-mien-giam-hoc-phi-cac-che-do-chinh-sach-khac#addtoany "Show all")

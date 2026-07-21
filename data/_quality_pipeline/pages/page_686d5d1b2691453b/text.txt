@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-sinh-vien-hoan-thanh-noi-ngoai-tru-nam-h
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-noi-ngoai-tru-nam-hoc-2014-2015-da-cap-nhat# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-noi-ngoai-tru-nam-hoc-2014-2015-da-cap-nhat#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-noi-ngoai-tru-nam-hoc-2014-2015-da-cap-nhat#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-noi-ngoai-tru-nam-hoc-2014-2015-da-cap-nhat# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-noi-ngoai-tru-nam-hoc-2014-2015-da-cap-nhat# "Play Slideshow")

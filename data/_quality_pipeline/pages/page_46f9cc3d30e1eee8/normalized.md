@@ -13,6 +13,5 @@ The requested page "/bai-viet/dong-hanh-cung-may-tinh-cu-tri-thuc-moi-dau-mua-he
 
 [](https://ctsv.uit.edu.vn/bai-viet/dong-hanh-cung-may-tinh-cu-tri-thuc-moi-dau-mua-he-xanh-uit-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/dong-hanh-cung-may-tinh-cu-tri-thuc-moi-dau-mua-he-xanh-uit-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/dong-hanh-cung-may-tinh-cu-tri-thuc-moi-dau-mua-he-xanh-uit-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/dong-hanh-cung-may-tinh-cu-tri-thuc-moi-dau-mua-he-xanh-uit-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/dong-hanh-cung-may-tinh-cu-tri-thuc-moi-dau-mua-he-xanh-uit-2015# "Play Slideshow")

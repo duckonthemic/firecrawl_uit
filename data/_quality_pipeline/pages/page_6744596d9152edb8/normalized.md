@@ -30,7 +30,6 @@ hoặc hệ thống ứng dụng BusMap
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fcac-van-de-khac-dia-chi-nhan-thu-xe-buyt&title=C%C3%A1c%20v%E1%BA%A5n%20%C4%91%E1%BB%81%20kh%C3%A1c%20(%C4%90%E1%BB%8Ba%20ch%E1%BB%89%20nh%E1%BA%ADn%20th%C6%B0%2C%20xe%20bu%C3%BDt%2C....))
 
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Next")
@@ -42,18 +41,9 @@ hoặc hệ thống ứng dụng BusMap
 
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#)
-[](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#)
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/cac-van-de-khac-dia-chi-nhan-thu-xe-buyt#addtoany "Show all")

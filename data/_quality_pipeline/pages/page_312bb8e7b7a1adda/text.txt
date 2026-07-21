@@ -27,6 +27,5 @@ Hình ảnh - Video
 
 [](https://ctsv.uit.edu.vn/hinh-anh# "Close")
 [](https://ctsv.uit.edu.vn/hinh-anh#)
-[](https://ctsv.uit.edu.vn/hinh-anh#)
 [](https://ctsv.uit.edu.vn/hinh-anh# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/hinh-anh# "Play Slideshow")

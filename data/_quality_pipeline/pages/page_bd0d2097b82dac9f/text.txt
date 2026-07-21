@@ -53,7 +53,6 @@ CTĐT Khoá 2008
 Lịch TKB
 Lịch phòng
 Danh mục môn học
-DANH MỤC MÔN HỌC
 Số TT Mã MH Tên MH (Tiếng Việt) Tên MH (Tiếng Anh) Còn mở lớp Đơn vị quản lý chuyên môn Loại MH Mã cũ Mã môn học tương đương Mã môn học tiên quyết Mã môn học trước Số TCLT Số TCTH
 1 ACCT3603 Hệ thống thông tin kế toán Accounting Information Systems HTTT CN 3 0
 2 ACCT5123 Hoạch định nguồn lực doanh nghiệp Enterprise Resource Planning HTTT CSN 3 0

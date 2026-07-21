@@ -43,7 +43,6 @@ C_ùng chờ đón những giây phút bùng nổ tại trận chung kết UIT S
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fchung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich&title=Chung%20k%E1%BA%BFt%20Gi%E1%BA%A3i%20B%C3%B3ng%20%C4%91%C3%A1%20N%E1%BB%AF%20UIT%20Sport%202024%3A%20Ai%20s%E1%BA%BD%20l%C3%AAn%20ng%C3%B4i%20v%C3%B4%20%C4%91%E1%BB%8Bch%3F)
 
 [](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich# "Next")
@@ -55,18 +54,9 @@ C_ùng chờ đón những giây phút bùng nổ tại trận chung kết UIT S
 
 [](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich#)
-[](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich#)
 [](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/chung-ket-giai-bong-da-nu-uit-sport-2024-ai-se-len-ngoi-vo-dich#addtoany "Show all")

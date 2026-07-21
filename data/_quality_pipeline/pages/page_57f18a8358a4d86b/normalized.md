@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-222014-thanh-lap-ban-chuc-don-tan-si
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-222014-thanh-lap-ban-chuc-don-tan-sinh-vien-nh-2014-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-222014-thanh-lap-ban-chuc-don-tan-sinh-vien-nh-2014-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-222014-thanh-lap-ban-chuc-don-tan-sinh-vien-nh-2014-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-222014-thanh-lap-ban-chuc-don-tan-sinh-vien-nh-2014-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-222014-thanh-lap-ban-chuc-don-tan-sinh-vien-nh-2014-2015# "Play Slideshow")

@@ -8,7 +8,6 @@ Thu, 13/08/2020 - 09:30
 **DÀNH CHO TÂN SINH VIÊN**
 
 Sinh viên truy cập vào địa chỉ sau [https://nhaphoc.uit.edu.vn/](https://student.uit.edu.vn/sinhvien/thongtin/)
-, đăng nhập bằng tài khoản chứng thực được cấp trong Giấy báo Kết quả xét tuyển / Trúng tuyển.
 
 **Hồ sơ sinh viên trực tuyến bao gồm:**
 
@@ -17,8 +16,6 @@ Sinh viên truy cập vào địa chỉ sau [https://nhaphoc.uit.edu.vn/](http
 * Đăng tải các tập tin hình ảnh các giấy tờ của hồ sơ sinh viên
 
 **Các hướng dẫn thực hiện** (có thể nhấn vào các link sau để xem hướng dẫn)**:**
-
-* [Đăng nhập bằng tài khoản chứng thực](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien#DangNhap)
 
 * [Khai báo lý lịch sinh viên](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien#KhaiBaoLyLich)
 
@@ -40,17 +37,13 @@ Sinh viên truy cập vào địa chỉ sau [https://nhaphoc.uit.edu.vn/](http
 * **Các hình ảnh giấy tờ trong hồ sơ sinh viên trực tuyến sẽ được Trường đối chiếu với hồ sơ sinh viên bản giấy. Tình trạng của từng loại giấy tờ sẽ được cập nhật khi Trường nhận được hồ sơ sinh viên bản giấy (thời hạn nộp hồ sơ sinh viên bản giấy từ 23/8/2025 đến 30/8/2025).** Sau khi ổn định công tác nhập học, Trường sẽ kiểm tra, rà soát và nhắc nhở nếu sinh viên chưa hoàn thành các giấy tờ.
 
 _**Các thắc mắc về hồ sơ có thể trao đổi tại**_ [https://link.uit.edu.vn/SVCQ-VB1](https://link.uit.edu.vn/SVCQ-VB1)
-_**. Sinh viên đăng nhập bằng tài khoản do Trường cấp để trao đổi trên Forum.**_
 
 * * *
 
 **CÁC HƯỚNG DẪN CHI TIẾT**
 
-**1\. ĐĂNG NHẬP BẰNG TÀI KHOẢN CHỨNG THỰC**
-
 | | |
 | --- | --- |
-| Truy cập trang khai báo lý lịch: [https://nhaphoc.uit.edu.vn/](https://student.uit.edu.vn/nhaphoc)<br> <br>Đăng nhập bằng tài khoản chứng thực được cấp trong Giấy báo Kết quả xét tuyển/ Trúng tuyển | [_![](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202107/dn-1.jpeg)_](https://ctsv.uit.edu.vn/sites/default/files/uploads/images/202107/dn-1.jpeg)<br>_Nhấn vào hình để xem hình với kích thước lớn hơn_ |
 
 * * *
 
@@ -108,63 +101,3 @@ _**. Sinh viên đăng nhập bằng tài khoản do Trường cấp để trao 
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien&title=%5BNH%E1%BA%ACP%20H%E1%BB%8CC%5D%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20T%E1%BA%A1o%20h%E1%BB%93%20s%C6%A1%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%20d%C3%A0nh%20cho%20t%C3%A2n%20sinh%20vi%C3%AAn)
-
-------------------
-
-* [Đăng ký tham dự Lễ phát động chương trình “SINH VIÊN ĐHQG-HCM – CHUNG TAY VÌ GIAO THÔNG XANH”](https://ctsv.uit.edu.vn/bai-viet/dang-ky-tham-du-le-phat-dong-chuong-trinh-sinh-vien-dhqg-hcm-chung-tay-vi-giao-thong-xanh)
-(29-05-2026)
-* [Huy động sinh viên coi thi Kỳ thi Đánh giá năng lực đợt 2 năm 2026 (kỳ thi ngày 24/5/2026)](https://ctsv.uit.edu.vn/bai-viet/huy-dong-sinh-vien-coi-thi-ky-thi-danh-gia-nang-luc-dot-2-nam-2026-ky-thi-ngay-2452026)
-(14-05-2026)
-* [Thông báo về các khóa học Google Career Certificate (GCC) trên Coursera miễn phí năm 2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cac-khoa-hoc-google-career-certificate-gcc-tren-coursera-mien-phi-nam-2026-0)
-(26-03-2026)
-* [Huy động sinh viên coi thi Kỳ thi Đánh giá năng lực đợt 1 năm 2026 (kỳ thi ngày 05/4/2026)](https://ctsv.uit.edu.vn/bai-viet/huy-dong-sinh-vien-coi-thi-ky-thi-danh-gia-nang-luc-dot-1-nam-2026-ky-thi-ngay-0542026)
-(18-03-2026)
-* [Tết an toàn – Xuân trọn vẹn | Bỏ túi bí kíp đón Tết văn minh](https://ctsv.uit.edu.vn/bai-viet/tet-toan-xuan-tron-ven-bo-tui-bi-kip-don-tet-van-minh)
-(11-02-2026)
-
-Pages
------
-
-* 1
-* [2](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=1 "Go to page 2")
-
-* [3](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=2 "Go to page 3")
-
-* [4](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=3 "Go to page 4")
-
-* [5](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=4 "Go to page 5")
-
-* [6](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=5 "Go to page 6")
-
-* [7](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=6 "Go to page 7")
-
-* [next ›](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=1 "Go to next page")
-
-* [last »](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien?page=6 "Go to last page")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-huong-dan-tao-ho-so-truc-tuyen-danh-cho-tan-sinh-vien#addtoany "Show all")

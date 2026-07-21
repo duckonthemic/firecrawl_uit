@@ -28,7 +28,6 @@ Hãy cùng đến sân cổ vũ, tiếp thêm sức mạnh tinh thần cho các 
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fuit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu&title=UIT%20SPORT%202025%20%7C%20H%E1%BB%87%20th%E1%BB%91ng%20Th%C3%B4ng%20tin%20gi%C3%A0nh%20chi%E1%BA%BFn%20th%E1%BA%AFng%20%C4%91%E1%BA%A7u%20ti%C3%AAn%20t%E1%BA%A1i%20m%C3%B4n%20B%C3%B3ng%20%C4%91%C3%A1%20n%E1%BB%AF)
 
 [](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu# "Next")
@@ -40,18 +39,9 @@ Hãy cùng đến sân cổ vũ, tiếp thêm sức mạnh tinh thần cho các 
 
 [](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu#)
-[](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu#)
 [](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/uit-sport-2025-he-thong-thong-tin-gianh-chien-thang-dau-tien-tai-mon-bong-da-nu#addtoany "Show all")

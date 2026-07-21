@@ -138,6 +138,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/loai-bai-viet/bao-hiem-y-te# "Close")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/bao-hiem-y-te#)
-[](https://ctsv.uit.edu.vn/loai-bai-viet/bao-hiem-y-te#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/bao-hiem-y-te# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/bao-hiem-y-te# "Play Slideshow")

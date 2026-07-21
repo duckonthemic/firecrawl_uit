@@ -66,6 +66,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/quyet-dinh# "Close")
 [](https://ctsv.uit.edu.vn/quyet-dinh#)
-[](https://ctsv.uit.edu.vn/quyet-dinh#)
 [](https://ctsv.uit.edu.vn/quyet-dinh# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/quyet-dinh# "Play Slideshow")

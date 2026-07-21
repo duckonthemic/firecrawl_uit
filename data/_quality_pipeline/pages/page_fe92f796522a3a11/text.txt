@@ -13,6 +13,5 @@ The requested page "/bai-viet/trien-lam-hoang-sa-truong-sa-cho-sinh-vien" could 
 
 [](https://ctsv.uit.edu.vn/bai-viet/trien-lam-hoang-sa-truong-sa-cho-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/trien-lam-hoang-sa-truong-sa-cho-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/trien-lam-hoang-sa-truong-sa-cho-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/trien-lam-hoang-sa-truong-sa-cho-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/trien-lam-hoang-sa-truong-sa-cho-sinh-vien# "Play Slideshow")

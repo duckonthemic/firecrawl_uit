@@ -13,6 +13,5 @@ The requested page "/bai-viet/cuoc-thi-uit-voi-toan-thong-tin-2014" could not be
 
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-uit-voi-toan-thong-tin-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-uit-voi-toan-thong-tin-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-uit-voi-toan-thong-tin-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-uit-voi-toan-thong-tin-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/cuoc-thi-uit-voi-toan-thong-tin-2014# "Play Slideshow")

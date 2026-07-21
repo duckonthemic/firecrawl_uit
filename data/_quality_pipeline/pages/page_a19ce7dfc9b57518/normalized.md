@@ -7,8 +7,6 @@ Kỹ năng
 
 Thu, 02/07/2026 - 11:01
 
-Nhằm đánh giá kết quả rèn luyện sinh viên chính xác, công bằng và minh bạch, Phòng Công tác Sinh viên thông báo họp xét đánh giá điểm rèn luyện sinh viên học kỳ 2 năm học 2025-2026 cấp lớp như sau: Bước 1: Kiểm tra hoạt động: Sinh viên đăng nhập vào hệ thống quản lý điểm rèn luyện https://drl.uit.edu.vn/ bằng tài khoản chứng thực và kiểm tra các hoạt động tham gia trong bảng điểm rèn luyện sinh viên học kỳ 2 năm học 2025-2026 (các hoạt động được tính từ ngày 25/1/2026 – 19/7/2026). Trường hợp có thắc mắc hoặc khiếu nại, sinh viên liên hệ đơn vị tổ chức hoạt động và các đơn vị tổ chức hoạt...
-
 * [Read more about Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026 "Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026")
 
 [TALKSHOW ĐẶC BIỆT: "BẢN LĨNH VƯỢT ÁP LỰC – HÀNH TRÌNH TỎA SÁNG TƯƠNG LAI"](https://ctsv.uit.edu.vn/bai-viet/talkshow-dac-biet-ban-linh-vuot-ap-luc-hanh-trinh-toa-sang-tuong-lai)
@@ -137,7 +135,6 @@ Pages
 [](https://ctsv.uit.edu.vn/loai-bai-viet/ky-nang# "Next")
 
 [](https://ctsv.uit.edu.vn/loai-bai-viet/ky-nang# "Close")
-[](https://ctsv.uit.edu.vn/loai-bai-viet/ky-nang#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/ky-nang#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/ky-nang# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/ky-nang# "Play Slideshow")

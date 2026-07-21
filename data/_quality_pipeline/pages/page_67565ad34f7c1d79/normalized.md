@@ -41,7 +41,6 @@ Sinh viên nên đến tiệm chụp hình với yêu cầu chụp **xin Visa 
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien&title=%5BNH%E1%BA%ACP%20H%E1%BB%8CC%5D%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20h%C3%ACnh%20th%E1%BA%BB%20c%E1%BB%A7a%20sinh%20vi%C3%AAn)
 
 [](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien# "Next")
@@ -53,18 +52,9 @@ Sinh viên nên đến tiệm chụp hình với yêu cầu chụp **xin Visa 
 
 [](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/nhap-hoc-quy-dinh-ve-hinh-cua-sinh-vien#addtoany "Show all")

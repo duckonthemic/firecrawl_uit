@@ -13,6 +13,5 @@ The requested page "/bai-viet/ron-rang-ngay-nhap-hoc-khoa-2015-0" could not be f
 
 [](https://ctsv.uit.edu.vn/bai-viet/ron-rang-ngay-nhap-hoc-khoa-2015-0# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ron-rang-ngay-nhap-hoc-khoa-2015-0#)
-[](https://ctsv.uit.edu.vn/bai-viet/ron-rang-ngay-nhap-hoc-khoa-2015-0#)
 [](https://ctsv.uit.edu.vn/bai-viet/ron-rang-ngay-nhap-hoc-khoa-2015-0# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ron-rang-ngay-nhap-hoc-khoa-2015-0# "Play Slideshow")

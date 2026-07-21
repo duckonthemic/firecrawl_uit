@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-122014-khen-thuong-sinh-vien-he-tu-x
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-122014-khen-thuong-sinh-vien-he-tu-xa-qua-mang-tot-nghiep-loai-gioi-dot-1-nam# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-122014-khen-thuong-sinh-vien-he-tu-xa-qua-mang-tot-nghiep-loai-gioi-dot-1-nam#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-122014-khen-thuong-sinh-vien-he-tu-xa-qua-mang-tot-nghiep-loai-gioi-dot-1-nam#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-122014-khen-thuong-sinh-vien-he-tu-xa-qua-mang-tot-nghiep-loai-gioi-dot-1-nam# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-122014-khen-thuong-sinh-vien-he-tu-xa-qua-mang-tot-nghiep-loai-gioi-dot-1-nam# "Play Slideshow")

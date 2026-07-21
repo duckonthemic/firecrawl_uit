@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-032015-ky-luat-hoc-vien-cao-hoc" cou
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-032015-ky-luat-hoc-vien-cao-hoc# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-032015-ky-luat-hoc-vien-cao-hoc#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-032015-ky-luat-hoc-vien-cao-hoc#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-032015-ky-luat-hoc-vien-cao-hoc# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-032015-ky-luat-hoc-vien-cao-hoc# "Play Slideshow")

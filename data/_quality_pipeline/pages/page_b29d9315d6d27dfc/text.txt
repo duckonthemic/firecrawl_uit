@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-so-022014-tu-van-tuyen-sinh" could not be
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-022014-tu-van-tuyen-sinh# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-022014-tu-van-tuyen-sinh#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-022014-tu-van-tuyen-sinh#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-022014-tu-van-tuyen-sinh# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-022014-tu-van-tuyen-sinh# "Play Slideshow")

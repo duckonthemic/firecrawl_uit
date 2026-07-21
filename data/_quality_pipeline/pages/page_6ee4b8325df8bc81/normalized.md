@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-so-212015-mua-bao-hiem-y-te-va-dang-ky-n
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-212015-mua-bao-hiem-y-te-va-dang-ky-noi-kham-chua-benh-ban-dau-cho-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-212015-mua-bao-hiem-y-te-va-dang-ky-noi-kham-chua-benh-ban-dau-cho-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-212015-mua-bao-hiem-y-te-va-dang-ky-noi-kham-chua-benh-ban-dau-cho-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-212015-mua-bao-hiem-y-te-va-dang-ky-noi-kham-chua-benh-ban-dau-cho-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-212015-mua-bao-hiem-y-te-va-dang-ky-noi-kham-chua-benh-ban-dau-cho-sinh-vien# "Play Slideshow")

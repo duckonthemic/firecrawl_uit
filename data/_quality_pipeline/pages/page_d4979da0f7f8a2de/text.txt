@@ -13,6 +13,5 @@ The requested page "/bai-viet/khan-zalora-thong-bao-tang-phieu-qua-tang-cho-sinh
 
 [](https://ctsv.uit.edu.vn/bai-viet/khan-zalora-thong-bao-tang-phieu-qua-tang-cho-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/khan-zalora-thong-bao-tang-phieu-qua-tang-cho-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/khan-zalora-thong-bao-tang-phieu-qua-tang-cho-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/khan-zalora-thong-bao-tang-phieu-qua-tang-cho-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/khan-zalora-thong-bao-tang-phieu-qua-tang-cho-sinh-vien# "Play Slideshow")

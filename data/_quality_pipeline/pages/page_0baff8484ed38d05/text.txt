@@ -13,6 +13,5 @@ The requested page "/bai-viet/hoi-thao-sinh-vien-2014" could not be found.
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-sinh-vien-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-sinh-vien-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-sinh-vien-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-sinh-vien-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-sinh-vien-2014# "Play Slideshow")

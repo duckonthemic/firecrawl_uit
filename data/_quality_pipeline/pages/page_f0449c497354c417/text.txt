@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-so-682014-chuc-tu-van-tam-ly-cho-sinh-vie
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-682014-chuc-tu-van-tam-ly-cho-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-682014-chuc-tu-van-tam-ly-cho-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-682014-chuc-tu-van-tam-ly-cho-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-682014-chuc-tu-van-tam-ly-cho-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-682014-chuc-tu-van-tam-ly-cho-sinh-vien# "Play Slideshow")

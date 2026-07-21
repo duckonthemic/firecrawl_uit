@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-ve-bai-thi-ket-thuc-tuan-sinh-hoat-cong-
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-bai-thi-ket-thuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-bai-thi-ket-thuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-bai-thi-ket-thuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-bai-thi-ket-thuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-bai-thi-ket-thuc-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Play Slideshow")

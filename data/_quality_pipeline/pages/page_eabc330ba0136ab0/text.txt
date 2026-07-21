@@ -13,6 +13,5 @@ The requested page "/bai-viet/quy-trinh-huong-dan-xet-khen-thuong-ky-luat" could
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-khen-thuong-ky-luat# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-khen-thuong-ky-luat#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-khen-thuong-ky-luat#)
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-khen-thuong-ky-luat# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-khen-thuong-ky-luat# "Play Slideshow")

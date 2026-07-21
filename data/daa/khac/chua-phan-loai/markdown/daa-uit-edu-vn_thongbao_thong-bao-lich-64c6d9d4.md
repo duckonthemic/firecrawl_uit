@@ -1,0 +1,36 @@
+THÔNG BÁO LỊCH THI - KHÓA 2021
+==============================
+
+T5, 26/05/2022 - 08:28
+
+Chào các bạn!
+
+Phòng Đào tạo Đại học thông báo lịch thi môn **CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT**, các bạn kiểm tra danh sách đính kèm và lịch thi để tham gia đúng giờ đúng phòng nhé.
+
+**Ca 2: 9h30**
+
+Trân trọng.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|     |     |     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |           
+| LỊCH THI CUỐI KỲ 2 NĂM HỌC 2021-2022 |     |     |     |     |     |     |     |     |     |     |     |     |
+| (Văn bằng 2 chính quy) |     |     |     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |
+| STT | Tên MH | Mã lớp | Giảng Viên LT | Khoá học | Ngày thi | Thứ | Ca Thi | Phòng Thi | Số SV | Hệ Đào tạo | Học kỳ | Năm học |
+| 1   | Cấu trúc dữ liệu và giải thuật | IT003.M21.VB2 | Nguyễn Thị Quý | 2021 | 04/06/2022 | 7   | 2   | B1.02 | 20  | VB2CQ | 2   | 2021 |
+Các file đính kèm: 
+
+ ![Tập tin](https://daa.uit.edu.vn/modules/file/icons/x-office-spreadsheet.png "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet") [it003.m21.vb2\_22-05-26.xlsx](https://daa.uit.edu.vn/sites/daa/files/202205/it003.m21.vb2_22-05-26.xlsx)

@@ -13,6 +13,5 @@ The requested page "/bai-viet/doan-truong-dai-hoc-cong-nghe-thong-tin-la-co-dau-
 
 [](https://ctsv.uit.edu.vn/bai-viet/doan-truong-dai-hoc-cong-nghe-thong-tin-la-co-dau-nam-hoc-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/doan-truong-dai-hoc-cong-nghe-thong-tin-la-co-dau-nam-hoc-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/doan-truong-dai-hoc-cong-nghe-thong-tin-la-co-dau-nam-hoc-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/doan-truong-dai-hoc-cong-nghe-thong-tin-la-co-dau-nam-hoc-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/doan-truong-dai-hoc-cong-nghe-thong-tin-la-co-dau-nam-hoc-2013-2014# "Play Slideshow")

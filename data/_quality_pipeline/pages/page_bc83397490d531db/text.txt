@@ -27,6 +27,5 @@ Quy trình
 
 [](https://ctsv.uit.edu.vn/quy-trinh?page=1# "Close")
 [](https://ctsv.uit.edu.vn/quy-trinh?page=1#)
-[](https://ctsv.uit.edu.vn/quy-trinh?page=1#)
 [](https://ctsv.uit.edu.vn/quy-trinh?page=1# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/quy-trinh?page=1# "Play Slideshow")

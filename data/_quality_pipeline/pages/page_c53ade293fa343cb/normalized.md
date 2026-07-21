@@ -52,7 +52,6 @@ CTĐT Khoá 2013
 CTĐT Khoá 2008
 Lịch TKB
 Lịch phòng
-Lịch phòng
 LỊCH SỬ DỤNG PHÒNG
 Tuần trước đó | Tuần hiện tại | Tuần kế tiếp >>
 TÒA NHÀ A
@@ -2076,11 +2075,6 @@ C301
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình VNXK
 Tiết 2
 (8:15 - 9:00)
@@ -2129,11 +2123,6 @@ C305
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Vì đàn em
 Tiết 2
 (8:15 - 9:00)
@@ -2158,11 +2147,6 @@ Sau 17h -- ... -- -- ... -- -- ... --
 C306
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Xung kích
 Tiết 2
@@ -2189,10 +2173,6 @@ C307
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình CXCN Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình CXCN Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình CXCN Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình CXCN Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình CXCN Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình CXCN -- ... --
 Tiết 2
 (8:15 - 9:00) -- ... --
@@ -2217,11 +2197,6 @@ Sau 17h -- ... -- -- ... -- -- ... --
 C308
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình Truyền thông
 Tiết 2
@@ -2271,10 +2246,6 @@ C310
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Tân Nhựt Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Tân Nhựt Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Tân Nhựt Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Tân Nhựt Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Tân Nhựt Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Tân Nhựt -- ... --
 Tiết 2
 (8:15 - 9:00) -- ... --
@@ -2323,10 +2294,6 @@ C312
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Phước Hải Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Phước Hải Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Phước Hải Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Phước Hải Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Phước Hải Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Phước Hải -- ... --
 Tiết 2
 (8:15 - 9:00) -- ... --
@@ -2351,10 +2318,6 @@ Sau 17h -- ... -- -- ... -- -- ... --
 C313
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT An Nhơn Tây Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT An Nhơn Tây Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT An Nhơn Tây Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT An Nhơn Tây Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT An Nhơn Tây Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT An Nhơn Tây -- ... --
 Tiết 2
@@ -2403,10 +2366,6 @@ Sau 17h -- ... -- -- ... -- -- ... --
 C315
 Sức chứa : 50 Tiết 1
 (7:30 - 8:15) Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Đồng Tháp Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Đồng Tháp Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Đồng Tháp Hôi Sinh viên trường
-Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Đồng Tháp Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Đồng Tháp Hôi Sinh viên trường
 Sĩ số: 50 Mùa hè xanh 2026 - Đội hình TT Đồng Tháp -- ... --
 Tiết 2

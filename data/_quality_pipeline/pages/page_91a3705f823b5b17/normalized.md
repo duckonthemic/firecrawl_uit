@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-so-072015-chuc-hoi-nghi-co-van-hoc-tap-20
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-072015-chuc-hoi-nghi-co-van-hoc-tap-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-072015-chuc-hoi-nghi-co-van-hoc-tap-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-072015-chuc-hoi-nghi-co-van-hoc-tap-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-072015-chuc-hoi-nghi-co-van-hoc-tap-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-072015-chuc-hoi-nghi-co-van-hoc-tap-2015# "Play Slideshow")

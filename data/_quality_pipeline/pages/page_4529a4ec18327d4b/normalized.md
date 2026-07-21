@@ -1,0 +1,25 @@
+Sơ đồ chỗ ngồi Lễ tốt nghiệp và trao bằng Thạc sĩ, Kỹ sư, Cử nhân đợt 1 năm 2015 ( UPDATE)
+==========================================================================================
+
+Tue, 16/06/2015 - 11:41
+
+Căn cứ kế hoạch số 13/KH-ĐHCNTT-CTSV ngày 21 tháng 5 năm 2015 của Trường Đại học Công nghệ Thông tin về việc tổ chức Lễ tốt nghiệp và trao bằng Thạc sĩ, Kỹ sư, Cử nhân đợt 1 năm 2015.
+
+Phòng Công tác Sinh viên thông báo sơ đồ chỗ ngồi và lưu ý trong thời gian làm lễ.
+
+Thời gian: 7g30 ngày 20 tháng 6 năm 2015
+
+Địa điểm: Giảng đường 1- Tòa nhà A Trường Đại học Công nghệ Thông tin
+
+Sinh viên tập trung: 7g30 tại giảng đường 1 để ổn định vị trí chỗ ngồi.
+
+Sinh viên xem sơ đồ chỗ ngồi và các lưu ý ( file đính kèm).
+
+File đính kèm:
+
+![File](https://ctsv.uit.edu.vn/modules/file/icons/x-office-document.png "application/vnd.openxmlformats-officedocument.wordprocessingml.document") [sodochongoivaluuykhithamgiale.docx](https://ctsv.uit.edu.vn/sites/default/files/201506/sodochongoivaluuykhithamgiale.docx)
+
+![File](https://ctsv.uit.edu.vn/modules/file/icons/x-office-spreadsheet.png "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet") [thutunhanbang.xlsx](https://ctsv.uit.edu.vn/sites/default/files/201506/thutunhanbang_0.xlsx)
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)

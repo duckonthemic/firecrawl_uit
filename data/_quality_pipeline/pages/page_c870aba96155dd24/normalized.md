@@ -15,8 +15,6 @@ Các thông tin được đăng trên trang này gồm có:
 
 * Thời khóa biểu
 
-Các tiện ích dành cho sinh viên gồm có (cần đăng nhập):
-
 * Xem lịch học
 
 * Xem kết quả học tập
@@ -24,8 +22,6 @@ Các tiện ích dành cho sinh viên gồm có (cần đăng nhập):
 * Xem học phí
 
 * Đăng ký học phần
-
-Các tiện ích dành cho giảng viên gồm có (cần đăng nhập):
 
 * Xem lịch dạy
 

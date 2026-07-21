@@ -13,6 +13,5 @@ The requested page "/bai-viet/truong-dh-cong-nghe-thong-tin-chuc-gap-go-phu-huyn
 
 [](https://ctsv.uit.edu.vn/bai-viet/truong-dh-cong-nghe-thong-tin-chuc-gap-go-phu-huynh-tan-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/truong-dh-cong-nghe-thong-tin-chuc-gap-go-phu-huynh-tan-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/truong-dh-cong-nghe-thong-tin-chuc-gap-go-phu-huynh-tan-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/truong-dh-cong-nghe-thong-tin-chuc-gap-go-phu-huynh-tan-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/truong-dh-cong-nghe-thong-tin-chuc-gap-go-phu-huynh-tan-sinh-vien# "Play Slideshow")

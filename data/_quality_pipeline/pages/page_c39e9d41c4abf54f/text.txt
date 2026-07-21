@@ -13,6 +13,5 @@ The requested page "/bai-viet/so-do-cho-ngoi-le-tot-nghiep-va-trao-bang-thac-si-
 
 [](https://ctsv.uit.edu.vn/bai-viet/so-do-cho-ngoi-le-tot-nghiep-va-trao-bang-thac-si-ky-su-cu-nhan-dot-1-nam-2015-update# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/so-do-cho-ngoi-le-tot-nghiep-va-trao-bang-thac-si-ky-su-cu-nhan-dot-1-nam-2015-update#)
-[](https://ctsv.uit.edu.vn/bai-viet/so-do-cho-ngoi-le-tot-nghiep-va-trao-bang-thac-si-ky-su-cu-nhan-dot-1-nam-2015-update#)
 [](https://ctsv.uit.edu.vn/bai-viet/so-do-cho-ngoi-le-tot-nghiep-va-trao-bang-thac-si-ky-su-cu-nhan-dot-1-nam-2015-update# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/so-do-cho-ngoi-le-tot-nghiep-va-trao-bang-thac-si-ky-su-cu-nhan-dot-1-nam-2015-update# "Play Slideshow")

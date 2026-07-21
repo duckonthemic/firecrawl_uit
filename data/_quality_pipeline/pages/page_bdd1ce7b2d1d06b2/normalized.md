@@ -26,15 +26,11 @@ hoặc [https://student.uit.edu.vn](https://student.uit.edu.vn/)
 
 \- Đây là cổng thông tin đào tạo của trường để thông báo cho SV về các vấn đề liên quan công tác đào tạo: qui chế qui định liên quan đào tạo, các qui trình liên quan đến học tập, lịch học, lịch đăng ký học phần, .......
 
-\- SV sử dụng tài khoản chứng thực để đăng nhập vào website này khi: Đăng ký học phần, Xem kết quả học tập, Kết quả đăng ký học phần, Thời khóa biểu, Tra cứu thông tin cá nhân, Tra cứu thông tin học phí, ........
-
 **2. Website Phòng Công tác sinh viên**
 
 \- Địa chỉ: [http://ctsv.uit.edu.vn](http://ctsv.uit.edu.vn/)
 
 \- Website P. CTSV cung cấp các thông tin về chế độ chính sách, học bổng, các qui định liên quan đến sinh viên mà không thuộc công tác đào tạo: qui chế sinh viên, qui định qui trình về điểm rèn luyện, nội qui đối với SV...
-
-\- SV sử dụng tài khoản chứng thực để đăng nhập vào website này khi muốn: tải các biểu mẫu, xem thông báo của trường, đăng ký Giấy xác nhận SV
 
 **3. Forum**
 
@@ -60,8 +56,6 @@ hoặc [https://student.uit.edu.vn](https://student.uit.edu.vn/)
 
 \- Hệ thống LMS còn là trang web dùng tổ chức các cuộc thi, bài kiểm tra trắc nghiệm trực tuyến như: Kiểm tra Anh văn đầu vào Kiểm tra tuần sinh hoạt đầu khóa,
 
-\- SV sử dụng tài khoản chứng thực để đăng nhập vào website này.
-
 **5. Hệ thống SMS**
 
 Hệ thống này thường được sử dụng để nhắn tin đến SV và phụ huynh để thông báo một số thông tin quan trọng.
@@ -80,7 +74,6 @@ Ngoài ra, sinh viên có thể dễ dàng tra cứu thông tin cần thiết tr
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fkenh-thong-tin-giua-nha-truong-va-sinh-vien&title=K%C3%AAnh%20th%C3%B4ng%20tin%20gi%E1%BB%AFa%20Nh%C3%A0%20Tr%C6%B0%E1%BB%9Dng%20v%C3%A0%20sinh%20vi%C3%AAn)
 
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Next")
@@ -92,18 +85,9 @@ Ngoài ra, sinh viên có thể dễ dàng tra cứu thông tin cần thiết tr
 
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien#addtoany "Show all")

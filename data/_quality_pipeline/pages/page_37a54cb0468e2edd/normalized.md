@@ -27,7 +27,6 @@ Chạy offline tại UIT không chỉ giúp bạn rèn luyện sức bền, mà 
 **CÁCH THAM GIA CHẠY OFFLINE UPRACE x UIT**
 
 1. **Tải ứng dụng UpRace** (iOS/Android)
-2. **Đăng nhập** → Chọn Tham gia sự kiện UpRace 2025
 3. **Chọn tổ chức gây quỹ bạn muốn đồng hành:**
 
 * Quỹ học bổng Vừ A Dính
@@ -44,7 +43,6 @@ Chạy offline tại UIT không chỉ giúp bạn rèn luyện sức bền, mà 
 
 **CƠ CẤU GIẢI THƯỞNG HẤP DẪN**
 
-**CƠ CẤU GIẢI THƯỞNG HẤP DẪN**
 
 ![Có thể là hình ảnh về điện thoại và văn bản](<Base64-Image-Removed>)
 
@@ -79,7 +77,6 @@ Hẹn gặp bạn trên đường chạy UpRace 2025 x UIT!
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fuprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline&title=UPRACE%202025%20x%20UIT%20%E2%80%93%20H%E1%BA%B9n%20UIT%20Runners%20tr%C3%AAn%20%C4%91%C6%B0%E1%BB%9Dng%20ch%E1%BA%A1y%20offline!)
 
 [](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline# "Next")
@@ -91,18 +88,9 @@ Hẹn gặp bạn trên đường chạy UpRace 2025 x UIT!
 
 [](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline#)
-[](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline#)
 [](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/uprace-2025-x-uit-hen-uit-runners-tren-duong-chay-offline#addtoany "Show all")

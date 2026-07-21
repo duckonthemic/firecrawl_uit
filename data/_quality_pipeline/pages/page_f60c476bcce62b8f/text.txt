@@ -70,6 +70,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Close")
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5#)
-[](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5#)
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=5# "Play Slideshow")

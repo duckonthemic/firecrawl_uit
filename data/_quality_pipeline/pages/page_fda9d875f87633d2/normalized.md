@@ -13,6 +13,5 @@ The requested page "/bai-viet/cac-van-ban-lien-quan-den-sinh-vien" could not be 
 
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-ban-lien-quan-den-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-ban-lien-quan-den-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/cac-van-ban-lien-quan-den-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-ban-lien-quan-den-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/cac-van-ban-lien-quan-den-sinh-vien# "Play Slideshow")

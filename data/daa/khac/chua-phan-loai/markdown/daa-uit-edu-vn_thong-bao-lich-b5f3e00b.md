@@ -1,0 +1,13 @@
+Thông báo lịch nghỉ Tết Nguyên đán năm 2024
+===========================================
+
+T2, 13/11/2023 - 14:32
+
+![](https://daa.uit.edu.vn/sites/daa/files/uploads/nghi_tet_al_2024.jpg)
+
+\- Thông báo này **được áp dụng cho việc dạy - học đối với SV chính quy Văn bằng 1**, các lớp được nghỉ ngày 19/02/2024: Cán bộ giảng dạy sắp xếp dạy bù.
+
+\- Các lớp Văn bằng 2 chính quy vẫn nghỉ từ ngày 05/02/2024 đến hết ngày 18/02/2024 (áp dụng lịch như kế hoạch năm đã công bố tại [https://daa.uit.edu.vn/kehoachnam](https://daa.uit.edu.vn/kehoachnam)
+).
+
+\- Các lớp Liên thông Đại học chính quy nghỉ từ ngày 29/01/2024 đến hết ngày 18/02/2024 (áp dụng theo lịch nghỉ Tết của Trường Cao đẳng Công nghệ Thông tin).

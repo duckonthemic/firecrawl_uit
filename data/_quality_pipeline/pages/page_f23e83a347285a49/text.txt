@@ -13,6 +13,5 @@ The requested page "/bai-viet/he-thong-uit-vsd-truong-dai-hoc-cong-nghe-thong-ti
 
 [](https://ctsv.uit.edu.vn/bai-viet/he-thong-uit-vsd-truong-dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-vao-chung-ket-giai-thuong# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/he-thong-uit-vsd-truong-dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-vao-chung-ket-giai-thuong#)
-[](https://ctsv.uit.edu.vn/bai-viet/he-thong-uit-vsd-truong-dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-vao-chung-ket-giai-thuong#)
 [](https://ctsv.uit.edu.vn/bai-viet/he-thong-uit-vsd-truong-dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-vao-chung-ket-giai-thuong# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/he-thong-uit-vsd-truong-dai-hoc-cong-nghe-thong-tin-dhqg-tphcm-vao-chung-ket-giai-thuong# "Play Slideshow")

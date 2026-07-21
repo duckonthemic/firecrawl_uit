@@ -13,6 +13,5 @@ The requested page "/bai-viet/noi-quy-va-mot-so-quy-dinh-trong-truong" could not
 
 [](https://ctsv.uit.edu.vn/bai-viet/noi-quy-va-mot-so-quy-dinh-trong-truong# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/noi-quy-va-mot-so-quy-dinh-trong-truong#)
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-va-mot-so-quy-dinh-trong-truong#)
 [](https://ctsv.uit.edu.vn/bai-viet/noi-quy-va-mot-so-quy-dinh-trong-truong# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/noi-quy-va-mot-so-quy-dinh-trong-truong# "Play Slideshow")

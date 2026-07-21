@@ -17,7 +17,6 @@ Nên trích lục sẵn 5 6 bản để dùng về sau.
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhuong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le&title=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20H%E1%BB%93%20s%C6%A1%20nh%E1%BA%ADp%20h%E1%BB%8Dc%20-%203.%20Gi%E1%BA%A5y%20khai%20sinh%20(b%E1%BA%A3n%20sao%20tr%C3%ADch%20l%E1%BB%A5c%20ho%E1%BA%B7c%20photo%20c%C3%B4ng%20ch%E1%BB%A9ng%20h%E1%BB%A3p%20l%E1%BB%87))
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le# "Next")
@@ -29,18 +28,9 @@ Nên trích lục sẵn 5 6 bản để dùng về sau.
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le#)
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le#)
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-3-giay-khai-sinh-ban-sao-trich-luc-hoac-photo-cong-chung-hop-le#addtoany "Show all")

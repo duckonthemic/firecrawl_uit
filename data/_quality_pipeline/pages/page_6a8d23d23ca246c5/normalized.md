@@ -13,6 +13,5 @@ The requested page "/bai-viet/hoc-bong-trao-doi-sinh-vien-xuat-sac-tai-truong-da
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-trao-doi-sinh-vien-xuat-sac-tai-truong-dai-hoc-daejeon# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-trao-doi-sinh-vien-xuat-sac-tai-truong-dai-hoc-daejeon#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-trao-doi-sinh-vien-xuat-sac-tai-truong-dai-hoc-daejeon#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-trao-doi-sinh-vien-xuat-sac-tai-truong-dai-hoc-daejeon# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-trao-doi-sinh-vien-xuat-sac-tai-truong-dai-hoc-daejeon# "Play Slideshow")

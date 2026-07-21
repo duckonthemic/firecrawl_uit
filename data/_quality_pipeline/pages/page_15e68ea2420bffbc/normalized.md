@@ -13,7 +13,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-nghi-le-quoc-khanh-29-nam-2018&title=Th%C3%B4ng%20b%C3%A1o%20ngh%E1%BB%89%20L%E1%BB%85%20Qu%E1%BB%91c%20Kh%C3%A1nh%202%2F9%20n%C4%83m%202018)
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018# "Next")
@@ -25,18 +24,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nghi-le-quoc-khanh-29-nam-2018#addtoany "Show all")

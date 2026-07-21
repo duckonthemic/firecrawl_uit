@@ -13,6 +13,5 @@ The requested page "/bai-viet/mhx-2014-dang-ky-tham-gia-cdtn-mua-he-xanh-2014" c
 
 [](https://ctsv.uit.edu.vn/bai-viet/mhx-2014-dang-ky-tham-gia-cdtn-mua-he-xanh-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/mhx-2014-dang-ky-tham-gia-cdtn-mua-he-xanh-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/mhx-2014-dang-ky-tham-gia-cdtn-mua-he-xanh-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/mhx-2014-dang-ky-tham-gia-cdtn-mua-he-xanh-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/mhx-2014-dang-ky-tham-gia-cdtn-mua-he-xanh-2014# "Play Slideshow")

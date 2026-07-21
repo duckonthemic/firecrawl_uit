@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-bo-sung-ho-so-nhap-hoc-khoa-2014" could 
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-bo-sung-ho-so-nhap-hoc-khoa-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-bo-sung-ho-so-nhap-hoc-khoa-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-bo-sung-ho-so-nhap-hoc-khoa-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-bo-sung-ho-so-nhap-hoc-khoa-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-bo-sung-ho-so-nhap-hoc-khoa-2014# "Play Slideshow")

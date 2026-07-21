@@ -17,7 +17,6 @@ TP.HCM (gọi tắt là app Công dân số), với mục đích kết nối cô
 
 Điểm nổi bật của app Công dân số là người dân có thể nắm bắt kết quả các cơ quan chức năng của TP giải quyết sự việc, sự vụ mà mình phản ánh qua app một cách trực tiếp, nhanh nhất có thể.
 
-Người dân đăng nhập chỉ một lần duy nhất thông qua tài khoản định danh điện tử của công dân Việt Nam (tài khoản [VNeID](https://tuoitre.vn/moi-nguoi-viet-se-so-huu-mot-so-suc-khoe-dien-tu-tren-ung-dung-vneid-20241002175839863.htm "Mỗi người Việt sẽ sở hữu một sổ sức khỏe điện tử trên ứng dụng VNeID")
 ).
 
 Người dân có thể tra cứu thủ tục hành chính, tra cứu hồ sơ hành chính và nắm bắt tình trạng giải quyết hồ sơ hành chính ở các lĩnh vực.
@@ -35,68 +34,3 @@ TP cho biết trong thời gian tới sẽ tiếp tục lắng nghe thông tin p
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fung-dung-cong-dan-so-tphcm&title=%E1%BB%A8ng%20d%E1%BB%A5ng%C2%A0C%C3%B4ng%20d%C3%A2n%20s%E1%BB%91%C2%A0TP.HCM)
-
-------------------
-
-* [Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026](https://ctsv.uit.edu.vn/bai-viet/muc-dong-bhyt-va-cac-chinh-sach-bao-hiem-y-te-co-hieu-luc-tu-0172026)
-(07-07-2026)
-* [Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-danh-gia-ket-qua-ren-luyen-sinh-vien-hoc-ky-2-nam-hoc-2025-2026)
-(02-07-2026)
-* [\[An ninh sinh viên\] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-cao-diem-dau-tranh-phong-chong-toi-pham-ve-so-huu-tri-tue-sinh-vien-can-biet)
-(24-06-2026)
-* [\[An ninh Sinh viên\] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!](https://ctsv.uit.edu.vn/bai-viet/ninh-sinh-vien-toan-khong-gian-mang-canh-bao-lo-ma-so-sinh-vien-mssv-dung-de-du-lieu-ca)
-(18-06-2026)
-* [Hình ảnh Lễ tốt nghiệp đợt 1 năm 2026](https://ctsv.uit.edu.vn/bai-viet/hinh-anh-le-tot-nghiep-dot-1-nam-2026)
-(15-06-2026)
-
-Pages
------
-
-* 1
-* [2](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=1 "Go to page 2")
-
-* [3](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=2 "Go to page 3")
-
-* [4](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=3 "Go to page 4")
-
-* [5](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=4 "Go to page 5")
-
-* [6](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=5 "Go to page 6")
-
-* [7](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=6 "Go to page 7")
-
-* [8](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=7 "Go to page 8")
-
-* [9](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=8 "Go to page 9")
-
-* …
-* [next ›](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=1 "Go to next page")
-
-* [last »](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm?page=48 "Go to last page")
-
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm#)
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm#)
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/ung-dung-cong-dan-so-tphcm#addtoany "Show all")

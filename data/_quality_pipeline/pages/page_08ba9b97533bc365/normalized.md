@@ -35,37 +35,3 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquy-dinh-lien-quan-den-hoc-bong-sinh-vien&title=Quy%20%C4%91%E1%BB%8Bnh%20li%C3%AAn%20quan%20%C4%91%E1%BA%BFn%20h%E1%BB%8Dc%20b%E1%BB%95ng%20sinh%20vi%C3%AAn)
-
-------------------
-
-* [Quy định liên quan đến công tác đào tạo tại Trường Đại học Công nghệ Thông tin](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-cong-tac-dao-tao-tai-truong-dai-hoc-cong-nghe-thong-tin)
-(29-07-2013)
-* [Nội quy cơ quan trường học của Trường ĐH CNTT](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt)
-(17-01-2013)
-
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien#addtoany "Show all")

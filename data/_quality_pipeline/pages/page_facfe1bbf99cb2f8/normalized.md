@@ -13,7 +13,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20c%C3%B4ng%20t%C3%A1c%20sinh%20vi%C3%AAn%20n%E1%BB%99i%20tr%C3%BA)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru# "Next")
@@ -25,18 +24,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-ban-hanh-quy-che-cong-tac-sinh-vien-noi-tru#addtoany "Show all")

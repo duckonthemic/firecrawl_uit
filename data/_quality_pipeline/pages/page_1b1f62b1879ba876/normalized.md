@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-082015-thanh-lap-ban-chuc-hoi-nghi-s
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-082015-thanh-lap-ban-chuc-hoi-nghi-sinh-vien-nam-hoc-2014-2015-0# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-082015-thanh-lap-ban-chuc-hoi-nghi-sinh-vien-nam-hoc-2014-2015-0#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-082015-thanh-lap-ban-chuc-hoi-nghi-sinh-vien-nam-hoc-2014-2015-0#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-082015-thanh-lap-ban-chuc-hoi-nghi-sinh-vien-nam-hoc-2014-2015-0# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-082015-thanh-lap-ban-chuc-hoi-nghi-sinh-vien-nam-hoc-2014-2015-0# "Play Slideshow")

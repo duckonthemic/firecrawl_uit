@@ -25,7 +25,6 @@ Quỹ học bổng Cựu sinh viên
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fban-lien-lac-cuu-sinh-vien-uit&title=Ban%20li%C3%AAn%20l%E1%BA%A1c%20C%E1%BB%B1u%20sinh%20vi%C3%AAn%20UIT)
 
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Next")
@@ -37,18 +36,9 @@ Quỹ học bổng Cựu sinh viên
 
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#)
-[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#)
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-uit#addtoany "Show all")

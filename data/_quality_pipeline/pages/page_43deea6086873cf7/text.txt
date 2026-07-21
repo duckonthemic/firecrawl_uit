@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-so-092014-chuc-hoi-nghi-sinh-vien" could 
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-092014-chuc-hoi-nghi-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-092014-chuc-hoi-nghi-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-092014-chuc-hoi-nghi-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-092014-chuc-hoi-nghi-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-092014-chuc-hoi-nghi-sinh-vien# "Play Slideshow")

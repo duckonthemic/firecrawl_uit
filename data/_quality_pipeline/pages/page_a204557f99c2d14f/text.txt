@@ -13,6 +13,5 @@ The requested page "/bai-viet/15-loi-khuyen-giup-sinh-vien-hoc-hieu-qua" could n
 
 [](https://ctsv.uit.edu.vn/bai-viet/15-loi-khuyen-giup-sinh-vien-hoc-hieu-qua# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/15-loi-khuyen-giup-sinh-vien-hoc-hieu-qua#)
-[](https://ctsv.uit.edu.vn/bai-viet/15-loi-khuyen-giup-sinh-vien-hoc-hieu-qua#)
 [](https://ctsv.uit.edu.vn/bai-viet/15-loi-khuyen-giup-sinh-vien-hoc-hieu-qua# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/15-loi-khuyen-giup-sinh-vien-hoc-hieu-qua# "Play Slideshow")

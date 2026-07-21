@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-492014-cong-nhan-ket-qua-danh-gia-di
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-492014-cong-nhan-ket-qua-danh-gia-diem-ren-luyen-hkii-nam-hoc-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-492014-cong-nhan-ket-qua-danh-gia-diem-ren-luyen-hkii-nam-hoc-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-492014-cong-nhan-ket-qua-danh-gia-diem-ren-luyen-hkii-nam-hoc-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-492014-cong-nhan-ket-qua-danh-gia-diem-ren-luyen-hkii-nam-hoc-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-492014-cong-nhan-ket-qua-danh-gia-diem-ren-luyen-hkii-nam-hoc-2013-2014# "Play Slideshow")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-ve-cung-cap-ban-quyen-microsoft-office-d
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cung-cap-ban-quyen-microsoft-office-danh-cho-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cung-cap-ban-quyen-microsoft-office-danh-cho-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cung-cap-ban-quyen-microsoft-office-danh-cho-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cung-cap-ban-quyen-microsoft-office-danh-cho-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-cung-cap-ban-quyen-microsoft-office-danh-cho-sinh-vien# "Play Slideshow")

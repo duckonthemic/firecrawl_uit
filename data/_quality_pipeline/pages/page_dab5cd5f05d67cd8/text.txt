@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-nhan-tien-tro-cap-xa-hoi-nam-hoc" could 
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-tien-tro-cap-xa-hoi-nam-hoc# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-tien-tro-cap-xa-hoi-nam-hoc#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-tien-tro-cap-xa-hoi-nam-hoc#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-tien-tro-cap-xa-hoi-nam-hoc# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-tien-tro-cap-xa-hoi-nam-hoc# "Play Slideshow")

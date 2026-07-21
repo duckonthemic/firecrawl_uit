@@ -13,6 +13,5 @@ The requested page "/bai-viet/mot-so-quy-trinh-co-ban-danh-cho-sinh-vien" could 
 
 [](https://ctsv.uit.edu.vn/bai-viet/mot-so-quy-trinh-co-ban-danh-cho-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/mot-so-quy-trinh-co-ban-danh-cho-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/mot-so-quy-trinh-co-ban-danh-cho-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/mot-so-quy-trinh-co-ban-danh-cho-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/mot-so-quy-trinh-co-ban-danh-cho-sinh-vien# "Play Slideshow")

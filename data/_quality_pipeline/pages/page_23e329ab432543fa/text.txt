@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-042015-ky-luat-sinh-vien" could not 
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-042015-ky-luat-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-042015-ky-luat-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-042015-ky-luat-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-042015-ky-luat-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-042015-ky-luat-sinh-vien# "Play Slideshow")

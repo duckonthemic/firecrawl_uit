@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-sinh-vien-tham-gia-tuan-sinh-hoat-cong-d
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-tham-gia-tuan-sinh-hoat-cong-dan-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-tham-gia-tuan-sinh-hoat-cong-dan-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-tham-gia-tuan-sinh-hoat-cong-dan-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-tham-gia-tuan-sinh-hoat-cong-dan-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-tham-gia-tuan-sinh-hoat-cong-dan-sinh-vien# "Play Slideshow")

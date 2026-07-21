@@ -13,6 +13,5 @@ The requested page "/bai-viet/ban-can-su-doan-dhqg-hcm-va-bgh-truong-dh-cntt-den
 
 [](https://ctsv.uit.edu.vn/bai-viet/ban-can-su-doan-dhqg-hcm-va-bgh-truong-dh-cntt-den-tham-chien-sy-mua-he-xanh-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-can-su-doan-dhqg-hcm-va-bgh-truong-dh-cntt-den-tham-chien-sy-mua-he-xanh-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/ban-can-su-doan-dhqg-hcm-va-bgh-truong-dh-cntt-den-tham-chien-sy-mua-he-xanh-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/ban-can-su-doan-dhqg-hcm-va-bgh-truong-dh-cntt-den-tham-chien-sy-mua-he-xanh-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-can-su-doan-dhqg-hcm-va-bgh-truong-dh-cntt-den-tham-chien-sy-mua-he-xanh-2015# "Play Slideshow")

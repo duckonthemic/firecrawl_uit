@@ -63,6 +63,5 @@ Phần mềm quản trị hài lòng khách hàng, chăm sóc khách hàng DooPa
 
 [](https://ctsv.uit.edu.vn/cuu-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/cuu-sinh-vien#)
-[](https://ctsv.uit.edu.vn/cuu-sinh-vien#)
 [](https://ctsv.uit.edu.vn/cuu-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/cuu-sinh-vien# "Play Slideshow")

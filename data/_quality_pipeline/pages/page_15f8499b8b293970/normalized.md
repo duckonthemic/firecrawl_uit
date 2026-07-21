@@ -83,7 +83,6 @@ hoặc [http://auth.uit.edu.vn](http://auth.uit.edu.vn/)
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquan-ly-thong-tin-sinh-vien&title=Qu%E1%BA%A3n%20l%C3%BD%20th%C3%B4ng%20tin%20sinh%20vi%C3%AAn)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien# "Next")
@@ -95,18 +94,9 @@ hoặc [http://auth.uit.edu.vn](http://auth.uit.edu.vn/)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quan-ly-thong-tin-sinh-vien#addtoany "Show all")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-khen-thuong-sinh-vien-tot-nghiep-loai-gi
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-khen-thuong-sinh-vien-tot-nghiep-loai-gioi-dot-1-nam-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-khen-thuong-sinh-vien-tot-nghiep-loai-gioi-dot-1-nam-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-khen-thuong-sinh-vien-tot-nghiep-loai-gioi-dot-1-nam-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-khen-thuong-sinh-vien-tot-nghiep-loai-gioi-dot-1-nam-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-khen-thuong-sinh-vien-tot-nghiep-loai-gioi-dot-1-nam-2014# "Play Slideshow")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/sinh-vien-voi-cac-phong-trao-tinh-nguyen-xa-hoi-th
 
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-voi-cac-phong-trao-tinh-nguyen-xa-hoi-thanh-pho# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-voi-cac-phong-trao-tinh-nguyen-xa-hoi-thanh-pho#)
-[](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-voi-cac-phong-trao-tinh-nguyen-xa-hoi-thanh-pho#)
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-voi-cac-phong-trao-tinh-nguyen-xa-hoi-thanh-pho# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/sinh-vien-voi-cac-phong-trao-tinh-nguyen-xa-hoi-thanh-pho# "Play Slideshow")

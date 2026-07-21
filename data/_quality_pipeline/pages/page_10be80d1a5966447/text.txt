@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-so-042015-cap-nhat-thong-tin-sinh-vien-x
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-042015-cap-nhat-thong-tin-sinh-vien-xac-nhan-hanh-kiem-noi-cu-tru# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-042015-cap-nhat-thong-tin-sinh-vien-xac-nhan-hanh-kiem-noi-cu-tru#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-042015-cap-nhat-thong-tin-sinh-vien-xac-nhan-hanh-kiem-noi-cu-tru#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-042015-cap-nhat-thong-tin-sinh-vien-xac-nhan-hanh-kiem-noi-cu-tru# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-042015-cap-nhat-thong-tin-sinh-vien-xac-nhan-hanh-kiem-noi-cu-tru# "Play Slideshow")

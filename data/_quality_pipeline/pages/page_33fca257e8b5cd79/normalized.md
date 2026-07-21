@@ -65,6 +65,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach# "Close")
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach#)
-[](https://ctsv.uit.edu.vn/van-ban/ke-hoach#)
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/van-ban/ke-hoach# "Play Slideshow")

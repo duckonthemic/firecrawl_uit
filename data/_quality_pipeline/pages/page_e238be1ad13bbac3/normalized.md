@@ -17,7 +17,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg&title=Quy%20ch%E1%BA%BF%20c%C3%B4ng%20t%C3%A1c%20thi%20%C4%91ua%2C%20khen%20th%C6%B0%E1%BB%9Fng%20h%E1%BB%8Dc%20sinh%2C%20sinh%20vi%C3%AAn%20c%E1%BA%A5p%20%C4%90HQG)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg# "Next")
@@ -29,18 +28,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg#)
 [](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quy-che-cong-tac-thi-dua-khen-thuong-hoc-sinh-sinh-vien-cap-dhqg#addtoany "Show all")

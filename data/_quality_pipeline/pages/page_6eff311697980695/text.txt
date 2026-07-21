@@ -13,6 +13,5 @@ The requested page "/bai-viet/dien-dan-thu-linh-sinh-vien-va-dien-dan-pho-giam-d
 
 [](https://ctsv.uit.edu.vn/bai-viet/dien-dan-thu-linh-sinh-vien-va-dien-dan-pho-giam-doc-phu-trach-cong-tac-sinh-vien-dong-nam# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/dien-dan-thu-linh-sinh-vien-va-dien-dan-pho-giam-doc-phu-trach-cong-tac-sinh-vien-dong-nam#)
-[](https://ctsv.uit.edu.vn/bai-viet/dien-dan-thu-linh-sinh-vien-va-dien-dan-pho-giam-doc-phu-trach-cong-tac-sinh-vien-dong-nam#)
 [](https://ctsv.uit.edu.vn/bai-viet/dien-dan-thu-linh-sinh-vien-va-dien-dan-pho-giam-doc-phu-trach-cong-tac-sinh-vien-dong-nam# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/dien-dan-thu-linh-sinh-vien-va-dien-dan-pho-giam-doc-phu-trach-cong-tac-sinh-vien-dong-nam# "Play Slideshow")

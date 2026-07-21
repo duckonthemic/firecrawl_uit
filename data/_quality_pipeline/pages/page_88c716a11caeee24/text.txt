@@ -137,6 +137,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/loai-bai-viet/tam-ly# "Close")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/tam-ly#)
-[](https://ctsv.uit.edu.vn/loai-bai-viet/tam-ly#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/tam-ly# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/tam-ly# "Play Slideshow")

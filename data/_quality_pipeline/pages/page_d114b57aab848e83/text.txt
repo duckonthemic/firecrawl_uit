@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyen-han-va-nghia-vu-cua-sinh-vien" could not be 
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyen-han-va-nghia-vu-cua-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyen-han-va-nghia-vu-cua-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyen-han-va-nghia-vu-cua-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyen-han-va-nghia-vu-cua-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyen-han-va-nghia-vu-cua-sinh-vien# "Play Slideshow")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/hoc-bong-nguyen-thai-binh-bao-thanh-nien-nam-2014"
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-nguyen-thai-binh-bao-thanh-nien-nam-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-nguyen-thai-binh-bao-thanh-nien-nam-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-nguyen-thai-binh-bao-thanh-nien-nam-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-nguyen-thai-binh-bao-thanh-nien-nam-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoc-bong-nguyen-thai-binh-bao-thanh-nien-nam-2014# "Play Slideshow")

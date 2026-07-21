@@ -13,6 +13,5 @@ The requested page "/bai-viet/nhan-bao-hiem-y-te-thay-doi-noi-kham" could not be
 
 [](https://ctsv.uit.edu.vn/bai-viet/nhan-bao-hiem-y-te-thay-doi-noi-kham# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/nhan-bao-hiem-y-te-thay-doi-noi-kham#)
-[](https://ctsv.uit.edu.vn/bai-viet/nhan-bao-hiem-y-te-thay-doi-noi-kham#)
 [](https://ctsv.uit.edu.vn/bai-viet/nhan-bao-hiem-y-te-thay-doi-noi-kham# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/nhan-bao-hiem-y-te-thay-doi-noi-kham# "Play Slideshow")

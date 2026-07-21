@@ -20,7 +20,6 @@ Sinh viên **đến bệnh viện tuyến Quận, Huyện hoặc các Phòng kh�
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhuong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe&title=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20H%E1%BB%93%20s%C6%A1%20nh%E1%BA%ADp%20h%E1%BB%8Dc%20-%209.%20Gi%E1%BA%A5y%20kh%C3%A1m%20s%E1%BB%A9c%20kh%E1%BB%8Fe)
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe# "Next")
@@ -32,18 +31,9 @@ Sinh viên **đến bệnh viện tuyến Quận, Huyện hoặc các Phòng kh�
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe#)
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe#)
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-9-giay-kham-suc-khoe#addtoany "Show all")

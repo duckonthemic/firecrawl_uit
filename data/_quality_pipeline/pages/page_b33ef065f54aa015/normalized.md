@@ -11,7 +11,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%20680%2F2017%20-%20C%C3%B4ng%20t%C3%A1c%20C%E1%BB%91%20v%E1%BA%A5n%20h%E1%BB%8Dc%20t%E1%BA%ADp%20L%E1%BB%9Bp%20ANTN2013)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013# "Next")
@@ -23,18 +22,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-6802017-cong-tac-co-van-hoc-tap-lop-antn2013#addtoany "Show all")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-so-do-cho-ngoi-le-tot-nghiep-dot-1-nam-2
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-do-cho-ngoi-le-tot-nghiep-dot-1-nam-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-do-cho-ngoi-le-tot-nghiep-dot-1-nam-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-do-cho-ngoi-le-tot-nghiep-dot-1-nam-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-do-cho-ngoi-le-tot-nghiep-dot-1-nam-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-do-cho-ngoi-le-tot-nghiep-dot-1-nam-2014# "Play Slideshow")

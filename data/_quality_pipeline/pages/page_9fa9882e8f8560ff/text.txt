@@ -13,6 +13,5 @@ The requested page "/bai-viet/huong-dan-thuc-hien-mghp-chinh-thuc" could not be 
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thuc-hien-mghp-chinh-thuc# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thuc-hien-mghp-chinh-thuc#)
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thuc-hien-mghp-chinh-thuc#)
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thuc-hien-mghp-chinh-thuc# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thuc-hien-mghp-chinh-thuc# "Play Slideshow")

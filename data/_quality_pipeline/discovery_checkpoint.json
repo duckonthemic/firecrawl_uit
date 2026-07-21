@@ -1,0 +1,90 @@
+{
+  "updated_at": "2026-07-21T11:47:06.202941+00:00",
+  "inventory_rows": 4476,
+  "listing_state": {
+    "ctsv:/van-ban": {
+      "next_page": 2,
+      "completed": true,
+      "last_url": "https://ctsv.uit.edu.vn/van-ban?page=1",
+      "last_detail_count": 44,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "ctsv:/van-ban/thong-bao": {
+      "next_page": 29,
+      "completed": true,
+      "last_url": "https://ctsv.uit.edu.vn/van-ban/thong-bao?page=28",
+      "last_detail_count": 44,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "ctsv:/van-ban/ke-hoach": {
+      "next_page": 11,
+      "completed": true,
+      "last_url": "https://ctsv.uit.edu.vn/van-ban/ke-hoach?page=10",
+      "last_detail_count": 44,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "ctsv:/quy-trinh": {
+      "next_page": 3,
+      "completed": true,
+      "last_url": "https://ctsv.uit.edu.vn/quy-trinh?page=2",
+      "last_detail_count": 44,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/thongbaochinhquy": {
+      "next_page": 100,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/thongbaochinhquy?page=99",
+      "last_detail_count": 62,
+      "stop_reason": "http_404"
+    },
+    "daa:/thong-bao-vb2": {
+      "next_page": 11,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/thong-bao-vb2?page=10",
+      "last_detail_count": 56,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/thongbaotuxa": {
+      "next_page": 3,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/thongbaotuxa?page=2",
+      "last_detail_count": 59,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/kehoachnam": {
+      "next_page": 2,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/kehoachnam?page=1",
+      "last_detail_count": 52,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/qui-che-qui-dinh-qui-trinh": {
+      "next_page": 3,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/qui-che-qui-dinh-qui-trinh?page=2",
+      "last_detail_count": 52,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/content/cong-thong-tin-dao-tao": {
+      "next_page": 2,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/content/cong-thong-tin-dao-tao?page=1",
+      "last_detail_count": 52,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/content/chuong-trinh-dao-tao-cu": {
+      "next_page": 3,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/content/chuong-trinh-dao-tao-cu?page=2",
+      "last_detail_count": 52,
+      "stop_reason": "no_new_detail_urls"
+    },
+    "daa:/danh-muc-mon-hoc-dai-hoc": {
+      "next_page": 2,
+      "completed": true,
+      "last_url": "https://daa.uit.edu.vn/danh-muc-mon-hoc-dai-hoc?page=1",
+      "last_detail_count": 52,
+      "stop_reason": "no_new_detail_urls"
+    }
+  }
+}

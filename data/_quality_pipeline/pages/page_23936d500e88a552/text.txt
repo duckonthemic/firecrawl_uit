@@ -13,6 +13,5 @@ The requested page "/bai-viet/quy-trinh-huong-dan-xet-cap-hoc-bong-kkht" could n
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-cap-hoc-bong-kkht# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-cap-hoc-bong-kkht#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-cap-hoc-bong-kkht#)
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-cap-hoc-bong-kkht# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-xet-cap-hoc-bong-kkht# "Play Slideshow")

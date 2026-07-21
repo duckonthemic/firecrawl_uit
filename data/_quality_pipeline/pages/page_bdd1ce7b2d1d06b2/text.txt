@@ -26,15 +26,11 @@ hoặc 
 
 \- Đây là cổng thông tin đào tạo của trường để thông báo cho SV về các vấn đề liên quan công tác đào tạo: qui chế qui định liên quan đào tạo, các qui trình liên quan đến học tập, lịch học, lịch đăng ký học phần, .......
 
-\- SV sử dụng tài khoản chứng thực để đăng nhập vào website này khi: Đăng ký học phần, Xem kết quả học tập, Kết quả đăng ký học phần, Thời khóa biểu, Tra cứu thông tin cá nhân, Tra cứu thông tin học phí, ........
-
 **2. Website Phòng Công tác sinh viên**
 
 \- Địa chỉ: 
 
 \- Website P. CTSV cung cấp các thông tin về chế độ chính sách, học bổng, các qui định liên quan đến sinh viên mà không thuộc công tác đào tạo: qui chế sinh viên, qui định qui trình về điểm rèn luyện, nội qui đối với SV...
-
-\- SV sử dụng tài khoản chứng thực để đăng nhập vào website này khi muốn: tải các biểu mẫu, xem thông báo của trường, đăng ký Giấy xác nhận SV
 
 **3. Forum**
 
@@ -60,8 +56,6 @@ hoặc 
 
 \- Hệ thống LMS còn là trang web dùng tổ chức các cuộc thi, bài kiểm tra trắc nghiệm trực tuyến như: Kiểm tra Anh văn đầu vào Kiểm tra tuần sinh hoạt đầu khóa,
 
-\- SV sử dụng tài khoản chứng thực để đăng nhập vào website này.
-
 **5. Hệ thống SMS**
 
 Hệ thống này thường được sử dụng để nhắn tin đến SV và phụ huynh để thông báo một số thông tin quan trọng.
@@ -81,7 +75,6 @@ Ngoài ra, sinh viên có thể dễ dàng tra cứu thông tin cần thiết tr
 * 
 
 
-
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Next")
 
@@ -92,17 +85,9 @@ Ngoài ra, sinh viên có thể dễ dàng tra cứu thông tin cần thiết tr
 
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/kenh-thong-tin-giua-nha-truong-va-sinh-vien# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-
-

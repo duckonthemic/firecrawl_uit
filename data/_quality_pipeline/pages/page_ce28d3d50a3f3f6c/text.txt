@@ -13,6 +13,5 @@ The requested page "/bai-viet/tb-ve-lich-tiep-khach-cua-ban-giam-hieu" could not
 
 [](https://ctsv.uit.edu.vn/bai-viet/tb-ve-lich-tiep-khach-cua-ban-giam-hieu# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/tb-ve-lich-tiep-khach-cua-ban-giam-hieu#)
-[](https://ctsv.uit.edu.vn/bai-viet/tb-ve-lich-tiep-khach-cua-ban-giam-hieu#)
 [](https://ctsv.uit.edu.vn/bai-viet/tb-ve-lich-tiep-khach-cua-ban-giam-hieu# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/tb-ve-lich-tiep-khach-cua-ban-giam-hieu# "Play Slideshow")

@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-172015-khen-thuong-sinh-vien-tot-ngh
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172015-khen-thuong-sinh-vien-tot-nghiep-dat-loai-gioi-trong-hoc-tap-va-ren# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172015-khen-thuong-sinh-vien-tot-nghiep-dat-loai-gioi-trong-hoc-tap-va-ren#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172015-khen-thuong-sinh-vien-tot-nghiep-dat-loai-gioi-trong-hoc-tap-va-ren#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172015-khen-thuong-sinh-vien-tot-nghiep-dat-loai-gioi-trong-hoc-tap-va-ren# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172015-khen-thuong-sinh-vien-tot-nghiep-dat-loai-gioi-trong-hoc-tap-va-ren# "Play Slideshow")

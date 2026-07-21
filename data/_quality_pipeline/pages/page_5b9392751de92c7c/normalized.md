@@ -1,0 +1,12 @@
+Lịch Thi Cuối Kỳ 1 Đơt 2 Năm Học 2023-2024 các lớp VB2
+======================================================
+
+T2, 25/12/2023 - 08:43
+
+Chào các bạn sinh viên VB2
+\- Phòng ĐTĐH gửi các bạn lịch thi cuối học kỳ 1 các lớp VB2 đợt 1, link xem lịch thi tại :[https://link.uit.edu.vn/8hrA3](https://link.uit.edu.vn/8hrA3)
+
+\- Các môn tổ chức thi các bạn vui lòng có mặt tại phòng thi trước thời gian thi 15 phút.
+Mọi phản hồi về lịch thi các bạn gửi mail về P.ĐTĐH hoặc liên hệ DĐ:0989881027.
+Trân trọng.
+Lưu Đức Phong.

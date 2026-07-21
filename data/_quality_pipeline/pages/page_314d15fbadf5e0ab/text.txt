@@ -28,8 +28,6 @@ và quét mã QR hoặc tìm kiếm theo tên của Official Account, sau đó n
 
 Lưu ý:
 
-* Nếu sinh viên nhấn vào nút “Quan tâm” thì số điện thoại đăng nhập của ứng dụng Zalo của sinh viên sẽ được dùng để xác định Mã số sinh viên của sinh viên (dựa vào số điện thoại cá nhân của sinh viên được khai trên hệ thống quản lý sinh viên của Trường). Hệ thống sẽ rút trích thông tin dựa trên Mã số sinh viên này.
-
 * Sinh viên nhấn nút “Quan tâm” thì được xem như là đồng ý đăng ký nhận thông tin qua Zalo theo cách đã nêu ở trên.
 
 Trong quá trình triển khai, Nhà trường sẽ nghiên cứu bổ sung thêm nhiều tính năng mới nhằm hỗ trợ cũng như phục vụ  nhu cầu học tập và sinh hoạt của sinh viên được tốt hơn. Bên cạnh đó, có thể sẽ không tránh khỏi những sai sót, Nhà trường rất mong nhận được sự đóng góp từ các bạn sinh viên. Mọi thắc mắc, sinh viên liên hệ phòng Công tác Sinh viên (A101) qua link 
@@ -41,68 +39,3 @@ File đính kèm:
 ! 
 
 * 
-
-
-
-------------------
-
-* 
-(09-07-2026)
-* 
-(08-07-2026)
-* 
-(08-07-2026)
-* 
-(07-07-2026)
-* 
-(02-07-2026)
-
-Pages
------
-
-* 1
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* …
-* 
-
-* 
-
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-1152017-trien-khai-kenh-thong-tin-zalo# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-
-

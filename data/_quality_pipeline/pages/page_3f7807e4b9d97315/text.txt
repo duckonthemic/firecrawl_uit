@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-172014-sv-duoc-nhan-hoc-bong-khuyen-
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172014-sv-duoc-nhan-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-i-nam-hoc-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172014-sv-duoc-nhan-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-i-nam-hoc-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172014-sv-duoc-nhan-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-i-nam-hoc-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172014-sv-duoc-nhan-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-i-nam-hoc-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-172014-sv-duoc-nhan-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-i-nam-hoc-2013-2014# "Play Slideshow")

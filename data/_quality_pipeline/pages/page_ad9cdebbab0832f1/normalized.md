@@ -20,7 +20,6 @@ Fri, 08/10/2021 - 07:12
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fdiem-ren-luyen-sinh-vien-0&title=%C4%90i%E1%BB%83m%20r%C3%A8n%20luy%E1%BB%87n%20sinh%20vi%C3%AAn)
 
 [](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0# "Next")
@@ -32,18 +31,9 @@ Fri, 08/10/2021 - 07:12
 
 [](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0#)
-[](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0#)
 [](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/diem-ren-luyen-sinh-vien-0#addtoany "Show all")

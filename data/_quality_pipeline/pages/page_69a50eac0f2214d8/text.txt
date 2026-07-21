@@ -43,6 +43,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/ho-tro-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/ho-tro-sinh-vien#)
-[](https://ctsv.uit.edu.vn/ho-tro-sinh-vien#)
 [](https://ctsv.uit.edu.vn/ho-tro-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/ho-tro-sinh-vien# "Play Slideshow")

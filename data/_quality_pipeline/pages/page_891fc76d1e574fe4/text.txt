@@ -13,6 +13,5 @@ The requested page "/bai-viet/quy-trinh-huong-dan-lam-lai-sinh-vien" could not b
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-lam-lai-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-lam-lai-sinh-vien#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-lam-lai-sinh-vien#)
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-lam-lai-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-lam-lai-sinh-vien# "Play Slideshow")

@@ -27,7 +27,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-mghp&title=Th%C3%B4ng%20b%C3%A1o%20MGHP)
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp# "Next")
@@ -39,18 +38,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-bao-mghp#addtoany "Show all")

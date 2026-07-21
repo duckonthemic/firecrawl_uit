@@ -13,6 +13,5 @@ The requested page "/bai-viet/giay-yeu-cau-boi-thuong-bao-hiem-tai-nan" could no
 
 [](https://ctsv.uit.edu.vn/bai-viet/giay-yeu-cau-boi-thuong-bao-hiem-tai-nan# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/giay-yeu-cau-boi-thuong-bao-hiem-tai-nan#)
-[](https://ctsv.uit.edu.vn/bai-viet/giay-yeu-cau-boi-thuong-bao-hiem-tai-nan#)
 [](https://ctsv.uit.edu.vn/bai-viet/giay-yeu-cau-boi-thuong-bao-hiem-tai-nan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/giay-yeu-cau-boi-thuong-bao-hiem-tai-nan# "Play Slideshow")

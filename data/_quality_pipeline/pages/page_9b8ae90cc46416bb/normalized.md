@@ -13,6 +13,5 @@ The requested page "/bai-viet/hoi-thao-toan-thong-tin-va-co-hoi-viec-lam-voi-chu
 
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-toan-thong-tin-va-co-hoi-viec-lam-voi-chung-chi-cisco# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-toan-thong-tin-va-co-hoi-viec-lam-voi-chung-chi-cisco#)
-[](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-toan-thong-tin-va-co-hoi-viec-lam-voi-chung-chi-cisco#)
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-toan-thong-tin-va-co-hoi-viec-lam-voi-chung-chi-cisco# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/hoi-thao-toan-thong-tin-va-co-hoi-viec-lam-voi-chung-chi-cisco# "Play Slideshow")

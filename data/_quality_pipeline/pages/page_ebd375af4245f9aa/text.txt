@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-sinh-vien-nop-giay-xac-nhan-hanh-kiem-no
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nop-giay-xac-nhan-hanh-kiem-noi-cu-tru-nam-hoc-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nop-giay-xac-nhan-hanh-kiem-noi-cu-tru-nam-hoc-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nop-giay-xac-nhan-hanh-kiem-noi-cu-tru-nam-hoc-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nop-giay-xac-nhan-hanh-kiem-noi-cu-tru-nam-hoc-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-nop-giay-xac-nhan-hanh-kiem-noi-cu-tru-nam-hoc-2013-2014# "Play Slideshow")

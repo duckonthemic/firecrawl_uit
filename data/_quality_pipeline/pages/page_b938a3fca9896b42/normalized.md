@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-mghp-hoc-ky-2-nam-hoc-2014-2015" could 
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-mghp-hoc-ky-2-nam-hoc-2014-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-mghp-hoc-ky-2-nam-hoc-2014-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-mghp-hoc-ky-2-nam-hoc-2014-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-mghp-hoc-ky-2-nam-hoc-2014-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-mghp-hoc-ky-2-nam-hoc-2014-2015# "Play Slideshow")

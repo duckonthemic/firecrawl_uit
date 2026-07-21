@@ -70,6 +70,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/van-ban/thong-bao?page=2# "Close")
 [](https://ctsv.uit.edu.vn/van-ban/thong-bao?page=2#)
-[](https://ctsv.uit.edu.vn/van-ban/thong-bao?page=2#)
 [](https://ctsv.uit.edu.vn/van-ban/thong-bao?page=2# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/van-ban/thong-bao?page=2# "Play Slideshow")

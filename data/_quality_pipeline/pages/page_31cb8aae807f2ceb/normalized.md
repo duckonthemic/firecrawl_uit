@@ -17,7 +17,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022&title=Th%C3%B4ng%20b%C3%A1o%20ch%E1%BA%BF%20%C4%91%E1%BB%99%20ch%C3%ADnh%20s%C3%A1ch%20HK1%20n%C4%83m%20h%E1%BB%8Dc%202022-2023%20-%20KH%C3%93A%202022)
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022# "Next")
@@ -29,18 +28,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-bao-che-do-chinh-sach-hk1-nam-hoc-2022-2023-khoa-2022#addtoany "Show all")

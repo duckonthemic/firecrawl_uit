@@ -19,6 +19,5 @@ ACM
 
 [](https://ctsv.uit.edu.vn/node/372# "Close")
 [](https://ctsv.uit.edu.vn/node/372#)
-[](https://ctsv.uit.edu.vn/node/372#)
 [](https://ctsv.uit.edu.vn/node/372# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/node/372# "Play Slideshow")

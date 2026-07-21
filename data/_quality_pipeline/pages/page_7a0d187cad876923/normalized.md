@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-ve-sinh-hoat-cong-dan-sinh-vien-dau-nam-
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-sinh-hoat-cong-dan-sinh-vien-dau-nam-danh-cho-khoa-201420132012# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-sinh-hoat-cong-dan-sinh-vien-dau-nam-danh-cho-khoa-201420132012#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-sinh-hoat-cong-dan-sinh-vien-dau-nam-danh-cho-khoa-201420132012#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-sinh-hoat-cong-dan-sinh-vien-dau-nam-danh-cho-khoa-201420132012# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-sinh-hoat-cong-dan-sinh-vien-dau-nam-danh-cho-khoa-201420132012# "Play Slideshow")

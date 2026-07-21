@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-ve-viec-kiem-tra-thong-tin-bao-hiem-tai-
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-kiem-tra-thong-tin-bao-hiem-tai-nan# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-kiem-tra-thong-tin-bao-hiem-tai-nan#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-kiem-tra-thong-tin-bao-hiem-tai-nan#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-kiem-tra-thong-tin-bao-hiem-tai-nan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-ve-viec-kiem-tra-thong-tin-bao-hiem-tai-nan# "Play Slideshow")

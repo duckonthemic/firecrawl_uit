@@ -1,1 +1,5 @@
-issue,url,path,detail
+severity,issue,url,path,detail
+warning,empty_or_short_markdown,https://daa.uit.edu.vn/thongbao/tong-hop-tat-ca-cac-van-ban,_quality_pipeline/pages/page_9ffe0c5ea9bf6c89/normalized.md,55
+warning,low_markdown_quality,https://daa.uit.edu.vn/thongbao/tong-hop-tat-ca-cac-van-ban,_quality_pipeline/pages/page_9ffe0c5ea9bf6c89/normalized.md,0.2825
+warning,empty_or_short_markdown,https://daa.uit.edu.vn/content/cu-nhan-nganh-tri-tue-nhan-tao-van-bang-dai-hoc-thu-2-hinh-thuc-dao-tao-tu-xa-qua-mang-ap?page=1,_quality_pipeline/pages/page_313f5fd42632e589/normalized.md,0
+warning,low_markdown_quality,https://daa.uit.edu.vn/content/cu-nhan-nganh-tri-tue-nhan-tao-van-bang-dai-hoc-thu-2-hinh-thuc-dao-tao-tu-xa-qua-mang-ap?page=1,_quality_pipeline/pages/page_313f5fd42632e589/normalized.md,0.0

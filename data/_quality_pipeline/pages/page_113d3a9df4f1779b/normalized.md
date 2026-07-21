@@ -27,7 +27,6 @@ Ví dụ: Email Thầy Nguyễn Văn Toàn: [toannv@uit.edu.vn](mailto:toannv@ui
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fco-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong&title=C%E1%BB%91%20v%E1%BA%A5n%20h%E1%BB%8Dc%20t%E1%BA%ADp%20-%20Th%C3%B4ng%20tin%20li%C3%AAn%20h%E1%BB%87%20c%E1%BB%A7a%20gi%E1%BA%A3ng%20vi%C3%AAn%2C%20c%C3%A1n%20b%E1%BB%99%20vi%C3%AAn%20ch%E1%BB%A9c%20Tr%C6%B0%E1%BB%9Dng)
 
 [](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong# "Next")
@@ -39,18 +38,9 @@ Ví dụ: Email Thầy Nguyễn Văn Toàn: [toannv@uit.edu.vn](mailto:toannv@ui
 
 [](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong#)
-[](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong#)
 [](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/co-van-hoc-tap-thong-tin-lien-he-cua-giang-vien-can-bo-vien-chuc-truong#addtoany "Show all")

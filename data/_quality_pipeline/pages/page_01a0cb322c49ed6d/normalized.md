@@ -13,6 +13,5 @@ The requested page "/bai-viet/tong-ket-vong-1-cuoc-thi-olympic-vi-dien-tu-quoc-t
 
 [](https://ctsv.uit.edu.vn/bai-viet/tong-ket-vong-1-cuoc-thi-olympic-vi-dien-tu-quoc-te-armenia-amo2014-uit# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/tong-ket-vong-1-cuoc-thi-olympic-vi-dien-tu-quoc-te-armenia-amo2014-uit#)
-[](https://ctsv.uit.edu.vn/bai-viet/tong-ket-vong-1-cuoc-thi-olympic-vi-dien-tu-quoc-te-armenia-amo2014-uit#)
 [](https://ctsv.uit.edu.vn/bai-viet/tong-ket-vong-1-cuoc-thi-olympic-vi-dien-tu-quoc-te-armenia-amo2014-uit# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/tong-ket-vong-1-cuoc-thi-olympic-vi-dien-tu-quoc-te-armenia-amo2014-uit# "Play Slideshow")

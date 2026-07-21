@@ -13,6 +13,5 @@ The requested page "/bai-viet/quy-trinh-huong-dan-thu-tuc-giay-xac-nhan" could n
 
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-thu-tuc-giay-xac-nhan# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-thu-tuc-giay-xac-nhan#)
-[](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-thu-tuc-giay-xac-nhan#)
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-thu-tuc-giay-xac-nhan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quy-trinh-huong-dan-thu-tuc-giay-xac-nhan# "Play Slideshow")

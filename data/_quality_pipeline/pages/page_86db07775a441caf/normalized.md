@@ -1,0 +1,13 @@
+Thông báo nhận thẻ y tế đợt 2 + thẻ điều chỉnh thông tin, cấp lại
+=================================================================
+
+Fri, 16/01/2015 - 09:20
+
+Phòng Công tác Sinh viên thông báo đến sinh viên về việc nhận thẻ Bảo hiểm Y tế như sau:
+
+Sinh viên  nhận thẻ BHYT liên hệ Phòng CTSV ( A.101).
+
+Thời gian nhận thẻ: từ ngày ra thông báo đến 16 giờ ngày 22/01/2015
+
+* [Facebook](https://ctsv.uit.edu.vn/#facebook)
+[Twitter](https://ctsv.uit.edu.vn/#twitter)

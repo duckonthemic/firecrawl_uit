@@ -161,37 +161,3 @@ Nội quy có hiệu lực thi hành kể từ ngày ký quyết định ban hà
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fnoi-quy-co-quan-truong-hoc-cua-truong-dh-cntt&title=N%E1%BB%99i%20quy%20c%C6%A1%20quan%20tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc%20c%E1%BB%A7a%20Tr%C6%B0%E1%BB%9Dng%20%C4%90H%20CNTT)
-
-------------------
-
-* [Quy định liên quan đến học bổng sinh viên](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-hoc-bong-sinh-vien)
-(20-03-2019)
-* [Quy định liên quan đến công tác đào tạo tại Trường Đại học Công nghệ Thông tin](https://ctsv.uit.edu.vn/bai-viet/quy-dinh-lien-quan-den-cong-tac-dao-tao-tai-truong-dai-hoc-cong-nghe-thong-tin)
-(29-07-2013)
-
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#)
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#)
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/noi-quy-co-quan-truong-hoc-cua-truong-dh-cntt#addtoany "Show all")

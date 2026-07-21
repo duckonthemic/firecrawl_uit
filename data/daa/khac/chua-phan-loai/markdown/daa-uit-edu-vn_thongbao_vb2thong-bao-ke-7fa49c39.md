@@ -1,0 +1,30 @@
+VB2\_Thông báo kế hoạch học tập khóa 2020
+=========================================
+
+T4, 07/10/2020 - 10:53
+
+Thân chào Anh/Chị tân sinh viên VB2 chính quy K2020!
+
+1\. Phòng Đào tạo Đại học thông báo đến Anh/Chị lịch học đợt 1 của khóa tuyển 2020 với thông tin như sau:
+
+  
+  
+  
+
+|     |     |     |
+| --- | --- | --- |  
+| THỜI KHÓA BIỂU ĐỢT 1 (khóa 2020)  <br>LỚP VĂN BẰNG 2 NGÀNH CÔNG NGHỆ THÔNG TIN |     |     |
+| Bắt đầu:17/10/2020 Kết thúc: 26/12/2020 |     |     |
+| Thứ 4 | Thứ 6 | Thứ 7 |
+| Nhập môn lập trình (4TC)  <br>IT001.L11.VB2  <br>Ths. Võ Duy Nguyên  <br>Tối: 17h45 - 20h45 (4 tiết)  <br>Phòng A213<br><br>Bắt đầu: 17/10/2020  <br>Kết thúc: 19/12/2020 | Cơ sở hạ tầng công nghệ thông tin (3TC)  <br>IE101.L11.VB2  <br>ThS. Nguyễn Thị Anh Thư  <br>Tối: 17h45 - 20h00 (3 tiết)  <br>Phòng A213<br><br>Bắt đầu: 17/10/2020  <br>Kết thúc: 20/11/2020 | \- Sáng: 8h15 - 11h30  <br>Nhập môn lập trình (4TC)  <br>IT001.L11.VB2  <br>Ths. Võ Duy Nguyên  <br>Phòng A213  <br>\- Chiều: 13h00 - 15h15  <br>Cơ sở hạ tầng công nghệ thông tin (3 tiết)  <br>IE101.L11.VB2  <br>Phòng A313 |
+| Lưu ý: Lý thuyết và thực hành học chung |     |     |
+| Ngày thi hết môn học (dự kiến): | IT001.L11.VB2: 8h30, ngày 26/12/2020. |     |
+2\. Phòng ĐTĐH gửi đến Anh/Chị chuẩn đầu ra tiếng Anh theo file đính kèm.
+
+Thân mến, 
+
+P. ĐTĐH. 
+
+Các file đính kèm: 
+
+ ![PDF icon](https://daa.uit.edu.vn/modules/file/icons/application-pdf.png "application/pdf") [547\_qd-dhcntt\_30-8-2019.scan\_.pdf](https://daa.uit.edu.vn/sites/daa/files/202010/547_qd-dhcntt_30-8-2019.scan_.pdf)

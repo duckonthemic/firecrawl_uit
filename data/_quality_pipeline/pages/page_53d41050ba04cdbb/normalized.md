@@ -155,8 +155,6 @@ Các chức năng xem thông tin Sinh viên trên hệ thống Cổng thông ti
 * Xem bảng điểm học tập của từng sinh viên: Chọn menu Sinh viên / Kết quả học tập
 * Xuất bảng điểm học tập của Lớp sinh viên: Chọn menu Giảng viên/ Xuất bảng điểm TH - CVHT, chọn chức năng Xuất bảng điểm
 
-Để thực hiện các chức năng này, CVHT sử dụng tài khoản chứng thực để đăng nhập. CVHT chỉ được xem thông tin sinh viên của Lớp sinh viên mà thầy cô được phân công làm CVHT.
-
 Lưu ý: Thông tin sinh viên, CVHT có trách nhiệm đảm bảo việc bảo mật và không cung cấp cho các cá nhân, đơn vị bên ngoài khi chưa được phép của Hiệu trưởng hoặc của Trưởng đơn vị quản lý hệ thống lưu trữ thông tin sinh viên (P. CTSV)
 
 **3\. Đăng ký mượn phòng để tổ chức họp lớp và các hoạt động của lớp:**
@@ -164,11 +162,8 @@ Lưu ý: Thông tin sinh viên, CVHT có trách nhiệm đảm bảo việc b�
 CVHT có thể xem thông tin phòng học và đăng ký phòng học trống để sử dụng cho việc tổ chức họp lớp và tổ chức các hoạt động của lớp trên Hệ thống Cổng thông tin đào tạo của trường **([https://daa.uit.edu.vn/](https://daa.uit.edu.vn/)
 )**.
 
-Để thực hiện chức năng này, CVHT sử dụng tài khoản chứng thực để đăng nhập. Sau đó, chọn menu Giảng viên / Đăng ký phòng học hoặc vào menu Lịch / Lịch phòng
-
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-tin-va-huong-dan-danh-cho-co-van-hoc-tap&title=Th%C3%B4ng%20tin%20v%C3%A0%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20d%C3%A0nh%20cho%20C%E1%BB%91%20v%E1%BA%A5n%20h%E1%BB%8Dc%20t%E1%BA%ADp)
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap# "Next")
@@ -180,18 +175,9 @@ CVHT có thể xem thông tin phòng học và đăng ký phòng học trống �
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-tin-va-huong-dan-danh-cho-co-van-hoc-tap#addtoany "Show all")

@@ -1,7 +1,6 @@
 -->
 Kiểm tra thông tin hồ sơ nhập học Khóa 2025 - Nhắc lại | Phòng Công tác Sinh viên
 Phòng Công tác Sinh viên
-Đăng nhập | Sơ đồ website
 trung tâm bảo hành oppo tại hà nội , sửa ipad tại hà nội , trung tâm bảo hành iphone , cho thuê xe 16 chỗ , thue xe du lich o ha noi
 Search form
 Search
@@ -50,7 +49,6 @@ Xem tất cả
 Kiểm tra thông tin hồ sơ nhập học Khóa 2025 - Nhắc lại
 Wed, 12/11/2025 - 15:52
 Phòng Công tác Sinh viên thông báo sinh viên Khóa 2025 về việc kiểm tra hồ sơ nhập học của sinh viên, cụ thể:
--  Bước 1:  Sinh viên đăng nhập vào  https://nhaphoc.uit.edu.vn
 - Bước 2:  Sinh viên vào mục tình trạng nhập học để kiểm tra hồ sơ nhập học gồm: Hồ sơ giấy, hồ sơ online, hồ sơ sức khỏe xem mục nào chưa hoàn thành.
 - Bước 3:  Hồ sơ nào chưa hoàn thành, sinh viên nộp bổ sung/cập nhật hồ sơ online/hồ sơ sức khỏe theo quy định.
 Riêng hồ sơ giấy, sinh viên nộp tại Phòng Công tác Sinh viên ( A101).
@@ -205,7 +203,6 @@ Hoàn thành
 2552XX11
 Đoàn Ngô Việt Bách
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 25
 2552XX14
@@ -216,7 +213,6 @@ Hoàn thành
 26
 2552XX17
 Lê Đăng Bảng
-Chưa hoàn thành
 Chưa hoàn thành
 Hoàn thành
 27
@@ -276,7 +272,6 @@ Hoàn thành
 36
 2552XX57
 Phan Hoàng Nguyên Bảo
-Chưa hoàn thành
 Chưa hoàn thành
 Hoàn thành
 37
@@ -692,7 +687,6 @@ Hoàn thành
 Nguyễn Chí Hiếu
 Chưa hoàn thành
 Hoàn thành
-Hoàn thành
 106
 2552XX54
 Nguyễn Trọng Hiếu
@@ -853,7 +847,6 @@ Hoàn thành
 2552XX89
 Huỳnh Đỗ Quang Huy
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 133
 2552XX97
@@ -1008,7 +1001,6 @@ Hoàn thành
 158
 2552XX16
 Bùi Long Khánh
-Hoàn thành
 Hoàn thành
 Chưa nôp
 159
@@ -1411,7 +1403,6 @@ Hoàn thành
 2552XX21
 Nguyễn Quang Minh
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 226
 2552XX23
@@ -1422,7 +1413,6 @@ Hoàn thành
 227
 2552XX26
 Nguyễn Văn Minh
-Hoàn thành
 Hoàn thành
 Chưa nôp
 228
@@ -1513,7 +1503,6 @@ Hoàn thành
 2552XX21
 Trần Yến Ngọc
 Hoàn thành
-Hoàn thành
 Chưa nôp
 243
 2552XX28
@@ -1572,7 +1561,6 @@ Hoàn thành
 252
 2552XX78
 Lê Toàn Nhân
-Chưa hoàn thành
 Chưa hoàn thành
 Hoàn thành
 253
@@ -1909,7 +1897,6 @@ Hoàn thành
 2552XX83
 Trương Tấn Sang
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 309
 2552XX85
@@ -2011,7 +1998,6 @@ Hoàn thành
 2552XX59
 Phạm Diệp Vũ Thác
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 326
 2552XX62
@@ -2046,7 +2032,6 @@ Hoàn thành
 331
 2552XX90
 Trần Hoàng Thăng
-Chưa hoàn thành
 Chưa hoàn thành
 Hoàn thành
 332
@@ -2215,7 +2200,6 @@ Hoàn thành
 2552XX36
 Nguyễn Thị Phương Thùy
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 360
 2552XX48
@@ -2383,12 +2367,10 @@ Hoàn thành
 2552XX82
 Nguyễn Hoàng Xuân Trường
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 388
 2552XX83
 Nguyễn Quang Trường
-Chưa hoàn thành
 Chưa hoàn thành
 Hoàn thành
 389
@@ -2569,7 +2551,6 @@ Hoàn thành
 2552XX40
 Nguyễn Đình Bảo Khanh
 Hoàn thành
-Hoàn thành
 Chưa nôp
 419
 2556XX04
@@ -2600,11 +2581,9 @@ Hoàn thành
 Dương Nguyên Khang
 Chưa hoàn thành
 Hoàn thành
-Hoàn thành
 424
 2556XX29
 Ngô Huỳnh Mai Khôi
-Chưa hoàn thành
 Chưa hoàn thành
 Hoàn thành
 425
@@ -2665,7 +2644,6 @@ Hoàn thành
 2556XX63
 Đỗ Anh Tuấn
 Chưa hoàn thành
-Chưa hoàn thành
 Hoàn thành
 435
 2556XX64
@@ -2685,51 +2663,3 @@ Trần Triệu Vy
 Chưa nôp
 Chưa hoàn thành
 Chưa nôp
-Quyết định số 802/2026 - Ban hành quy định tổ chức hoạt động thể dục thể thao sinh viên tại Trường ĐH CNTT - ĐHQG-HCM
-(09-07-2026)
-Hướng dẫn về qui định Học bổng Khuyến khích học tập mới từ HK1 2026-2027
-(08-07-2026)
-Thông báo triển khai học bổng UIT Global từ học kỳ 1 năm học 2026-2027
-(08-07-2026)
-Thông báo cập nhật bảo hiểm y tế phục vụ công tác chấm điểm rèn luyện HK2 năm học 2025-2026
-(07-07-2026)
-Thông báo về việc đánh giá kết quả rèn luyện sinh viên Học kỳ 2 – Năm học 2025-2026
-(02-07-2026)
-Pages
-1
-2
-3
-4
-5
-6
-7
-8
-9
-…
-next ›
-last »
-Tin tức & sự kiện
-Mức đóng BHYT và các chính sách bảo hiểm y tế có hiệu lực từ 01/7/2026
-[An ninh sinh viên] Cao điểm đấu tranh phòng, chống tội phạm về sở hữu trí tuệ – sinh viên cần biết!
-[An ninh Sinh viên] An toàn không gian mạng: Cảnh báo lộ mã số sinh viên (MSSV) – Đừng để dữ liệu cá nhân trở thành công cụ phạm pháp!
-Xem thêm
-Hình ảnh - Video
-Xem thêm
-Website liên kết
-Website Trường
-Forum Trường
-Website Đoàn - Hội
-Website ĐH Quốc gia
-Website ký túc xá
-Kết nối với chúng tôi
-Facebook
-Google plus
-Youtube
-Liên hệ
-Địa chỉ: Khu phố 34, Phường Linh Xuân, Thành phố Hồ Chí Minh.
-Điện thoại: (028) 37252002 Ext: 116
-Email: ctsv@uit.edu.vn
-Đăng ký Email của bạn để nhận thông tin mới nhất từ Phòng CTSV.
-E-mail *
-Copyright © 2014 Phòng Công tác Sinh viên
-Đầu trang

@@ -43,6 +43,5 @@ Hướng dẫn
 
 [](https://ctsv.uit.edu.vn/loai-bai-viet/huong-dan# "Close")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/huong-dan#)
-[](https://ctsv.uit.edu.vn/loai-bai-viet/huong-dan#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/huong-dan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/huong-dan# "Play Slideshow")

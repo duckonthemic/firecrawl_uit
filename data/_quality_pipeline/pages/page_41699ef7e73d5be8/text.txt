@@ -13,6 +13,5 @@ The requested page "/bai-viet/posco-viet-nam-tuyen-tinh-nguyen-vien-tham-gia-hoa
 
 [](https://ctsv.uit.edu.vn/bai-viet/posco-viet-nam-tuyen-tinh-nguyen-vien-tham-gia-hoat-dong# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/posco-viet-nam-tuyen-tinh-nguyen-vien-tham-gia-hoat-dong#)
-[](https://ctsv.uit.edu.vn/bai-viet/posco-viet-nam-tuyen-tinh-nguyen-vien-tham-gia-hoat-dong#)
 [](https://ctsv.uit.edu.vn/bai-viet/posco-viet-nam-tuyen-tinh-nguyen-vien-tham-gia-hoat-dong# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/posco-viet-nam-tuyen-tinh-nguyen-vien-tham-gia-hoat-dong# "Play Slideshow")

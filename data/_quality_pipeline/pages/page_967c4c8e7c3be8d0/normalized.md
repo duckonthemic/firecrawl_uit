@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-cong-tac-thi-dua-khen-thuong-sinh-vien-n
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cong-tac-thi-dua-khen-thuong-sinh-vien-nam-hoc-2014-2015-cap-dhqg# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cong-tac-thi-dua-khen-thuong-sinh-vien-nam-hoc-2014-2015-cap-dhqg#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cong-tac-thi-dua-khen-thuong-sinh-vien-nam-hoc-2014-2015-cap-dhqg#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cong-tac-thi-dua-khen-thuong-sinh-vien-nam-hoc-2014-2015-cap-dhqg# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-cong-tac-thi-dua-khen-thuong-sinh-vien-nam-hoc-2014-2015-cap-dhqg# "Play Slideshow")

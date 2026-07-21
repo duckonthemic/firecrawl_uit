@@ -33,6 +33,5 @@ Lễ Khai giảng năm học 2014 - 2015
 
 [](https://ctsv.uit.edu.vn/node/365# "Close")
 [](https://ctsv.uit.edu.vn/node/365#)
-[](https://ctsv.uit.edu.vn/node/365#)
 [](https://ctsv.uit.edu.vn/node/365# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/node/365# "Play Slideshow")

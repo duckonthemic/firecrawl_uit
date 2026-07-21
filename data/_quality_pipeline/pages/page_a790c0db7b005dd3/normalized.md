@@ -1,0 +1,184 @@
+Đại Học Chính Quy
+=================
+
+**Các thông báo dành cho hệ đại học chính quy.**
+
+[Thông báo nghỉ lớp Cơ sở dữ liệu (IT004.Q22.1) ngày 27/04/2026](https://daa.uit.edu.vn/node/38486)
+
+----------------------------------------------------------------------------------------------------
+
+T7, 07/03/2026 - 11:47
+
+CBGD : **Lê Võ Đình Kha**
+Khoa/ Bộ môn : **HTTT**
+Môn học : **Cơ sở dữ liệu (IT004)**
+Lớp : **IT004.Q22.1**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **1**
+\- Tiết kết thúc : **5**
+Thứ : **2 , ngày 27/04/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Cơ sở dữ liệu (IT004.Q22.1) ngày 27/04/2026](https://daa.uit.edu.vn/node/38486 "Thông báo nghỉ lớp Cơ sở dữ liệu (IT004.Q22.1) ngày 27/04/2026")
+
+[Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q21.1) ngày 04/04/2026](https://daa.uit.edu.vn/node/38485)
+
+----------------------------------------------------------------------------------------------------------------
+
+T7, 07/03/2026 - 10:40
+
+CBGD : **Lê Võ Đình Kha**
+Khoa/ Bộ môn : **HTTT**
+Môn học : **Hệ quản trị cơ sở dữ liệu (IS210)**
+Lớp : **IS210.Q21.1**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **6**
+\- Tiết kết thúc : **10**
+Thứ : **7 , ngày 04/04/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q21.1) ngày 04/04/2026](https://daa.uit.edu.vn/node/38485 "Thông báo nghỉ lớp Hệ quản trị cơ sở dữ liệu (IS210.Q21.1) ngày 04/04/2026")
+
+[Thông báo nghỉ lớp Phân tích thiết kế hệ thống thông tin (IS201.Q22.1) ngày 04/04/2026](https://daa.uit.edu.vn/node/38484)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+T7, 07/03/2026 - 10:39
+
+CBGD : **Lê Võ Đình Kha**
+Khoa/ Bộ môn : **HTTT**
+Môn học : **Phân tích thiết kế hệ thống thông tin (IS201)**
+Lớp : **IS201.Q22.1**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **1**
+\- Tiết kết thúc : **5**
+Thứ : **7 , ngày 04/04/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Phân tích thiết kế hệ thống thông tin (IS201.Q22.1) ngày 04/04/2026](https://daa.uit.edu.vn/node/38484 "Thông báo nghỉ lớp Phân tích thiết kế hệ thống thông tin (IS201.Q22.1) ngày 04/04/2026")
+
+[Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q24) ngày 16/03/2026](https://daa.uit.edu.vn/node/38483)
+
+-----------------------------------------------------------------------------------------------------
+
+T6, 06/03/2026 - 16:33
+
+CBGD : **Nguyễn Duy Hàm**
+Khoa/ Bộ môn : **BMTL**
+Môn học : **Cấu trúc rời rạc (MA004)**
+Lớp : **MA004.Q24**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **6**
+\- Tiết kết thúc : **9**
+Thứ : **2 , ngày 16/03/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q24) ngày 16/03/2026](https://daa.uit.edu.vn/node/38483 "Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q24) ngày 16/03/2026")
+
+[Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q24) ngày 16/03/2026](https://daa.uit.edu.vn/node/38482)
+
+-----------------------------------------------------------------------------------------------------
+
+T6, 06/03/2026 - 16:29
+
+CBGD : **Nguyễn Duy Hàm**
+Khoa/ Bộ môn : **BMTL**
+Môn học : **Cấu trúc rời rạc (MA004)**
+Lớp : **MA004.Q24**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **6**
+\- Tiết kết thúc : **9**
+Thứ : **2 , ngày 16/03/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q24) ngày 16/03/2026](https://daa.uit.edu.vn/node/38482 "Thông báo nghỉ lớp Cấu trúc rời rạc (MA004.Q24) ngày 16/03/2026")
+
+[Thông báo học bù Kỹ thuật phát triển hệ thống Web (IE213.Q22) ngày 13/03/2026](https://daa.uit.edu.vn/node/38480)
+
+-------------------------------------------------------------------------------------------------------------------
+
+T6, 06/03/2026 - 15:50
+
+CBGD : **Phạm Nhật Duy**
+Khoa/ Bộ môn : **KTTT**
+Môn học : **Kỹ thuật phát triển hệ thống Web (IE213)**
+Lớp : **IE213.Q22**
+Phòng : **B1.10**
+Thời gian :
+\- Tiết bắt đầu : **12**
+\- Tiết kết thúc : **12**
+Thứ : **6 , ngày 13/03/2026**
+
+* [Xem thêm về Thông báo học bù Kỹ thuật phát triển hệ thống Web (IE213.Q22) ngày 13/03/2026](https://daa.uit.edu.vn/node/38480 "Thông báo học bù Kỹ thuật phát triển hệ thống Web (IE213.Q22) ngày 13/03/2026")
+
+[Thông báo nghỉ lớp Phân tích thiết kế phần mềm (IE108.Q21) ngày 06/03/2026](https://daa.uit.edu.vn/node/38479)
+
+----------------------------------------------------------------------------------------------------------------
+
+T6, 06/03/2026 - 11:48
+
+CBGD : **Nguyễn Tấn Cầm**
+Khoa/ Bộ môn : **KTTT**
+Môn học : **Phân tích thiết kế phần mềm (IE108)**
+Lớp : **IE108.Q21**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **6**
+\- Tiết kết thúc : **9**
+Thứ : **6 , ngày 06/03/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Phân tích thiết kế phần mềm (IE108.Q21) ngày 06/03/2026](https://daa.uit.edu.vn/node/38479 "Thông báo nghỉ lớp Phân tích thiết kế phần mềm (IE108.Q21) ngày 06/03/2026")
+
+[Thông báo nghỉ lớp Lập trình ứng dụng Web (NT208.Q24.ANTT.1) ngày 06/03/2026](https://daa.uit.edu.vn/node/38478)
+
+------------------------------------------------------------------------------------------------------------------
+
+T5, 05/03/2026 - 19:08
+
+CBGD : **Ngô Đức Hoàng Sơn**
+Khoa/ Bộ môn : **MMT&TT**
+Môn học : **Lập trình ứng dụng Web (NT208)**
+Lớp : **NT208.Q24.ANTT.1**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **1**
+\- Tiết kết thúc : **5**
+Thứ : **6 , ngày 06/03/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Lập trình ứng dụng Web (NT208.Q24.ANTT.1) ngày 06/03/2026](https://daa.uit.edu.vn/node/38478 "Thông báo nghỉ lớp Lập trình ứng dụng Web (NT208.Q24.ANTT.1) ngày 06/03/2026")
+
+[Thông báo nghỉ lớp Trí tuệ nhân tạo cho IoT (CE344.Q21.1) ngày 06/03/2026](https://daa.uit.edu.vn/node/38477)
+
+---------------------------------------------------------------------------------------------------------------
+
+T5, 05/03/2026 - 17:42
+
+CBGD : **Phạm Minh Quân**
+Khoa/ Bộ môn : **KTMT**
+Môn học : **Trí tuệ nhân tạo cho IoT (CE344)**
+Lớp : **CE344.Q21.1**
+Phòng :
+Thời gian :
+\- Tiết bắt đầu : **6**
+\- Tiết kết thúc : **10**
+Thứ : **6 , ngày 06/03/2026**
+
+* [Xem thêm về Thông báo nghỉ lớp Trí tuệ nhân tạo cho IoT (CE344.Q21.1) ngày 06/03/2026](https://daa.uit.edu.vn/node/38477 "Thông báo nghỉ lớp Trí tuệ nhân tạo cho IoT (CE344.Q21.1) ngày 06/03/2026")
+
+[Thông báo lịch học HT2 Kiểm chứng phần mềm (SE113.Q21.1) ngày 05/05/2026](https://daa.uit.edu.vn/node/38476)
+
+------------------------------------------------------------------------------------------------------------------
+
+T5, 05/03/2026 - 15:24
+
+CBGD : **Nguyễn Thị Thanh Trúc**
+Khoa/ Bộ môn : **CNPM**
+Môn học : **Kiểm chứng phần mềm (SE113)**
+Lớp : **SE113.Q21.1**
+Phòng : **C311**
+Thời gian :
+\- Tiết bắt đầu : **6**
+\- Tiết kết thúc : **10**
+Thứ : **3 , ngày 05/05/2026**
+
+* [Xem thêm về Thông báo lịch học HT2 Kiểm chứng phần mềm (SE113.Q21.1) ngày 05/05/2026](https://daa.uit.edu.vn/node/38476 "Thông báo lịch học HT2 Kiểm chứng phần mềm (SE113.Q21.1) ngày 05/05/2026")

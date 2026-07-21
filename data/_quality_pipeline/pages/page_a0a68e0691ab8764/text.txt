@@ -35,6 +35,5 @@ Sổ tay sinh viên
 
 [](https://ctsv.uit.edu.vn/loai-bai-viet/so-tay-sinh-vien# "Close")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/so-tay-sinh-vien#)
-[](https://ctsv.uit.edu.vn/loai-bai-viet/so-tay-sinh-vien#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/so-tay-sinh-vien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/so-tay-sinh-vien# "Play Slideshow")

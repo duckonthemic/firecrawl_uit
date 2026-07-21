@@ -8,7 +8,6 @@ test
 * 
 
 
-
 [](https://ctsv.uit.edu.vn/bai-viet/test# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/test# "Next")
 
@@ -19,17 +18,9 @@ test
 
 [](https://ctsv.uit.edu.vn/bai-viet/test# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/test#)
-[](https://ctsv.uit.edu.vn/bai-viet/test#)
 [](https://ctsv.uit.edu.vn/bai-viet/test# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/test# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-
-

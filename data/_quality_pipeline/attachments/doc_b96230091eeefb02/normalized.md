@@ -1,0 +1,28 @@
+# 01-quy_trinh_xet_cap_hb_tai_tro-ae3295f4.doc
+
+DỰ THẢO
+
+QUY TRÌNH
+XÉT CẤP HỌC BỔNG TÀI TRỢ
+Bước 1:Tiếp nhận thông tin học bổng
+
+P.CTSV tiếp nhận thông tin học bổng tài trợ từ ĐHQG.HCM hoặc các đơn vị bên ngoài;
+Bước 2: Thông báo đến SV thông tin học bổng và thời hạn nộp hồ sơ qua website phòng CTSV; forum.
+Bước 3. Hết thời hạn nộp hồ sơ chuyên viên phụ trách mảng học bổng tài trợ kiểm tra, tổng hợp hồ sơ sinh viên, Đưa danh sách SV nộp hồ sơ lên forum.
+Bước 4: Họp xét
+
+Thành phần họp xét gồm:
+· Lãnh đạo phòng Công tác sinh viên;
+· Thường trực Đoàn Thanh niên;
+
+· Thường trực Hội sinh viên;
+
+· Thư ký là: chuyên viên phụ trách học bổng của CTSV
+
+Tiêu chí, số lượng xét chọn theo yêu cầu của đơn vị tài trợ.
+Bước 5.Phòng CTSV làm tờ trình xin ý kiến Ban Giám hiệu
+Bước 6. Sau khi được BGH duyệt danh sách, phòng CTSV làm công văn đề xuất danh sách SV được nhận HB tài trợ đến ĐHQG.HCM hoặc các đơn vị bên ngoài muốn trao học bổng.
+Đưa thông tin ĐỀ CỬ lên website CTSV, forum
+Bước 7. Các đơn vị bên ngoài gửi danh sách SV được nhận HB và phòng CTSV thông báo rộng rãi đên SV biết để làm thủ tục nhận HB.
+Bước 8. P.CTSV lưu vào sổ theo dõi SV nhận HB tài trợ.
+Đưa thông tin KẾT QUẢ lên website CTSV, forum.

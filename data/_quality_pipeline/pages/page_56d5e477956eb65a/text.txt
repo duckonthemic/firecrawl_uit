@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-nhan-y-te-dot-2-dieu-chinh-thong-tin-cap
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-y-te-dot-2-dieu-chinh-thong-tin-cap-lai# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-y-te-dot-2-dieu-chinh-thong-tin-cap-lai#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-y-te-dot-2-dieu-chinh-thong-tin-cap-lai#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-y-te-dot-2-dieu-chinh-thong-tin-cap-lai# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-nhan-y-te-dot-2-dieu-chinh-thong-tin-cap-lai# "Play Slideshow")

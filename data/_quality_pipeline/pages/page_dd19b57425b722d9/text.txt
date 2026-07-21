@@ -13,6 +13,5 @@ The requested page "/bai-viet/sv-truong-dh-cong-nghe-thong-tin-tham-gia-dien-dan
 
 [](https://ctsv.uit.edu.vn/bai-viet/sv-truong-dh-cong-nghe-thong-tin-tham-gia-dien-dan-lanh-dao-tre-dong-nam# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/sv-truong-dh-cong-nghe-thong-tin-tham-gia-dien-dan-lanh-dao-tre-dong-nam#)
-[](https://ctsv.uit.edu.vn/bai-viet/sv-truong-dh-cong-nghe-thong-tin-tham-gia-dien-dan-lanh-dao-tre-dong-nam#)
 [](https://ctsv.uit.edu.vn/bai-viet/sv-truong-dh-cong-nghe-thong-tin-tham-gia-dien-dan-lanh-dao-tre-dong-nam# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/sv-truong-dh-cong-nghe-thong-tin-tham-gia-dien-dan-lanh-dao-tre-dong-nam# "Play Slideshow")

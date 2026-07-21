@@ -1,0 +1,23 @@
+Cập nhật kết quả xét miễn anh văn - Thông báo về việc xét miễn các môn anh văn 1, 2 và 3 đợt 3 trong học kỳ 2 năm học 2025-2026 cho sinh viên chính quy chương trình đào tạo đại trà và chương trình chuẩn
+==========================================================================================================================================================================================================
+
+T3, 14/04/2026 - 13:57
+
+Phòng ĐTĐH đã xét miễn các môn anh văn, sinh viên kiểm tra thông tin điểm miễn các môn anh văn trong phần kết quả học tập HK2 năm học 2025-2026.
+
+Theo quy trình xét miễn các môn anh văn, Phòng Đào tạo Đại học sẽ tiến hành kiểm tra chứng chỉ ngoại ngữ và xét miễn các môn anh văn 1, 2 và 3 đợt 3 trong học kỳ 2 năm học 2025-2026 cho sinh viên chính quy chương trình đào tạo đại trà và chương trình chuẩn như sau:
+
+\- **Quy trình xét miễn các môn anh văn:** [https://daa.uit.edu.vn/thongbao/mot-so-quy-trinh-danh-cho-sinh-vien#mien...](https://daa.uit.edu.vn/thongbao/mot-so-quy-trinh-danh-cho-sinh-vien#mienhocphanav)
+
+**\- Thời gian cập nhật chứng chỉ lên trang daa.uit.edu.vn:** từ 0g00 ngày 21/3/2026 đến 24g00 ngày 06/5/2026. (Sinh viên cập nhật chứng chỉ sau ngày này sẽ xét miễn theo thông báo của đợt sau)
+
+**Ghi chú:** theo Điều 7 của Quy định ngoại ngữ ([https://daa.uit.edu.vn/sites/daa/files/202310/828\_qd-dhcntt\_04-10-2022\_q...](https://daa.uit.edu.vn/sites/daa/files/202310/828_qd-dhcntt_04-10-2022_quy_dinh_dao_tao_ngoai_ngu_doi_voi_he_chinh_qui_khoa_2022_0_0.pdf)
+)
+
++ Khóa tuyển sinh năm 2022 và năm 2023: **sinh viên không được dùng chứng chỉ ngoại ngữ để xét miễn các môn anh văn**.
+
+**\- Cập nhật kết quả xét miễn:** sinh viên kiểm tra kết quả điểm Miễn trong bảng kết quả học tập HK2 năm học 2025-2026 (trong khoảng thời gian từ ngày 14/5/2026 đến ngày 21/5/2026, các sinh viên đã cập nhật chứng chỉ lên hệ thống sớm và được xác nhận hợp lệ có thể thấy kết quả xét miễn trước thời gian này).
+
+► **Lưu ý: sinh viên có đăng ký xét tốt nghiệp đợt 2 năm 2026 mà chưa đạt các môn anh văn phải cập nhật chứng chỉ ngoại ngữ lên hệ thống trước ngày 04/5/2026 để phòng ĐTĐH kiểm tra và cập nhật điểm miễn các môn anh văn trước.**
+
+**\# Sinh viên thuộc chương trình chất lượng cao, tài năng, tiên tiến và sinh viên ngành Công nghệ thông tin định hướng Nhật Bản vui lòng liên hệ Văn phòng các CTĐB để được hướng dẫn.**

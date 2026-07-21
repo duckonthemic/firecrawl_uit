@@ -11,16 +11,12 @@ Hiện nay, trong quá trình sử dụng ứng dụng “VssID - Bảo hiểm x
 | |
 
 Bước 1: Truy cập cổng dịch vụ công của BHXH Việt Nam tại địa chỉ: 
-. Tại đây, người dùng chọn mục “Đăng nhập”, tiếp tục tích vào mục “Cá nhân”, sau đó nhập tài khoản đăng nhập ứng dụng VssID.
 
 | |
 | --- |
 | ](https://file1.dangcongsan.vn/data/0/images/2022/08/12/dothoa/hx2.png) |
 | |
 
-Bước 2: Sau khi đã đăng nhập thành công, người dùng chọn “Thông tin tài khoản”. Tại cửa sổ này người dùng có thể cập nhật, thay đổi thông tin số điện thoại, địa chỉ email bằng cách nhấn vào biểu tượng hình chiếc bút.
-
-| |
 | --- |
 | ](https://file1.dangcongsan.vn/data/0/images/2022/08/12/dothoa/hx3.png) |
 | |
@@ -28,68 +24,3 @@ Bước 2: Sau khi đã đăng nhập thành công, người dùng chọn “Th�
 Bước 3: Sau khi điền thông tin số điện thoại, email cần cập nhật, thay đổi tại các mục tương ứng, người dùng tiếp tục nhập mã kiểm tra và chọn “Ghi nhận”, nhập mã xác thực (OTP) được gửi về địa chỉ email đã đăng ký (hoặc email được cập nhật), nhấn “Xác nhận” để hoàn tất quá trình cập nhật, thay đổi thông tin./.
 
 * 
-
-
-
-------------------
-
-* 
-(09-07-2026)
-* 
-(08-07-2026)
-* 
-(08-07-2026)
-* 
-(07-07-2026)
-* 
-(02-07-2026)
-
-Pages
------
-
-* 1
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* …
-* 
-
-* 
-
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so#)
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so#)
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-thay-doi-cap-nhat-tren-tai-khoan-ung-dung-vssid-bhxh-so# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-
-

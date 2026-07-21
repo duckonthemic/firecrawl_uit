@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-282014-thanh-lap-ban-tu-danh-gia-con
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-282014-thanh-lap-ban-tu-danh-gia-cong-tac-sinh-vien-nh-2013-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-282014-thanh-lap-ban-tu-danh-gia-cong-tac-sinh-vien-nh-2013-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-282014-thanh-lap-ban-tu-danh-gia-cong-tac-sinh-vien-nh-2013-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-282014-thanh-lap-ban-tu-danh-gia-cong-tac-sinh-vien-nh-2013-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-282014-thanh-lap-ban-tu-danh-gia-cong-tac-sinh-vien-nh-2013-2014# "Play Slideshow")

@@ -1,0 +1,26 @@
+Bổ sung danh sách môn học được sử dụng làm môn học tự chọn tự do
+================================================================
+
+T3, 20/08/2024 - 16:32
+
+Chào các bạn sinh viên từ khóa tuyển năm 2023 trở về trước!
+
+Trong ĐKHP đợt 2 (điều chỉnh) từ ngày 21/8/2024, Trường cho phép các bạn được chọn các môn học/lớp sau đây để làm môn học tự chọn tự do.
+
+1\. Môn học Kỹ năng truyền thông cho người làm CNTT \- Lớp MM001.P11 - GV: TS Lê Viết Thọ.
+
+2. Môn học Truyền thông Kỹ thuật số - Lớp MM002.P11 - GV: TS Lê Viết Thọ.
+
+3. Môn học Quản trị sự kiện \- Lớp MM003.P11 - GV: ThS Dương Nguyễn Phương Nam.
+
+4. Môn học Nguyên lý thiết kế đồ hoạ - Lớp MM004.P11 - GV: ThS Đinh Thị Thanh Trúc.
+
+Thông tin khái quát về các môn học này được công bố [tại đây](https://docs.google.com/document/d/1DNcnfbJuA7bmiATXA2brMY6xvxCiBurK/edit?usp=sharing&ouid=110253068466754509802&rtpof=true&sd=true)
+.
+
+Văn bản thông báo chính thức từ Trường [tại đây](https://drive.google.com/file/d/1DeYJpMIoJFr8YU214CL5TBH2lcQ8L29N/view?usp=sharing)
+.
+
+\----
+
+TBN

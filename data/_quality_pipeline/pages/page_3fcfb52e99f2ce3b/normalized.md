@@ -13,6 +13,5 @@ The requested page "/bai-viet/thong-bao-so-242014-nop-ho-so-dien-thu-hoi-dat-quy
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-242014-nop-ho-so-dien-thu-hoi-dat-quy-156# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-242014-nop-ho-so-dien-thu-hoi-dat-quy-156#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-242014-nop-ho-so-dien-thu-hoi-dat-quy-156#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-242014-nop-ho-so-dien-thu-hoi-dat-quy-156# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-bao-so-242014-nop-ho-so-dien-thu-hoi-dat-quy-156# "Play Slideshow")

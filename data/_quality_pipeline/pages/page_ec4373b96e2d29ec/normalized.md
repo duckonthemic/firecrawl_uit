@@ -13,6 +13,5 @@ The requested page "/bai-viet/danh-sach-sinh-vien-hoan-thanh-xac-nhan-hanh-kiem-
 
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-xac-nhan-hanh-kiem-noi-ngoai-tru-2015# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-xac-nhan-hanh-kiem-noi-ngoai-tru-2015#)
-[](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-xac-nhan-hanh-kiem-noi-ngoai-tru-2015#)
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-xac-nhan-hanh-kiem-noi-ngoai-tru-2015# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/danh-sach-sinh-vien-hoan-thanh-xac-nhan-hanh-kiem-noi-ngoai-tru-2015# "Play Slideshow")

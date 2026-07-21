@@ -13,6 +13,5 @@ The requested page "/bai-viet/quyet-dinh-so-252014-khen-thuong-sinh-vien-dat-dan
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-252014-khen-thuong-sinh-vien-dat-danh-hieu-thu-khoa-khoa-ky-thi-tuyen-sinh# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-252014-khen-thuong-sinh-vien-dat-danh-hieu-thu-khoa-khoa-ky-thi-tuyen-sinh#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-252014-khen-thuong-sinh-vien-dat-danh-hieu-thu-khoa-khoa-ky-thi-tuyen-sinh#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-252014-khen-thuong-sinh-vien-dat-danh-hieu-thu-khoa-khoa-ky-thi-tuyen-sinh# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-252014-khen-thuong-sinh-vien-dat-danh-hieu-thu-khoa-khoa-ky-thi-tuyen-sinh# "Play Slideshow")

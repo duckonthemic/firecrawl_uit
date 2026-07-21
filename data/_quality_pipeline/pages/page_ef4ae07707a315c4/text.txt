@@ -13,6 +13,5 @@ The requested page "/bai-viet/giai-thuong-cong-nghe-thong-tin-truyen-thong-tphcm
 
 [](https://ctsv.uit.edu.vn/bai-viet/giai-thuong-cong-nghe-thong-tin-truyen-thong-tphcm-lan-6# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/giai-thuong-cong-nghe-thong-tin-truyen-thong-tphcm-lan-6#)
-[](https://ctsv.uit.edu.vn/bai-viet/giai-thuong-cong-nghe-thong-tin-truyen-thong-tphcm-lan-6#)
 [](https://ctsv.uit.edu.vn/bai-viet/giai-thuong-cong-nghe-thong-tin-truyen-thong-tphcm-lan-6# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/giai-thuong-cong-nghe-thong-tin-truyen-thong-tphcm-lan-6# "Play Slideshow")

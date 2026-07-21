@@ -140,6 +140,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/danh-muc/tin-tuc-su-kien# "Close")
 [](https://ctsv.uit.edu.vn/danh-muc/tin-tuc-su-kien#)
-[](https://ctsv.uit.edu.vn/danh-muc/tin-tuc-su-kien#)
 [](https://ctsv.uit.edu.vn/danh-muc/tin-tuc-su-kien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/danh-muc/tin-tuc-su-kien# "Play Slideshow")

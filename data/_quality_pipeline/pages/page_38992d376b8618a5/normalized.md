@@ -334,7 +334,6 @@ Sinh viên phải hoàn thành các khoản nợ đúng thời hạn trong thôn
 
 1\. Quy trình gồm các bước (B) sau:
 **B1:** Sinh viên vào địa chỉ [DKHP.UIT.EDU.VN](https://dkhp.uit.edu.vn/)
-và thực hiện đăng nhập bằng tài khoản và mật khẩu như hệ thống quản lý DAA của Trường.
 
 **B2:** Sinh viên chọn “Loại” (“Đăng ký” hoặc “Hủy đăng ký”), “Mã lớp” tương ứng với loại đăng ký hoặc hủy đăng ký (chú ý: mỗi mã lớp trên một dòng).
 **B3:** Sinh viên lưu lại kết quả điều chỉnh sau mỗi bước đăng ký hoặc hủy đăng ký (xem hình minh họa)
@@ -471,12 +470,3 @@ Các file đính kèm:
 ![Microsoft Office document icon](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/msword") [mau\_16\_don\_xin\_thi\_lai.doc](https://daa.uit.edu.vn/sites/daa/files/202312/mau_16_don_xin_thi_lai.doc)
 
 ![Tập tin](https://daa.uit.edu.vn/modules/file/icons/x-office-document.png "application/vnd.openxmlformats-officedocument.wordprocessingml.document") [mau\_17\_don\_de\_chi\_chuyen\_cq-tx.docx](https://daa.uit.edu.vn/sites/daa/files/202605/mau_17_don_de_chi_chuyen_cq-tx.docx)
-
-------------------
-
-* [Hướng dẫn tra cứu và xác minh văn bằng tốt nghiệp đại học](https://daa.uit.edu.vn/thongbao/huong-dan-tra-cuu-va-xac-minh-van-bang-tot-nghiep-dai-hoc)
-(13-11-2014)
-* [Quy trình tạm thời về tổ chức tuyển sinh, đào tạo, kiểm tra, thi và cấp bằng tốt nghiệp đối với hệ TXQM](https://daa.uit.edu.vn/thongbao/quy-trinh-tam-thoi-ve-chuc-tuyen-sinh-dao-tao-kiem-tra-thi-va-cap-bang-tot-nghiep-doi-voi)
-(07-11-2013)
-* [QUY TRÌNH BÁO NGHỈ & DẠY BÙ CỦA GIẢNG VIÊN](https://daa.uit.edu.vn/thongbao/quy-trinh-bao-nghi-day-bu-cua-giang-vien)
-(04-04-2013)

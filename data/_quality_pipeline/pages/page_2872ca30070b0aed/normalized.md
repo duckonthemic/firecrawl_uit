@@ -11,7 +11,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam&title=K%E1%BA%BF%20ho%E1%BA%A1ch%20s%E1%BB%91%2052%20-%20Tu%E1%BA%A7n%20sinh%20ho%E1%BA%A1t%20c%C3%B4ng%20d%C3%A2n%20sinh%20vi%C3%AAn%20%C4%91%E1%BA%A7u%20n%C4%83m)
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Next")
@@ -23,18 +22,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-52-tuan-sinh-hoat-cong-dan-sinh-vien-dau-nam#addtoany "Show all")

@@ -45,7 +45,6 @@ Danh mục các minh chứng cho Khu vực ưu tiên, Đối tượng ưu tiên 
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fhuong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien&title=H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20H%E1%BB%93%20s%C6%A1%20nh%E1%BA%ADp%20h%E1%BB%8Dc%20-%206.%20Gi%E1%BA%A5y%20t%E1%BB%9D%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20%C4%90%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20%C6%B0u%20ti%C3%AAn%2C%20Khu%20v%E1%BB%B1c%20%C6%B0u%20ti%C3%AAn)
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien# "Next")
@@ -57,18 +56,9 @@ Danh mục các minh chứng cho Khu vực ưu tiên, Đối tượng ưu tiên 
 
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien#)
-[](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien#)
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/huong-dan-ho-so-nhap-hoc-6-giay-chung-nhan-doi-tuong-uu-tien-khu-vuc-uu-tien#addtoany "Show all")

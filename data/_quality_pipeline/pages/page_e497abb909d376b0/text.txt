@@ -13,6 +13,5 @@ The requested page "/bai-viet/ke-hoach-so-692014-chuc-le-tot-nghiep-dot-2-2014" 
 
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-692014-chuc-le-tot-nghiep-dot-2-2014# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-692014-chuc-le-tot-nghiep-dot-2-2014#)
-[](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-692014-chuc-le-tot-nghiep-dot-2-2014#)
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-692014-chuc-le-tot-nghiep-dot-2-2014# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ke-hoach-so-692014-chuc-le-tot-nghiep-dot-2-2014# "Play Slideshow")

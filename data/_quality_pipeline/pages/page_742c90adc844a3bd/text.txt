@@ -7,8 +7,6 @@ Phòng Công tác Sinh viên tổng hợp các sự cố khi cài đặt ứng d
 
 \- Sinh viên **BẮT BUỘC** phải chọn cơ quan BHXH chấp nhận: BHXH Tp Hồ Chí Minh. Nếu đã lỡ chọn là BHXH Quận Thủ Đức => thì đợi cơ quan BHXH Quận Thủ Đức duyệt bài sau.
 
-\- Sinh viên khi đã cài đặt thành công nhưng chưa được cấp mật khẩu cũng như tên đăng nhập về số điện thoại của mình => Sinh viên kiểm tra số điện thoại kê khai có đúng không=> Nếu đã kê khai đúng số điện thoại mà vẫn chưa được cấp mật khẩu thì sinh viên chọn bấm quên mật khẩu, hệ thống sẽ gửi mật qua tin nhắn điện thoại.
-
 Sau khi hoàn thành tờ khai điện tử, sinh viên nhấn **“Ghi nhận”** để hoàn thành đăng ký. Có một số trường hợp xảy ra như sau:
 
 > \+ Với điện thoại sử dụng hệ điều hành **IOS**: **_Tờ khai sẽ xuất hiện trên màn hình điện thoại_**, sinh viên tải về và xuất in.
@@ -22,68 +20,3 @@ Sau khi hoàn thành tờ khai điện tử, sinh viên nhấn **“Ghi nhận
 \- Hiện nay số lượng cài đặt rất lớn nên các bạn đợi thời gian để cán bộ BHXH Thành phồ HCM duyệt nữa nha.
 
 * 
-
-
-
-------------------
-
-* 
-(09-07-2026)
-* 
-(08-07-2026)
-* 
-(08-07-2026)
-* 
-(07-07-2026)
-* 
-(02-07-2026)
-
-Pages
------
-
-* 1
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* 
-
-* …
-* 
-
-* 
-
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid#)
-
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Previous")
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Next")
-
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Close")
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid#)
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid#)
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Pause Slideshow")
-[](https://ctsv.uit.edu.vn/bai-viet/cac-su-co-khi-cai-dat-ung-dung-vssid# "Play Slideshow")
-
-Copy link
-
-✓
-
-Thanks for sharing!
-
-Find any service
-
-
-

@@ -13,7 +13,6 @@ Tập tin đính kèm: [ND49CP.pdf](https://ctsv.uit.edu.vn/sites/default/files/
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fthong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh&title=Th%C3%B4ng%20t%C6%B0%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20MGHP%20c%E1%BB%A7a%20B%E1%BB%99%20GD%C4%90T-B%E1%BB%99%20TC-B%E1%BB%99%20TTNXH)
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh# "Next")
@@ -25,18 +24,9 @@ Tập tin đính kèm: [ND49CP.pdf](https://ctsv.uit.edu.vn/sites/default/files/
 
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh#)
-[](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh#)
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/thong-tu-huong-dan-mghp-cua-bo-gddt-bo-tc-bo-ttnxh#addtoany "Show all")

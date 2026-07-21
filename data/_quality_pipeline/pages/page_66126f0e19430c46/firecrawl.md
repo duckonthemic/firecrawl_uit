@@ -1,0 +1,79 @@
+[Skip to content](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021#main)
+ [Skip to navigation](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021#main-nav)
+
+THÔNG BÁO LỊCH THI - KHÓA 2021
+==============================
+
+T2, 16/05/2022 - 08:37
+
+Chào các bạn!
+
+Phòng Đào tạo Đại học thông báo lịch thi môn Nhập môn lập trình, các bạn kiểm tra danh sách đính kèm và lịch thi để tham gia đúng giờ đúng phòng nhé.
+
+**Ca 2: 9h30**
+
+Trân trọng.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+|     |     |     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |           
+| LỊCH THI CUỐI KỲ 2 NĂM HỌC 2021-2022 |     |     |     |     |     |     |     |     |     |     |     |     |
+| (Văn bằng 2 chính quy - Khóa 2021) |     |     |     |     |     |     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |
+| STT | Tên MH | Mã lớp | Giảng Viên LT | Khoá học | Ngày thi | Thứ | Ca Thi | Phòng Thi | Số SV | Hệ Đào tạo | Học kỳ | Năm học |
+| 1   | Nhập môn lập trình | IT001.M21.VB2 | Phạm Thế Sơn | 2021 | 21/05/2022 | 7   | 2   | B1.02 | 20  | VB2CQ | 2   | 2021 |
+
+Các file đính kèm: 
+
+ ![Tập tin](https://daa.uit.edu.vn/modules/file/icons/x-office-spreadsheet.png "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet") [it001.m21.vb2\_22-05-091.xlsx](https://daa.uit.edu.vn/sites/daa/files/202205/it001.m21.vb2_22-05-091.xlsx)
+
+Bài viết liên quan
+------------------
+
+*   [Thông báo về việc thu học phí học kỳ hè, NH 2025-2026 trình độ ĐTĐH chính quy](https://daa.uit.edu.vn/thong-bao-ve-viec-thu-hoc-phi-hoc-ky-he-nh-2025-2026-trinh-do-dtdh-chinh-quy)
+     (21-07-2026)
+*   [Thông báo kế hoạch ĐKHP HK1 năm học 2026-2027](https://daa.uit.edu.vn/thong-bao-ke-hoach-dkhp-hk1-nam-hoc-2026-2027)
+     (16-07-2026)
+*   [Thông báo nhận đơn nhập học lại, bảo lưu, chuyển ngành, song ngành, thôi học HK 1 2026-2027](https://daa.uit.edu.vn/thong-bao-nhan-don-nhap-hoc-lai-bao-luu-chuyen-nganh-song-nganh-thoi-hoc-hk-1-2026-2027)
+     (15-07-2026)
+*   [THÔNG BÁO VỀ VIỆC CHUYỂN ĐỔI CỔNG THÔNG TIN SINH VIÊN ( portal.uit.edu.vn)](https://daa.uit.edu.vn/thong-bao-ve-viec-chuyen-doi-cong-thong-tin-sinh-vien-portaluiteduvn)
+     (10-07-2026)
+*   [Thông báo nghỉ lớp Cấu trúc dữ liệu và giải thuật (IT003.Q21.VB2) ngày 04/07/2026](https://daa.uit.edu.vn/node/39703)
+     (01-07-2026)
+
+Trang
+-----
+
+*   1
+*   [2](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=1 "Đến trang 2")
+    
+*   [3](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=2 "Đến trang 3")
+    
+*   [4](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=3 "Đến trang 4")
+    
+*   [5](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=4 "Đến trang 5")
+    
+*   [6](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=5 "Đến trang 6")
+    
+*   [7](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=6 "Đến trang 7")
+    
+*   [8](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=7 "Đến trang 8")
+    
+*   [9](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=8 "Đến trang 9")
+    
+*   …
+*   [sau ›](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=1 "Đến trang kế sau")
+    
+*   [cuối »](https://daa.uit.edu.vn/thongbao/thong-bao-lich-thi-khoa-2021?page=4401 "Đến trang cuối cùng")

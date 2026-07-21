@@ -11,7 +11,6 @@ File đính kèm:
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fquyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan&title=Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%201383%2F2025%20-%20T%E1%BA%B7ng%20gi%E1%BA%A5y%20khen%20c%C3%A1%20nh%C3%A2n%20%C4%91%E1%BA%A1t%20th%C3%A0nh%20t%C3%ADch%20xu%E1%BA%A5t%20s%E1%BA%AFc%20trong%20c%C3%B4ng%20t%C3%A1c%20%C4%90o%C3%A0n%20v%C3%A0%20phong%20tr%C3%A0o%20thanh%20ni%C3%AAn%20n%C4%83m%20h%E1%BB%8Dc%202024%20-%202025)
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan# "Next")
@@ -23,18 +22,9 @@ File đính kèm:
 
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan#)
-[](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan#)
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/quyet-dinh-so-13832025-tang-giay-khen-ca-nhan-dat-thanh-tich-xuat-sac-trong-cong-tac-doan#addtoany "Show all")

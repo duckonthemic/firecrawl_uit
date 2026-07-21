@@ -127,6 +127,5 @@ Pages
 
 [](https://ctsv.uit.edu.vn/loai-bai-viet/suc-khoe-tam-ly# "Close")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/suc-khoe-tam-ly#)
-[](https://ctsv.uit.edu.vn/loai-bai-viet/suc-khoe-tam-ly#)
 [](https://ctsv.uit.edu.vn/loai-bai-viet/suc-khoe-tam-ly# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/loai-bai-viet/suc-khoe-tam-ly# "Play Slideshow")

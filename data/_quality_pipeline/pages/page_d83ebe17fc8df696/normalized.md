@@ -19,7 +19,6 @@ Thông tin Ban liên lạc
 
 * [Facebook](https://ctsv.uit.edu.vn/#facebook)
 [Twitter](https://ctsv.uit.edu.vn/#twitter)
-[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fctsv.uit.edu.vn%2Fbai-viet%2Fban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem&title=Ban%20li%C3%AAn%20l%E1%BA%A1c%20C%E1%BB%B1u%20sinh%20vi%C3%AAn%20Khoa%20C%C3%B4ng%20ngh%E1%BB%87%20Ph%E1%BA%A7n%20M%E1%BB%81m)
 
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem# "Previous")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem# "Next")
@@ -31,18 +30,9 @@ Thông tin Ban liên lạc
 
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem# "Close")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem#)
-[](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem#)
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem# "Pause Slideshow")
 [](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem# "Play Slideshow")
 
 Copy link
 
 ✓
-
-Thanks for sharing!
-
-Find any service
-
-[AddToAny](https://www.addtoany.com/ "Share Buttons")
-
-[More…](https://ctsv.uit.edu.vn/bai-viet/ban-lien-lac-cuu-sinh-vien-khoa-cong-nghe-phan-mem#addtoany "Show all")
